@@ -6,13 +6,7 @@ import plotly.express as px
 
 with open('illinois-with-county-boundaries_1097.geojson') as resp:
     state_outline = json.load(resp)
-# csv=csv.where(csv['state']=='Illinois')
-# csv.dropna(inplace=True)
-# csv.sort_values('county',inplace=True)
-# csv.reset_index(inplace=True)
-# csv.drop(columns='index',inplace=True)
-# csv.to_csv('processed_illinois.csv')
-csv = pd.read_csv('processed_illinois.csv', index_col=0)
+csv = pd.read_csv('processed_illinois2023.csv', index_col=0)
 # customers out per county total
 columns = ['County', 'Customers Lost']
 list_of_counties = list((csv['fips_code'].drop_duplicates()))
