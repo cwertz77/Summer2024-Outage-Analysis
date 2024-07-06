@@ -1,0 +1,671 @@
+Utility Characteristics,,,,,Number of,,,,,Types of Program,,,,,,,,,,,,,,,,,,,
+,,,,,Customers Enrolled,,,,,Time of Use Pricing,,,,Real Time Pricing,,,,Variable Peak Pricing,,,,Critical Peak Pricing,,,,Critical Peak Rebate,,,
+Data Year,Utility Number,Utility Name,State,BA Code,Residential,Commercial,Industrial,Transportation,Total,Residential,Commercial,Industrial,Transportation,Residential,Commercial,Industrial,Transportation,Residential,Commercial,Industrial,Transportation,Residential,Commercial,Industrial,Transportation,Residential,Commercial,Industrial,Transportation
+2018,55,City of Aberdeen - (MS),MS,TVA,0,19,1,0,20,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,84,A & N Electric Coop,VA,PJM,2,5,.,.,7,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,97,Adams Electric Coop,IL,MISO,42,5,.,.,47,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,108,Adams-Columbia Electric Coop,WI,MISO,835,939,9,.,"1,783",Y,Y,Y,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,N,N,N,N
+2018,162,Aiken Electric Coop Inc,SC,SC,2,53,.,.,55,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,195,Alabama Power Co,AL,SOCO,642,"4,014","1,100",.,"5,756",Y,Y,Y,N,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,213,Alaska Electric Light&Power Co,AK,NA,43,4,0,.,47,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,240,Albemarle Electric Member Corp,NC,PJM,7,11,.,.,18,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,241,Albertville Municipal Utilities Board,AL,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,276,Alcorn County Elec Power Assn,MS,TVA,0,1,4,0,5,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,307,Algoma Utility Comm,WI,MISO,3,14,1,0,18,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,407,Altamaha Electric Member Corp,GA,SOCO,.,.,199,.,199,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,571,City of Amory,MS,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,590,City of Anaheim - (CA),CA,CISO,.,51,12,.,63,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,636,City of Anderson - (IN),IN,PJM,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,691,City of Anoka,MN,MISO,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,719,Town of Apex- (NC),NC,CPLE,47,85,0,0,132,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,727,Appalachian Electric Coop,TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,733,Appalachian Power Co,VA,PJM,"1,198",525,22,0,"1,745",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,733,Appalachian Power Co,WV,PJM,269,728,10,0,"1,007",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,803,Arizona Public Service Co,AZ,AZPS,"614,180",.,.,.,"614,180",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,814,Entergy Arkansas LLC,AR,MISO,70,406,269,.,745,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,887,"Arrowhead Electric Coop, Inc",MN,MISO,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,944,City of Athens - (AL),AL,TVA,0,3,3,0,6,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,947,Athens Utility Board,TN,TVA,0,0,5,0,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,970,Homefield Energy,IL,MISO,0,0,14,0,14,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,994,City of Auburn - (IN),IN,PJM,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1009,City of Austin - (MN),MN,MISO,.,9,.,.,9,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1015,Austin Energy,TX,ERCO,16,31,5,.,52,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1036,Town of Ayden - (NC),NC,CPLE,.,.,1,.,1,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,1050,City of Azusa,CA,CISO,123,4,31,.,158,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1167,Baltimore Gas & Electric Co,MD,PJM,"1,115,503",.,.,.,"1,115,503",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,1175,"Bandera Electric Coop, Inc",TX,ERCO,"1,199",.,.,.,"1,199",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1181,Village of Bangor - (WI),WI,MISO,.,1,2,.,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1192,City of Banning - (CA),CA,CISO,0,0,12,0,12,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1283,Bartholomew County Rural E M C,IN,MISO,262,.,.,.,262,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1366,City of Bay City - (MI),MI,MISO,.,23,14,.,37,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1529,"Beltrami Electric Coop, Inc",MN,MISO,.,27,.,.,27,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,1578,Benton County,TN,TVA,"8,472","1,696",1,0,"10,169",Y,X,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1591,"Big Country Electric Coop, Inc",TX,ERCO,.,.,14,.,14,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1613,Berkeley Electric Coop Inc,SC,SC,0,11,2,0,13,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1675,Big Horn Rural Electric Co,WY,WACM,1,2,.,.,3,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1769,"Black Hills Electric Coop, Inc",SD,SWPP,"5,407","1,020",86,0,"6,513",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1776,City of Black River Falls,WI,MISO,0,17,0,0,17,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1883,Blue Earth Light & Water,MN,MISO,4,.,.,.,4,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1884,BENCO Electric Cooperative,MN,MISO,18,.,2,.,20,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1889,Blue Ridge Elec Member Corp - (NC),NC,DUK,47,11,.,.,58,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,1997,City of Boscobel - (WI),WI,MISO,0,7,1,0,8,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2008,City of Boulder City - (NV),NV,WALC,0,2,0,0,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2056,City of Bowling Green - (KY),KY,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2192,Bremen Electric Light & Power Co,IN,MISO,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2212,"Broad River Electric Coop, Inc",NC,DUK,5,.,.,.,5,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2247,City of Bristol - (TN),TN,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2248,Bristol Virginia Utilities,VA,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2273,Brodhead Water & Lighting Comm,WI,MISO,1,2,2,0,5,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2411,City of Brownsville,TN,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2439,City of Bryan - (OH),OH,PJM,.,4,7,.,11,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2442,City of Bryan - (TX),TX,ERCO,.,23,.,.,23,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2507,City of Burbank Water and Power,CA,LDWP,249,"6,829",.,.,"7,078",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2548,City of Burlington Electric - (VT),VT,ISNE,38,15,9,0,62,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2641,"Butler Rural El Coop Assn, Inc - (KS)",KS,SWPP,"6,662",780,8,.,"7,450",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,2651,Butler Rural Electric Coop Inc - (OH),OH,PJM,0,1,2,0,3,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N
+2018,2830,Calpine Power America LLC,ME,ISNE,0,0,1,0,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2830,Calpine Power America LLC,TX,ERCO,0,0,1,0,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2849,Central Electric Power Assn - (MS),MS,TVA,0,1,5,0,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2960,"Caney Fork Electric Coop, Inc",TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,2998,"Carbon Power & Light, Inc",WY,WACM,44,73,4,.,121,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3046,Duke Energy Progress - (NC),NC,CPLE,"22,600","25,815","1,255",0,"49,670",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3046,Duke Energy Progress - (NC),SC,CPLE,"1,574","3,542",191,0,"5,307",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3075,Carroll County - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3208,Cedarburg Light & Water Comm,WI,MISO,37,29,2,0,68,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3222,Central Alabama Electric Coop,AL,AEC,.,.,2,.,2,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,3226,"Central Rural Electric Cooperative, Inc",OK,AECI,.,12,.,.,12,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3245,"Central Florida Elec Coop, Inc",FL,SEC,1,3,236,.,240,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3248,Central Georgia El Member Corp,GA,SOCO,7,0,4,0,11,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3249,Central Hudson Gas & Elec Corp,NY,NYIS,956,244,57,0,"1,257",Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3250,Central Electric Membership Corp. - (NC),NC,CPLE,3,.,.,.,3,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3266,Central Maine Power Co,ME,ISNE,2,849,142,0,993,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3273,"Central New Mexico El Coop, Inc",NM,PNM,"2,082",11,.,.,"2,093",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3293,Central Wisconsin Elec Coop,WI,MISO,74,44,.,.,118,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3400,City of Chaska - (MN),MN,MISO,9,.,.,.,9,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3408,City of Chattanooga - (TN),GA,TVA,6,0,0,0,6,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3408,City of Chattanooga - (TN),TN,TVA,88,19,51,0,158,Y,X,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3413,PUD No 1 of Chelan County,WA,CHPD,.,.,25,.,25,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3426,Cherokee Electric Coop,AL,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3498,Chippewa Valley Electric Coop,WI,MISO,0,10,24,0,34,N,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,3502,"Choctawhatche Elec Coop, Inc",FL,AEC,88,0,0,0,88,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3503,"Choptank Electric Coop, Inc",MD,PJM,0,213,9,.,222,N,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,3542,Duke Energy Ohio Inc,OH,PJM,17,"1,144",110,.,"1,271",Y,Y,Y,N,N,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N
+2018,3701,Clark Electric Coop - (WI),WI,MISO,229,.,.,.,229,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3704,City of Clarksville - (TN),TN,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3722,Clarke Electric Coop Inc - (IA),IA,MISO,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3755,Cleveland Electric Illum Co,OH,PJM,5,0,0,0,5,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,3758,City of Cleveland - (TN),TN,TVA,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3812,City of Clinton - (TN),TN,TVA,0,0,10,0,10,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3814,City of Clintonville - (WI),WI,MISO,10,3,12,0,25,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3841,Coast Electric Power Assn,MS,SOCO,"18,220",153,2,.,"18,375",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3843,Coastal Electric Member Corp,GA,SOCO,.,.,1,.,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3915,Coldwater Board of Public Util,MI,MISO,.,182,64,.,246,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3916,Cobb Electric Membership Corp,GA,SOCO,189,"1,766",.,.,"1,955",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,3989,City of Colorado Springs - (CO),CO,WACM,28,"1,768",169,0,"1,965",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4003,City of Colton - (CA),CA,CISO,0,0,86,.,86,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4045,City of Columbia - (MO),MO,MISO,.,1,8,.,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4073,City of Columbus - (WI),WI,MISO,4,11,2,0,17,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4110,Commonwealth Edison Co,IL,PJM,"295,064","8,936",126,0,"304,126",N,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,4147,Town of Concord - (MA),MA,ISNE,45,.,.,.,45,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4176,Connecticut Light & Power Co,CT,ISNE,426,"2,382",659,2,"3,469",Y,Y,Y,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N
+2018,4226,Consolidated Edison Co-NY Inc,NY,NYIS,"45,000","1,541",.,.,"46,541",Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4254,Consumers Energy Co,MI,MISO,"24,417",255,494,0,"25,166",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,Y,N,Y,N,N,N
+2018,4294,City of Cookeville - (TN),TN,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4327,Coosa Valley Electric Coop Inc,AL,AEC,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4430,"Covington Electric Coop, Inc",AL,AEC,.,6,.,.,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4432,Coweta-Fayette El Member Corp,GA,SOCO,34,3,.,.,37,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4433,City of Covington - (GA),GA,SOCO,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4437,City of Covington - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4471,Craig-Botetourt Electric Coop,VA,PJM,1,.,.,.,1,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4538,Crisp County Power Comm,GA,SOCO,15,.,2,.,17,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4577,Crow Wing Cooperative Power & Light Comp,MN,MISO,.,3,.,.,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4604,City of Crystal Falls,MI,MISO,0,5,0,0,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4607,City of Cuba City,WI,MISO,0,6,0,0,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4618,"Cullman Electric Coop, Inc",AL,TVA,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4622,"Cumberland Valley Electric, Inc.",KY,PJM,12,.,.,.,12,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4624,Cumberland Elec Member Corp,TN,TVA,0,0,12,0,12,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4675,Cuivre River Electric Coop Inc,MO,AECI,.,24,.,.,24,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,4704,"DS&O Electric Cooperative, Inc.",KS,SWPP,"7,149",127,4,.,"7,280",N,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,4848,Daviess Martin County R E M C,IN,MISO,35,.,.,.,35,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4920,City of Dayton - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4958,Decatur Utilities,AL,TVA,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,4960,Decatur County Rural E M C,IN,MISO,1,.,.,.,1,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5027,Delmarva Power,DE,PJM,"262,100","14,300",.,.,"276,400",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N
+2018,5027,Delmarva Power,MD,PJM,"175,400",.,.,.,"175,400",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,5063,City of Denton - (TX),TX,ERCO,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5070,Delaware Electric Cooperative,DE,PJM,.,45,.,.,45,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5078,"Denton County Elec Coop, Inc",TX,ERCO,"1,417",163,74,.,"1,654",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5086,Delta Montrose Electric Assn,CO,WACM,"1,911",19,.,.,"1,930",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5109,DTE Electric Company,MI,MISO,"5,375",1,.,.,"5,376",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N
+2018,5111,City of Detroit Lakes - (MN),MN,MISO,.,1,.,.,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5148,City of Dickson,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5325,City of Douglas,GA,SOCO,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5327,Douglas Electric Coop - (OR),OR,BPAT,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5399,Duck River Elec Member Corp,TN,TVA,4,0,4,0,8,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5416,"Duke Energy Carolinas, LLC",NC,DUK,"1,966","16,460","1,108",.,"19,534",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5416,"Duke Energy Carolinas, LLC",SC,DUK,305,"5,101",513,.,"5,919",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5487,Duquesne Light Co,PA,PJM,.,55,20,.,75,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5509,City of Dyersburg,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5551,City of Eagle River - (WI),WI,MISO,0,8,0,0,8,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5578,East Mississippi Elec Pwr Assn,MS,TVA,0,90,0,0,90,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5605,Eastern Iowa Light & Power Coop,IA,MISO,"21,900","1,928",16,.,"23,844",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5632,Eau Claire Electric Coop,WI,MISO,6,11,8,0,25,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,5701,El Paso Electric Co,NM,EPE,22,105,8,0,135,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5701,El Paso Electric Co,TX,EPE,19,717,40,0,776,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5860,Empire District Electric Co,MO,SWPP,.,.,3,.,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,5953,"Entergy Solutions, Ltd",MA,ISNE,.,.,1,.,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5961,Town of Erwin - (TN),TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5964,"Escambia River Elec Coop, Inc",FL,AEC,.,12,.,.,12,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,5997,Town of Estes Park,CO,PSCO,306,29,.,.,335,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6008,City of Etowah,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6043,City of Evansville,WI,MISO,3,16,1,0,20,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6112,"Farmers Electric Coop, Inc - (IA)",IA,MISO,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,6182,"Farmers Electric Coop, Inc - (TX)",TX,ERCO,.,4,.,.,4,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6234,City of Fayetteville,TN,TVA,0,0,3,0,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6235,Fayetteville Public Works Commission,NC,CPLE,0,0,8,0,8,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6374,Fitchburg Gas & Elec Light Co,MA,ISNE,.,.,30,.,30,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6395,Flathead Electric Coop Inc,MT,BPAT,.,28,93,.,121,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6411,Flint Electric Membership Corp,GA,SOCO,.,159,.,.,159,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,6422,City of Florence - (AL),AL,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6424,Florence Utility Comm,WI,MISO,0,3,0,0,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6431,"Flint Hills Rural E C A, Inc",KS,SWPP,481,28,15,.,524,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,Y,Y,N,N
+2018,6455,"Duke Energy Florida, LLC",FL,FPC,27,"14,658",451,0,"15,136",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6457,Florida Public Utilities Co,FL,JEA,6,1,0,0,7,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6604,City of Fort Collins - (CO),CO,PSCO,"65,231",0,0,0,"65,231",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6608,Fort Loudoun Electric Coop,TN,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6612,Fort Payne Improvement Authority,AL,TVA,0,1,0,0,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6638,City of Fountain,CO,PSCO,.,37,.,.,37,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6640,Four County Elec Member Corp,NC,CPLE,12,.,.,.,12,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6641,4-County Electric Power Assn,MS,TVA,0,959,5,0,964,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6717,Franklin Electric Coop - (AL),AL,TVA,0,1,3,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6718,City of Franklin - (KY),KY,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6782,Freeborn-Mower Coop Services,MN,MISO,3,42,7,.,52,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,6909,Gainesville Regional Utilities,FL,GVL,.,17,.,.,17,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6923,City of Gallatin - (TN),TN,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6930,City of Gallup - (NM),NM,PNM,.,1,1,.,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,6957,"Garkane Energy Coop, Inc",UT,WACM,438,11,.,.,449,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7027,City of Gastonia - (NC),NC,DUK,0,37,12,0,49,N,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,7096,City of Geneva- (IL),IL,PJM,.,.,5,.,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7140,Georgia Power Co,GA,SOCO,"17,998","13,811","1,668",1,"33,478",Y,Y,Y,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7174,Gibson Electric Members Corp,KY,TVA,0,87,0,0,87,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7174,Gibson Electric Members Corp,TN,TVA,0,369,2,0,371,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7264,"Glades Electric Coop, Inc",FL,SEC,3,"3,421",21,.,"3,445",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,N
+2018,7270,City of Glasgow - (KY),KY,TVA,"5,539","1,870",2,0,"7,411",Y,X,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7279,"NextEra Energy Services, LLC",MA,ISNE,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7279,"NextEra Energy Services, LLC",OH,PJM,.,2,.,.,2,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7279,"NextEra Energy Services, LLC",PA,PJM,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7279,"NextEra Energy Services, LLC",TX,ERCO,.,16,.,.,16,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7294,City of Glendale - (CA),CA,LDWP,25,293,11,.,329,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7411,City of Gothenburg - (NE),NE,SWPP,.,.,4,.,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7483,City of Grand Haven - (MI),MI,MISO,.,.,52,.,52,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7563,Grand Valley Power,CO,PSCO,4,28,.,.,32,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7601,Green Mountain Power Corp,VT,ISNE,"5,338","3,608",37,0,"8,983",Y,Y,Y,N,N,Y,Y,N,N,Y,Y,N,Y,Y,Y,N,N,N,N,N
+2018,7625,City of Greeneville - (TN),TN,TVA,0,0,7,0,7,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7634,City of Greenville - (TX),TX,ERCO,0,94,.,.,94,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N
+2018,7752,Guadalupe Valley Elec Coop Inc,TX,ERCO,.,35,72,.,107,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7801,Gulf Power Co,FL,SOCO,"20,116","1,020",91,0,"21,227",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,7826,City of Gunnison - (CO),CO,WACM,19,1,.,.,20,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,7827,Guntersville Electric Board,AL,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8122,Harlan Municipal Utilities - (IA),IA,MISO,.,.,4,.,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8147,City of Harriman - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8179,Harrison County Rural E M C,IN,MISO,161,.,.,.,161,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8212,Hartford Electric,WI,MISO,1,26,6,0,33,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8226,City of Hartselle,AL,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8287,Hawaii Electric Light Co Inc,HI,NA,473,40,1,0,514,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8319,Heartland Power Coop,IA,MISO,5,44,7,.,56,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8333,Haywood Electric Member Corp,NC,DUK,42,16,1,.,59,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8348,City of Healdsburg - (CA),CA,CISO,55,7,1,0,63,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8447,Hendricks County Rural E M C,IN,MISO,"31,621",664,1,.,"32,286",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,8566,High Plains Power Inc,WY,WACM,459,7,0,0,466,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8570,Highline Electric Assn,CO,WACM,7,.,.,.,7,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8571,Town of High Point,NC,DUK,0,169,27,.,196,N,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y,N
+2018,8699,Inland Power & Light Company,WA,BPAT,.,.,163,.,163,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8723,City of Holland,MI,MISO,.,1,5,.,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8764,"Holston Electric Coop, Inc",TN,TVA,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8773,"Holy Cross Electric Assn, Inc",CO,PSCO,69,14,.,.,83,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8846,City of Hopkinsville,KY,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,8911,Howard Electric Coop,MO,AECI,"3,399",.,.,.,"3,399",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9023,City of Humboldt,TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9087,Town of Huntersville - (NC),NC,DUK,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9094,City of Huntsville - (AL),AL,TVA,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9124,Hustisford Utilities,WI,MISO,5,10,0,0,15,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9191,Idaho Power Co,ID,IPCO,"1,128",246,110,0,"1,484",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9191,Idaho Power Co,OR,IPCO,0,6,7,0,13,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9273,Indianapolis Power & Light Co,IN,MISO,106,5,4,0,115,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9275,Indianola Municipal Utilities,IA,MISO,32,.,.,.,32,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9324,Indiana Michigan Power Co,IN,PJM,"13,617","2,116",64,0,"15,797",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9324,Indiana Michigan Power Co,MI,PJM,"6,031",419,71,0,"6,521",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9336,Intermountain Rural Elec Assn,CO,PSCO,80,62,40,0,182,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9417,Interstate Power and Light Co,IA,MISO,"14,948","5,425",308,0,"20,681",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9576,Jackson County Rural E M C - (IN),IN,MISO,24,1,.,.,25,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9601,Jackson Electric Member Corp - (GA),GA,SOCO,393,138,.,.,531,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9612,City of Jackson - (TN),TN,TVA,0,2,30,0,32,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9617,JEA,FL,JEA,.,181,47,.,228,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,9682,"Jefferson Davis Elec Coop, Inc",LA,MISO,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9690,Jefferson Utilities,WI,MISO,1,20,1,0,22,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9699,"Jemez Mountains Elec Coop, Inc",NM,WALC,257,30,0,0,287,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9726,Jersey Central Power & Lt Co,NJ,PJM,"15,739",312,75,1,"16,127",Y,Y,Y,N,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9739,Joe Wheeler Elec Member Corp,AL,TVA,0,2,20,0,22,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9750,"Jo-Carroll Energy, Inc",IL,MISO,.,.,16,.,16,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9777,Johnson City - (TN),TN,TVA,0,7,10,0,17,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,9778,Johnson County Rural E M C,IN,MISO,12,34,2,.,48,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,9936,Juneau Utility Comm,WI,MISO,0,7,2,0,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10000,Kansas City Power & Light Co,KS,SWPP,47,.,.,.,47,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10000,Kansas City Power & Light Co,MO,SWPP,29,3,.,.,32,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10005,Kansas Gas & Electric Co,KS,SWPP,10,276,45,.,331,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N
+2018,10056,City of Kaukauna,WI,MISO,28,83,12,0,123,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10171,Kentucky Utilities Co,KY,LGEE,48,566,416,0,"1,030",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N
+2018,10171,Kentucky Utilities Co,VA,LGEE,0,12,8,0,20,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N
+2018,10331,Kingsport Power Co,TN,PJM,27,5,0,0,32,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10376,Kissimmee Utility Authority,FL,FMPP,0,55,0,0,55,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10378,"Kit Carson Electric Coop, Inc",NM,PNM,342,92,.,.,434,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10421,Knoxville Utilities Board,TN,TVA,0,14,7,0,21,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10448,Kosciusko County Rural E M C,IN,MISO,.,.,3,.,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10539,"La Plata Electric Assn, Inc",CO,WACM,"3,417",224,10,0,"3,651",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10550,McCook Public Power District,NE,SWPP,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10579,City of LaFollette,TN,TVA,0,1,0,0,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10599,"Lake Region Electric Coop, Inc - (OK)",OK,AECI,0,3,1,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10605,Lake Mills Light & Water,WI,MISO,0,16,0,0,16,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10618,Lake Region Electric Cooperative - (MN),MN,MISO,3,.,.,.,3,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10623,City of Lakeland - (FL),FL,FMPP,"2,096",37,18,.,"2,151",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10768,"Laurens Electric Coop, Inc",SC,DUK,5,46,.,.,51,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10770,City of Laurinburg - (NC),NC,CPLE,4,.,.,.,4,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10799,City of Lawrenceburg,TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10814,City of Le Sueur - (MN),MN,MISO,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10960,City of Lewisburg - (TN),TN,TVA,0,0,3,0,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,10968,City of Lexington - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11018,Lincoln Electric System,NE,SWPP,0,6,0,0,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11053,Linn County REC,IA,MISO,30,175,8,.,213,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11085,Town of Littleton - (MA),MA,ISNE,.,.,34,.,34,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11124,City of Lodi - (CA),CA,CISO,.,.,25,.,25,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11125,City of Lodi - (WI),WI,MISO,12,8,0,0,20,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11171,Long Island Power Authority,NY,NYIS,"11,817",123,.,.,"11,940",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N
+2018,11187,City of Longmont,CO,PSCO,.,.,9,.,9,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,11200,"Lorain-Medina R E C, Inc",OH,PJM,"14,805","1,540",13,.,"16,358",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11208,Los Angeles Department of Water & Power,CA,LDWP,"9,972","23,483","1,724",.,"35,179",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11222,Loudon Utilities Board,TN,TVA,0,2,5,0,7,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11247,Louisville Electric System,MS,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11249,Louisville Gas & Electric Co,KY,LGEE,59,409,152,0,620,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N
+2018,11292,City of Lubbock - (TX),TX,SWPP,.,15,.,.,15,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11479,Madison Gas & Electric Co,WI,MISO,587,"4,434",23,0,"5,044",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11571,Manitowoc Public Utilities,WI,MISO,6,6,77,.,89,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11740,City of Marshfield - (WI),WI,MISO,0,0,56,0,56,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11770,City of Martinsville - (VA),VA,PJM,.,3,.,.,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11788,Consumers Energy,IA,MISO,209,21,3,.,233,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11789,Maryville Utilities,TN,TVA,0,0,3,0,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11843,Maui Electric Co Ltd,HI,NA,247,52,.,.,299,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11871,City of Mayfield Plant Board,KY,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,11910,McLeod Cooperative Power Assn,MN,MISO,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12199,Montana-Dakota Utilities Co,MT,SWPP,0,1,8,0,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12199,Montana-Dakota Utilities Co,ND,MISO,7,314,9,0,330,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12199,Montana-Dakota Utilities Co,SD,MISO,0,8,0,0,8,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12199,Montana-Dakota Utilities Co,WY,WACM,0,24,0,0,24,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12208,City of McPherson - (KS),KS,SWPP,.,20,2,.,22,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12260,Mecklenburg Electric Cooperative,VA,PJM,.,32,1,.,33,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12265,City of Medford - (WI),WI,MISO,1,26,6,.,33,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12293,City of Memphis - (TN),TN,TVA,76,0,35,.,111,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12298,City of Menasha - (WI),WI,MISO,28,105,8,0,141,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12330,Meriwether Lewis Electric Coop,TN,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12341,MidAmerican Energy Co,IA,MISO,20,774,140,.,934,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12341,MidAmerican Energy Co,IL,MISO,6,123,37,.,166,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12341,MidAmerican Energy Co,SD,MISO,.,14,1,.,15,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12377,Midwest Energy Cooperative,MI,PJM,38,43,.,.,81,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12390,Metropolitan Edison Co,PA,PJM,122,24,178,0,324,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N
+2018,12450,Midland Power Coop,IA,MISO,.,11,7,.,18,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,12470,Middle Tennessee E M C,TN,TVA,0,3,10,0,13,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12472,Middle Georgia El Member Corp,GA,SOCO,.,.,222,.,222,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12515,"Midwest Electric, Inc",OH,PJM,0,23,2,0,25,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y,N
+2018,12546,Mille Lacs Energy Cooperative,MN,MISO,.,.,23,.,23,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,12642,Maquoketa Valley Rrl Elec Coop,IA,MISO,"10,409","5,832",.,.,"16,241",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12647,"ALLETE, Inc.",MN,MISO,394,.,.,.,394,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,12651,Minnesota Valley Electric Coop,MN,MISO,56,.,.,.,56,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,12686,Mississippi Power Co,MS,SOCO,0,0,5,0,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12698,KCP&L Greater Missouri Operations Co.,MO,SWPP,.,4,.,.,4,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12745,Modesto Irrigation District,CA,BANC,0,10,147,0,157,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+2018,12860,Morgan County Rural Elec Assn,CO,WACM,23,.,.,.,23,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12929,South Central Indiana REMC,IN,MISO,9,.,.,.,9,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12988,City of Morristown - (TN),TN,TVA,0,0,5,0,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,12990,Consolidated Electric Coop Inc,OH,PJM,.,2,1,.,3,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N
+2018,13027,"Mountain Electric Coop, Inc",TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13036,Village of Mt. Horeb - (WI),WI,MISO,24,8,0,0,32,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13050,"Mountain Parks Electric, Inc",CO,WACM,432,25,11,.,468,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,13119,City of Murfreesboro,TN,TVA,0,2,2,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13138,City of Murray - (KY),KY,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13144,City of Muscle Shoals,AL,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13145,Village of Muscoda - (WI),WI,MISO,0,7,3,0,10,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13216,Nashville Electric Service,TN,TVA,0,18,23,0,41,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13318,"Navopache Electric Coop, Inc",AZ,PNM,"6,522",140,.,.,"6,662",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13337,Nebraska Public Power District,NE,SWPP,.,36,20,.,56,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13407,Nevada Power Co,NV,NEVP,"4,826","2,855","1,540",0,"9,221",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13412,City of New Albany - (MS),MS,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13437,City of Newbern,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13438,Village of New Glarus - (WI),WI,MISO,0,3,0,0,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13441,New Hampshire Elec Coop Inc,NH,ISNE,20,.,.,.,20,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13448,City of New Holstein - (WI),WI,MISO,23,17,0,0,40,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13467,New London Electric&Water Util,WI,MISO,0,14,4,0,18,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13481,City of New Richmond,WI,MISO,36,23,0,0,59,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13511,New York State Elec & Gas Corp,NY,NYIS,"132,507","5,147",462,.,"138,116",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13550,City of Newport,TN,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13561,City of Newton - (NC),NC,DUK,.,4,3,.,7,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13573,Niagara Mohawk Power Corp.,NY,NYIS,0,111,269,0,380,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13640,Northern Virginia Elec Coop,VA,PJM,0,14,1,.,15,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13669,North Alabama Electric Coop,AL,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13676,"North Arkansas Elec Coop, Inc",AR,MISO,.,28,.,.,28,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+2018,13684,Nobles Cooperative Electric,MN,MISO,5,.,.,.,5,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13693,"North Central Elec Coop, Inc",OH,PJM,"8,417","1,220",19,.,"9,656",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13697,North Central Power Co Inc,WI,MISO,94,3,5,0,102,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13698,North Central Public Pwr Dist,NE,SWPP,.,32,.,.,32,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,13716,North Georgia Elec Member Corp,GA,TVA,0,42,34,0,76,N,Y,Y,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13718,City of North Little Rock - (AR),AR,MISO,.,34,2,.,36,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13730,City of North St Paul - (MN),MN,MISO,.,1,.,.,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13735,Northcentral Mississippi E P A,MS,TVA,3,0,3,0,6,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13739,Northeast Power,NE,SWPP,33,.,668,.,701,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,13762,"Northern Neck Elec Coop, Inc",VA,PJM,2,12,.,.,14,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13780,Northern States Power Co,MI,MISO,138,26,2,.,166,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13780,Northern States Power Co,WI,MISO,"6,660","9,875",11,.,"16,546",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13781,Northern States Power Co - Minnesota,MN,MISO,"1,021","15,647",26,1,"16,695",Y,Y,Y,Y,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13781,Northern States Power Co - Minnesota,ND,MISO,35,831,.,.,866,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13781,Northern States Power Co - Minnesota,SD,MISO,9,675,0,.,684,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13805,Northwest Rural Pub Pwr Dist,NE,WACM,"2,102",.,.,.,"2,102",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13815,Northwestern Wisconsin Elec Co,WI,MISO,428,51,24,.,503,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13933,City of Oak Ridge,TN,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13936,Oakdale Electric Coop,WI,MISO,779,202,43,.,"1,024",N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,13963,Oconomowoc Utilities,WI,MISO,59,81,5,0,145,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,13965,Oconto Falls Water & Light Comm,WI,MISO,0,6,0,0,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14006,Ohio Power Co,OH,PJM,"713,054",545,13,0,"713,612",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,14062,Oklahoma Electric Coop Inc,OK,SWPP,"51,200","3,995",37,.,"55,232",Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,14063,Oklahoma Gas & Electric Co,AR,SWPP,"5,705",511,48,0,"6,264",Y,Y,Y,N,N,N,Y,N,Y,Y,Y,N,N,N,N,N,N,N,N,N
+2018,14063,Oklahoma Gas & Electric Co,OK,SWPP,"99,197","9,712","1,086",.,"109,995",Y,Y,Y,N,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,N,N,N,N
+2018,14078,City of Okolona,MS,TVA,0,150,0,0,150,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14127,Omaha Public Power District,NE,SWPP,0,98,5,0,103,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14146,City of Opelika - (AL),AL,SOCO,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14160,Orange County Rural E M C,IN,MISO,496,.,.,.,496,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14164,City of Orangeburg - (SC),SC,SCEG,.,.,16,.,16,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14170,Orcas Power & Light Coop,WA,BPAT,55,0,.,.,55,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14175,"Tri-County Electric Coop, Inc",SC,SC,.,222,.,.,222,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14232,Otter Tail Power Co,MN,MISO,"18,321","2,047",11,0,"20,379",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,14232,Otter Tail Power Co,ND,MISO,"16,300","2,221",0,0,"18,521",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,14232,Otter Tail Power Co,SD,MISO,"3,706",364,0,0,"4,070",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,14246,City of Owatonna - (MN),MN,MISO,.,55,37,.,92,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14289,Ozarks Electric Coop Corp - (AR),AR,SWPP,.,12,3,.,15,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,14328,Pacific Gas & Electric Co.,CA,CISO,"392,990","548,543","1,261",0,"942,794",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,14354,PacifiCorp,CA,PACW,0,8,23,0,31,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14354,PacifiCorp,ID,PACE,"11,265",3,0,0,"11,268",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14354,PacifiCorp,OR,PACW,"1,022",258,197,0,"1,477",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14354,PacifiCorp,UT,PACE,629,946,541,1,"2,117",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14354,PacifiCorp,WA,PACW,0,30,18,0,48,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14354,PacifiCorp,WY,PACE,0,13,62,0,75,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14398,Palmetto Electric Coop Inc,SC,SC,1,204,6,0,211,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,14401,City of Palo Alto - (CA),CA,CISO,96,1,.,.,97,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14455,City of Paris - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14468,People's Cooperative Services,MN,MISO,279,3,0,0,282,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14471,Parke County Rural E M C,IN,MISO,24,1,.,.,25,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14534,City of Pasadena - (CA),CA,CISO,47,205,.,.,252,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14557,"Pee Dee Electric Coop, Inc",SC,SC,2,0,15,0,17,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,14563,Pearl River Valley El Pwr Assn,MS,MISO,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14602,Pea River Electric Coop,AL,AEC,.,17,.,.,17,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14605,City of Peabody - (MA),MA,ISNE,.,8,3,.,11,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14606,"Peace River Electric Coop, Inc",FL,SEC,0,16,8,.,24,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14610,Orlando Utilities Comm,FL,FMPP,.,370,.,.,370,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14626,"Pedernales Electric Coop, Inc",TX,ERCO,105,798,2,0,905,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14711,Pennsylvania Electric Co,PA,PJM,70,.,88,.,158,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14715,PPL Electric Utilities Corp,PA,PJM,.,196,32,.,228,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14716,Pennsylvania Power Co,PA,PJM,0,0,41,0,41,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14717,Pee Dee Electric Member Corp,NC,CPLE,3,.,.,.,3,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14724,Pennyrile Rural Electric Coop,KY,TVA,0,1,14,0,15,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14864,Petit Jean Electric Coop Corp,AR,MISO,.,.,1,.,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,14940,PECO Energy Co,PA,PJM,.,318,87,.,405,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15023,Piedmont Electric Member Corp,NC,DUK,854,177,1,.,"1,032",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,15086,Pioneer Power and Light Co,WI,MISO,4,0,0,0,4,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15159,City of Plymouth - (WI),WI,MISO,18,37,8,0,63,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15211,Pontotoc Electric Power Assn,MS,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15248,Portland General Electric Co,OR,PGE,"2,717",319,.,.,"3,036",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15263,The Potomac Edison Company,MD,PJM,0,57,57,0,114,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15270,Potomac Electric Power Co,DC,PJM,0,"3,688",.,.,"3,688",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,15270,Potomac Electric Power Co,MD,PJM,"515,600","18,357",8,1,"533,966",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,15312,Village of Prairie Du Sac - (WI),WI,MISO,0,8,1,0,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15340,Presque Isle Elec & Gas Coop,MI,MISO,.,8,6,.,14,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15466,Public Service Co of Colorado,CO,PSCO,"5,911",126,0,.,"6,037",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,15470,"Duke Energy Indiana, LLC",IN,MISO,.,27,82,.,109,N,Y,Y,N,N,Y,Y,N,N,Y,Y,N,N,N,N,N,N,Y,Y,N
+2018,15472,Public Service Co of NH,NH,ISNE,39,88,72,.,199,Y,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15473,Public Service Co of NM,NM,PNM,116,"4,977",61,.,"5,154",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15474,Public Service Co of Oklahoma,OK,SWPP,"478,631","60,327","6,200",0,"545,158",Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,15507,City of Pulaski - (TN),TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15671,Randolph Electric Member Corp,NC,CPLE,55,44,1,.,100,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15748,Town of Reading - (MA),MA,ISNE,487,90,0,0,577,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15804,Reedsburg Utility Comm,WI,MISO,1,23,8,0,32,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15938,Rice Lake Utilities,WI,MISO,31,7,34,.,72,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15978,City of Richland Center - (WI),WI,MISO,52,8,5,0,65,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,15989,City of Richmond - (IN),IN,PJM,.,.,60,.,60,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,16057,"Rio Grande Electric Coop, Inc",TX,ERCO,"8,486","4,198",525,.,"13,209",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16060,Riverland Energy Cooperative,WI,MISO,358,77,.,.,435,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16082,City of River Falls,WI,MISO,16,20,2,0,38,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16088,City of Riverside - (CA),CA,CISO,86,.,504,.,590,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16101,Roanoke Electric Member Corp,NC,PJM,0,1,2,.,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16179,Rochelle Municipal Utilities,IL,PJM,.,.,34,.,34,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16181,Rochester Public Utilities,MN,MISO,0,53,0,.,53,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16183,Rochester Gas & Electric Corp,NY,NYIS,"3,530",505,192,.,"4,227",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16223,City of Rockwood - (TN),TN,TVA,0,0,5,0,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16295,City of Roseville - (CA),CA,BANC,0,0,30,0,30,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16511,Sac-Osage Electric Coop Inc,MO,AECI,.,5,.,.,5,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16534,Sacramento Municipal Util Dist,CA,BANC,"28,001","64,288",160,1,"92,450",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16558,City of Salem - (VA),VA,PJM,.,9,7,.,16,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16572,Salt River Project,AZ,SRP,"315,369","11,845",3,.,"327,217",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16603,"San Luis Valley R E C, Inc",CO,WACM,"1,190",68,52,.,"1,310",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16604,City of San Antonio - (TX),TX,ERCO,.,65,.,.,65,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16609,San Diego Gas & Electric Co,CA,CISO,"155,509","141,825",244,0,"297,578",Y,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,Y,Y,N,Y,N,N,N
+2018,16616,"San Isabel Electric Assn, Inc",CO,WACM,897,510,4,.,"1,411",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16629,Sand Mountain Electric Coop,AL,TVA,0,1,0,0,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16674,Satilla Rural Elec Member Corporation,GA,SOCO,0,788,22,0,810,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,16679,City of Sauk Centre - (MN),MN,MISO,36,4,8,.,48,N,N,Y,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N
+2018,16829,City of Scottsboro,AL,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16865,Sawnee Electric Membership Corporation,GA,SOCO,203,28,.,.,231,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16868,City of Seattle - (WA),WA,SCL,1,107,26,2,136,Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16920,Sedgwick County El Coop Assn Inc,KS,SWPP,.,.,8,.,8,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16930,Sequachee Valley Electric Coop,TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16949,Sevier County Electric System,TN,TVA,0,1,3,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,16971,Shakopee Public Utilities Comm,MN,MISO,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17011,Shawano Municipal Utilities,WI,MISO,21,2,31,0,54,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17033,Sheffield Utilities,AL,TVA,0,0,8,0,8,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17037,City of Shelby - (NC),NC,DUK,.,2,.,.,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17047,City of Shelbyville - (TN),TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17066,Shenandoah Valley Elec Coop,VA,PJM,.,11,5,.,16,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,17166,Sierra Pacific Power Co,NV,NEVP,"1,120","1,075",103,.,"2,298",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17252,Singing River Elec Cooperative,MS,MISO,.,48,14,.,62,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17324,Slinger Utilities,WI,MISO,1,12,0,0,13,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17452,City of Smithville - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17492,"Socorro Electric Coop, Inc",NM,PNM,151,12,.,.,163,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17539,"Dominion Energy South Carolina, Inc",SC,SCEG,80,"1,314",23,.,"1,417",Y,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17543,South Carolina Public Service Authority,SC,SC,2,30,21,.,53,Y,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,N,Y,N
+2018,17548,South Central Public Pwr Dist,NE,SWPP,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,CT,ISNE,0,4,0,0,4,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,MA,ISNE,0,15,0,0,15,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,ME,ISNE,0,6,0,0,6,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,NH,ISNE,0,29,0,0,29,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,NJ,PJM,0,5,0,0,5,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,PA,PJM,0,2,0,0,2,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17549,South Jersey Energy Company,RI,ISNE,0,5,0,0,5,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17572,South River Elec Member Corp,NC,CPLE,6,117,.,.,123,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17577,City of South Sioux City,NE,SWPP,.,1,.,.,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17592,Southeast Colorado Power Assn,CO,WACM,32,.,.,.,32,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17599,Southeastern Indiana R E M C,IN,MISO,49,.,.,.,49,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,17603,Southeastern Electric Coop Inc - (OK),OK,SWPP,.,.,9,.,9,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
+2018,17609,Southern California Edison Co,CA,CISO,"373,950","629,464","16,900",.,"1,020,314",Y,Y,Y,N,N,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,17612,Bear Valley Electric Service,CA,CISO,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17643,"Southern Iowa Elec Coop, Inc",IA,AECI,"4,554",167,0,.,"4,721",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17646,"Southern Pine Elec Coop, Inc",AL,AEC,.,2,.,.,2,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,17683,Southwest Mississippi E P A,MS,MISO,.,3,1,.,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17684,Southwest Louisiana E M C,LA,MISO,.,6,.,.,6,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17694,Southwest Tennessee E M C,TN,TVA,0,7,1,0,8,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17698,Southwestern Electric Power Co,AR,SWPP,"102,420","17,952",591,0,"120,963",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17698,Southwestern Electric Power Co,LA,SWPP,"204,448","1,612",59,0,"206,119",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17698,Southwestern Electric Power Co,TX,SWPP,"151,303","3,373",181,0,"154,857",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17718,Southwestern Public Service Co,NM,SWPP,6,1,0,0,7,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17718,Southwestern Public Service Co,TX,SWPP,42,43,1,.,86,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17826,"Springer Electric Coop, Inc",NM,PNM,45,5,.,.,50,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17829,City of Springfield - (TN),TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,17891,City of St Marys - (OH),OH,PJM,"3,688",505,13,0,"4,206",N,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,Y,N,N,N
+2018,17896,City of Shasta Lake - (CA),CA,BANC,.,.,1,.,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18006,City of Starkville,MS,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18022,City of Statesville - (NC),NC,DUK,.,25,19,.,44,N,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,18047,Steele-Waseca Cooperative Electric,MN,MISO,.,12,1,.,13,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18087,Town of Sterling - (MA),MA,ISNE,76,0,0,0,76,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18102,"Steuben Rural Elec Coop, Inc",NY,NYIS,47,.,.,.,47,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18181,City of Stoughton - (WI),WI,MISO,17,26,3,0,46,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18249,City of Sturgeon Bay - (WI),WI,MISO,7,37,1,0,45,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18252,City of Sturgis,MI,PJM,.,.,15,.,15,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18280,Sulphur Springs Valley E C Inc,AZ,WALC,9,41,1,0,51,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18304,"Sumter Electric Coop, Inc",FL,SEC,.,15,.,.,15,N,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,18305,Sumter Electric Member Corp,GA,SOCO,.,793,12,.,805,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18312,Sun Prairie Utilities,WI,MISO,11,49,6,0,66,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18316,"Sumner-Cowley Elec Coop, Inc",KS,SWPP,.,.,2,.,2,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,18336,Superior Water and Light Co,WI,MISO,17,.,24,.,41,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18339,Surry-Yadkin Elec Member Corp,NC,DUK,"1,047",.,.,.,"1,047",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18360,Suwannee Valley Elec Coop Inc,FL,SEC,.,273,2,.,275,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18383,Taylor Electric Coop - (WI),WI,MISO,144,29,.,.,173,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18384,City of Sweetwater,TN,TVA,0,0,3,0,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18445,City of Tallahassee - (FL),FL,TAL,"1,748",.,.,.,"1,748",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18447,Tallahatchie Valley E P A,MS,TVA,0,3,1,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18454,Tampa Electric Co,FL,TEC,"4,886","3,907",29,.,"8,822",N,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N
+2018,18472,City of Tarrant,AL,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18498,Taylor County Rural E C C,KY,PJM,431,7,.,.,438,Y,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+2018,18642,Tennessee Valley Authority,AL,TVA,0,1,8,0,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18642,Tennessee Valley Authority,KY,TVA,0,1,9,0,10,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18642,Tennessee Valley Authority,MS,TVA,0,2,6,0,8,N,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18642,Tennessee Valley Authority,TN,TVA,0,4,17,0,21,N,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18895,Thumb Electric Coop of Mich,MI,MISO,9,1,.,.,10,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18917,Tillamook Peoples Utility Dist,OR,BPAT,0,0,6,0,6,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18940,Tipmont Rural Elec Member Corp,IN,MISO,73,0,1,0,74,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18943,Tippah Electric Power Assn,MS,TVA,0,0,3,0,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,18951,Tishomingo County E P A,MS,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19007,Tombigbee Electric Power Assn,MS,TVA,0,0,4,0,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19119,"TransCanada Power Marketing, Ltd.",CT,ISNE,0,0,4,0,4,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19119,"TransCanada Power Marketing, Ltd.",MA,ISNE,0,0,10,0,10,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19119,"TransCanada Power Marketing, Ltd.",NH,ISNE,0,0,1,0,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19119,"TransCanada Power Marketing, Ltd.",NY,NYIS,0,0,1,0,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19156,Powder River Energy Corp,WY,WACM,131,.,.,.,131,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19157,MiEnergy Cooperative,IA,MISO,.,13,4,.,17,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19157,MiEnergy Cooperative,MN,MISO,.,9,1,.,10,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19160,"Tri-County Electric Coop, Inc",OK,SWPP,.,.,17,.,17,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19162,Tri-County Elec Member Corp,KY,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19162,Tri-County Elec Member Corp,TN,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19189,Trico Electric Cooperative Inc,AZ,WALC,"2,090",33,10,.,"2,133",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19266,Tullahoma Board-Public Utils,TN,TVA,"8,847","1,922",0,0,"10,769",Y,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19273,City of Tupelo - (MS),MS,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19281,Turlock Irrigation District,CA,TIDC,522,21,478,.,"1,021",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19324,Two Rivers Water & Light,WI,MISO,5,29,1,0,35,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19325,Umatilla Electric Coop Assn,OR,BPAT,.,135,"1,461",.,"1,596",N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19327,"TXU Energy Retail Co, LLC",TX,ERCO,"135,982",540,"3,403",0,"139,925",Y,Y,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,19390,"UGI Utilities, Inc",PA,PJM,6,151,51,.,208,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19396,Tri-County Electric Coop,MI,MISO,3,7,165,.,175,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19430,City of Union City,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19436,Union Electric Co - (MO),MO,MISO,116,"6,996",13,.,"7,125",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19446,Duke Energy Kentucky,KY,PJM,.,282,96,.,378,N,Y,Y,N,N,Y,Y,N,N,Y,Y,N,N,N,N,N,N,N,N,N
+2018,19490,United Electric Coop Service Inc - (TX),TX,ERCO,0,20,13,0,33,N,Y,N,N,N,N,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,19497,United Illuminating Co,CT,ISNE,"72,183","8,646",497,1,"81,327",Y,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19499,"United Power, Inc",CO,WACM,"1,824",464,13,0,"2,301",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,19547,Hawaiian Electric Co Inc,HI,HECO,"1,826",47,2,0,"1,875",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19574,Upper Cumberland E M C,TN,TVA,0,0,2,0,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19578,Upper Peninsula Power Company,MI,MISO,0,0,1,0,1,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N
+2018,19667,Utilities Dist-Western IN REMC,IN,MISO,3,0,0,0,3,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19728,"UNS Electric, Inc",AZ,TEPC,"6,556",420,2,0,"6,978",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19785,Verdigris Valley Elec Coop Inc,OK,AECI,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19791,"Vermont Electric Cooperative, Inc",VT,ISNE,13,24,4,0,41,Y,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19798,City of Vernon,CA,CISO,.,85,110,.,195,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19806,"Victoria Electric Coop, Inc",TX,ERCO,.,.,17,.,17,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,19820,Victory Electric Coop Assn Inc,KS,SWPP,.,5,.,.,5,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19876,Virginia Electric & Power Co,NC,PJM,387,797,36,0,"1,220",Y,Y,Y,N,N,N,N,N,N,Y,Y,N,N,Y,Y,N,N,N,N,N
+2018,19876,Virginia Electric & Power Co,VA,PJM,"8,666","7,768",255,0,"16,689",Y,Y,Y,N,N,Y,N,N,N,Y,Y,N,N,Y,Y,N,N,N,N,N
+2018,19898,Volunteer Electric Coop,TN,TVA,0,1,8,0,9,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19951,City of Wadsworth - (OH),OH,PJM,450,30,.,.,480,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,19981,Wake Electric Membership Corp,NC,CPLE,412,35,2,.,449,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,20130,Warren Rural Elec Coop Corp,KY,TVA,0,0,17,0,17,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20176,City of Water Valley - (MS),MS,TVA,0,0,1,0,1,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20182,Waterloo Light & Water Comm,WI,MISO,1,11,0,0,12,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20211,Village of Waunakee - (WI),WI,MISO,7,18,2,0,27,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20213,Waupun Utilities,WI,MISO,112,51,2,0,165,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20214,Waverly Municipal Elec Utility,IA,MISO,0,1,4,0,5,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20216,Whitewater Valley Rural EMC,IN,MISO,49,.,5,.,54,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20222,Wayne-White Counties Elec Coop,IL,MISO,4,.,.,.,4,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20228,Weakley County Mun Elec Sys,TN,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20310,Town of Wellesley - (MA),MA,ISNE,.,.,4,.,4,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20377,West Kentucky Rural E C C,KY,TVA,0,4,2,0,6,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20387,West Penn Power Company,PA,PJM,0,15,87,0,102,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N
+2018,20401,West River Electric Assn Inc,SD,SWPP,25,5,0,.,30,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20422,Whetstone Valley Elec Coop Inc,SD,SWPP,"1,643",30,.,.,"1,673",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N
+2018,20434,City of Westby,WI,MISO,0,7,0,0,7,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20509,Wheat Belt Public Power Dist,NE,WACM,0,1,9,.,10,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20510,"Wheatland Electric Coop, Inc",KS,SWPP,0,366,"1,210",.,"1,576",N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20521,Wheeling Power Co,WV,PJM,"2,360",19,2,0,"2,381",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20583,Whitehall Electric Utility,WI,MISO,1,10,1,0,12,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20847,Wisconsin Electric Power Co,WI,MISO,"18,017","24,694",652,0,"43,363",Y,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20856,Wisconsin Power & Light Co,WI,MISO,"3,638","6,651","1,071",.,"11,360",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20860,Wisconsin Public Service Corp,WI,MISO,"12,181","8,054",186,.,"20,421",Y,Y,Y,N,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,N,N,N
+2018,20862,Wisconsin Rapids W W & L Comm,WI,MISO,99,155,5,.,259,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,20996,Wright-Hennepin Coop Elec Assn,MN,MISO,6,.,.,.,6,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,21244,"Southside Electric Coop, Inc",VA,PJM,.,.,10,.,10,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N
+2018,21526,City of Laurens - (SC),SC,DUK,.,21,.,.,21,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,21538,"Mohave Electric Cooperative, I",AZ,WALC,.,7,8,.,15,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,21567,"Washington-St Tammany E C, Inc",LA,MISO,.,1,.,.,1,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,22053,Kentucky Power Co,KY,PJM,252,582,11,.,845,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,22500,Westar Energy Inc,KS,SWPP,7,85,18,.,110,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N
+2018,22815,Delta Electric Power Assn,MS,MISO,.,.,61,.,61,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,22822,Clark County Rural E M C - (IN),IN,MISO,353,.,.,.,353,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,23326,"Sierra Electric Coop, Inc",NM,PNM,291,122,.,.,413,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,23826,Bluestem Electric Coop Inc,KS,SWPP,24,12,.,.,36,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,24211,Tucson Electric Power Co,AZ,TEPC,"15,336","2,062",19,.,"17,417",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,24949,Cass County Elec Coop Inc,ND,MISO,2,356,447,.,805,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,N
+2018,25177,Dakota Electric Association,MN,MISO,18,6,.,.,24,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,25295,Western Indiana Energy REMC,IN,MISO,.,382,.,.,382,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,26510,Liberty Utilities (Granite State Electri,NH,ISNE,434,.,143,.,577,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,26765,Pella Cooperative Elec Assn,IA,MISO,.,.,3,.,3,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,26939,Red River Valley Coop Pwr Assn,MN,MISO,.,28,.,.,28,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,27058,"High West Energy, Inc",CO,WACM,2,0,0,.,2,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,27058,"High West Energy, Inc",NE,WACM,35,3,2,.,40,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,27058,"High West Energy, Inc",WY,WACM,47,1,2,.,50,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,27222,City of Ripley - (TN),TN,TVA,0,1,3,0,4,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,30517,"Pioneer Electric Coop, Inc - (AL)",AL,AEC,.,3,.,.,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,30518,Electrical Dist No3 Pinal County,AZ,AZPS,"2,154",.,.,.,"2,154",Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40036,Westfield Electric Company,WI,MISO,2,1,.,.,3,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40166,"Chickasaw Electric Coop, Inc",TN,TVA,0,53,2,0,55,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40208,"Ark Valley Elec Coop Assn, Inc",KS,SWPP,.,194,.,.,194,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+2018,40228,Rappahannock Electric Coop,VA,PJM,63,.,.,.,63,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40236,"Forked Deer Electric Coop, Inc",TN,TVA,0,2,0,0,2,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40302,North East Mississippi EPA,MS,TVA,0,1,2,0,3,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,40441,Town of Murphy - (NC),NC,TVA,0,1,1,0,2,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,49922,U.S. Energy Partners LLC,NY,NYIS,0,54,0,0,54,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,54913,NSTAR Electric Company,MA,ISNE,0,"6,573",426,.,"6,999",N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,55787,City of Moreno Valley - (CA),CA,CISO,.,34,2,.,36,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,55962,City of Victorville - (CA),CA,CISO,.,.,52,.,52,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,55982,Heart of Texas Electric Coop,TX,ERCO,.,3,.,.,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,56379,"MC Squared Energy Services, LLC",IL,PJM,0,738,14,0,752,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,56692,Marin Clean Energy,CA,CISO,"42,517","34,505",0,0,"77,022",Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,56697,Ameren Illinois Company,IL,MISO,"85,386","1,604",57,0,"87,047",N,N,N,N,Y,Y,Y,Y,N,N,N,N,N,N,N,N,Y,N,N,N
+2018,56775,Entrust Energy,TX,ERCO,.,"3,600",.,.,"3,600",N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,57459,"Wolverine Alternative Investments, LLC",TX,ERCO,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,57483,Liberty Utilities,CA,CISO,26,66,.,.,92,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,58124,City of Winter Park - (FL),FL,FPC,.,24,.,.,24,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,58248,"EnergyMark, LLC",NY,NYIS,"1,203","1,479",57,0,"2,739",Y,Y,Y,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,58263,V247 Power Corporation,TX,ERCO,329,.,.,.,329,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,58851,City of Cerritos - (CA),CA,CISO,0,206,8,0,214,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59082,"Family Energy, Inc. New York",NY,NYIS,"7,579",144,.,.,"7,723",N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N
+2018,59083,SFE Energy Pennsylvania,PA,PJM,0,135,.,.,135,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N
+2018,59084,"SFE Energy Maryland, Inc",MD,PJM,"2,483",29,.,.,"2,512",N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N
+2018,59085,"SFE Energy New Jersey, Inc.",NJ,PJM,.,78,.,.,78,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N
+2018,59385,"Dynegy Energy Services, LLC",IL,PJM,.,.,9,1,10,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59505,Heartland REMC,IN,PJM,.,.,2,.,2,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59734,"SFE Energy Massachusetts, Inc.",MA,ISNE,"3,328",44,.,.,"3,372",N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,IL,PJM,0,36,24,0,60,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,NJ,PJM,0,23,0,0,23,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,OH,PJM,0,220,26,0,246,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,PA,PJM,0,40,3,0,43,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,TX,ERCO,330,786,258,0,"1,374",Y,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,59808,MP2 Energy LLC,VA,PJM,0,.,2,0,2,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60181,CleanPowerSF,CA,CISO,"3,337","11,210",5,0,"14,552",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60502,Port of Stockton - (CA),CA,CISO,.,13,.,.,13,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60631,Upper Michigan Energy Resources Corp.,MI,MISO,567,246,43,0,856,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60715,Port of Oakland,CA,CISO,.,3,.,.,3,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60839,Southern Pioneer Electric Company,KS,SWPP,.,.,1,.,1,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+2018,60977,StateWise Energy Ohio LLC,OH,PJM,768,1,.,.,769,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N
+2018,61475,East Bay Community Energy,CA,CISO,"7,805","38,237","4,937",0,"50,979",Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+2018,61858,San Jose Clean Energy,CA,CISO,0,575,5,0,580,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N

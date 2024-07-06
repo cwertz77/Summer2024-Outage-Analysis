@@ -1,0 +1,592 @@
+Utility Characteristics,,,,,,,RESIDENTIAL,,,COMMERCIAL,,,INDUSTRIAL,,,TRANSPORTATION,,,TOTAL,,
+,,,,,,,Revenues,Sales,Customers,Revenues,Sales,Customers,Revenues,Sales,Customers,Revenues,Sales,Customers,Revenues,Sales,Customers
+Data Year,Facility Number,Facility Name,Utility Number,Utility Name,STATE,BA Code,Thousand Dollars,Megawatthours,Count,Thousand Dollars,Megawatthours,Count,Thousand Dollars,Megawatthours,Count,Thousand Dollars,Megawatthours,Count,Thousand Dollars,Megawatthours,Count
+2019,59371,12 Applegate Solar LLC,62629,G&S Solar Installers LLC,NJ,PJM,0.0,0,0,154.0,"2,349",1,0.0,0,0,0.0,0,0,154.0,"2,349",1
+2019,57458,145 Talmadge Solar,56777,Avidan Energy Solutions,NJ,PJM,0.0,0,0,0.0,0,0,628.0,"5,010",1,0.0,0,0,628.0,"5,010",1
+2019,58187,180 Raritan Solar,58164,"180 Raritan Energy Solutions, LLC",NJ,PJM,0.0,0,0,0.0,0,0,333.0,"2,659",1,0.0,0,0,333.0,"2,659",1
+2019,59365,24 Applegate Solar LLC,60281,"Altus Power America Management, LLC",NJ,PJM,0.0,0,0,87.0,866,1,0.0,0,0,0.0,0,0,87.0,866,1
+2019,61518,301 Chestnut Solar NG,61125,"301 Chestnut Solar NG, LLC",MA,ISNE,0.0,0,0,214.0,"2,359",1,0.0,0,0,0.0,0,0,214.0,"2,359",1
+2019,61224,"350 Clark Solar, NG, LLC",60857,"350 Clark Solar NG, LLC",NJ,PJM,0.0,0,0,390.0,"1,980",1,0.0,0,0,0.0,0,0,390.0,"1,980",1
+2019,59370,4 Applegate Solar LLC,62629,G&S Solar Installers LLC,NJ,PJM,0.0,0,0,104.0,"2,056",1,0.0,0,0,0.0,0,0,104.0,"2,056",1
+2019,63366,435A Bergen Avenue,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,43.0,"1,194",1,0.0,0,0,0.0,0,0,43.0,"1,194",1
+2019,62325,46 Meadowlands Parkway,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,171.0,"2,261",1,0.0,0,0,0.0,0,0,171.0,"2,261",1
+2019,57640,500 Virginia Solar,56971,"500 Virginia Solar, LP",PA,PJM,0.0,0,0,73.0,"1,029",1,0.0,0,0,0.0,0,0,73.0,"1,029",1
+2019,62326,77 Metro Way,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,131.0,"1,537",2,0.0,0,0,0.0,0,0,131.0,"1,537",2
+2019,58798,"AC Criminal Courts Complex SPE2, LLC",58661,"Sustainable Power Group, LLC",NJ,PJM,0.0,0,0,217.0,"1,898",1,0.0,0,0,0.0,0,0,217.0,"1,898",1
+2019,57845,AC Landfill Energy LLC,57173,AC Landfill Energy LLC,NJ,PJM,0.0,0,0,0.0,0,0,411.0,"4,803",1,0.0,0,0,411.0,"4,803",1
+2019,60802,ACCC Mays Landing,61944,GSRP,NJ,PJM,0.0,0,0,179.0,"1,979",1,0.0,0,0,0.0,0,0,179.0,"1,979",1
+2019,61923,ACUA,61522,"Viridity Energy Solutions, Inc.",NJ,PJM,0.0,0,0,5.0,"1,991",1,0.0,0,0,0.0,0,0,5.0,"1,991",1
+2019,63280,"AES Kekaha Solar, LLC Hybrid",61012,AES Distributed Energy,HI,NA,0.0,0,0,27.0,498,1,0.0,0,0,0.0,0,0,27.0,498,1
+2019,61068,AES LAWAI SOLAR Hybrid,60691,"AES LAWAI SOLAR, LLC",HI,NA,0.0,0,0,"3,127.0","37,501",1,0.0,0,0,0.0,0,0,"3,127.0","37,501",1
+2019,60986,AIS Solar Project,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,257.0,"3,615",1,0.0,0,0,0.0,0,0,257.0,"3,615",1
+2019,62629,APG New Chesapeake,60584,Onyx Asset Services Group,MD,PJM,0.0,0,0,576.0,"3,773",1,0.0,0,0,0.0,0,0,576.0,"3,773",1
+2019,62628,APG Old Bayside,60584,Onyx Asset Services Group,MD,PJM,0.0,0,0,485.0,"3,180",1,0.0,0,0,0.0,0,0,485.0,"3,180",1
+2019,60085,AVS Lancaster 1,60947,Tesla Inc.,CA,CISO,0.0,0,0,492.0,"8,117",1,0.0,0,0,0.0,0,0,492.0,"8,117",1
+2019,59543,Acton Solar Landfill,59286,Heliovaas LLC,MA,ISNE,0.0,0,0,192.0,"1,923",1,0.0,0,0,0.0,0,0,192.0,"1,923",1
+2019,58632,Actus Lend Lease DMAFB,60947,Tesla Inc.,AZ,TEPC,0.0,0,0,496.0,"3,792",1,0.0,0,0,0.0,0,0,496.0,"3,792",1
+2019,58270,Acushnet AD Makepeace,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,405.0,"5,398",1,0.0,0,0,0.0,0,0,405.0,"5,398",1
+2019,58271,Acushnet Hawes Reed Road,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,138.0,"1,730",1,0.0,0,0,0.0,0,0,138.0,"1,730",1
+2019,59128,Acushnet- High Hill,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,294.0,"4,205",1,0.0,0,0,0.0,0,0,294.0,"4,205",1
+2019,59121,Acushnet-Braley Road 1,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,195.0,"2,438",1,0.0,0,0,0.0,0,0,195.0,"2,438",1
+2019,60772,Adams Ave MS and HS,61944,GSRP,NJ,PJM,0.0,0,0,447.0,"4,673",1,0.0,0,0,0.0,0,0,447.0,"4,673",1
+2019,59788,"Advance Stores Company, Inc",60947,Tesla Inc.,CT,ISNE,0.0,0,0,113.0,820,1,0.0,0,0,0.0,0,0,113.0,820,1
+2019,63303,Alticor Inc - Solar Project,63091,"Solar Star California LXIV, LLC",CA,CISO,0.0,0,0,130.0,"1,782",1,0.0,0,0,0.0,0,0,130.0,"1,782",1
+2019,61850,Amana Society Service Company,471,Amana Society Service Co,IA,MISO,960.0,"7,260",709,988.0,"8,351",179,"6,297.0","82,847",1,0.0,0,0,"8,245.0","98,458",889
+2019,58357,Amazon,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,227.0,"5,671",1,0.0,0,0,0.0,0,0,227.0,"5,671",1
+2019,61377,Amazon - Patterson PV,61012,AES Distributed Energy,CA,BANC,0.0,0,0,477.0,"5,250",1,0.0,0,0,0.0,0,0,477.0,"5,250",1
+2019,63537,Amazon_BLD3,63259,Solar Star Prime 1 LLC,CT,ISNE,0.0,0,0,29.0,364,1,0.0,0,0,0.0,0,0,29.0,364,1
+2019,63536,Amazon_DEN2,63259,Solar Star Prime 1 LLC,CO,PSCO,0.0,0,0,22.0,440,1,0.0,0,0,0.0,0,0,22.0,440,1
+2019,60684,Amphitheater High School Solar,60404,"Constellation Solar Arizona 2, LLC",AZ,TEPC,0.0,0,0,222.0,"2,193",1,0.0,0,0,0.0,0,0,222.0,"2,193",1
+2019,59331,Anheuser-Busch #2,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,293.0,"3,674",1,0.0,0,0,293.0,"3,674",1
+2019,59489,Anthony Wayne Solar #1,59244,GEM Energy LLC,OH,PJM,0.0,0,0,129.0,"1,739",1,0.0,0,0,0.0,0,0,129.0,"1,739",1
+2019,60662,Archdiocese of Baltimore J,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,286.0,"3,595",1,0.0,0,0,0.0,0,0,286.0,"3,595",1
+2019,60663,Archdiocese of Baltimore L,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,291.0,"3,656",1,0.0,0,0,0.0,0,0,291.0,"3,656",1
+2019,57765,Arizona Western College PV,58863,Main Street Power,AZ,AZPS,0.0,0,0,"1,952.0","8,165",1,0.0,0,0,0.0,0,0,"1,952.0","8,165",1
+2019,55990,Ashtabula,58115,"DTE Ashtabula, LLC",OH,PJM,0.0,0,0,0.0,0,0,"4,332.0","189,992",1,0.0,0,0,"4,332.0","189,992",1
+2019,56900,Atlantic City Convention Center,57044,"Constellation Solar New Jersey, LLC",NJ,PJM,0.0,0,0,523.0,"3,117",1,0.0,0,0,0.0,0,0,523.0,"3,117",1
+2019,58360,Atlantic Coast Freezers Solar Facility,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,227.0,"3,238",1,0.0,0,0,0.0,0,0,227.0,"3,238",1
+2019,57847,BC Landfill Energy LLC,57175,BC Landfill Energy LLC,NJ,PJM,0.0,0,0,0.0,0,0,0.0,"4,813",1,0.0,0,0,0.0,"4,813",1
+2019,60227,BJ's Wholesale Club Inc Dist Center,60947,Tesla Inc.,NJ,PJM,0.0,0,0,74.0,"1,114",1,0.0,0,0,0.0,0,0,74.0,"1,114",1
+2019,60116,"BJ's Wholesale Club, Inc- Uxbridge",60947,Tesla Inc.,MA,ISNE,0.0,0,0,46.0,950,1,0.0,0,0,0.0,0,0,46.0,950,1
+2019,61893,BNB Camden Solar,61508,BNB Camden Solar LLC,NJ,PJM,0.0,0,0,"1,769.0","5,527",1,0.0,0,0,0.0,0,0,"1,769.0","5,527",1
+2019,60067,BWC Swan Pond River CSG,59805,"BWC Swan Pond River, LLC",MA,ISNE,0.0,0,0,351.0,"2,919",1,0.0,0,0,0.0,0,0,351.0,"2,919",1
+2019,61118,Bakersfield Industrial PV 1,60730,"Bakersfield Industrial PV 1, LLC",CA,CISO,0.0,0,0,200.0,"2,139",1,0.0,0,0,0.0,0,0,200.0,"2,139",1
+2019,61117,Bakersfield PV 1,60729,"Bakersfield PV 1, LLC",CA,CISO,0.0,0,0,784.0,"10,134",1,0.0,0,0,0.0,0,0,784.0,"10,134",1
+2019,60664,Baltimore City B,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,258.0,"3,170",1,0.0,0,0,0.0,0,0,258.0,"3,170",1
+2019,60665,Baltimore City D,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,250.0,"3,075",1,0.0,0,0,0.0,0,0,250.0,"3,075",1
+2019,60666,Baltimore City F,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,259.0,"3,189",1,0.0,0,0,0.0,0,0,259.0,"3,189",1
+2019,60667,Baltimore City G,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,260.0,"3,205",1,0.0,0,0,0.0,0,0,260.0,"3,205",1
+2019,62138,Barone CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,180.0,"1,590",1,0.0,0,0,0.0,0,0,180.0,"1,590",1
+2019,63298,"Barrette Outdoor Living, Inc.",62994,"Dynamic Energy Solutions, LLC",NJ,PJM,0.0,0,0,53.0,"2,105",1,0.0,0,0,0.0,0,0,53.0,"2,105",1
+2019,10298,Bayou Cogen Plant,327,Air Liquide Large Industries U S LP,TX,ERCO,0.0,0,0,0.0,0,0,"7,095.0","262,760",1,0.0,0,0,"7,095.0","262,760",1
+2019,55327,Baytown Energy Center,2838,Baytown Energy Center LLC,TX,ERCO,0.0,0,0,0.0,0,0,"51,876.0","1,768,941",1,0.0,0,0,"51,876.0","1,768,941",1
+2019,62074,"Bd of Educ of Queen Anne's Cnty, Cnty HS",60947,Tesla Inc.,MD,PJM,0.0,0,0,134.0,"2,087",1,0.0,0,0,0.0,0,0,134.0,"2,087",1
+2019,59546,Beaver Solar LLC,59287,Laurel Capital Partners,PA,PJM,0.0,0,0,0.0,0,0,103.0,"1,282",1,0.0,0,0,103.0,"1,282",1
+2019,62084,Becker Solar 2 CSG,60970,SunShare Management,MN,MISO,147.0,"1,023",227,0.0,0,0,0.0,0,0,0.0,0,0,147.0,"1,023",227
+2019,62085,Becker Solar 3 CSG,60970,SunShare Management,MN,MISO,147.0,998,238,0.0,0,0,0.0,0,0,0.0,0,0,147.0,998,238
+2019,62086,Becker Solar 4 CSG,60970,SunShare Management,MN,MISO,148.0,"1,078",246,0.0,0,0,0.0,0,0,0.0,0,0,148.0,"1,078",246
+2019,62087,Becker Solar 5 CSG,60970,SunShare Management,MN,MISO,85.0,668,136,42.0,398,1,0.0,0,0,0.0,0,0,127.0,"1,066",137
+2019,62040,Becker Solar CSG,60970,SunShare Management,MN,MISO,149.0,"1,035",240,0.0,0,0,0.0,0,0,0.0,0,0,149.0,"1,035",240
+2019,63262,Becton Canaan,63058,"DG Northeast 1, LLC",CT,ISNE,0.0,0,0,185.0,"2,215",1,0.0,0,0,0.0,0,0,185.0,"2,215",1
+2019,60653,Belchertown,60281,"Altus Power America Management, LLC",MA,ISNE,141.0,759,85,109.0,729,1,0.0,0,0,0.0,0,0,250.0,"1,488",86
+2019,58403,Bellingham PV,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,474.0,"4,507",1,0.0,0,0,0.0,0,0,474.0,"4,507",1
+2019,57733,Benjamin Moore & Co. Solar,57044,"Constellation Solar New Jersey, LLC",NJ,PJM,0.0,0,0,0.0,0,0,72.0,"1,963",1,0.0,0,0,72.0,"1,963",1
+2019,63200,"Bergenmand Solar Partners, LLC Mahwah",60474,"Vanguard Energy Partners, LLC",NJ,PJM,0.0,0,0,33.0,"1,493",1,0.0,0,0,0.0,0,0,33.0,"1,493",1
+2019,59097,Berry Plastics Solar,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,"1,232.0","15,728",1,0.0,0,0,"1,232.0","15,728",1
+2019,61671,Betcher Community Solar Garden,61256,Betcher CSG LLC,MN,MISO,187.0,"1,662",5,0.0,0,0,0.0,0,0,0.0,0,0,187.0,"1,662",5
+2019,61429,Big George PV CSG,60281,"Altus Power America Management, LLC",MA,ISNE,126.0,756,78,73.0,726,1,0.0,0,0,0.0,0,0,199.0,"1,482",79
+2019,62607,Bloomfield Municipal Utilities Solar,60571,AEP Onsite Partners,OH,,0.0,0,0,488.0,"1,819",1,0.0,0,0,0.0,0,0,488.0,"1,819",1
+2019,62077,Blue Shld Of Cal- El Dorado Hlls Mtr B,60947,Tesla Inc.,CA,BANC,0.0,0,0,183.0,"1,323",1,0.0,0,0,0.0,0,0,183.0,"1,323",1
+2019,62194,Bolduan CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,174.0,"1,546",1,0.0,0,0,0.0,0,0,174.0,"1,546",1
+2019,56862,Bolthouse S&P and Rowen Farms Solar,56105,MMA WBF Power LP,CA,CISO,0.0,0,0,576.0,"3,325",1,0.0,0,0,0.0,0,0,576.0,"3,325",1
+2019,59014,Bolton PV,58863,Main Street Power,MA,ISNE,0.0,0,0,"2,582.0","6,987",1,0.0,0,0,0.0,0,0,"2,582.0","6,987",1
+2019,61915,Bowie State Solar,63249,Terraform Arcadia,MD,PJM,0.0,0,0,37.0,404,1,0.0,0,0,0.0,0,0,37.0,404,1
+2019,58327,Bradley Energy Center,58300,Ameresco Select Inc,CT,ISNE,0.0,0,0,"1,859.0","16,573",1,0.0,0,0,0.0,0,0,"1,859.0","16,573",1
+2019,62157,Breesport Road Community Solar Farm,62706,"NY Baldwin I, LLC",NY,NYIS,33.0,344,170,0.0,0,0,0.0,0,0,0.0,0,0,33.0,344,170
+2019,60451,Brookside,63249,Terraform Arcadia,RI,ISNE,0.0,0,0,210.0,"1,401",1,0.0,0,0,0.0,0,0,210.0,"1,401",1
+2019,60507,Broome County,60947,Tesla Inc.,NY,NYIS,0.0,0,0,177.0,"2,483",1,0.0,0,0,0.0,0,0,177.0,"2,483",1
+2019,58037,Buckeye Union HS District 201,57408,Constellation Solar Arizona LLC,AZ,AZPS,0.0,0,0,895.0,"7,211",1,0.0,0,0,0.0,0,0,895.0,"7,211",1
+2019,62712,Burlington Coat Factory Solar,62155,"DG Northeast Solar II, LLC",NJ,PJM,0.0,0,0,"1,361.0","4,568",1,0.0,0,0,0.0,0,0,"1,361.0","4,568",1
+2019,58618,Butler Plaza,58570,CF Gainesville Owner One LLC,FL,GVL,0.0,0,0,447.0,"1,238",1,0.0,0,0,0.0,0,0,447.0,"1,238",1
+2019,52147,C P Kelco San Diego Plant,3221,CPKelco U S Inc,CA,CISO,0.0,0,0,0.0,0,0,6.0,72,1,0.0,0,0,6.0,72,1
+2019,60428,CA Dept of Public Health at Richmond,58540,California PV Energy LLC,CA,CISO,0.0,0,0,420.0,"4,205",1,0.0,0,0,0.0,0,0,420.0,"4,205",1
+2019,62613,CBP Solar,62067,EnterSolar,NY,NYIS,313.0,"1,709",765,0.0,0,0,0.0,0,0,0.0,0,0,313.0,"1,709",765
+2019,58440,CBS Studio Center,59413,Crestmark Bank,CA,LDWP,0.0,0,0,"1,465.0","8,762",2,0.0,0,0,0.0,0,0,"1,465.0","8,762",2
+2019,60036,CCBC-Catonsville,58491,"Constellation Solar Holding, LLC",MD,PJM,0.0,0,0,223.0,"2,787",1,0.0,0,0,0.0,0,0,223.0,"2,787",1
+2019,59248,CCMUA,59063,"Camden Solar Center, LLC",NJ,PJM,0.0,0,0,88.0,"1,804",1,0.0,0,0,0.0,0,0,88.0,"1,804",1
+2019,61620,CDCR (CA) - Corcoran State Prison,61225,"SunE Corcoran SP Owner, LLC",CA,CISO,0.0,0,0,969.0,"9,688",1,0.0,0,0,0.0,0,0,969.0,"9,688",1
+2019,59748,CDCR (CA) - Pleasant Valley State Prison,59512,"Team-Solar, Inc.",CA,CISO,0.0,0,0,303.0,"3,025",1,0.0,0,0,0.0,0,0,303.0,"3,025",1
+2019,61619,CDCR (CA) - Solano State Prison,61224,"SunE Solano SP Owner, LLC",CA,CISO,0.0,0,0,279.0,"2,261",1,0.0,0,0,0.0,0,0,279.0,"2,261",1
+2019,61621,CDCR (CA) - Wasco State Prison,61226,"SunE Wasco SP Owner, LLC",CA,CISO,0.0,0,0,346.0,"3,455",1,0.0,0,0,0.0,0,0,346.0,"3,455",1
+2019,60201,CES Cherry Hill Solar,57365,Consolidated Edison Solutions Inc,NJ,PJM,0.0,0,0,0.0,0,0,244.0,"1,835",1,0.0,0,0,244.0,"1,835",1
+2019,60029,CES VMT Solar,57365,Consolidated Edison Solutions Inc,MD,PJM,0.0,0,0,0.0,0,0,165.0,"1,539",1,0.0,0,0,165.0,"1,539",1
+2019,60225,CMEEC - Bozrah,60947,Tesla Inc.,CT,ISNE,0.0,0,0,441.0,"2,387",1,0.0,0,0,0.0,0,0,441.0,"2,387",1
+2019,60608,CMEEC - Navy NE Trident,60947,Tesla Inc.,CT,ISNE,0.0,0,0,238.0,"1,396",1,0.0,0,0,0.0,0,0,238.0,"1,396",1
+2019,60609,CMEEC - Norwich Stott St Solar Hybrid,60947,Tesla Inc.,CT,ISNE,0.0,0,0,759.0,"4,738",1,0.0,0,0,0.0,0,0,759.0,"4,738",1
+2019,60607,CMEEC - Polaris Park Solar Hybrid,60947,Tesla Inc.,CT,ISNE,0.0,0,0,770.0,"5,220",1,0.0,0,0,0.0,0,0,770.0,"5,220",1
+2019,60605,CMEEC - Rogers Rd Solar,60947,Tesla Inc.,CT,ISNE,0.0,0,0,287.0,"1,617",1,0.0,0,0,0.0,0,0,287.0,"1,617",1
+2019,54323,CNN Center,18452,Turner Properties Inc,GA,SOCO,0.0,0,0,802.0,"10,150",21,0.0,0,0,0.0,0,0,802.0,"10,150",21
+2019,59130,CSD 2 - Heritage High,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,501.0,"2,002",1,0.0,0,0,0.0,0,0,501.0,"2,002",1
+2019,59129,CSD 2- Freedom High,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,372.0,"1,483",1,0.0,0,0,0.0,0,0,372.0,"1,483",1
+2019,56813,CSU Fresno Solar Project,56028,MMA Fresno Power LP,CA,CISO,0.0,0,0,296.0,"1,485",1,0.0,0,0,0.0,0,0,296.0,"1,485",1
+2019,62028,CSU Long Beach Lots 7 & 14,61601,"Solar Star California XLVII, LLC",CA,CISO,0.0,0,0,"1,439.0","7,289",1,0.0,0,0,0.0,0,0,"1,439.0","7,289",1
+2019,58481,CSU Pueblo,58467,"SSA Solar of CO 1, LLC",CO,WACM,0.0,0,0,107.0,"1,801",1,0.0,0,0,0.0,0,0,107.0,"1,801",1
+2019,60979,CSUF Nutwood Solar,60630,"Solar Star California XLVIII, LLC",CA,CISO,0.0,0,0,571.0,"3,048",1,0.0,0,0,0.0,0,0,571.0,"3,048",1
+2019,60978,CSUF State College,60630,"Solar Star California XLVIII, LLC",CA,CISO,0.0,0,0,309.0,"1,650",1,0.0,0,0,0.0,0,0,309.0,"1,650",1
+2019,58386,CU Solar Plant,58373,CU Solar LLC,OH,PJM,0.0,0,0,244.0,"2,115",1,0.0,0,0,0.0,0,0,244.0,"2,115",1
+2019,59283,California PV Energy at ISD WWTP,58540,California PV Energy LLC,CA,CISO,0.0,0,0,0.0,0,0,256.0,"1,965",1,0.0,0,0,256.0,"1,965",1
+2019,55308,Calvert City,57295,DTE Calvert City LLC,KY,TVA,0.0,0,0,0.0,0,0,"7,022.0","128,106",3,0.0,0,0,"7,022.0","128,106",3
+2019,60452,Calverton,63249,Terraform Arcadia,NY,NYIS,0.0,0,0,578.0,"2,625",1,0.0,0,0,0.0,0,0,578.0,"2,625",1
+2019,61604,Camden CSD Solar Array,60571,AEP Onsite Partners,NY,NYIS,0.0,0,0,206.0,"2,255",1,0.0,0,0,0.0,0,0,206.0,"2,255",1
+2019,60685,Canyon Del Oro High School Solar,60404,"Constellation Solar Arizona 2, LLC",AZ,TEPC,0.0,0,0,294.0,"2,912",1,0.0,0,0,0.0,0,0,294.0,"2,912",1
+2019,59297,Carrier Clinic,59100,"Sunlight General Solar Fund II, LLC",NJ,PJM,0.0,0,0,155.0,"1,938",1,0.0,0,0,0.0,0,0,155.0,"1,938",1
+2019,62763,Carver CSG,62670,"Carver MA 2, LLC",MA,ISNE,139.0,"1,446",61,0.0,0,0,0.0,0,0,0.0,0,0,139.0,"1,446",61
+2019,60353,Cecil County CCVT HS,60150,"SunE DB42, LLC",MD,PJM,0.0,0,0,242.0,"3,400",1,0.0,0,0,0.0,0,0,242.0,"3,400",1
+2019,61376,Cedar Creek PV,61012,AES Distributed Energy,NY,NYIS,0.0,0,0,513.0,"3,041",1,0.0,0,0,0.0,0,0,513.0,"3,041",1
+2019,60757,Cedarville CSG,60281,"Altus Power America Management, LLC",MA,ISNE,296.0,"1,774",183,279.0,"2,647",3,0.0,0,0,0.0,0,0,575.0,"4,421",186
+2019,59630,CentraState Medical Center PV Facility,62060,CleanCapital,NJ,PJM,0.0,0,0,547.0,"7,991",1,0.0,0,0,0.0,0,0,547.0,"7,991",1
+2019,63439,Central CA Fuel Cell 1,61939,"Clearway Energy, Inc",CA,CISO,0.0,0,0,0.0,0,0,"1,319.0","17,721",1,0.0,0,0,"1,319.0","17,721",1
+2019,58151,Central Utility Plant - Texas A&M,58113,"Texas A&M, Utilities & Energy Services",TX,ERCO,0.0,0,0,"3,403.0","43,631",30,959.0,"12,288",26,0.0,0,0,"4,362.0","55,919",56
+2019,10566,Chambers Cogeneration LP,14932,US Operating Services Company,NJ,PJM,0.0,0,0,0.0,0,0,"6,783.0","58,500",1,0.0,0,0,"6,783.0","58,500",1
+2019,55187,Channelview Cogeneration Plant,56380,EIF Channelview Cogeneration LLC,TX,ERCO,0.0,0,0,0.0,0,0,"63,107.0","2,241,148",1,0.0,0,0,"63,107.0","2,241,148",1
+2019,60465,Chesapeake College,60947,Tesla Inc.,MD,PJM,0.0,0,0,115.0,"2,450",1,0.0,0,0,0.0,0,0,115.0,"2,450",1
+2019,59755,Chester Power Partners,59522,Chester Power Partners LLC,VT,ISNE,0.0,0,0,639.0,"2,716",1,0.0,0,0,0.0,0,0,639.0,"2,716",1
+2019,59743,Chimes West Friendship (Nixon Farms),59540,"SunE SEM 1, LLC",MD,PJM,0.0,0,0,187.0,"1,745",1,0.0,0,0,0.0,0,0,187.0,"1,745",1
+2019,57011,Chuckawalla Valley State Prison,56302,SunE CPA CDC1 LLC,CA,CISO,0.0,0,0,173.0,"1,807",1,0.0,0,0,0.0,0,0,173.0,"1,807",1
+2019,57645,City & County of Denver at Denver Int'l,56974,"Denver Airport Solar, LLC",CO,PSCO,0.0,0,0,0.0,0,0,289.0,"6,740",1,0.0,0,0,289.0,"6,740",1
+2019,57681,City of Boulder WWTP,57005,"SunE NLB-2, LLC",CO,PSCO,0.0,0,0,56.0,"1,380",1,0.0,0,0,0.0,0,0,56.0,"1,380",1
+2019,60668,City of Havre De Grace C,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,302.0,"3,506",1,0.0,0,0,0.0,0,0,302.0,"3,506",1
+2019,57682,City of Madera WWTP,57006,"SunE GIL1, LLC",CA,CISO,0.0,0,0,159.0,"1,056",1,0.0,0,0,0.0,0,0,159.0,"1,056",1
+2019,59329,City of Soledad Water Reclamation,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,418.0,"4,314",1,0.0,0,0,418.0,"4,314",1
+2019,58832,Cogenra - TEP,63249,Terraform Arcadia,AZ,TEPC,0.0,0,0,221.0,"2,094",1,0.0,0,0,0.0,0,0,221.0,"2,094",1
+2019,60228,Conn Mun Electric Energy Coop,60947,Tesla Inc.,CT,ISNE,0.0,0,0,200.0,"1,094",1,0.0,0,0,0.0,0,0,200.0,"1,094",1
+2019,63358,Corbin Russwin Phase 3 Berlin,62067,EnterSolar,CT,ISNE,0.0,0,0,74.0,"1,051",1,0.0,0,0,0.0,0,0,74.0,"1,051",1
+2019,60450,Corcoran,63249,Terraform Arcadia,CA,CISO,0.0,0,0,365.0,"1,919",1,0.0,0,0,0.0,0,0,365.0,"1,919",1
+2019,61971,Corcoran CSG,60281,"Altus Power America Management, LLC",MN,MISO,901.0,"6,916","3,760",0.0,0,0,0.0,0,0,0.0,0,0,901.0,"6,916","3,760"
+2019,60150,Cornell Geneva Solar Farm,59942,Argos Solar LLC,NY,NYIS,0.0,0,0,322.0,"3,082",1,0.0,0,0,0.0,0,0,322.0,"3,082",1
+2019,59470,Cornell Snyder Road Solar Array,59237,"Ulysses Solar, LLC",NY,NYIS,0.0,0,0,154.0,"2,018",1,0.0,0,0,0.0,0,0,154.0,"2,018",1
+2019,61977,Cornillie,63249,Terraform Arcadia,MN,MISO,0.0,0,0,158.0,"1,436",1,0.0,0,0,0.0,0,0,158.0,"1,436",1
+2019,58359,Corning Pharmaceutical Glass,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,259.0,"3,492",1,0.0,0,0,0.0,0,0,259.0,"3,492",1
+2019,55206,Corpus Christi Energy Center,4383,Corpus Christi Cogeneration LLC,TX,ERCO,0.0,0,0,0.0,0,0,"14,365.0","464,310",1,0.0,0,0,"14,365.0","464,310",1
+2019,58881,County College of Morris,58753,Sunlight General Morris Solar LLC,NJ,PJM,0.0,0,0,269.0,"3,842",1,0.0,0,0,0.0,0,0,269.0,"3,842",1
+2019,60453,"Cummins, Inc",63249,Terraform Arcadia,NY,NYIS,0.0,0,0,135.0,"1,848",1,0.0,0,0,0.0,0,0,135.0,"1,848",1
+2019,63486,D'Arrigo Brothers - Phase 4,63226,CalCom Energy,CA,CISO,0.0,0,0,455.0,"3,500",1,0.0,0,0,0.0,0,0,455.0,"3,500",1
+2019,63492,DCO Burlington,63218,DCO Burlington,NJ,PJM,0.0,0,0,0.0,0,0,"1,756.0","16,763",1,0.0,0,0,"1,756.0","16,763",1
+2019,60754,DDR Shoppers World,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,338.0,"1,708",1,0.0,0,0,0.0,0,0,338.0,"1,708",1
+2019,63286,DG Amaze ACY1,63071,"DG Amaze New Jersey, LLC",NJ,PJM,0.0,0,0,11.0,"3,441",1,0.0,0,0,0.0,0,0,11.0,"3,441",1
+2019,61515,DG Camden LLC Holtec,61113,"DG Camden, LLC",NJ,PJM,0.0,0,0,0.0,0,0,156.0,"4,014",1,0.0,0,0,156.0,"4,014",1
+2019,61507,DG New Jersey Solar RLS Logistics,61111,"DG New Jersey Solar, LLC",NJ,PJM,0.0,0,0,0.0,0,0,413.0,"5,491",1,0.0,0,0,413.0,"5,491",1
+2019,59746,DSH (CA) - Coalinga State Hospital,59512,"Team-Solar, Inc.",CA,CISO,0.0,0,0,561.0,"4,666",1,0.0,0,0,0.0,0,0,561.0,"4,666",1
+2019,62713,DSM Nutritional Products Solar,62155,"DG Northeast Solar II, LLC",NJ,PJM,0.0,0,0,0.0,0,0,468.0,"11,392",1,0.0,0,0,468.0,"11,392",1
+2019,60739,DSM Solar,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,266.0,"6,252",1,0.0,0,0,266.0,"6,252",1
+2019,61849,Danville,63249,Terraform Arcadia,VA,PJM,0.0,0,0,946.0,"13,045",1,0.0,0,0,0.0,0,0,946.0,"13,045",1
+2019,59131,Dartmouth Landfill,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,130.0,"1,625",1,0.0,0,0,0.0,0,0,130.0,"1,625",1
+2019,61116,Delano Land 1,60728,"Delano Land 1, LLC",CA,CISO,0.0,0,0,190.0,"2,023",1,0.0,0,0,0.0,0,0,190.0,"2,023",1
+2019,61637,Denison Solar Array,60571,AEP Onsite Partners,OH,PJM,0.0,0,0,295.0,"2,325",1,0.0,0,0,0.0,0,0,295.0,"2,325",1
+2019,56815,Denver Int Airport,56026,MMA DAS Power,CO,PSCO,0.0,0,0,270.0,"2,092",1,0.0,0,0,0.0,0,0,270.0,"2,092",1
+2019,59462,Denver Intl Airport IV Solar,59229,Denver Int'l Airport IV Solar,CO,SWPP,0.0,0,0,296.0,"3,000",1,0.0,0,0,0.0,0,0,296.0,"3,000",1
+2019,60861,Dept of General Services -FTB,60518,"California PV Energy 2, LLC",CA,BANC,0.0,0,0,522.0,"5,223",1,0.0,0,0,0.0,0,0,522.0,"5,223",1
+2019,62946,Dickinson Solar,62795,"Dickinson Solar, LLC",NJ,PJM,0.0,0,0,393.0,"5,008",1,0.0,0,0,0.0,0,0,393.0,"5,008",1
+2019,57827,Dinuba Wastewater Treatment Plant,58661,"Sustainable Power Group, LLC",CA,CISO,0.0,0,0,336.0,"1,594",1,0.0,0,0,0.0,0,0,336.0,"1,594",1
+2019,59094,Division 1,60947,Tesla Inc.,CA,CISO,0.0,0,0,397.0,"3,095",1,0.0,0,0,0.0,0,0,397.0,"3,095",1
+2019,59095,Division 2,60947,Tesla Inc.,CA,CISO,0.0,0,0,239.0,"1,938",1,0.0,0,0,0.0,0,0,239.0,"1,938",1
+2019,59096,Division 3,60947,Tesla Inc.,CA,CISO,0.0,0,0,252.0,"2,013",1,0.0,0,0,0.0,0,0,252.0,"2,013",1
+2019,60930,Dublin Solar I,60581,"Dublin Solar I, LLC",GA,,0.0,0,0,593.0,"6,982",1,0.0,0,0,0.0,0,0,593.0,"6,982",1
+2019,62324,Dynamic - Walpole,61012,AES Distributed Energy,MA,ISNE,0.0,0,0,849.0,"3,020",1,0.0,0,0,0.0,0,0,849.0,"3,020",1
+2019,60446,E&B Resources,63249,Terraform Arcadia,CA,CISO,0.0,0,0,234.0,"2,018",1,0.0,0,0,0.0,0,0,234.0,"2,018",1
+2019,59132,EAFB - North Base,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,397.0,"2,482",1,0.0,0,0,0.0,0,0,397.0,"2,482",1
+2019,59133,EAFB - South Base,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,396.0,"2,475",1,0.0,0,0,0.0,0,0,396.0,"2,475",1
+2019,63485,ECP Uptown Campus,63220,ECP Uptown Campus LLC,PA,PJM,0.0,0,0,"1,111.0","20,567",1,0.0,0,0,0.0,0,0,"1,111.0","20,567",1
+2019,57574,ETS Ewing Solar Facility,56915,"Solar Star New Jersey IV, LLC",NJ,PJM,0.0,0,0,645.0,"2,237",1,0.0,0,0,0.0,0,0,645.0,"2,237",1
+2019,60727,East Orange Solar,61944,GSRP,NJ,PJM,0.0,0,0,266.0,"6,194",1,0.0,0,0,0.0,0,0,266.0,"6,194",1
+2019,58272,Easthampton Landfill-City of Easthampton,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,159.0,"2,646",1,0.0,0,0,0.0,0,0,159.0,"2,646",1
+2019,59134,Easton Landfill,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,223.0,"2,338",1,0.0,0,0,0.0,0,0,223.0,"2,338",1
+2019,58076,Edwards Air Force Base,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,397.0,"2,481",1,0.0,0,0,0.0,0,0,397.0,"2,481",1
+2019,60795,Eichtens Community Solar,63249,Terraform Arcadia,MN,MISO,0.0,0,0,562.0,"5,298",1,0.0,0,0,0.0,0,0,562.0,"5,298",1
+2019,62137,Eichtens II CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,170.0,"1,535",1,0.0,0,0,0.0,0,0,170.0,"1,535",1
+2019,60985,Elizabethtown Solar,60620,Elizabethtown Solar LLC,PA,PJM,0.0,0,0,240.0,"2,355",1,0.0,0,0,0.0,0,0,240.0,"2,355",1
+2019,59367,Engelhard Solar LLC,58258,SunRay Power LLC,NJ,PJM,0.0,0,0,0.0,0,0,82.0,910,1,0.0,0,0,82.0,910,1
+2019,60230,Estrella Mountain PV,60947,Tesla Inc.,AZ,AZPS,0.0,0,0,190.0,"3,722",1,0.0,0,0,0.0,0,0,190.0,"3,722",1
+2019,59393,Eubank Landfill Solar Array,59171,"Suncore Photovoltaics, Inc",NM,PNM,0.0,0,0,0.0,0,0,876.0,"3,293",1,0.0,0,0,876.0,"3,293",1
+2019,58261,FAA NorCal TRACON,58238,Enfinity NorCal 1 FAA LLC,CA,BANC,0.0,0,0,149.0,"1,435",1,0.0,0,0,0.0,0,0,149.0,"1,435",1
+2019,57506,FRV SI Transport Solar LP,61219,Longroad Energy Services LLC,CA,CISO,0.0,0,0,579.0,"3,083",1,0.0,0,0,0.0,0,0,579.0,"3,083",1
+2019,57747,FedEx Field Solar Facility,57052,NRG Solar Arrowhead LLC,MD,PJM,0.0,0,0,323.0,"2,167",1,0.0,0,0,0.0,0,0,323.0,"2,167",1
+2019,57776,FedEx Woodbridge,58316,SSA Solar of NJ LLC,NJ,PJM,0.0,0,0,148.0,"2,275",1,0.0,0,0,0.0,0,0,148.0,"2,275",1
+2019,60065,"Federal Road Solar 1, LLC CSG",59804,"Federal Road Solar 1, LLC",MA,ISNE,0.0,0,0,776.0,"7,334",6,0.0,0,0,0.0,0,0,776.0,"7,334",6
+2019,62043,First Baptist Church of Glenarden,61620,IOS II LLC,MD,PJM,0.0,0,0,249.0,"2,800",1,0.0,0,0,0.0,0,0,249.0,"2,800",1
+2019,61690,Foreman's Hill Community Solar,61304,Foreman's Hill CSG LLC,MN,MISO,787.0,"7,283",10,0.0,0,0,0.0,0,0,0.0,0,0,787.0,"7,283",10
+2019,57791,Foundation AB,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0.0,0,0,0.0,0,0,190.0,"2,729",1,0.0,0,0,190.0,"2,729",1
+2019,61066,Foundation CDCR LAC,60690,"Foundation CA Fund VIII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,403.0,"4,532",1,0.0,0,0,403.0,"4,532",1
+2019,61442,Foundation California Training Facility,61070,"Foundation CA Fund IX Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,506.0,"5,557",1,0.0,0,0,506.0,"5,557",1
+2019,58102,Foundation Cemex BMQ,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0.0,0,0,0.0,0,0,312.0,"3,862",1,0.0,0,0,312.0,"3,862",1
+2019,58112,Foundation Cemex Madison,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,153.0,"1,712",1,0.0,0,0,153.0,"1,712",1
+2019,58101,Foundation Cemex River Plant,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0.0,0,0,0.0,0,0,260.0,"3,220",1,0.0,0,0,260.0,"3,220",1
+2019,57792,Foundation IE,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0.0,0,0,0.0,0,0,46.0,43,1,0.0,0,0,46.0,43,1
+2019,61443,Foundation Mann Packing,61070,"Foundation CA Fund IX Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,356.0,"4,186",0,0.0,0,0,356.0,"4,186",0
+2019,58114,Foundation NWNA,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,"1,258.0","18,387",1,0.0,0,0,"1,258.0","18,387",1
+2019,58113,Foundation RRM,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,445.0,"8,716",1,0.0,0,0,445.0,"8,716",1
+2019,57626,Foundation ST,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0.0,0,0,0.0,0,0,217.0,"2,693",1,0.0,0,0,217.0,"2,693",1
+2019,61444,Foundation SaIinas Valley State Prison,61070,"Foundation CA Fund IX Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,377.0,"5,464",1,0.0,0,0,377.0,"5,464",1
+2019,61067,Foundation Scheid Vineyards,60690,"Foundation CA Fund VIII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,314.0,"4,040",1,0.0,0,0,314.0,"4,040",1
+2019,58104,Foundation Superior Farms,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0.0,0,0,0.0,0,0,122.0,"1,484",1,0.0,0,0,122.0,"1,484",1
+2019,58105,Foundation Wal-Mart Red Bluff,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0.0,0,0,0.0,0,0,128.0,"1,620",1,0.0,0,0,128.0,"1,620",1
+2019,62287,Francisco St. Solar,61812,AES LA FiT Francisco LLC,CA,LDWP,0.0,0,0,319.0,"2,204",1,0.0,0,0,0.0,0,0,319.0,"2,204",1
+2019,63496,Frederick County - Landfill,60947,Tesla Inc.,MD,PJM,0.0,0,0,71.0,"1,088",1,0.0,0,0,0.0,0,0,71.0,"1,088",1
+2019,60759,Freeze Solar,56997,Marina Energy LLC,NJ,PJM,0.0,0,0,0.0,0,0,215.0,"1,871",1,0.0,0,0,215.0,"1,871",1
+2019,59472,Ft. Churchill PV,57369,"Apple, Inc",NV,NEVP,0.0,0,0,"1,457.0","36,412",1,0.0,0,0,0.0,0,0,"1,457.0","36,412",1
+2019,61102,"GASNA 18P, LLC",57354,X-Elio North America Inc,PR,NA,0.0,0,0,"1,449.0","6,900",1,0.0,0,0,0.0,0,0,"1,449.0","6,900",1
+2019,58576,GSE NM1,60281,"Altus Power America Management, LLC",NM,SWPP,0.0,0,0,151.0,"3,578",3,0.0,0,0,0.0,0,0,151.0,"3,578",3
+2019,56909,Gap Pacific Distribution Center,61944,GSRP,CA,CISO,0.0,0,0,165.0,"1,010",1,0.0,0,0,0.0,0,0,165.0,"1,010",1
+2019,62680,Garfield Solar,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,67.0,877,2,0.0,0,0,0.0,0,0,67.0,877,2
+2019,62843,Garnet Solar (NY),60571,AEP Onsite Partners,NY,NYIS,0.0,0,0,264.0,"2,806",1,0.0,0,0,0.0,0,0,264.0,"2,806",1
+2019,60847,Garrett County - DPU Treatment Plant,60947,Tesla Inc.,MD,PJM,0.0,0,0,105.0,"1,613",1,0.0,0,0,0.0,0,0,105.0,"1,613",1
+2019,61794,Gateway Solar,61419,"Constellation Solar MC, LLC",DE,PJM,0.0,0,0,356.0,"7,921",1,0.0,0,0,0.0,0,0,356.0,"7,921",1
+2019,50333,Gay Robinson,7019,Gay & Robinson Inc,HI,NA,7.0,100,9,54.0,236,6,0.0,0,0,0.0,0,0,61.0,336,15
+2019,60844,Genentech Vacaville Meter #1,60947,Tesla Inc.,CA,CISO,0.0,0,0,895.0,"12,499",1,0.0,0,0,0.0,0,0,895.0,"12,499",1
+2019,60231,Genentech-Oceanside Hybrid,60947,Tesla Inc.,CA,CISO,0.0,0,0,674.0,"6,641",1,0.0,0,0,0.0,0,0,674.0,"6,641",1
+2019,59841,General Motors Corp at White Marsh MD,56975,"Constellation Solar Maryland, LLC",MD,PJM,0.0,0,0,0.0,0,0,146.0,"1,292",1,0.0,0,0,146.0,"1,292",1
+2019,58543,"Gilbert Solar Facility I, LLC",58514,"Gilbert Solar Facility I, LLC",AZ,AZPS,0.0,0,0,317.0,"3,541",1,0.0,0,0,0.0,0,0,317.0,"3,541",1
+2019,62663,Gilcrest Solar,63249,Terraform Arcadia,CO,WACM,0.0,0,0,207.0,"3,348",1,0.0,0,0,0.0,0,0,207.0,"3,348",1
+2019,60752,Gloucester Community College Solar,61944,GSRP,NJ,PJM,0.0,0,0,324.0,"3,378",1,0.0,0,0,0.0,0,0,324.0,"3,378",1
+2019,59328,Golden Acorn Casino,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,242.0,"4,303",1,0.0,0,0,242.0,"4,303",1
+2019,60124,Goldfinch,60972,NRG DG Lakeland LLC,FL,FMPP,0.0,0,0,616.0,"5,215",1,0.0,0,0,0.0,0,0,616.0,"5,215",1
+2019,60463,Greene County Meter #1,60947,Tesla Inc.,NY,ISNE,0.0,0,0,25.0,385,1,0.0,0,0,0.0,0,0,25.0,385,1
+2019,62759,Greenville CSG,62674,"Greenville NY 1, LLC",NY,NYIS,113.0,736,15,0.0,0,0,0.0,0,0,0.0,0,0,113.0,736,15
+2019,61689,Grimm Community Solar,61303,Grimm CSG LLC,MN,MISO,197.0,"1,715",5,0.0,0,0,0.0,0,0,0.0,0,0,197.0,"1,715",5
+2019,61208,Gulfport Naval Base CSG PV System,57081,"WGL Energy Systems, Inc",MS,SOCO,0.0,0,0,399.0,"5,325",1,0.0,0,0,0.0,0,0,399.0,"5,325",1
+2019,62195,Guse CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,171.0,"1,514",1,0.0,0,0,0.0,0,0,171.0,"1,514",1
+2019,61722,HEBT Irvine 1,61344,Advanced Microgrid Solutions,CA,CISO,0.0,0,0,.,997,1,0.0,0,0,0.0,0,0,0.0,997,1
+2019,61723,HEBT Irvine 2,61344,Advanced Microgrid Solutions,CA,CISO,0.0,0,0,.,"1,938",1,0.0,0,0,0.0,0,0,0.0,"1,938",1
+2019,61721,HEBT WLA 1,61344,Advanced Microgrid Solutions,CA,CISO,0.0,0,0,.,"5,254",10,0.0,0,0,0.0,0,0,0.0,"5,254",10
+2019,56877,Hall's Warehouse Solar Project,59100,"Sunlight General Solar Fund II, LLC",NJ,PJM,0.0,0,0,156.0,"1,557",1,0.0,0,0,0.0,0,0,156.0,"1,557",1
+2019,60494,Hampden,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,748.0,"5,403",2,0.0,0,0,0.0,0,0,748.0,"5,403",2
+2019,60815,Hampshire College Hybrid,60947,Tesla Inc.,MA,ISNE,0.0,0,0,298.0,"4,764",1,0.0,0,0,0.0,0,0,298.0,"4,764",1
+2019,61030,Harford Solar Farm,60669,Laertes Solar LLC,NY,NYIS,0.0,0,0,313.0,"2,986",1,0.0,0,0,0.0,0,0,313.0,"2,986",1
+2019,52061,Hartford Hospital Cogeneration,8153,Hartford Steam Co,CT,ISNE,0.0,0,0,0.0,0,0,"4,231.0","51,335",1,0.0,0,0,"4,231.0","51,335",1
+2019,60909,Hartford Landfill Solar EGF,60166,Materials Innovation Recycling Authority,CT,ISNE,0.0,0,0,68.0,"1,504",1,0.0,0,0,0.0,0,0,68.0,"1,504",1
+2019,60501,Hartz Way,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,202.0,"1,226",1,0.0,0,0,0.0,0,0,202.0,"1,226",1
+2019,60708,Havre de Grace II - E at Perryman,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,125.0,"2,079",1,0.0,0,0,0.0,0,0,125.0,"2,079",1
+2019,62438,Heller 400M,56997,Marina Energy LLC,NJ,PJM,0.0,0,0,132.0,"1,435",1,0.0,0,0,0.0,0,0,132.0,"1,435",1
+2019,57869,Heller Industrial Parks,56997,Marina Energy LLC,NJ,PJM,0.0,0,0,571.0,"6,081",1,0.0,0,0,0.0,0,0,571.0,"6,081",1
+2019,60099,"Hewlett-Packard (HP) - Andover, MA",60947,Tesla Inc.,MA,ISNE,0.0,0,0,130.0,"2,266",1,0.0,0,0,0.0,0,0,130.0,"2,266",1
+2019,10036,Hillsborough Hosiery,56590,Silverstreet Hydro,MA,ISNE,0.0,0,0,277.0,"4,212",1,0.0,0,0,0.0,0,0,277.0,"4,212",1
+2019,62725,Homer Street East,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,166.0,"1,555",1,0.0,0,0,0.0,0,0,166.0,"1,555",1
+2019,62724,Homer Street West,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,164.0,"1,534",1,0.0,0,0,0.0,0,0,164.0,"1,534",1
+2019,62760,Hopkinton CSG,62673,"Hopkinton MA 1, LLC",MA,ISNE,244.0,"1,804",60,0.0,0,0,0.0,0,0,0.0,0,0,244.0,"1,804",60
+2019,60454,Houghton,63249,Terraform Arcadia,NY,NYIS,0.0,0,0,228.0,"2,880",1,0.0,0,0,0.0,0,0,228.0,"2,880",1
+2019,62139,Huneke II CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,173.0,"1,554",1,0.0,0,0,0.0,0,0,173.0,"1,554",1
+2019,62225,Hunterdon Health System Solar Project,61740,"NJ Solar 1, LLC",NJ,PJM,0.0,0,0,90.0,"1,772",1,0.0,0,0,0.0,0,0,90.0,"1,772",1
+2019,63869,IBM Solar,60293,"DG Colorado Solar, LLC",CO,PSCO,0.0,0,0,337.0,"6,445",1,0.0,0,0,0.0,0,0,337.0,"6,445",1
+2019,60709,IFF Hazlet,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,298.0,"4,704",1,0.0,0,0,298.0,"4,704",1
+2019,62306,IFF Union Beach Project,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,242.0,"3,020",1,0.0,0,0,0.0,0,0,242.0,"3,020",1
+2019,61465,IGS Solar I - BWI2,61077,"IGS ORIX Solar I, LLC",MD,PJM,0.0,0,0,225.0,"2,646",1,0.0,0,0,0.0,0,0,225.0,"2,646",1
+2019,61358,IGS Solar I - BWI5,60994,"IGS Solar I, LLC",MD,PJM,0.0,0,0,27.0,303,1,0.0,0,0,0.0,0,0,27.0,303,1
+2019,61359,IGS Solar I - EWR5,60994,"IGS Solar I, LLC",NJ,PJM,0.0,0,0,121.0,"3,661",1,0.0,0,0,0.0,0,0,121.0,"3,661",1
+2019,61360,IGS Solar I - EWR6,60994,"IGS Solar I, LLC",NJ,PJM,0.0,0,0,116.0,"3,302",1,0.0,0,0,0.0,0,0,116.0,"3,302",1
+2019,59424,IND Solar Farm (Phase IIA),63249,Terraform Arcadia,IN,MISO,0.0,0,0,"2,538.0","12,689",1,0.0,0,0,0.0,0,0,"2,538.0","12,689",1
+2019,59823,INDY III,63249,Terraform Arcadia,IN,MISO,0.0,0,0,826.0,"4,131",1,0.0,0,0,0.0,0,0,826.0,"4,131",1
+2019,61466,IOS - ERW9,61077,"IGS ORIX Solar I, LLC",NJ,PJM,0.0,0,0,363.0,"8,842",1,0.0,0,0,0.0,0,0,363.0,"8,842",1
+2019,61692,IVC Solar,60059,ZGlobal Inc,CA,IID,0.0,0,0,383.0,"4,090",1,0.0,0,0,0.0,0,0,383.0,"4,090",1
+2019,59631,Imclone Solar Electric Facility,63069,CVI CleanCapital Solar 5 LLC,NJ,PJM,0.0,0,0,740.0,"12,342",1,0.0,0,0,0.0,0,0,740.0,"12,342",1
+2019,59834,Indy Grocers,63249,Terraform Arcadia,IN,MISO,0.0,0,0,241.0,"1,202",1,0.0,0,0,0.0,0,0,241.0,"1,202",1
+2019,60822,Intel - Ocotillo Campus Solar,60947,Tesla Inc.,AZ,AZPS,0.0,0,0,703.0,"3,804",1,0.0,0,0,0.0,0,0,703.0,"3,804",1
+2019,58086,Intel Folsom,60947,Tesla Inc.,CA,BANC,0.0,0,0,113.0,"1,514",1,0.0,0,0,0.0,0,0,113.0,"1,514",1
+2019,58954,Intel Folsom Phase 2,60947,Tesla Inc.,CA,BANC,0.0,0,0,149.0,"1,580",1,0.0,0,0,0.0,0,0,149.0,"1,580",1
+2019,61152,Intel Folsom Phase 3,60947,Tesla Inc.,CA,CISO,0.0,0,0,681.0,"8,130",1,0.0,0,0,0.0,0,0,681.0,"8,130",1
+2019,62374,JBAB - Washington DC,61907,"JBAB Solar I, LLC.",DC,PJM,0.0,0,0,327.0,"7,126",1,0.0,0,0,0.0,0,0,327.0,"7,126",1
+2019,54637,JCO Oxides Olefins Plant,30052,Indorama Ventures,TX,MISO,0.0,0,0,0.0,0,0,"2,757.0","86,137",1,0.0,0,0,"2,757.0","86,137",1
+2019,58793,JMB Mcguire-Dix-Lakehurst Solar Project,58682,WR-TGC Solar Generation IV LLC,NJ,PJM,0.0,0,0,970.0,"13,033",1,0.0,0,0,0.0,0,0,970.0,"13,033",1
+2019,60113,Jackson Board of Education-Liberty HS,60947,Tesla Inc.,NJ,PJM,0.0,0,0,150.0,"1,800",1,0.0,0,0,0.0,0,0,150.0,"1,800",1
+2019,60499,Jefferson Avenue,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,335.0,"2,039",1,0.0,0,0,0.0,0,0,335.0,"2,039",1
+2019,58653,Jersey Gardens Phase 1,58590,SEDC Jersey Gardens Owner LLC,NJ,PJM,0.0,0,0,370.0,"3,102",1,0.0,0,0,0.0,0,0,370.0,"3,102",1
+2019,58654,Jersey Gardens Phase 2,58591,CF Jersey Gardens Owner Two LLC,NJ,PJM,0.0,0,0,545.0,"3,060",1,0.0,0,0,0.0,0,0,545.0,"3,060",1
+2019,56300,Jersey-Atlantic Wind Farm,50123,"Leeward Asset Management, LLC",NJ,PJM,0.0,0,0,737.0,"9,267",1,0.0,0,0,0.0,0,0,737.0,"9,267",1
+2019,58292,Jewish Community Center PV,58863,Main Street Power,AZ,AZPS,0.0,0,0,374.0,"2,161",1,0.0,0,0,0.0,0,0,374.0,"2,161",1
+2019,61686,Johnson 1 Community Solar,61287,Johnson I CSG LLC,MN,MISO,159.0,"1,446",5,0.0,0,0,0.0,0,0,0.0,0,0,159.0,"1,446",5
+2019,61695,Johnson II Community Solar,61309,Johnson II CSG LLC,MN,MISO,151.0,"1,385",10,0.0,0,0,0.0,0,0,0.0,0,0,151.0,"1,385",10
+2019,57723,"Johnson Matthey, Inc. Solar",56976,"Constellation Solar New Jersey II, LLC",NJ,PJM,0.0,0,0,0.0,0,0,328.0,"7,214",1,0.0,0,0,328.0,"7,214",1
+2019,62739,KDC Solar ASGM,62649,KDC Solar ASGM LLC,NJ,PJM,0.0,0,0,0.0,0,0,268.0,"3,820",1,0.0,0,0,268.0,"3,820",1
+2019,62746,KDC Solar CSCP LLC,62666,KDC Solar CSCP LLC,NJ,PJM,0.0,0,0,98.0,"1,030",1,0.0,0,0,0.0,0,0,98.0,"1,030",1
+2019,59910,"KDC Solar PR1, LLC",59678,"KDC Solar PR1, LLC",NJ,PJM,0.0,0,0,"1,248.0","15,491",1,0.0,0,0,0.0,0,0,"1,248.0","15,491",1
+2019,60546,KIUC Kapaia PV and BA Storage Project Hybrid,60947,Tesla Inc.,HI,NA,0.0,0,0,"3,217.0","21,882",1,0.0,0,0,0.0,0,0,"3,217.0","21,882",1
+2019,10805,Kenilworth Energy Facility,5530,E F Kenilworth LLC,NJ,PJM,0.0,0,0,0.0,0,0,"4,622.0","76,310",1,0.0,0,0,"4,622.0","76,310",1
+2019,58243,Kent County - Worton Complex,63249,Terraform Arcadia,MD,PJM,0.0,0,0,161.0,"1,766",1,0.0,0,0,0.0,0,0,161.0,"1,766",1
+2019,58239,Kent County-Kennedyville,63249,Terraform Arcadia,MD,PJM,0.0,0,0,145.0,"1,512",1,0.0,0,0,0.0,0,0,145.0,"1,512",1
+2019,59098,Kettering Solar 1,60947,Tesla Inc.,CA,CISO,0.0,0,0,259.0,"2,058",1,0.0,0,0,0.0,0,0,259.0,"2,058",1
+2019,59099,Kettering Solar 2,60947,Tesla Inc.,CA,CISO,0.0,0,0,235.0,"1,901",1,0.0,0,0,0.0,0,0,235.0,"1,901",1
+2019,61628,Kilroy Solar,61227,Nautilus Solar Solutions,CA,CISO,0.0,0,0,845.0,"6,718",8,0.0,0,0,0.0,0,0,845.0,"6,718",8
+2019,62614,Kinder Morgan Fordham,62067,EnterSolar,NY,NYIS,0.0,0,0,647.0,"3,860",2,0.0,0,0,0.0,0,0,647.0,"3,860",2
+2019,58240,Kit Carson,63249,Terraform Arcadia,NM,PNM,0.0,0,0,501.0,"2,843",1,0.0,0,0,0.0,0,0,501.0,"2,843",1
+2019,57119,Koda Biomass Plant,56413,Koda Energy LLC,MN,MISO,0.0,0,0,0.0,0,0,"3,393.0","43,931",1,0.0,0,0,"3,393.0","43,931",1
+2019,57009,Kohls San Bernardino Solar Facility,61219,Longroad Energy Services LLC,CA,CISO,0.0,0,0,72.0,"1,368",1,0.0,0,0,0.0,0,0,72.0,"1,368",1
+2019,60765,L'Oreal Franklin,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,210.0,"1,931",1,0.0,0,0,210.0,"1,931",1
+2019,60766,L'Oreal Monmouth,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,344.0,"2,229",1,0.0,0,0,344.0,"2,229",1
+2019,57868,L'Oreal Piscataway,56997,Marina Energy LLC,NJ,PJM,0.0,0,0,0.0,0,0,258.0,"2,226",1,0.0,0,0,258.0,"2,226",1
+2019,58539,Lake Pleasant WTP,58507,Solar Star Arizona III LLC,AZ,AZPS,0.0,0,0,"2,384.0","14,631",1,0.0,0,0,0.0,0,0,"2,384.0","14,631",1
+2019,59744,Lakeland Electric Co. (FL)-Airport 1,58473,"NVT LICENSES, LLC",FL,TEC,0.0,0,0,691.0,"4,435",1,0.0,0,0,0.0,0,0,691.0,"4,435",1
+2019,62454,Lakewood Cheddar School,61944,GSRP,NJ,PJM,0.0,0,0,86.0,"1,367",1,0.0,0,0,0.0,0,0,86.0,"1,367",1
+2019,59369,Lakewood Seven Solar LLC,60281,"Altus Power America Management, LLC",NJ,PJM,0.0,0,0,85.0,"1,076",1,0.0,0,0,0.0,0,0,85.0,"1,076",1
+2019,58634,Lancaster Baptist Church,60947,Tesla Inc.,CA,CISO,0.0,0,0,226.0,"2,053",1,0.0,0,0,0.0,0,0,226.0,"2,053",1
+2019,58963,Las Virgenes Municipal Water District,60947,Tesla Inc.,CA,CISO,0.0,0,0,175.0,"1,666",1,0.0,0,0,0.0,0,0,175.0,"1,666",1
+2019,60142,Lemoore 1,59937,"Lemoore PV1, LLC",CA,CISO,0.0,0,0,152.0,"1,381",1,0.0,0,0,0.0,0,0,152.0,"1,381",1
+2019,58703,Lenape II,58638,"Lenape Solar II, LLC",IN,MISO,0.0,0,0,981.0,"4,681",1,0.0,0,0,0.0,0,0,981.0,"4,681",1
+2019,61389,Letchworth Solar Project,60571,AEP Onsite Partners,NY,NYIS,0.0,0,0,172.0,"1,847",1,0.0,0,0,0.0,0,0,172.0,"1,847",1
+2019,58231,Lincoln Financial Field,58203,NRG Energy Center Eagles LLC,PA,PJM,0.0,0,0,476.0,"2,871",1,0.0,0,0,0.0,0,0,476.0,"2,871",1
+2019,60966,Lind Solar CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,740.0,"6,954",1,0.0,0,0,0.0,0,0,740.0,"6,954",1
+2019,60060,Lindberg FIeld Solar,59791,Lindberg Field Solar I LLC,CA,CISO,0.0,0,0,677.0,"4,928",1,0.0,0,0,0.0,0,0,677.0,"4,928",1
+2019,60026,Little Rock Pham Solar,63249,Terraform Arcadia,CA,LDWP,0.0,0,0,693.0,"7,762",1,0.0,0,0,0.0,0,0,693.0,"7,762",1
+2019,57768,Longwood Gardens,57078,Ecogy Pennsylvania Systems LLC,PA,PJM,0.0,0,0,175.0,"2,004",1,0.0,0,0,0.0,0,0,175.0,"2,004",1
+2019,55217,Los Medanos Energy Center,2843,Los Medanos Energy Center LLC,CA,CISO,0.0,0,0,0.0,0,0,"25,363.0","542,518",2,0.0,0,0,"25,363.0","542,518",2
+2019,59873,Lowell Solar Landfill,59654,Lowell Solar Landfill LLC,MA,ISNE,0.0,0,0,205.0,"1,375",1,0.0,0,0,0.0,0,0,205.0,"1,375",1
+2019,60769,Lower Cape May HS,61944,GSRP,NJ,PJM,0.0,0,0,167.0,"2,496",1,0.0,0,0,0.0,0,0,167.0,"2,496",1
+2019,59135,Ludlow Landfill,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,167.0,"3,039",1,0.0,0,0,0.0,0,0,167.0,"3,039",1
+2019,58914,MCAGCC Cogen Plant,58789,DOD USMC Marine Air Ground Combat,CA,CISO,"2,068.0","13,787",1,"3,583.0","16,186",14,0.0,0,0,0.0,0,0,"5,651.0","29,973",15
+2019,61350,MDFA Devens-Saratoga,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,249.0,"3,387",1,0.0,0,0,0.0,0,0,249.0,"3,387",1
+2019,60496,MEBA,60281,"Altus Power America Management, LLC",MD,PJM,0.0,0,0,211.0,"2,723",1,0.0,0,0,0.0,0,0,211.0,"2,723",1
+2019,62323,Macy's MD Joppa Solar Project,61821,"Northstar Macy's Maryland 2015, LLC",MD,PJM,0.0,0,0,376.0,"2,921",1,0.0,0,0,0.0,0,0,376.0,"2,921",1
+2019,58522,Madera Community Hospital,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,281.0,"2,004",1,0.0,0,0,0.0,0,0,281.0,"2,004",1
+2019,61725,Madison County,60571,AEP Onsite Partners,NY,NYIS,0.0,0,0,215.0,"2,671",1,0.0,0,0,0.0,0,0,215.0,"2,671",1
+2019,62639,Manchester Community College East,60584,Onyx Asset Services Group,CT,ISNE,0.0,0,0,106.0,"1,587",1,0.0,0,0,0.0,0,0,106.0,"1,587",1
+2019,62640,Manchester Community College North,60584,Onyx Asset Services Group,CT,ISNE,0.0,0,0,91.0,"1,658",1,0.0,0,0,0.0,0,0,91.0,"1,658",1
+2019,61115,Manteca Land PV,60727,"Manteca Land PV, LLC",CA,CISO,0.0,0,0,194.0,"1,979",1,0.0,0,0,0.0,0,0,194.0,"1,979",1
+2019,57005,Mariani Packing Vacaville Solar,56431,SunE U6 Holdings LLC,CA,CISO,0.0,0,0,295.0,"1,753",1,0.0,0,0,0.0,0,0,295.0,"1,753",1
+2019,58410,Marshfield PV,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,483.0,"4,831",1,0.0,0,0,0.0,0,0,483.0,"4,831",1
+2019,58443,Martin Limestone Solar Array,58438,Sunstream Energy LLC,PA,PJM,0.0,0,0,0.0,0,0,115.0,"1,436",1,0.0,0,0,115.0,"1,436",1
+2019,58412,Maynard PV,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,106.0,"1,516",1,0.0,0,0,0.0,0,0,106.0,"1,516",1
+2019,57646,McCormick & Co. Inc. at Belcamp,56975,"Constellation Solar Maryland, LLC",MD,PJM,0.0,0,0,0.0,0,0,271.0,"2,430",1,0.0,0,0,271.0,"2,430",1
+2019,57662,McGraw Hill Solar,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,869.0,"18,055",1,0.0,0,0,0.0,0,0,869.0,"18,055",1
+2019,59277,Medford WWTP,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,192.0,"2,009",1,0.0,0,0,0.0,0,0,192.0,"2,009",1
+2019,10883,Medical Area Total Energy Plant,12258,Medical Area Total Egy Plt Inc,MA,ISNE,0.0,0,0,"43,604.0","284,483",7,0.0,0,0,0.0,0,0,"43,604.0","284,483",7
+2019,58882,Mercer County Community College,58754,Sunlight General Mercer Solar LLC,NJ,PJM,0.0,0,0,325.0,"10,828",1,0.0,0,0,0.0,0,0,325.0,"10,828",1
+2019,57982,Meridian Vineyards,62060,CleanCapital,CA,CISO,0.0,0,0,283.0,"1,340",1,0.0,0,0,0.0,0,0,283.0,"1,340",1
+2019,59136,Methuen Landfill,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,132.0,"1,466",1,0.0,0,0,0.0,0,0,132.0,"1,466",1
+2019,10180,Metro Wastewater Reclamation District,19068,"Colorado Energy Nations Company, LLC",CO,PSCO,0.0,0,0,0.0,0,0,"1,450.0","34,024",1,0.0,0,0,"1,450.0","34,024",1
+2019,58090,Middlesex Apple Orchard Solar,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,339.0,"7,541",1,0.0,0,0,0.0,0,0,339.0,"7,541",1
+2019,10745,Midland Cogeneration Venture,12492,Midland Cogeneration Venture,MI,MISO,0.0,0,0,0.0,0,0,"10,583.0","402,819",2,0.0,0,0,"10,583.0","402,819",2
+2019,52169,Midway Sunset Cogen,12687,Midway-Sunset Cogeneration Co,CA,CISO,0.0,0,0,0.0,0,0,"3,845.0","86,307",1,0.0,0,0,"3,845.0","86,307",1
+2019,59789,Millbrook School,60947,Tesla Inc.,NY,NYIS,0.0,0,0,145.0,"1,936",1,0.0,0,0,0.0,0,0,145.0,"1,936",1
+2019,58822,Millville City Sewer Auth WTP,61944,GSRP,NJ,PJM,0.0,0,0,148.0,"1,669",1,0.0,0,0,0.0,0,0,148.0,"1,669",1
+2019,58633,Monterey Regional Water Pollution Control Agency,60947,Tesla Inc.,CA,CISO,0.0,0,0,165.0,"1,096",1,0.0,0,0,0.0,0,0,165.0,"1,096",1
+2019,60820,Montgomery County Correctional Facility,60947,Tesla Inc.,MD,PJM,0.0,0,0,93.0,"2,069",1,0.0,0,0,0.0,0,0,93.0,"2,069",1
+2019,63514,Moonlight Packing - Phase 2,63226,CalCom Energy,CA,CISO,0.0,0,0,378.0,"2,908",1,0.0,0,0,0.0,0,0,378.0,"2,908",1
+2019,59942,Morgan Lancaster 1,63249,Terraform Arcadia,CA,CISO,0.0,0,0,261.0,"2,930",1,0.0,0,0,0.0,0,0,261.0,"2,930",1
+2019,57362,Morgantown Solar Park,56701,The Hankin Group,PA,PJM,0.0,0,0,0.0,0,0,167.0,"2,461",1,0.0,0,0,167.0,"2,461",1
+2019,55216,Morris Cogeneration LLC,54755,Morris Cogeneration LLC,IL,PJM,0.0,0,0,0.0,0,0,"9,664.0","448,596",1,0.0,0,0,"9,664.0","448,596",1
+2019,57471,Murray Hill Solar,56769,Consolidated Edison Development Inc.,NJ,PJM,0.0,0,0,0.0,0,0,180.0,"1,662",1,0.0,0,0,180.0,"1,662",1
+2019,61003,Musgrave East Solar Farm,60643,Artemis Solar LLC,NY,NYIS,0.0,0,0,330.0,"3,141",1,0.0,0,0,0.0,0,0,330.0,"3,141",1
+2019,61015,Musgrave West Solar Farm,60643,Artemis Solar LLC,NY,NYIS,0.0,0,0,328.0,"3,125",1,0.0,0,0,0.0,0,0,328.0,"3,125",1
+2019,60857,NES Rutgers Solar,60516,NES Rutgers LLC,NJ,PJM,0.0,0,0,0.0,0,0,108.0,"1,197",1,0.0,0,0,108.0,"1,197",1
+2019,62208,NIST Solar,60396,Constellation New Energy Inc.,MD,PJM,0.0,0,0,449.0,"6,321",1,0.0,0,0,0.0,0,0,449.0,"6,321",1
+2019,57462,Napoleon Solar I,56780,Enfinity BNB Napoleon Solar LLC,OH,PJM,0.0,0,0,643.0,"12,234",1,0.0,0,0,0.0,0,0,643.0,"12,234",1
+2019,62710,Nationals,63249,Terraform Arcadia,DC,PJM,0.0,0,0,88.0,"1,703",1,0.0,0,0,0.0,0,0,88.0,"1,703",1
+2019,62672,Nautilus Goat Island Solar CSG LLC,62149,Nautilus Goat Island Solar CSG LLC,RI,ISNE,177.0,"1,027",693,0.0,0,0,0.0,0,0,0.0,0,0,177.0,"1,027",693
+2019,57764,Naval Air Weapons Station China Lake,57073,"Solar Star California XV, LLC",CA,CISO,0.0,0,0,"3,325.0","23,952",1,0.0,0,0,0.0,0,0,"3,325.0","23,952",1
+2019,61737,Navy Yard Peaker Station,61353,Philadelphia Authority for Industrial Development,PA,PJM,0.0,0,0,0.0,0,0,359.0,"3,266",5,0.0,0,0,359.0,"3,266",5
+2019,56568,Nellis Air Force Base Solar Array,56203,Solar Star NAFB LLC,NV,NEVP,0.0,0,0,586.0,"26,478",1,0.0,0,0,0.0,0,0,586.0,"26,478",1
+2019,10427,New-Indy Ontario Mill,22091,New-Indy Ontario LLC,CA,CISO,0.0,0,0,0.0,0,0,689.0,"7,663",2,0.0,0,0,689.0,"7,663",2
+2019,63363,Niagara Bottling Stockton,62067,EnterSolar,CA,CISO,0.0,0,0,74.0,"1,492",1,0.0,0,0,0.0,0,0,74.0,"1,492",1
+2019,62682,Noland Wastewater Treatment Plant Hybrid,61204,"Today's Power, Inc.",AR,SWPP,0.0,0,0,168.0,"3,515",1,0.0,0,0,0.0,0,0,168.0,"3,515",1
+2019,58748,North Bay Solar 1,58661,"Sustainable Power Group, LLC",CA,CISO,0.0,0,0,278.0,"2,383",1,0.0,0,0,0.0,0,0,278.0,"2,383",1
+2019,60806,North Bergen Solar,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,233.0,"2,442",1,0.0,0,0,0.0,0,0,233.0,"2,442",1
+2019,58358,North Jersey Media Group Solar Facility,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,324.0,"5,406",1,0.0,0,0,0.0,0,0,324.0,"5,406",1
+2019,60992,Northern Cardinal Solar,63249,Terraform Arcadia,NC,PJM,0.0,0,0,244.0,"3,303",1,0.0,0,0,0.0,0,0,244.0,"3,303",1
+2019,61060,Novel - OYA of Mapleton CSG,62033,NRG MN Community LLC,MN,MISO,740.0,"5,017",512,0.0,0,0,0.0,0,0,0.0,0,0,740.0,"5,017",512
+2019,57798,OBP Cogen,57120,OBP Cogen LLC,NY,NYIS,0.0,0,0,"7,390.0","54,665",1,0.0,0,0,0.0,0,0,"7,390.0","54,665",1
+2019,50850,OLS Energy Chino,14265,OLS Energy-Chino,CA,CISO,0.0,0,0,0.0,0,0,"1,074.0","13,932",1,0.0,0,0,"1,074.0","13,932",1
+2019,58134,Oberlin Spear Point Solar One,58084,"Oberlin Spear Point Solar One, LLC",OH,PJM,0.0,0,0,233.0,"2,659",1,0.0,0,0,0.0,0,0,233.0,"2,659",1
+2019,60913,Ohio Northern University Solar Site,60571,AEP Onsite Partners,OH,PJM,0.0,0,0,488.0,"4,429",1,0.0,0,0,0.0,0,0,488.0,"4,429",1
+2019,50413,Olmsted Waste Energy,21995,Olmsted County Public Works,MN,MISO,0.0,0,0,248.0,"2,107",1,0.0,0,0,0.0,0,0,248.0,"2,107",1
+2019,60114,Oneida County- DPW,60947,Tesla Inc.,NY,ISNE,0.0,0,0,70.0,"1,023",1,0.0,0,0,0.0,0,0,70.0,"1,023",1
+2019,60097,Onondaga County - Metro Water Board,60947,Tesla Inc.,NY,NYIS,0.0,0,0,48.0,905,1,0.0,0,0,0.0,0,0,48.0,905,1
+2019,60098,Onondaga County - Oak Orchard WWTP,60947,Tesla Inc.,NY,NYIS,0.0,0,0,149.0,"2,430",1,0.0,0,0,0.0,0,0,149.0,"2,430",1
+2019,60462,Onondaga County- Clearwater,60947,Tesla Inc.,NY,ISNE,0.0,0,0,161.0,"2,573",1,0.0,0,0,0.0,0,0,161.0,"2,573",1
+2019,60232,Onondaga County- Jamesville,60947,Tesla Inc.,NY,NYIS,0.0,0,0,117.0,"1,886",1,0.0,0,0,0.0,0,0,117.0,"1,886",1
+2019,61206,Onyx - Allen Harim,60584,Onyx Asset Services Group,DE,PJM,0.0,0,0,142.0,"2,086",1,0.0,0,0,0.0,0,0,142.0,"2,086",1
+2019,60229,Orange County Solar Farm (NY),60947,Tesla Inc.,NY,ISNE,0.0,0,0,177.0,"2,210",1,0.0,0,0,0.0,0,0,177.0,"2,210",1
+2019,58411,Orange PV,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,59.0,622,1,0.0,0,0,0.0,0,0,59.0,622,1
+2019,60112,Oregon Convention Center,60947,Tesla Inc.,OR,PACW,0.0,0,0,180.0,"1,888",1,0.0,0,0,0.0,0,0,180.0,"1,888",1
+2019,58961,Oregon University System OIT Klamath Falls,60947,Tesla Inc.,OR,PACW,0.0,0,0,41.0,836,1,0.0,0,0,0.0,0,0,41.0,836,1
+2019,59790,Oregon University System Rabbit Field,60947,Tesla Inc.,OR,PACW,0.0,0,0,61.0,"1,124",1,0.0,0,0,0.0,0,0,61.0,"1,124",1
+2019,60818,Oswego County - Fulton Solar,60947,Tesla Inc.,NY,NYIS,0.0,0,0,88.0,"1,785",1,0.0,0,0,0.0,0,0,88.0,"1,785",1
+2019,60038,Owens Corning Headquarters,58491,"Constellation Solar Holding, LLC",OH,PJM,0.0,0,0,370.0,"1,945",1,0.0,0,0,0.0,0,0,370.0,"1,945",1
+2019,58550,Owens Corning at Bethlehem,58491,"Constellation Solar Holding, LLC",NY,NYIS,0.0,0,0,0.0,0,0,330.0,"3,352",1,0.0,0,0,330.0,"3,352",1
+2019,62611,PFMG Solar Grossmont Helix LLC,62028,PFMG Solar Grossmont Helix LLC,CA,CISO,312.0,"2,221",1,0.0,0,0,0.0,0,0,0.0,0,0,312.0,"2,221",1
+2019,59866,Palmer Solar LLC,59653,Palmer Solar LLC,NY,ISNE,0.0,0,0,351.0,"2,922",1,0.0,0,0,0.0,0,0,351.0,"2,922",1
+2019,57773,Palo Verde College,58315,SSA Solar of CA 2 LLC,CA,CISO,0.0,0,0,325.0,"2,066",1,0.0,0,0,0.0,0,0,325.0,"2,066",1
+2019,58293,Paradise Valley H.S. PV,58863,Main Street Power,AZ,AZPS,0.0,0,0,503.0,"2,598",1,0.0,0,0,0.0,0,0,503.0,"2,598",1
+2019,59544,Parlin Solar LLC,59287,Laurel Capital Partners,NJ,PJM,0.0,0,0,0.0,0,0,58.0,"1,130",1,0.0,0,0,58.0,"1,130",1
+2019,55047,Pasadena Cogeneration,11059,Pasadena Cogeneration LP,TX,ERCO,0.0,0,0,0.0,0,0,"13,721.0","447,627",1,0.0,0,0,"13,721.0","447,627",1
+2019,58896,Patriots Stadium,58769,Sunlight General Somerset Solar LLC,NJ,PJM,0.0,0,0,26.0,658,1,0.0,0,0,0.0,0,0,26.0,658,1
+2019,57772,Perdue Bridgeville Photovoltaic,63249,Terraform Arcadia,MD,PJM,0.0,0,0,164.0,"1,947",1,0.0,0,0,0.0,0,0,164.0,"1,947",1
+2019,57879,Perdue Salisbury Photovoltaic,63249,Terraform Arcadia,DE,PJM,0.0,0,0,135.0,"1,606",1,0.0,0,0,0.0,0,0,135.0,"1,606",1
+2019,61185,Pfeffers,63249,Terraform Arcadia,MD,PJM,0.0,0,0,95.0,"1,719",1,0.0,0,0,0.0,0,0,95.0,"1,719",1
+2019,60392,Pfizer Groton Fuel Cell,62093,Groton Fuel Cell 1 LLC,CT,ISNE,0.0,0,0,"3,470.0","41,620",1,0.0,0,0,0.0,0,0,"3,470.0","41,620",1
+2019,60762,Pfizer Peapack Solar,63069,CVI CleanCapital Solar 5 LLC,NJ,PJM,0.0,0,0,457.0,"10,165",1,0.0,0,0,0.0,0,0,457.0,"10,165",1
+2019,58708,Phoenix Airport East Economy Lot,58649,Solar Star Arizona II LLC,AZ,AZPS,0.0,0,0,217.0,"1,953",1,0.0,0,0,0.0,0,0,217.0,"1,953",1
+2019,58709,Phoenix Airport Rental Car Center,58649,Solar Star Arizona II LLC,AZ,AZPS,0.0,0,0,456.0,"5,805",1,0.0,0,0,0.0,0,0,456.0,"5,805",1
+2019,62735,Phoenix Solar South Farms LLC Solar Farm,62656,Phoenix Solar South Farms LLC,IL,MISO,0.0,0,0,"1,390.0","7,093",1,0.0,0,0,0.0,0,0,"1,390.0","7,093",1
+2019,62075,Pima Community College,60947,Tesla Inc.,AZ,TEPC,0.0,0,0,167.0,"1,702",1,0.0,0,0,0.0,0,0,167.0,"1,702",1
+2019,61104,Pima Community College - East Campus,60947,Tesla Inc.,AZ,TEPC,0.0,0,0,297.0,"2,952",1,0.0,0,0,0.0,0,0,297.0,"2,952",1
+2019,63531,Pima Community College NW,60584,Onyx Asset Services Group,AZ,TEPC,0.0,0,0,214.0,"2,184",1,0.0,0,0,0.0,0,0,214.0,"2,184",1
+2019,59364,Plainfield One Solar LLC,58258,SunRay Power LLC,NJ,PJM,0.0,0,0,0.0,0,0,169.0,"1,338",1,0.0,0,0,169.0,"1,338",1
+2019,59137,Plymouth Site 1,59622,"Ahana Renewables, LLC",MA,ISNE,0.0,0,0,552.0,"6,899",1,0.0,0,0,0.0,0,0,552.0,"6,899",1
+2019,58647,Port Richmond WWT Solar,57365,Consolidated Edison Solutions Inc,NY,NYIS,0.0,0,0,0.0,0,0,581.0,"1,565",1,0.0,0,0,581.0,"1,565",1
+2019,62578,Preferred Freezer San Leandro,62067,EnterSolar,CA,CISO,0.0,0,0,254.0,"3,460",1,0.0,0,0,0.0,0,0,254.0,"3,460",1
+2019,60447,Presbyterian Senior Living Service,63249,Terraform Arcadia,MD,PJM,0.0,0,0,139.0,"1,474",1,0.0,0,0,0.0,0,0,139.0,"1,474",1
+2019,61354,Princeton Solar Project,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,216.0,"3,568",1,0.0,0,0,0.0,0,0,216.0,"3,568",1
+2019,58631,Queen Anne's County,60947,Tesla Inc.,MD,PJM,0.0,0,0,188.0,"2,659",1,0.0,0,0,0.0,0,0,188.0,"2,659",1
+2019,62664,Quincy Solar,63249,Terraform Arcadia,CO,WACM,0.0,0,0,211.0,"3,426",1,0.0,0,0,0.0,0,0,211.0,"3,426",1
+2019,58362,Quittacas Pond Solar,57365,Consolidated Edison Solutions Inc,MA,ISNE,0.0,0,0,0.0,0,0,629.0,"5,640",1,0.0,0,0,629.0,"5,640",1
+2019,62756,RC Energy AA LLC Solar Facility,62655,RC Energy AA LLC,NM,PNM,0.0,0,0,186.0,"1,959",1,0.0,0,0,0.0,0,0,186.0,"1,959",1
+2019,60426,RCWD PV Project,60206,"Solar Star California XL, LLC",CA,CISO,0.0,0,0,789.0,"10,058",1,0.0,0,0,0.0,0,0,789.0,"10,058",1
+2019,63455,RE-VFO LLC,63198,RE-VFO LLC,CA,CISO,0.0,0,0,0.0,0,0,240.0,"1,931",1,0.0,0,0,240.0,"1,931",1
+2019,10025,"RED-Rochester, LLC",5624,"RED-Rochester, LLC",NY,NYIS,0.0,0,0,0.0,0,0,"15,673.0","244,064",14,0.0,0,0,"15,673.0","244,064",14
+2019,62810,"RIT Henrietta Solar 1, LLC",62678,"RIT Henrietta Solar 1, LLC",NY,NYIS,0.0,0,0,156.0,"2,436",1,0.0,0,0,0.0,0,0,156.0,"2,436",1
+2019,61670,RJC II Community Solar Garden,61285,RJC II CSG LLC,MN,MISO,168.0,"1,487",5,0.0,0,0,0.0,0,0,0.0,0,0,168.0,"1,487",5
+2019,57507,RV CSU Power II LLC,56828,RV CSU Power II LLC,CA,,0.0,0,0,452.0,"4,579",1,0.0,0,0,0.0,0,0,452.0,"4,579",1
+2019,57141,RV CSU Power LLC,56493,RV CSU Power LLC,CA,,0.0,0,0,313.0,"3,007",1,0.0,0,0,0.0,0,0,313.0,"3,007",1
+2019,60492,Rail Trail,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,453.0,"3,270",3,0.0,0,0,0.0,0,0,453.0,"3,270",3
+2019,10464,ReEnergy Black River,1746,Black River Generation LLC,NY,NYIS,0.0,0,0,"11,524.0","136,932",2,0.0,0,0,0.0,0,0,"11,524.0","136,932",2
+2019,60962,Red Maple Solar,63249,Terraform Arcadia,MN,MISO,0.0,0,0,512.0,"4,633",1,0.0,0,0,0.0,0,0,512.0,"4,633",1
+2019,60796,Red Wing Community Solar,63249,Terraform Arcadia,MN,MISO,0.0,0,0,735.0,"6,687",1,0.0,0,0,0.0,0,0,735.0,"6,687",1
+2019,61901,Redstone Arsenal Hybrid,61513,"Redstone Solar I, LLC",AL,TVA,0.0,0,0,"1,754.0","18,167",1,0.0,0,0,0.0,0,0,"1,754.0","18,167",1
+2019,63074,Reedley Community College Solar,62856,"Forefront Power, LLC",CA,CISO,0.0,0,0,476.0,"3,801",1,0.0,0,0,0.0,0,0,476.0,"3,801",1
+2019,60702,Rincon Solar I,60424,"Rincon Solar I, LLC",GA,SOCO,0.0,0,0,"2,594.0","29,822",1,0.0,0,0,0.0,0,0,"2,594.0","29,822",1
+2019,58589,Rio Rancho High School,63249,Terraform Arcadia,NM,PNM,0.0,0,0,170.0,"2,286",1,0.0,0,0,0.0,0,0,170.0,"2,286",1
+2019,60493,Rising Paper,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,512.0,"3,699",3,0.0,0,0,0.0,0,0,512.0,"3,699",3
+2019,59747,River Mountains Solar,59514,"River Mountains Solar, LLC",NV,NEVP,0.0,0,0,"2,315.0","33,790",1,0.0,0,0,0.0,0,0,"2,315.0","33,790",1
+2019,59877,Riverside RWQCP Fuel Cell,59662,"Riverside Fuel Cell, LLC",CA,CISO,0.0,0,0,702.0,"9,704",1,0.0,0,0,0.0,0,0,702.0,"9,704",1
+2019,58241,Rock Hall,63249,Terraform Arcadia,MD,PJM,0.0,0,0,166.0,"1,707",1,0.0,0,0,0.0,0,0,166.0,"1,707",1
+2019,57524,Roger Road WWTP,56857,SunE M5C Holdings LLC,AZ,TEPC,0.0,0,0,98.0,"1,025",1,0.0,0,0,0.0,0,0,98.0,"1,025",1
+2019,57843,SC Landfill Energy LLC,57172,SC Landfill Energy LLC,NJ,PJM,0.0,0,0,0.0,0,0,7.0,310,1,0.0,0,0,7.0,310,1
+2019,63021,SCCCD - Clovis Community College,62856,"Forefront Power, LLC",CA,CISO,0.0,0,0,248.0,"1,961",1,0.0,0,0,0.0,0,0,248.0,"1,961",1
+2019,63068,SCCCD - Fresno Community College,62856,"Forefront Power, LLC",CA,CISO,0.0,0,0,444.0,"3,598",1,0.0,0,0,0.0,0,0,444.0,"3,598",1
+2019,59138,SDCCD - Miramar,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,271.0,"1,681",1,0.0,0,0,0.0,0,0,271.0,"1,681",1
+2019,59139,SDCWA - Twin Oaks,59622,"Ahana Renewables, LLC",CA,CISO,0.0,0,0,278.0,"1,736",1,0.0,0,0,0.0,0,0,278.0,"1,736",1
+2019,60745,SEPV Imperial Dixieland East,60445,"SEPV Imperial, LLC",CA,IID,0.0,0,0,509.0,"5,804",1,0.0,0,0,0.0,0,0,509.0,"5,804",1
+2019,60744,SEPV Imperial Dixieland West,60445,"SEPV Imperial, LLC",CA,IID,0.0,0,0,776.0,"8,842",1,0.0,0,0,0.0,0,0,776.0,"8,842",1
+2019,58479,SEV NM Phase 2,60281,"Altus Power America Management, LLC",NM,SWPP,0.0,0,0,82.0,"2,971",1,0.0,0,0,0.0,0,0,82.0,"2,971",1
+2019,59658,SPI Anderson 2,17164,Sierra Pacific Industries Inc,CA,CISO,0.0,0,0,0.0,0,0,482.0,"4,816",1,0.0,0,0,482.0,"4,816",1
+2019,59947,SR Camden,59710,"SR Camden, LLC",AR,SPA,0.0,0,0,0.0,0,0,950.0,"15,578",1,0.0,0,0,950.0,"15,578",1
+2019,55104,Sabine Cogen,16668,Sabine Cogen LP,TX,MISO,0.0,0,0,0.0,0,0,"14,619.0","163,425",1,0.0,0,0,"14,619.0","163,425",1
+2019,10789,Sabine River Works,57160,"Performance Materials NA, Inc.",TX,MISO,0.0,0,0,0.0,0,0,"14,808.0","335,050",1,0.0,0,0,"14,808.0","335,050",1
+2019,59323,Sacramento (SMUD),63249,Terraform Arcadia,CA,BANC,0.0,0,0,401.0,"2,124",1,0.0,0,0,0.0,0,0,401.0,"2,124",1
+2019,58636,Sacramento Fairbain Water Treatment Plant,60947,Tesla Inc.,CA,BANC,0.0,0,0,93.0,"1,204",1,0.0,0,0,0.0,0,0,93.0,"1,204",1
+2019,61209,Sacramento Regional County Sanitation PV,60947,Tesla Inc.,CA,BANC,0.0,0,0,579.0,"7,720",1,0.0,0,0,0.0,0,0,579.0,"7,720",1
+2019,58006,Salt Palace Solar Gen Plant,57383,Wasatch View Solar LLC,UT,PACE,0.0,0,0,"1,230.0","2,135",6,0.0,0,0,0.0,0,0,"1,230.0","2,135",6
+2019,57904,San Antonio West Solar Rooftop,57273,SS San Antonio West LLC,CA,CISO,0.0,0,0,671.0,"1,738",1,0.0,0,0,0.0,0,0,671.0,"1,738",1
+2019,60385,Santa Rita Jail Fuel Cell,60182,"SRJFC, LLC",CA,CISO,0.0,0,0,641.0,"9,607",1,0.0,0,0,0.0,0,0,641.0,"9,607",1
+2019,63185,Sayreville Solar Project,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,110.0,"1,227",1,0.0,0,0,0.0,0,0,110.0,"1,227",1
+2019,59013,Scituate PV,58863,Main Street Power,MA,ISNE,0.0,0,0,"1,401.0","3,593",1,0.0,0,0,0.0,0,0,"1,401.0","3,593",1
+2019,61843,SeaWorld Aquatica,60584,Onyx Asset Services Group,CA,CISO,0.0,0,0,235.0,"1,986",1,0.0,0,0,0.0,0,0,235.0,"1,986",1
+2019,57667,Seabrook Solar Plant,61944,GSRP,NJ,PJM,0.0,0,0,0.0,0,0,563.0,"9,020",1,0.0,0,0,563.0,"9,020",1
+2019,60747,Seabrook Village,63069,CVI CleanCapital Solar 5 LLC,NJ,PJM,0.0,0,0,363.0,"4,967",1,0.0,0,0,0.0,0,0,363.0,"4,967",1
+2019,60514,Seminole,63249,Terraform Arcadia,GA,SOCO,0.0,0,0,151.0,"1,277",1,0.0,0,0,0.0,0,0,151.0,"1,277",1
+2019,60919,Shakopee Met Council WTP,60573,Oak Leaf Solar V LLC,MN,MISO,0.0,0,0,175.0,"1,678",1,0.0,0,0,0.0,0,0,175.0,"1,678",1
+2019,60753,Shirley Landfill,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,216.0,"1,560",1,0.0,0,0,0.0,0,0,216.0,"1,560",1
+2019,60498,Shirley Water,60281,"Altus Power America Management, LLC",MA,ISNE,0.0,0,0,320.0,"3,083",8,0.0,0,0,0.0,0,0,320.0,"3,083",8
+2019,10849,Silver Bay Power,3807,Cleveland Cliffs Inc,MN,MISO,0.0,0,0,0.0,0,0,"38,803.0","680,923",1,0.0,0,0,"38,803.0","680,923",1
+2019,58540,Silver City WWTP PV Project,58509,"Affordable Solar Silver City, LLC",NM,PNM,0.0,0,0,0.0,0,0,308.0,"1,844",1,0.0,0,0,308.0,"1,844",1
+2019,60746,Silvi Gibraltar Rock,63069,CVI CleanCapital Solar 5 LLC,NJ,PJM,0.0,0,0,236.0,"3,940",1,0.0,0,0,0.0,0,0,236.0,"3,940",1
+2019,60425,Skidmore College,63249,Terraform Arcadia,NY,NYIS,0.0,0,0,213.0,"2,400",1,0.0,0,0,0.0,0,0,213.0,"2,400",1
+2019,61367,Smith & Wesson at Springfield MA PV,57319,Constellation Solar Massachusetts LLC,MA,ISNE,0.0,0,0,305.0,"2,653",1,0.0,0,0,0.0,0,0,305.0,"2,653",1
+2019,60669,Sod Run WTP A,61419,"Constellation Solar MC, LLC",MD,PJM,0.0,0,0,228.0,"3,109",1,0.0,0,0,0.0,0,0,228.0,"3,109",1
+2019,60989,SolaireHolman Solar Project,60636,"SolaireHolman 1, LLC",TX,ERCO,0.0,0,0,"5,096.0","121,240",1,0.0,0,0,0.0,0,0,"5,096.0","121,240",1
+2019,60350,"Solar Las Vegas MB 2, LLC",60145,NRG Solar Las Vegas MB 2,NV,NEVP,0.0,0,0,240.0,"2,498",1,0.0,0,0,0.0,0,0,240.0,"2,498",1
+2019,59430,Solar Las Vegas MB-1,59208,NRG Solar Las Vegas MB-1,NV,NEVP,0.0,0,0,964.0,"9,985",1,0.0,0,0,0.0,0,0,964.0,"9,985",1
+2019,57933,Solar Star California II LLC,58101,Solar Star California II LLC,CA,BANC,0.0,0,0,269.0,"3,770",1,0.0,0,0,0.0,0,0,269.0,"3,770",1
+2019,58402,Solar Star New Jersey NJ LLC,58387,Solar Star New Jersey VI LLC,NJ,PJM,0.0,0,0,123.0,"2,501",1,0.0,0,0,0.0,0,0,123.0,"2,501",1
+2019,57770,South Bay Fuel Cell Plant,57047,BioFuels Point Loma LLC,CA,CISO,0.0,0,0,930.0,"7,466",1,0.0,0,0,0.0,0,0,930.0,"7,466",1
+2019,60823,South Sioux City Solar,60947,Tesla Inc.,NE,SWPP,0.0,0,0,207.0,"2,913",1,0.0,0,0,0.0,0,0,207.0,"2,913",1
+2019,58423,Southbridge PV,63249,Terraform Arcadia,MA,ISNE,0.0,0,0,168.0,"1,636",1,0.0,0,0,0.0,0,0,168.0,"1,636",1
+2019,60945,"Spartan PV 1, LLC",60595,"Spartan PV 1, LLC",MI,MISO,0.0,0,0,"1,325.0","13,057",1,0.0,0,0,0.0,0,0,"1,325.0","13,057",1
+2019,59545,Springfield Solar LLC,59287,Laurel Capital Partners,OH,PJM,0.0,0,0,130.0,"1,387",1,0.0,0,0,0.0,0,0,130.0,"1,387",1
+2019,61907,Springfield Solar Project,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,869.0,"8,989",1,0.0,0,0,0.0,0,0,869.0,"8,989",1
+2019,62020,Stanford Campus Solar,61602,"Solar Star California XLII, LLC",CA,CISO,0.0,0,0,748.0,"6,344",1,0.0,0,0,0.0,0,0,748.0,"6,344",1
+2019,57683,"Staples La Mirada, CA",57007,"SunE WF3-ST Holdings, LLC",CA,CISO,0.0,0,0,238.0,"1,523",1,0.0,0,0,0.0,0,0,238.0,"1,523",1
+2019,59705,Steel Sun,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,302.0,"4,520",1,0.0,0,0,0.0,0,0,302.0,"4,520",1
+2019,62723,Steel Sun 2: 2303-III-2 Hamburg Tpke,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,164.0,"1,948",1,0.0,0,0,0.0,0,0,164.0,"1,948",1
+2019,62722,Steel Sun 2: 2303-III-4 Hamburg Tpke,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,166.0,"1,979",1,0.0,0,0,0.0,0,0,166.0,"1,979",1
+2019,62721,Steel Sun 2: 2303-III-9 Hamburg Tpke,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,107.0,"1,269",1,0.0,0,0,0.0,0,0,107.0,"1,269",1
+2019,57864,Stockton Athletic Center,61944,GSRP,NJ,PJM,0.0,0,0,140.0,"1,300",1,0.0,0,0,0.0,0,0,140.0,"1,300",1
+2019,54149,Stony Brook Cogen Plant,13587,Nissequoque Cogen Partners,NY,NYIS,0.0,0,0,"20,454.0","228,621",1,0.0,0,0,0.0,0,0,"20,454.0","228,621",1
+2019,59015,Stow PV,58863,Main Street Power,MA,ISNE,0.0,0,0,"1,078.0","2,925",1,0.0,0,0,0.0,0,0,"1,078.0","2,925",1
+2019,58839,Sudbury Landfill,58721,Solar Sudbury One LF LLC,MA,ISNE,0.0,0,0,213.0,"1,854",1,0.0,0,0,0.0,0,0,213.0,"1,854",1
+2019,58588,Sue Cleveland High School,63249,Terraform Arcadia,CA,,0.0,0,0,163.0,"2,207",1,0.0,0,0,0.0,0,0,163.0,"2,207",1
+2019,60817,Sullivan County - Adult Care Solar,60947,Tesla Inc.,NY,NYIS,0.0,0,0,172.0,"2,427",1,0.0,0,0,0.0,0,0,172.0,"2,427",1
+2019,60809,"Summit Water Nexus Mt. Holly, LLC Solar",60955,"Summit Water Nexus, Mount Holly, LLC",NJ,PJM,0.0,0,0,124.0,"1,552",1,0.0,0,0,0.0,0,0,124.0,"1,552",1
+2019,57010,SunEdison Anheuser Busch Fairfield,56434,SunE M5 Holdings LLC,CA,CISO,0.0,0,0,312.0,"1,582",1,0.0,0,0,0.0,0,0,312.0,"1,582",1
+2019,57007,SunEdison Ironwood State Prison,56297,SunE CPA CDC2 LLC,CA,CISO,0.0,0,0,362.0,"1,799",1,0.0,0,0,0.0,0,0,362.0,"1,799",1
+2019,56938,SunEdison LV Sutton Plant Site,56183,SunE NC Progress 1 LLC,NC,CPLE,0.0,0,0,468.0,"1,736",1,0.0,0,0,0.0,0,0,468.0,"1,736",1
+2019,57008,SunEdison Procter & Gamble Oxnard,56431,SunE U6 Holdings LLC,CA,CISO,0.0,0,0,277.0,"1,691",1,0.0,0,0,0.0,0,0,277.0,"1,691",1
+2019,57004,SunEdison Walgreens Moreno Valley,56294,SunE WG113 Moreno Valley LLC,CA,CISO,0.0,0,0,111.0,887,1,0.0,0,0,0.0,0,0,111.0,887,1
+2019,57012,SunEdison Walmart Apple Valley DC,56434,SunE M5 Holdings LLC,CA,CISO,0.0,0,0,292.0,"2,236",1,0.0,0,0,0.0,0,0,292.0,"2,236",1
+2019,61922,Sunlight Beacon,59474,BQ Energy LLC,NY,NYIS,0.0,0,0,265.0,"3,318",1,0.0,0,0,0.0,0,0,265.0,"3,318",1
+2019,61914,Susquehanna University Solar,63249,Terraform Arcadia,PA,PJM,0.0,0,0,330.0,"4,715",1,0.0,0,0,0.0,0,0,330.0,"4,715",1
+2019,55015,Sweeny Cogen Facility,22214,Sweeny Cogeneration LP,TX,ERCO,0.0,0,0,0.0,0,0,"45,912.0","1,678,018",1,0.0,0,0,"45,912.0","1,678,018",1
+2019,62327,"Synergen Panorama, LLC CSG",61227,Nautilus Solar Solutions,MD,PJM,592.0,"4,546","1,065",0.0,0,0,0.0,0,0,0.0,0,0,592.0,"4,546","1,065"
+2019,61199,T0588 Phoenix - AZ,60520,SoCore Energy LLC,AZ,SRP,0.0,0,0,200.0,"2,402",1,0.0,0,0,0.0,0,0,200.0,"2,402",1
+2019,60683,TRS Fuel Cell,60403,"TRS Fuel Cell, LLC",CT,ISNE,0.0,0,0,452.0,"14,932",1,0.0,0,0,0.0,0,0,452.0,"14,932",1
+2019,58232,Tahquitz High School,58661,"Sustainable Power Group, LLC",CA,CISO,0.0,0,0,246.0,"1,582",1,0.0,0,0,0.0,0,0,246.0,"1,582",1
+2019,60677,Tannery Road Landfill,60401,"Tannery Road Solar, LLC",NM,,0.0,0,0,260.0,"2,608",1,0.0,0,0,0.0,0,0,260.0,"2,608",1
+2019,59330,Taylor Farms,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0.0,0,0,0.0,0,0,411.0,"3,971",1,0.0,0,0,411.0,"3,971",1
+2019,57594,Teichert Materials-Teichert Vernalis,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0.0,0,0,0.0,0,0,170.0,"2,006",1,0.0,0,0,170.0,"2,006",1
+2019,50481,Tennessee Eastman Operations,5610,Eastman Chemical Co-TN Ops,TN,PJM,0.0,0,0,0.0,0,0,"1,466.0","31,138",1,0.0,0,0,"1,466.0","31,138",1
+2019,10093,Tesoro Hawaii,58553,PAR Petroleum,HI,NA,0.0,0,0,0.0,0,0,"2,006.0","8,037",1,0.0,0,0,"2,006.0","8,037",1
+2019,60461,The Clorox Company,60947,Tesla Inc.,MD,PJM,0.0,0,0,152.0,"2,020",1,0.0,0,0,0.0,0,0,152.0,"2,020",1
+2019,58356,The Lawrenceville School Solar Facility,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,654.0,"8,724",1,0.0,0,0,0.0,0,0,654.0,"8,724",1
+2019,58749,Tihonet Solar,57365,Consolidated Edison Solutions Inc,MA,ISNE,0.0,0,0,0.0,0,0,178.0,"1,779",1,0.0,0,0,178.0,"1,779",1
+2019,60771,Timber Creek HS,61944,GSRP,NJ,PJM,0.0,0,0,173.0,"1,651",1,0.0,0,0,0.0,0,0,173.0,"1,651",1
+2019,60904,Time Warner Cable - Knowles,60947,Tesla Inc.,NY,NYIS,0.0,0,0,251.0,"2,195",1,0.0,0,0,0.0,0,0,251.0,"2,195",1
+2019,58917,Tioga Solar Morris County 1 LLC,61227,Nautilus Solar Solutions,NJ,PJM,0.0,0,0,103.0,"1,449",1,0.0,0,0,0.0,0,0,103.0,"1,449",1
+2019,58364,Tissington Solar,56997,Marina Energy LLC,NJ,PJM,0.0,0,0,65.0,702,1,0.0,0,0,0.0,0,0,65.0,702,1
+2019,60431,Tompkins Cortland Community College,60231,"SEC LHNY Solar One, LLC",NY,NYIS,0.0,0,0,228.0,"2,678",1,0.0,0,0,0.0,0,0,228.0,"2,678",1
+2019,60096,Town of Chestertown- Chestertown WWTP,60947,Tesla Inc.,MD,PJM,0.0,0,0,81.0,"1,790",1,0.0,0,0,0.0,0,0,81.0,"1,790",1
+2019,58586,Town of East Bridgewater CSG,60947,Tesla Inc.,MA,ISNE,0.0,0,0,175.0,"1,754",1,0.0,0,0,0.0,0,0,175.0,"1,754",1
+2019,60115,Town of Halfmoon,60947,Tesla Inc.,NY,ISNE,0.0,0,0,46.0,"1,017",1,0.0,0,0,0.0,0,0,46.0,"1,017",1
+2019,60110,Town of Needham VNEM CSG,60947,Tesla Inc.,MA,ISNE,0.0,0,0,360.0,"3,562",1,0.0,0,0,0.0,0,0,360.0,"3,562",1
+2019,61541,Town of Rocky Hill PV CSG,60947,Tesla Inc.,CT,ISNE,0.0,0,0,164.0,"1,489",1,0.0,0,0,0.0,0,0,164.0,"1,489",1
+2019,59613,Town of Williamson Landfill PV,59356,SSA Solar of NY LLC,NY,NYIS,0.0,0,0,162.0,"1,688",1,0.0,0,0,0.0,0,0,162.0,"1,688",1
+2019,61895,Toyota HQ Plan,61509,"PGC Plano I, LLC",TX,ERCO,0.0,0,0,"1,692.0","12,118",1,0.0,0,0,0.0,0,0,"1,692.0","12,118",1
+2019,57647,"Toys R Us- DE, Inc. at Mt. Olive, NJ",56976,"Constellation Solar New Jersey II, LLC",NJ,PJM,0.0,0,0,261.0,"5,169",1,0.0,0,0,0.0,0,0,261.0,"5,169",1
+2019,62260,Trout Creek Solar,60571,AEP Onsite Partners,CO,PSCO,0.0,0,0,272.0,"4,840",1,0.0,0,0,0.0,0,0,272.0,"4,840",1
+2019,59390,True North,58677,CD US Solar MT1 LLC,MA,ISNE,0.0,0,0,"1,193.0","6,786",1,0.0,0,0,0.0,0,0,"1,193.0","6,786",1
+2019,61846,Tulare BioMAT Fuel Cell,61467,"Central CA Fuel Cell 2, LLC",CA,CISO,0.0,0,0,39.0,"1,597",1,0.0,0,0,0.0,0,0,39.0,"1,597",1
+2019,63438,UB Fuel Cell,61939,"Clearway Energy, Inc",CT,ISNE,0.0,0,0,824.0,"10,674",1,0.0,0,0,0.0,0,0,824.0,"10,674",1
+2019,59872,UC Davis South Campus,59660,"Solar Star California XXXII, LLC",CA,CISO,0.0,0,0,"2,503.0","29,877",1,0.0,0,0,0.0,0,0,"2,503.0","29,877",1
+2019,61995,UC Merced Solar Hybrid,61591,"Solar University, LLC",CA,CISO,0.0,0,0,"1,091.0","8,526",1,0.0,0,0,0.0,0,0,"1,091.0","8,526",1
+2019,62016,UC Riverside Lots 30 & 32,61600,"Solar Star California LXVI, LLC",CA,CISO,0.0,0,0,798.0,"6,271",1,0.0,0,0,0.0,0,0,798.0,"6,271",1
+2019,60120,UCI Fuel Cell,59892,"UCI Fuel Cell, LLC",CA,CISO,0.0,0,0,651.0,"7,451",1,0.0,0,0,0.0,0,0,651.0,"7,451",1
+2019,57735,UCSD Fuel Cell Plant,57047,BioFuels Point Loma LLC,CA,CISO,0.0,0,0,"2,814.0","18,955",1,0.0,0,0,0.0,0,0,"2,814.0","18,955",1
+2019,61603,UMASS,56769,Consolidated Edison Development Inc.,MA,ISNE,0.0,0,0,0.0,0,0,418.0,"5,551",1,0.0,0,0,418.0,"5,551",1
+2019,59749,UMES (MD) - Princess Anne,58473,"NVT LICENSES, LLC",MD,PJM,0.0,0,0,324.0,"3,169",1,0.0,0,0,0.0,0,0,324.0,"3,169",1
+2019,60808,US Foods Solar,58677,CD US Solar MT1 LLC,NJ,PJM,0.0,0,0,782.0,"8,659",1,0.0,0,0,0.0,0,0,782.0,"8,659",1
+2019,60086,US-TOPCO (Soccer Center),60947,Tesla Inc.,CA,CISO,0.0,0,0,574.0,"6,604",1,0.0,0,0,0.0,0,0,574.0,"6,604",1
+2019,62612,USAA Black Bear Energy,62067,EnterSolar,CA,,0.0,0,0,283.0,"3,135",1,0.0,0,0,0.0,0,0,283.0,"3,135",1
+2019,61682,USG 1,60059,ZGlobal Inc,CA,IID,0.0,0,0,0.0,0,0,123.0,"1,714",1,0.0,0,0,123.0,"1,714",1
+2019,61683,USG 2,60059,ZGlobal Inc,CA,IID,0.0,0,0,0.0,0,0,143.0,"1,884",1,0.0,0,0,143.0,"1,884",1
+2019,62361,USS Brude Solar CSG,60531,Standard Solar,MN,MISO,0.0,0,0,19.0,154,4,0.0,0,0,0.0,0,0,19.0,154,4
+2019,62360,USS DVL Solar CSG,60531,Standard Solar,MN,MISO,0.0,0,0,47.0,397,5,0.0,0,0,0.0,0,0,47.0,397,5
+2019,62362,USS East Hauer Watt CSG,60531,Standard Solar,MN,MISO,0.0,0,0,48.0,402,5,0.0,0,0,0.0,0,0,48.0,402,5
+2019,62359,USS Eggo Solar CSG,60531,Standard Solar,MD,,0.0,0,0,100.0,"1,045",5,0.0,0,0,0.0,0,0,100.0,"1,045",5
+2019,62358,USS King 2 CSG,60531,Standard Solar,MN,MISO,0.0,0,0,81.0,638,5,0.0,0,0,0.0,0,0,81.0,638,5
+2019,62339,USS Kost Trail Solar CSG,60531,Standard Solar,MD,,0.0,0,0,89.0,"1,070",5,0.0,0,0,0.0,0,0,89.0,"1,070",5
+2019,62337,USS Lake Patterson Solar CSG,60531,Standard Solar,MN,MISO,0.0,0,0,82.0,697,5,0.0,0,0,0.0,0,0,82.0,697,5
+2019,62338,USS Rapidan Solar CSG,60531,Standard Solar,MD,,0.0,0,0,19.0,154,4,0.0,0,0,0.0,0,0,19.0,154,4
+2019,62336,USS Webster Solar CSG,60531,Standard Solar,MN,MISO,0.0,0,0,159.0,"1,377",5,0.0,0,0,0.0,0,0,159.0,"1,377",5
+2019,58516,Union HS at Casa Grande,58491,"Constellation Solar Holding, LLC",AZ,AZPS,0.0,0,0,307.0,"2,852",1,0.0,0,0,0.0,0,0,307.0,"2,852",1
+2019,58040,United Stationers Supply Solar Electric,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,247.0,"4,120",1,0.0,0,0,0.0,0,0,247.0,"4,120",1
+2019,62119,University Park Solar,61675,SS PA II PSU LLC,PA,PJM,0.0,0,0,0.0,0,0,127.0,"1,585",1,0.0,0,0,127.0,"1,585",1
+2019,54372,University of Colorado,22208,University of Colorado,CO,PSCO,0.0,.,0,"96,010.0",0,1,0.0,0,0,0.0,0,0,"96,010.0",0,1
+2019,54780,University of Illinois Abbott Power Plt,19528,University of Illinois,IL,MISO,84.0,"1,054",236,"1,326.0","16,779",89,0.0,0,0,0.0,0,0,"1,410.0","17,833",325
+2019,60448,Valdosta,63249,Terraform Arcadia,GA,SOCO,0.0,0,0,185.0,"1,522",1,0.0,0,0,0.0,0,0,185.0,"1,522",1
+2019,60824,Valley Sanitary District WTP Solar,60947,Tesla Inc.,CA,LDWP,0.0,0,0,114.0,"1,865",1,0.0,0,0,0.0,0,0,114.0,"1,865",1
+2019,61463,Vandenberg Solar Project,61082,"Vandenberg Solar I, LLC",CA,CISO,0.0,0,0,"3,155.0","42,899",1,0.0,0,0,0.0,0,0,"3,155.0","42,899",1
+2019,58517,Vista Grande HS at Casa Grande,58491,"Constellation Solar Holding, LLC",AZ,AZPS,0.0,0,0,334.0,"3,106",1,0.0,0,0,0.0,0,0,334.0,"3,106",1
+2019,58401,Volkswagen Solar System,58385,SR Enterprise South LLC,TN,TVA,0.0,0,0,0.0,0,0,"1,398.0","12,382",1,0.0,0,0,"1,398.0","12,382",1
+2019,60365,Vulcraft Solar,60163,Soltage LLC,NY,NYIS,0.0,0,0,0.0,0,0,181.0,"2,110",1,0.0,0,0,181.0,"2,110",1
+2019,56922,WWRF Solar Plant,56431,SunE U6 Holdings LLC,CO,PSCO,0.0,0,0,157.0,"2,852",1,0.0,0,0,0.0,0,0,157.0,"2,852",1
+2019,58123,Wakefern Food Corp,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0.0,0,0,220.0,"2,832",1,0.0,0,0,0.0,0,0,220.0,"2,832",1
+2019,60341,Wal-Mart Truth or Consequences PV,60127,"SSA Solar of NM 3, LLC",NM,PNM,0.0,0,0,257.0,"1,797",1,0.0,0,0,0.0,0,0,257.0,"1,797",1
+2019,57006,Walgreens Woodland Distribution Center,56296,SunE WG45 Woodland LLC,CA,CISO,0.0,0,0,222.0,"1,569",1,0.0,0,0,0.0,0,0,222.0,"1,569",1
+2019,57939,Walmart Casa Grande,60947,Tesla Inc.,AZ,AZPS,0.0,0,0,255.0,"2,627",1,0.0,0,0,0.0,0,0,255.0,"2,627",1
+2019,50216,Watson Cogeneration,867,ARCO Products Co-Watson,CA,CISO,0.0,0,0,0.0,0,0,"34,350.0","701,144",1,0.0,0,0,"34,350.0","701,144",1
+2019,60821,Weber State University - Davis Campus PV,60947,Tesla Inc.,UT,WACM,0.0,0,0,124.0,"2,226",1,0.0,0,0,0.0,0,0,124.0,"2,226",1
+2019,61629,West Brookfield Solar - Gilbertsville Rd CSG,61227,Nautilus Solar Solutions,MA,ISNE,0.0,0,0,285.0,"5,598",1,0.0,0,0,0.0,0,0,285.0,"5,598",1
+2019,58244,West Valley High School Solar,58661,"Sustainable Power Group, LLC",CA,CISO,0.0,0,0,210.0,"1,487",1,0.0,0,0,0.0,0,0,210.0,"1,487",1
+2019,59368,Westborough Solar LLC,58258,SunRay Power LLC,MA,ISNE,0.0,0,0,331.0,"2,415",1,0.0,0,0,0.0,0,0,331.0,"2,415",1
+2019,60500,Westside Avenue,60268,Hartz Solar LLC,NJ,PJM,0.0,0,0,186.0,"1,285",1,0.0,0,0,0.0,0,0,186.0,"1,285",1
+2019,62683,Westside Wastewater Treatment Plant Hybrid,61204,"Today's Power, Inc.",AR,SWPP,0.0,0,0,177.0,"3,705",1,0.0,0,0,0.0,0,0,177.0,"3,705",1
+2019,62764,Westtown CSG,62669,"Westtown NY 1, LLC",NY,ISNE,119.0,"2,119",121,0.0,0,0,0.0,0,0,0.0,0,0,119.0,"2,119",121
+2019,61630,William G Mennen Sports Solar,61227,Nautilus Solar Solutions,NJ,PJM,0.0,0,0,125.0,"1,449",1,0.0,0,0,0.0,0,0,125.0,"1,449",1
+2019,57805,William Paterson University,57124,Nautilus Solar WPU LLC,NJ,PJM,0.0,0,0,455.0,"2,729",1,0.0,0,0,0.0,0,0,455.0,"2,729",1
+2019,58361,Williams-Sonoma Solar Facility,63068,CVI CleanCapital Solar 4 LLC,NJ,PJM,0.0,0,0,450.0,"4,485",1,0.0,0,0,0.0,0,0,450.0,"4,485",1
+2019,60111,Williamsburg Solar LLC VNEM CSG,60947,Tesla Inc.,MA,ISNE,0.0,0,0,194.0,"2,579",1,0.0,0,0,0.0,0,0,194.0,"2,579",1
+2019,59751,"Wilzig Associates, LLC",59518,"Wilzig Associates, LLC",NJ,PJM,0.0,0,0,0.0,0,0,110.0,"1,489",1,0.0,0,0,110.0,"1,489",1
+2019,62193,Winegar CSG,63249,Terraform Arcadia,MN,MISO,0.0,0,0,164.0,"1,455",1,0.0,0,0,0.0,0,0,164.0,"1,455",1
+2019,10613,"Woodland Pulp, LLC",5232,Woodland Pulp LLC,ME,NBSO,0.0,0,0,0.0,0,0,"4,945.0","110,754",2,0.0,0,0,"4,945.0","110,754",2
+2019,63512,Wor-Wic Community College - Offsite,60947,Tesla Inc.,MD,PJM,290.0,"2,575",1,0.0,0,0,0.0,0,0,0.0,0,0,290.0,"2,575",1
+2019,62365,Wright Kirby 1-5 CSG,60531,Standard Solar,MN,MISO,0.0,0,0,560.0,"4,717",15,0.0,0,0,0.0,0,0,560.0,"4,717",15
+2019,60604,Wye Mills VNEM CSG,60947,Tesla Inc.,MD,PJM,0.0,0,0,937.0,"18,011",1,0.0,0,0,0.0,0,0,937.0,"18,011",1
+2019,62286,Xebec 1,61811,AES LA FiT Sun Valley LLC,CA,LDWP,0.0,0,0,475.0,"3,277",1,0.0,0,0,0.0,0,0,475.0,"3,277",1
+These entities are one of the elements used in the state Adjustment lines in the Sales to Ultimate Customers file.,,,,,,,,,,,,,,,,,,,,,
