@@ -1,0 +1,52 @@
+,Data Year,Utility Number,Utility Name,Ownership Code,Ownership,Short Form,Advanced Metering,Demand Response,Distribution Systems,Dynamic Pricing,Energy Efficiency,Mergers,Net Metering,Non Net Metering Distributed,Operational Data,Reliablity,Sales to Ultimate Customers,Service Territory,Utility Data
+0,2016,229,City of Albany - (IL),M,Municipal,X,,,,,,,,,,,,X,
+1,2016,366,City of Allendale- (IL),M,Municipal,X,,,,,,,,,,,,X,
+2,2016,406,City of Altamont - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+3,2016,1325,City of Batavia - (IL),M,Municipal,,X,,X,,,,,,X,,X,X,X
+4,2016,1648,Village of Bethany - (IL),M,Municipal,X,,,,,,,,,,,,X,
+5,2016,2188,City of Breese - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+6,2016,2634,City of Bushnell - (IL),M,Municipal,X,,,,,,,,,,,,X,
+7,2016,3037,City of Carlyle - (IL),M,Municipal,X,,,,,,,,,,,,X,
+8,2016,3040,City of Carmi - (IL),M,Municipal,X,,,,,,,,,,,,X,
+9,2016,3153,City of Casey - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+10,2016,3405,Village of Chatham - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+11,2016,5585,Eastern Illinois Elec Coop,C,Cooperative,,X,,X,,X,,X,,X,X,X,X,X
+12,2016,6141,City of Fairfield- (IL),M,Municipal,X,,,,,,,,,,,,X,
+13,2016,6192,City of Farmer City - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+14,2016,6417,City of Flora - (IL),M,Municipal,,X,,X,,,,,,X,,X,X,X
+15,2016,6764,Village of Freeburg - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+16,2016,7095,City of Geneseo - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+17,2016,7096,City of Geneva- (IL),M,Municipal,,X,,X,X,,,X,,X,X,X,X,X
+18,2016,7633,Village of Greenup - (IL),M,Municipal,X,,,,,,,,,,,,X,
+19,2016,8620,"HILCO Electric Cooperative, Inc.",C,Cooperative,,X,,X,,X,,X,,X,X,X,X,X
+20,2016,9209,Illinois Rural Electric Coop,C,Cooperative,,X,X,X,,,,,,X,X,X,X,X
+21,2016,9286,Illinois Municipal Elec Agency,A,Municipal Mktg Authority,,,,,,X,,,,X,,,,X
+22,2016,11736,City of Marshall - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+23,2016,11790,City of Mascoutah - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+24,2016,12167,City of McLeansboro - (IL),M,Municipal,X,,,,,,,,,,,,X,
+25,2016,12388,City of Metropolis - (IL),M,Municipal,X,,,,,,,,,,,,X,
+26,2016,13208,City of Naperville - (IL),M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+27,2016,13560,City of Newton - (IL),M,Municipal,X,,,,,,,,,,,,X,
+28,2016,13993,City of Oglesby - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+29,2016,14840,City of Peru - (IL),M,Municipal,,X,,X,,,,,,X,,X,X,X
+30,2016,15388,City of Princeton - (IL),M,Municipal,,X,,X,,,,,,X,,X,X,X
+31,2016,15686,Village of Rantoul - (IL),M,Municipal,,X,,X,,,,,,X,,X,X,X
+32,2016,15772,City of Red Bud - (IL),M,Municipal,X,,,,,,,,,,,,X,
+33,2016,16092,Village of Riverton - (IL),M,Municipal,X,,,,,,,,,,,,X,
+34,2016,16198,City of Rock Falls - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+35,2016,16269,City of Roodhouse - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+36,2016,17585,"Southeastern IL Elec Coop, Inc",C,Cooperative,,X,,X,,,,X,,X,X,X,X,X
+37,2016,17631,Southern Illinois Elec Coop,C,Cooperative,,X,,X,,,,X,,X,X,X,X,X
+38,2016,17632,Southern Illinois Power Coop,C,Cooperative,,,,,,,,,,X,,,,X
+39,2016,17697,Southwestern Electric Coop Inc - (IL),C,Cooperative,,X,,X,,,,,X,X,X,X,X,X
+40,2016,17828,City of Springfield - (IL),M,Municipal,,X,,X,,X,,X,,X,X,X,X,X
+41,2016,17860,City of St Charles - (IL),M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+42,2016,18277,City of Sullivan - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+43,2016,20180,City of Waterloo - (IL),M,Municipal,X,,,,,,,,,,,,X,
+44,2016,20824,Village of Winnetka - (IL),M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+45,2016,29296,Western Illinois Elec Coop,C,Cooperative,X,X,,,,,,,,,,,X,
+46,2016,40367,Village of Ladd - (IL),M,Municipal,X,X,,,,,,,,,,,X,
+47,2016,56697,Ameren Illinois Company,I,Investor Owned,,X,,X,X,X,,X,X,X,X,X,X,X
+48,2016,57488,"XOOM Energy Illinois, LLC",R,Retail Power Marketer,,,,,,,,,,X,,X,,X
+49,2016,58314,"Palmco Power IL, LLC",R,Retail Power Marketer,,,,,,,,,,X,,X,,X
+50,2016,59958,"Mega Energy of Illinois, LLC",R,Retail Power Marketer,,,,,,,,,,X,,X,,X

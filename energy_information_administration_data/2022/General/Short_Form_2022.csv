@@ -1,0 +1,1729 @@
+|Data Year|,|Utility Number|,|Utility Name|,|Ownership|,|State|,|BA Code|,|Total Revenue (Thousand Dollars)|,|Total Sales (MWh)|,|Total Customers|,|w_heater|,|Net Metering|,|Demand Side Management|,|Time Based Programs|
+2022,192,Akiachak Native Community Electric,Cooperative,AK,NA,"1,586.5","1,531",248,.,N,N,N
+2022,878,Atmautluak Tribal Utilities,Municipal,AK,NA,507.3,"1,116",99,.,N,N,N
+2022,1276,"Barrow Utils & Elec Coop, Inc",Cooperative,AK,NA,"7,186.9","47,960","2,028",.,N,N,N
+2022,1747,Birch Creek Village Elec Util - (AK),Municipal,AK,NA,.,.,.,.,,,
+2022,3421,City of Chignik - (AK),Municipal,AK,NA,268.4,606,107,.,N,N,N
+2022,3422,City of Chefornak,Municipal,AK,NA,568.0,"1,363",102,.,N,N,N
+2022,3465,Chitina Electric Inc,Investor Owned,AK,NA,269.8,411,82,.,N,N,N
+2022,4329,"Copper Valley Elec Assn, Inc",Cooperative,AK,NA,"24,903.0","84,808","3,955",.,Y,N,N
+2022,4959,Aniak Light & Power Co Inc,Investor Owned,AK,NA,"1,075.3","2,071",197,.,N,N,N
+2022,5721,City of Elfin Cove - (AK),Municipal,AK,NA,250.0,318,80,.,N,N,N
+2022,6866,"G & K, Inc",Investor Owned,AK,NA,"1,765.3","1,998",124,.,N,N,N
+2022,6915,Galena Electric Utility,Municipal,AK,NA,"3,003.7","5,558",358,.,N,N,N
+2022,7833,Gwitchyaa Zhee Utility Co,Investor Owned,AK,NA,"1,364.1","2,721",280,.,N,N,N
+2022,9000,Hughes Power & Light Co,Investor Owned,AK,NA,417.4,525,68,.,N,N,N
+2022,9188,"I-N-N Electric Coop, Inc",Cooperative,AK,NA,"1,498.7","3,195",286,.,N,N,N
+2022,9192,Igiugig Electric Company,Political Subdivision,AK,NA,229.3,292,58,.,Y,N,N
+2022,9416,Ipnatchiaq Electric Company,Municipal,AK,NA,574.0,767,71,.,N,N,N
+2022,9832,Kuiggluum Kallugvia,Investor Owned,AK,NA,817.1,"1,613",221,.,N,N,N
+2022,9897,City of King Cove,Municipal,AK,NA,"1,220.1","4,068",201,.,N,N,N
+2022,10455,Kokhanok Village Council,Political Subdivision,AK,NA,353.0,481,79,.,N,N,N
+2022,10491,Kwig Power Company,Political Subdivision,AK,NA,705.3,"1,377",126,.,N,N,N
+2022,10716,City of Larsen Bay - (AK),Municipal,AK,AMPL,289.0,897,64,.,N,N,N
+2022,12119,McGrath Light & Power Co,Investor Owned,AK,NA,"1,418.0","1,994",290,.,N,N,N
+2022,12385,Metlakatla Power & Light,Municipal,AK,NA,"2,696.9","18,807",980,.,N,N,N
+2022,12485,Middle Kuskokwim Elec Coop Inc,Cooperative,AK,NA,"1,177.0",924,193,.,N,N,N
+2022,13201,"Naknek Electric Assn, Inc",Cooperative,AK,NA,"12,386.0","21,643","1,128",.,N,N,N
+2022,13211,Napakiak Ircinraq Power Co,Investor Owned,AK,NA,582.0,705,131,.,N,N,N
+2022,13477,Nelson Lagoon Elec Coop Inc,Cooperative,AK,NA,131.4,230,59,.,N,N,N
+2022,13642,Nome Joint Utility Systems,Municipal,AK,NA,"10,185.0","31,196","2,236",.,N,N,N
+2022,13870,"Nushagak Electric Coop, Inc",Cooperative,AK,NA,"9,717.0","18,043","1,482",.,Y,N,N
+2022,14234,City of Ouzinkie - (AK),Municipal,AK,NA,237.0,720,105,.,N,N,N
+2022,14633,Pedro Bay Village Council - (AK),Municipal,AK,NA,153.0,225,42,.,N,N,N
+2022,14832,Native Village of Perryville - (AK),Municipal,AK,NA,.,.,.,.,,,
+2022,14856,Petersburg Borough - (AK),Municipal,AK,NA,"6,730.0","55,247","2,290",.,N,N,N
+2022,16955,City of Seward - (AK),Municipal,AK,NA,"13,510.9","53,328","2,933",.,Y,N,N
+2022,17271,City & Borough of Sitka - (AK),Municipal,AK,NA,"19,576.0","115,712","5,590",.,N,N,N
+2022,17898,City of Saint Paul,Municipal,AK,NA,"1,619.0","2,892",205,.,N,N,N
+2022,18474,Tanana Power Co Inc,Investor Owned,AK,NA,800.0,"1,137",152,.,N,N,N
+2022,18480,Tatitlek Electric Utility,Municipal,AK,NA,246.0,321,64,.,N,N,N
+2022,18541,City of Tenakee Springs - (AK),Municipal,AK,NA,275.6,380,172,.,N,N,N
+2022,18963,"Inside Passage Elec Coop, Inc",Cooperative,AK,NA,"6,584.0","10,426","1,392",.,N,N,N
+2022,19267,Tuntutuliak Comm Services Assn,Cooperative,AK,NA,578.0,"1,035",135,.,N,N,N
+2022,19454,City of Unalaska - (AK),Municipal,AK,NA,"19,271.7","41,623","1,040",.,N,N,N
+2022,20535,City of White Mountain - (AK),Municipal,AK,NA,464.6,622,103,.,N,N,N
+2022,21015,City of Wrangell - (AK),Municipal,AK,NA,"4,429.0","38,503","2,017",.,N,N,N
+2022,24486,City of Akutan - (AK),Municipal,AK,NA,391.4,664,90,.,N,N,N
+2022,26317,Manokotak Power Company,Municipal,AK,NA,706.9,"1,140",167,.,N,N,N
+2022,26616,North Slope Borough Power & Light,Municipal,AK,NA,"8,746.0","31,519","1,248",.,N,N,N
+2022,29297,Pelican Utility,Municipal,AK,NA,227.0,958,107,.,N,N,N
+2022,40215,"Cordova Electric Coop, Inc",Cooperative,AK,NA,"8,180.8","23,534","1,689",.,Y,N,N
+2022,40548,Unalakleet Valley Elec Coop,Cooperative,AK,NA,"1,760.0","3,704",386,.,Y,N,N
+2022,56256,City of Atka - (AK),Municipal,AK,NA,144.9,336,64,.,N,N,N
+2022,56503,TDX Manley Generating LLC,Investor Owned,AK,NA,658.2,510,113,.,N,N,N
+2022,56739,Gold Country Energy,Investor Owned,AK,NA,308.0,321,134,.,N,N,N
+2022,57351,City of Egegik - (AK),Municipal,AK,NA,429.6,636,131,.,N,N,N
+2022,289,City of Alexander City,Municipal,AL,SOCO,"14,203.0","131,346","5,686",.,N,N,N
+2022,2423,City of Brundidge - (AL),Municipal,AL,SOCO,"5,770.2","49,048","1,257",.,N,N,N
+2022,5728,City of Elba - (AL),Municipal,AL,SOCO,"4,529.0","39,143","3,039",.,N,N,N
+2022,6052,City of Evergreen - (AL),Municipal,AL,SOCO,"3,853.0","48,432","1,815",.,N,N,N
+2022,6145,City of Fairhope - (AL),Municipal,AL,SOCO,"20,117.0","176,064","6,965",.,N,N,N
+2022,8209,City of Hartford - (AL),Municipal,AL,SOCO,"3,037.0","26,534","1,407",.,N,N,N
+2022,10570,City of Lafayette - (AL),Municipal,AL,SOCO,"3,113.0","24,569","1,457",.,N,N,N
+2022,10687,City of Lanett - (AL),Municipal,AL,SOCO,"6,861.0","57,533","3,383",.,N,N,N
+2022,11333,City of Luverne - (AL),Municipal,AL,SOCO,"3,069.3","41,458","1,820",.,N,N,N
+2022,14151,City of Opp - (AL),Municipal,AL,SOCO,"5,919.0","63,390","3,181",.,N,N,N
+2022,15022,City of Piedmont - (AL),Municipal,AL,SOCO,"5,043.8","39,010","2,120",.,N,N,N
+2022,16140,City of Robertsdale,Municipal,AL,SOCO,"8,826.0","80,428","3,462",.,N,N,N
+2022,18395,Sylacauga Utilities Board,Municipal,AL,SOCO,"22,543.1","199,053","6,258",.,N,N,N
+2022,19027,"Tombigbee Electric Coop, Inc",Cooperative,AL,SOCO,"16,905.0","117,427","9,552",.,N,N,N
+2022,19308,City of Tuskegee,Municipal,AL,SOCO,"17,452.0","147,050","6,604",.,N,N,N
+2022,30517,"Pioneer Electric Coop, Inc - (AL)",Cooperative,AL,SOCO,"30,681.0","176,079","12,911",.,Y,N,N
+2022,925,"Ashley Chicot Elec Coop, Inc",Cooperative,AR,MISO,"12,566.0","81,113","5,091",.,Y,N,N
+2022,1000,City of Augusta - (AR),Municipal,AR,MISO,"2,061.5","11,705",912,.,N,N,N
+2022,6206,Farmers Electric Coop Corp - (AR),Cooperative,AR,MISO,"11,839.5","85,026","5,134",.,Y,Y,N
+2022,14216,City of Osceola - (AR),Municipal,AR,MISO,"13,495.0","125,068","3,431",.,Y,N,N
+2022,14460,City of Paris - (AR),Municipal,AR,SWPP,"3,917.0","36,046","1,885",.,N,N,N
+2022,15043,City of Piggott - (AR),Municipal,AR,SPA,"3,673.0","34,152","2,249",.,Y,N,N
+2022,15337,City of Prescott - (AR),Municipal,AR,MISO,"10,062.0","82,993","1,649",.,Y,N,N
+2022,15811,"Rich Mountain Elec Coop, Inc",Cooperative,AR,MISO,"21,182.0","188,554","8,847",.,Y,N,N
+2022,737,Aguila Irrigation District,Political Subdivision,AZ,AZPS,"3,657.0","36,918",60,.,N,N,N
+2022,2469,Buckeye Water C&D District,Political Subdivision,AZ,AZPS,912.0,"7,297",98,.,N,N,N
+2022,3990,Colorado River Indian Irr Proj,Federal,AZ,WALC,"4,737.9","58,325","1,885",.,N,N,N
+2022,4071,"Columbus Electric Coop, Inc",Cooperative,AZ,PNM,706.7,"4,690",506,.,Y,N,N
+2022,5438,"Duncan Valley Elec Coop, Inc",Cooperative,AZ,WALC,"3,742.0","24,639","2,222",.,Y,N,Y
+2022,6753,City of Fredonia - (AZ),Municipal,AZ,WALC,"1,023.8","10,981",819,.,N,N,N
+2022,7456,Graham County Electric Coop Inc,Cooperative,AZ,WALC,"16,833.8","128,504","8,186",.,Y,Y,N
+2022,8139,Harquahala Valley Pwr District,Political Subdivision,AZ,AZPS,"9,052.0","102,488",115,.,N,N,N
+2022,8700,Hohokam Irr & Drain Dist,Political Subdivision,AZ,WALC,"5,237.7","40,913","2,026",.,N,N,N
+2022,12191,McMullen Valley Water C&D Dist,Political Subdivision,AZ,AZPS,"12,221.0","145,734",211,.,N,N,N
+2022,13961,Ocotillo Water Conserv. Dist.,Political Subdivision,AZ,SRP,"1,342.0","12,392",168,.,N,N,N
+2022,14373,Page Utility Enterprises,Municipal,AZ,WALC,"9,130.0","123,000","4,451",.,Y,N,N
+2022,14543,Tohono O'Odham Utility Authority,Political Subdivision,AZ,AZPS,"13,389.0","88,082","4,129",.,N,N,N
+2022,15049,Electrical Dist No4 Pinal County,Political Subdivision,AZ,WALC,"15,063.0","203,668","3,021",.,N,Y,N
+2022,16273,Roosevelt Irrigation District,Political Subdivision,AZ,SRP,"3,540.0","39,406",193,.,N,N,N
+2022,16538,City of Safford - (AZ),Municipal,AZ,WALC,"9,769.0","88,474","5,730",.,N,Y,N
+2022,18805,Town of Thatcher- (AZ),Municipal,AZ,WALC,"4,913.0","44,409","2,862",.,N,Y,N
+2022,19016,Tonopah Irrigation District,Political Subdivision,AZ,AZPS,"3,437.0","35,633",54,.,N,N,N
+2022,20618,Town of Wickenburg,Municipal,AZ,AZPS,"2,592.0","27,193","1,497",.,N,Y,N
+2022,21239,Electrical Dist No7 Maricopa,Political Subdivision,AZ,AZPS,"3,567.0","38,989",95,.,N,N,N
+2022,25060,Wellton-Mohawk Irr & Drain Dist,Political Subdivision,AZ,WALC,"9,931.0","77,575","4,211",.,N,N,N
+2022,40355,Maricopa County M W C Dist #1,Political Subdivision,AZ,AZPS,"3,622.0","36,041",109,.,N,N,N
+2022,40357,Electrical Dist No6 Pinal County,Political Subdivision,AZ,SRP,"3,201.0","41,052",134,.,N,N,N
+2022,56535,City of Williams - AZ,Municipal,AZ,AZPS,"5,148.0","52,660","2,219",.,N,Y,N
+2022,58123,Aha Macav Power Service,Political Subdivision,AZ,WALC,"1,845.4","22,437",681,.,N,N,N
+2022,694,Anza Electric Coop Inc,Cooperative,CA,WALC,"14,612.1","72,722","4,928",.,Y,N,N
+2022,1192,City of Banning - (CA),Municipal,CA,CISO,"26,938.9","151,548","13,224",.,Y,N,N
+2022,1702,City of Biggs - (CA),Municipal,CA,CISO,"2,142.3","15,858",752,.,Y,N,N
+2022,3990,Colorado River Indian Irr Proj,Federal,CA,WALC,"1,990.0","23,077","1,862",.,N,N,N
+2022,7677,City of Gridley - (CA),Municipal,CA,CISO,"6,375.7","36,990","2,940",.,N,N,N
+2022,8348,City of Healdsburg - (CA),Municipal,CA,CISO,"12,150.0","73,932","6,052",.,Y,Y,Y
+2022,10724,Lassen Municipal Utility District,Municipal,CA,CISO,"23,154.0","130,841","10,715",.,Y,N,N
+2022,11148,City of Lompoc - (CA),Municipal,CA,CISO,"21,848.7","128,482","15,181",.,Y,Y,N
+2022,13149,City of Needles - (CA),Municipal,CA,WALC,"10,431.0","82,412","2,958",.,Y,N,N
+2022,15308,Plumas-Sierra Rural Elec Coop,Cooperative,CA,CISO,"26,064.0","148,370","7,736",.,Y,Y,N
+2022,17896,City of Shasta Lake - (CA),Municipal,CA,BANC,"29,869.7","215,692","4,627",.,Y,N,Y
+2022,19131,Trinity Public Utilities Dist,Political Subdivision,CA,BANC,"12,084.0","124,077","7,320",.,Y,N,N
+2022,19174,Tuolumne County Pub Power Agny,Political Subdivision,CA,CISO,"5,362.8","38,609",36,.,N,N,N
+2022,19229,Truckee Donner P U D,Political Subdivision,CA,NEVP,"31,136.2","167,155","14,602",.,Y,Y,N
+2022,19397,City of Ukiah - (CA),Municipal,CA,CISO,"17,047.0","106,166","8,353",.,Y,Y,N
+2022,55962,City of Victorville - (CA),Municipal,CA,CISO,"18,517.9","109,116",92,.,N,N,Y
+2022,56224,Rancho Cucamonga Municipal Utility,Municipal,CA,CISO,"14,419.0","101,664","2,847",.,Y,Y,Y
+2022,58123,Aha Macav Power Service,Political Subdivision,CA,WALC,470.0,"4,398",122,.,N,N,N
+2022,58126,Pittsburg Power Company,Municipal,CA,CISO,"6,541.4","26,489",596,.,Y,N,N
+2022,60502,Port of Stockton - (CA),Municipal,CA,CISO,"2,951.0","15,030",110,.,Y,N,Y
+2022,60715,Port of Oakland,Municipal,CA,CISO,"28,044.8","154,599",225,.,Y,N,Y
+2022,62107,City of Industry,Municipal,CA,CISO,"4,980.4","40,315",119,.,N,Y,Y
+2022,62779,Lathrop Irrigation District,Political Subdivision,CA,CISO,"5,132.0","26,954","3,460",.,Y,N,N
+2022,918,City of Aspen- (CO),Municipal,CO,PSCO,"10,437.0","70,799","3,194",.,Y,N,N
+2022,2550,City of Burlington - (CO),Municipal,CO,WACM,"3,903.0","31,148","2,038",.,Y,N,N
+2022,3227,City of Center - (CO),Municipal,CO,PSCO,"2,180.0","10,927",903,.,N,N,N
+2022,5036,City of Delta - (CO),Municipal,CO,WACM,"6,861.0","57,418","3,575",.,Y,N,N
+2022,5997,Town of Estes Park,Municipal,CO,PSCO,"19,458.0","134,369","10,982",.,Y,Y,Y
+2022,6418,Town of Fleming - (CO),Municipal,CO,WACM,337.0,"2,321",221,.,N,N,N
+2022,7300,City of Glenwood Springs - (CO),Municipal,CO,PSCO,"14,749.0","126,083","6,674",.,Y,Y,N
+2022,7478,Town of Granada - (CO),Municipal,CO,WACM,475.0,"3,361",281,.,N,N,N
+2022,7787,Gunnison County Elec Assn.,Cooperative,CO,WACM,"20,460.0","128,607","11,496",.,Y,Y,Y
+2022,7826,City of Gunnison - (CO),Municipal,CO,WACM,"7,523.1","76,908","4,553",.,Y,N,Y
+2022,8311,Town of Haxtun - (CO),Municipal,CO,WACM,"1,042.5","8,180",599,.,N,N,N
+2022,8751,Town of Holly - (CO),Municipal,CO,WACM,"1,245.0","7,769",578,.,N,N,N
+2022,8777,City of Holyoke - (CO),Municipal,CO,WACM,"2,844.0","22,126","1,222",.,Y,N,N
+2022,9928,City of Julesburg - (CO),Municipal,CO,WACM,"1,207.7","11,017",931,.,N,N,N
+2022,10536,City of La Junta - (CO),Municipal,CO,PSCO,"11,551.0","81,727","3,801",.,Y,N,N
+2022,10633,City of Lamar - (CO),Municipal,CO,PSCO,"14,128.0","87,064","4,071",.,N,N,N
+2022,10730,City of Las Animas - (CO),Municipal,CO,WACM,"4,359.0","25,106","2,095",.,Y,N,N
+2022,11376,Town of Lyons - (CO),Municipal,CO,PSCO,"1,635.0","12,609","1,074",.,Y,N,N
+2022,14054,Town of Oak Creek - (CO),Municipal,CO,WACM,"1,090.0","10,076",655,.,N,N,N
+2022,16649,Sangre De Cristo Elec Assn Inc,Cooperative,CO,WACM,"22,249.9","129,252","14,042",.,Y,N,Y
+2022,17834,City of Springfield - (CO),Municipal,CO,WACM,"1,697.0","10,797",926,.,N,N,N
+2022,19204,City of Trinidad - (CO),Municipal,CO,WACM,"7,823.0","48,803","4,671",.,N,N,N
+2022,21021,City of Wray,Municipal,CO,WACM,"2,827.0","23,711","1,305",.,N,N,N
+2022,21143,City of Yuma - (CO),Municipal,CO,WACM,"2,315.0","26,899","1,605",.,N,N,N
+2022,40230,Deseret Generation & Tran Coop,Cooperative,CO,PACE,"4,707.3","40,818",1,.,N,N,N
+2022,9734,City of Jewett City - (CT),Municipal,CT,ISNE,"4,131.6","23,523","2,287",.,N,Y,N
+2022,13825,Norwalk Third Taxing District,Municipal,CT,ISNE,"11,238.0","63,038","4,001",.,Y,N,N
+2022,17569,City of South Norwalk - (CT),Municipal,CT,ISNE,"16,923.6","102,369","7,193",.,Y,N,N
+2022,49826,Mohegan Tribal Utility Authority,Political Subdivision,CT,ISNE,"16,413.9","125,683",78,.,N,N,N
+2022,3732,Town of Clayton,Municipal,DE,PJM,"3,293.0","22,265","1,678",.,Y,N,N
+2022,10935,City of Lewes - (DE),Municipal,DE,PJM,"9,307.0","83,497","3,879",.,Y,N,N
+2022,13424,New Castle Municipal Serv Comm,Municipal,DE,PJM,"8,969.0","76,713","2,880",.,Y,N,N
+2022,16852,City of Seaford- (DE),Municipal,DE,PJM,"14,317.0","110,532","4,234",.,Y,N,N
+2022,17457,Town of Smyrna - (DE),Municipal,DE,PJM,"15,787.2","112,047","6,335",.,Y,Y,N
+2022,201,City of Alachua - (FL),Municipal,FL,FPC,"16,160.0","143,237","4,793",.,Y,N,N
+2022,1876,City of Blountstown - (FL),Municipal,FL,SOCO,"4,062.0","31,548","1,310",.,Y,N,N
+2022,2633,City of Bushnell - (FL),Municipal,FL,FPC,"7,977.0","56,617","1,669",.,Y,N,N
+2022,3406,City of Chattahoochee - (FL),Municipal,FL,FPC,"4,139.0","36,331","1,123",.,N,N,N
+2022,3774,City of Clewiston,Municipal,FL,FPC,"14,518.4","98,742","4,189",.,Y,N,N
+2022,5964,"Escambia River Elec Coop, Inc",Cooperative,FL,SOCO,"29,992.0","208,801","12,385",.,Y,Y,Y
+2022,6609,City of Fort Meade - (FL),Municipal,FL,FPC,"6,824.0","42,075","2,829",.,Y,N,N
+2022,7593,City of Green Cove Springs,Municipal,FL,FMPP,"15,155.0","107,940","4,620",.,Y,N,N
+2022,8276,Havana Power & Light Company,Municipal,FL,FPC,"3,097.0","23,926","1,497",.,Y,N,N
+2022,12876,City of Moore Haven - (FL),Municipal,FL,FPL,"2,310.3","16,419",998,.,Y,N,N
+2022,13033,City of Mount Dora - (FL),Municipal,FL,FPC,"13,301.5","95,627","6,124",.,Y,N,N
+2022,13521,City of Newberry - (FL),Municipal,FL,FPC,"6,176.8","42,691","2,466",.,Y,N,N
+2022,15566,City of Quincy - (FL),Municipal,FL,FPC,"17,191.0","134,628","4,700",.,Y,N,N
+2022,18004,City of Starke - (FL),Municipal,FL,FPL,"10,083.2","63,769","2,975",.,Y,N,N
+2022,20209,City of Wauchula - (FL),Municipal,FL,FPC,"8,306.1","60,823","2,875",.,Y,N,N
+2022,20735,City of Williston - (FL),Municipal,FL,FPC,"4,621.0","36,584","1,595",.,N,N,N
+2022,123,City of Adel- (GA),Municipal,GA,SOCO,"52,481.1","545,617","2,853",.,N,N,N
+2022,308,City of Acworth - (GA),Municipal,GA,SOCO,"14,943.2","98,979","8,221",.,N,N,N
+2022,1232,City of Barnesville - (GA),Municipal,GA,SOCO,"13,597.0","142,592","2,845",.,N,N,N
+2022,1826,City of Blakely - (GA),Municipal,GA,SOCO,"8,523.0","71,522","2,832",.,Y,N,N
+2022,2236,Town of Brinson - (GA),Municipal,GA,SOCO,199.0,"1,459",126,.,N,N,N
+2022,2773,City of Cairo - (GA),Municipal,GA,SOCO,"14,389.8","129,140","4,113",.,N,N,N
+2022,2910,City of Camilla,Municipal,GA,SOCO,"10,752.3","132,120","1,873",.,N,N,N
+2022,4091,City of Commerce - (GA),Municipal,GA,SOCO,"7,063.8","54,402","3,060",.,N,N,N
+2022,5236,City of Doerun - (GA),Municipal,GA,SOCO,905.2,"5,369",416,.,Y,N,N
+2022,5730,City of Elberton,Municipal,GA,SOCO,"14,187.4","127,035","4,516",.,Y,N,N
+2022,5796,City of Ellaville,Municipal,GA,SOCO,"3,671.3","25,406",824,.,N,N,N
+2022,6130,City of Fairburn - (GA),Municipal,GA,SOCO,"9,539.3","140,504","3,471",.,N,N,N
+2022,6380,Fitzgerald Wtr Lgt & Bond Comm,Municipal,GA,SOCO,"24,989.9","236,691","6,042",.,Y,N,N
+2022,6598,City of Forsyth - (GA),Municipal,GA,SOCO,"15,308.8","119,268","3,106",.,N,N,N
+2022,6617,Fort Valley Utility Comm,Municipal,GA,SEPA,"13,065.0","137,214","4,862",.,Y,N,N
+2022,7515,City of Grantville - (GA),Municipal,GA,SOCO,"1,680.0","11,339","1,002",.,N,N,N
+2022,8022,City of Hampton - (GA),Municipal,GA,SOCO,"3,892.1","38,242","2,665",.,N,N,N
+2022,8698,City of Hogansville - (GA),Municipal,GA,SOCO,"3,532.4","25,599","1,883",.,N,N,N
+2022,9573,City of Jackson - (GA),Municipal,GA,SOCO,"5,199.0","72,517","1,672",.,N,N,N
+2022,10571,City of LaFayette - (GA),Municipal,GA,SOCO,"12,803.7","130,615","4,284",.,N,N,N
+2022,11587,City of Mansfield - (GA),Municipal,GA,SOCO,833.6,"7,072",286,.,N,N,N
+2022,12472,Middle Georgia El Member Corp,Cooperative,GA,SOCO,"23,923.0","164,983","8,389",.,Y,N,N
+2022,12800,City of Monroe - (GA),Municipal,GA,SOCO,"19,037.0","154,659","6,856",.,N,N,N
+2022,12851,City of Monticello - (GA),Municipal,GA,SOCO,"2,710.2","22,912","1,398",.,N,N,N
+2022,13026,City of Moultrie - (GA),Municipal,GA,SOCO,"20,472.4","186,685","6,921",.,N,N,N
+2022,13646,City of Norcross- (GA),Municipal,GA,SOCO,"14,256.0","123,128","5,192",.,N,N,N
+2022,13934,Ocmulgee Electric Member Corp,Cooperative,GA,SOCO,"25,139.0","184,428","12,798",.,Y,N,N
+2022,14396,City of Palmetto - (GA),Municipal,GA,SOCO,"3,962.0","37,428","1,956",.,N,N,N
+2022,15573,City of Quitman,Municipal,GA,SOCO,"5,376.2","41,545","2,357",.,Y,N,N
+2022,16637,City of Sandersville - (GA),Municipal,GA,SOCO,"36,574.9","468,938","2,749",.,N,N,N
+2022,17290,Slash Pine Elec Member Corp,Cooperative,GA,SOCO,"22,807.4","185,651","9,432",.,Y,N,N
+2022,18403,City of Sylvester - (GA),Municipal,GA,SOCO,"6,984.0","54,843","2,797",.,N,N,N
+2022,18847,City of Thomaston - (GA),Municipal,GA,SOCO,"13,456.2","146,471","4,768",.,N,N,N
+2022,19581,Upson Elec Member Corp,Cooperative,GA,SOCO,"16,907.0","128,674","9,477",.,N,N,N
+2022,20140,City of Washington - (GA),Municipal,GA,SOCO,"22,398.5","259,391","2,245",.,N,N,N
+2022,20393,City of West Point - (GA),Municipal,GA,SOCO,"10,107.0","94,080","1,390",.,N,N,N
+2022,20534,City of Whigham - (GA),Municipal,GA,SOCO,950.0,"5,611",316,.,N,N,N
+2022,26218,Little Ocmulgee El Member Corp,Cooperative,GA,SOCO,"25,099.0","187,181","11,812",.,Y,N,N
+2022,40369,City of Oxford - (GA),Municipal,GA,SOCO,"2,408.1","18,146",700,.,N,N,N
+2022,149,City of Afton- (IA),Municipal,IA,MISO,819.0,"6,221",510,.,N,N,N
+2022,182,City of Akron - (IA),Municipal,IA,MISO,"1,871.0","17,619",857,.,N,N,N
+2022,198,City of Alton,Municipal,IA,MISO,967.0,"11,431",579,.,N,Y,N
+2022,309,City of Algona - (IA),Municipal,IA,SWPP,"12,019.0","112,623","3,837",.,N,Y,N
+2022,329,"Allamakee-Clayton El Coop, Inc",Cooperative,IA,MISO,"20,693.9","139,222","9,948",.,Y,Y,N
+2022,405,City of Alta - (IA),Municipal,IA,MISO,"1,831.0","18,149","1,010",.,Y,N,N
+2022,432,City of Alta Vista- (IA),Municipal,IA,MISO,195.9,"1,386",172,.,N,N,N
+2022,682,City of Anita - (IA),Municipal,IA,MISO,847.7,"9,161",624,.,N,N,N
+2022,700,City of Anthon - (IA),Municipal,IA,SWPP,538.0,"5,241",353,.,N,Y,N
+2022,723,City of Aplington,Municipal,IA,MISO,900.0,"6,799",556,.,N,N,N
+2022,942,Atchison-Holt Electric Coop,Cooperative,IA,AECI,"2,170.0","17,325","1,192",.,Y,N,N
+2022,965,Atlantic Municipal Utilities,Municipal,IA,MISO,"13,110.9","185,738","4,667",.,Y,N,N
+2022,995,City of Auburn - (IA),Municipal,IA,MISO,224.9,"2,075",165,.,N,N,N
+2022,1002,City of Aurelia - (IA),Municipal,IA,MISO,819.0,"7,603",520,.,N,Y,N
+2022,1172,Bancroft Municipal Utilities,Municipal,IA,MISO,"1,336.0","11,262",623,.,Y,N,N
+2022,1515,City of Bellevue - (IA),Municipal,IA,MISO,"2,191.0","24,476","1,741",.,Y,N,N
+2022,1824,City of Bigelow - (MN),Municipal,IA,MISO,27.1,232,18,.,N,N,N
+2022,1869,City of Bloomfield - (IA),Municipal,IA,AECI,"2,537.5","21,045","1,406",.,N,N,N
+2022,1968,Boone Valley Electric Coop,Cooperative,IA,MISO,903.8,"9,925",96,.,N,N,N
+2022,2183,City of Breda - (IA),Municipal,IA,MISO,679.0,"4,825",306,.,Y,N,N
+2022,2287,City of Brooklyn - (IA),Municipal,IA,MISO,"1,340.1","12,764",818,.,Y,N,N
+2022,2600,City of Burt,Municipal,IA,MISO,532.3,"2,897",281,.,N,N,N
+2022,2809,City of Callender - (IA),Municipal,IA,MISO,283.4,"2,055",200,.,N,N,N
+2022,3029,City of Carlisle- (IA),Municipal,IA,MISO,"2,656.5","19,490","1,562",.,Y,Y,N
+2022,3111,Cass Electric Coop,Cooperative,IA,MISO,138.9,"1,255",88,.,N,N,N
+2022,3137,Cascade Municipal Utilities,Municipal,IA,MISO,"1,851.0","18,525","1,171",.,Y,N,N
+2022,3314,"Chariton Valley Elec Coop, Inc",Cooperative,IA,AECI,"12,683.0","102,282","6,218",.,Y,Y,N
+2022,3722,Clarke Electric Coop Inc - (IA),Cooperative,IA,MISO,"14,157.2","114,593","5,678",.,N,N,Y
+2022,3900,City of Coggon - (IA),Municipal,IA,MISO,477.6,"3,984",361,.,N,N,N
+2022,4040,Calhoun County Elec Coop Assn,Cooperative,IA,MISO,"5,235.9","38,416","1,692",.,Y,N,N
+2022,4304,City of Corwith - (IA),Municipal,IA,MISO,425.0,"2,505",188,.,N,N,N
+2022,4305,City of Coon Rapids,Municipal,IA,SWPP,"1,506.9","14,678",808,.,N,Y,N
+2022,4375,City of Corning - (IA),Municipal,IA,MISO,"1,933.0","19,140","1,142",.,N,N,N
+2022,4791,City of Danville - (IA),Municipal,IA,MISO,610.8,"5,296",438,.,N,N,N
+2022,4919,City of Dayton - (IA),Municipal,IA,MISO,652.0,"5,805",467,.,N,N,N
+2022,5056,City of Denison - (IA),Municipal,IA,SWPP,"9,878.8","148,545","3,301",.,N,Y,N
+2022,5076,City of Denver - (IA),Municipal,IA,MISO,"1,767.0","13,689",945,.,Y,N,N
+2022,5155,City of Dike,Municipal,IA,MISO,809.9,"5,755",482,.,Y,N,N
+2022,5518,City of Dysart - (IA),Municipal,IA,MISO,"1,162.7","8,693",712,.,N,N,N
+2022,5529,City of Durant - (IA),Municipal,IA,MISO,"1,602.0","14,432",957,.,N,Y,N
+2022,5563,City of Earlville - (IA),Municipal,IA,MISO,564.4,"4,663",427,.,N,N,N
+2022,5742,Eldridge City Utilities,Municipal,IA,MISO,"4,120.0","38,581","2,797",.,Y,N,N
+2022,5827,City of Ellsworth - (IA),Municipal,IA,MISO,"1,022.0","8,845",293,.,N,N,N
+2022,5998,City of Estherville - (IA),Municipal,IA,SWPP,"7,311.0","54,832","3,207",.,N,N,N
+2022,6112,"Farmers Electric Coop, Inc - (IA)",Cooperative,IA,MISO,"14,750.0","126,038","5,045",.,N,N,Y
+2022,6127,City of Fairbank - (IA),Municipal,IA,MISO,908.0,"7,759",579,.,N,Y,N
+2022,6168,Farmers Electric Coop - (IA),Cooperative,IA,MISO,"2,491.2","19,067",636,.,N,N,N
+2022,6210,City of Farnhamville - (IA),Municipal,IA,MISO,482.3,"3,779",297,.,N,N,N
+2022,6496,City of Fonda - (IA),Municipal,IA,MISO,572.6,"4,931",360,.,N,N,N
+2022,6501,City of Fontanelle - (IA),Municipal,IA,MISO,637.0,"5,862",460,.,N,N,N
+2022,6579,City of Forest City- (IA),Municipal,IA,MISO,"5,703.8","56,607","2,165",.,Y,N,N
+2022,6722,Franklin Rural Electric Coop - (IA),Cooperative,IA,MISO,"7,451.0","63,347","1,950",.,Y,N,N
+2022,6759,City of Fredericksburg - (IA),Municipal,IA,MISO,"1,476.0","11,862",557,.,N,N,N
+2022,7295,City of Glidden - (IA),Municipal,IA,MISO,980.0,"9,050",689,.,N,N,N
+2022,7303,Raccoon Valley Electric Cooperative,Cooperative,IA,MISO,"14,629.8","131,707","2,767",.,Y,Y,N
+2022,7424,Gowrie Municipal Utilities,Municipal,IA,MISO,"1,009.8","7,467",602,.,N,N,N
+2022,7442,Grafton Electric - (IA),Municipal,IA,MISO,223.1,"1,820",160,.,N,Y,N
+2022,7443,City of Graettinger - (IA),Municipal,IA,MISO,986.4,"9,410",504,.,N,N,N
+2022,7486,City of Grand Junction - (IA),Municipal,IA,MISO,662.0,"4,632",446,.,N,N,N
+2022,7626,City of Greenfield - (IA),Municipal,IA,MISO,"4,966.0","49,868","1,244",.,N,N,N
+2022,7720,"Grundy Electric Coop, Inc",Cooperative,IA,AECI,412.7,"3,250",224,.,Y,Y,N
+2022,7743,Grundy Center Mun Light & Power,Municipal,IA,MISO,"2,429.0","25,106","1,590",.,N,N,N
+2022,7750,Guthrie County Rural E C A,Cooperative,IA,MISO,"14,903.0","165,678","4,866",.,Y,N,N
+2022,7837,City of Guttenberg,Municipal,IA,MISO,"2,724.0","18,600","1,407",.,Y,N,N
+2022,7864,Grundy County Rural Elec Coop,Cooperative,IA,MISO,"9,292.9","110,500","2,279",.,N,Y,N
+2022,8122,Harlan Municipal Utilities - (IA),Municipal,IA,MISO,"6,515.0","59,100","2,900",.,Y,N,Y
+2022,8214,City of Hartley - (IA),Municipal,IA,SWPP,"1,683.0","14,276",944,.,N,Y,N
+2022,8283,Harrison County Rrl Elec Coop,Cooperative,IA,SWPP,"14,118.0","143,169","3,835",.,Y,N,N
+2022,8288,City of Hawarden - (IA),Municipal,IA,MISO,"2,270.0","26,323","1,314",.,N,Y,N
+2022,8610,City of Hinton,Municipal,IA,MISO,"1,119.5","10,246",403,.,N,N,N
+2022,8847,City of Hopkinton - (IA),Municipal,IA,MISO,743.0,"5,514",387,.,N,N,N
+2022,9275,Indianola Municipal Utilities,Municipal,IA,MISO,"15,312.0","122,846","6,287",.,N,Y,Y
+2022,10172,City of Marathon - (IA),Municipal,IA,MISO,262.0,"1,666",187,.,N,N,N
+2022,10181,Keosauqua Municipal Light & Pwr,Municipal,IA,SWPP,"1,482.0","13,157",638,.,N,N,N
+2022,10265,City of Kimballton - (IA),Municipal,IA,SWPP,199.7,"2,122",208,.,N,N,N
+2022,10542,La Porte City Utilities,Municipal,IA,MISO,"2,142.0","15,427","1,206",.,N,N,N
+2022,10606,City of Lake Mills,Municipal,IA,MISO,"2,294.0","21,463","1,249",.,N,N,N
+2022,10608,City of Lake Park - (IA),Municipal,IA,MISO,"1,408.5","12,827",660,.,N,N,N
+2022,10617,City of Lake View - (IA),Municipal,IA,MISO,"2,043.8","22,753","1,384",.,N,N,N
+2022,10650,City of Lamoni - (IA),Municipal,IA,MISO,"2,347.0","23,069","1,113",.,N,N,N
+2022,10706,City of Larchwood - (IA),Municipal,IA,MISO,853.3,"8,911",522,.,N,N,N
+2022,10769,City of Laurens - (IA),Municipal,IA,SWPP,"2,093.0","25,675",829,.,N,Y,N
+2022,10784,City of Lawler - (IA),Municipal,IA,MISO,331.0,"2,947",322,.,N,N,N
+2022,10881,City of Lehigh - (IA),Municipal,IA,MISO,175.0,"2,099",267,.,N,N,N
+2022,10908,City of Lenox - (IA),Municipal,IA,MISO,"1,830.0","16,557",738,.,N,N,N
+2022,11093,City of Livermore- (IA),Municipal,IA,MISO,412.9,"2,623",218,.,N,N,N
+2022,11141,City of Long Grove - (IA),Municipal,IA,MISO,404.2,"3,055",228,.,Y,N,N
+2022,11298,Lyon Rural Electric Coop,Cooperative,IA,SWPP,"11,467.0","117,831","2,297",.,Y,Y,N
+2022,11568,Town of Manilla - (IA),Municipal,IA,MISO,523.0,"6,239",485,.,N,Y,N
+2022,11581,City of Manning,Municipal,IA,SWPP,"3,071.0","36,773",798,.,N,N,N
+2022,11609,City of Mapleton- (IA),Municipal,IA,MISO,"1,401.0","12,118",760,.,N,Y,N
+2022,12114,City of McGregor- (IA),Municipal,IA,MISO,881.3,"6,350",619,.,Y,Y,N
+2022,12541,City of Milford - (IA),Municipal,IA,SWPP,"3,436.0","33,402","1,598",.,Y,Y,N
+2022,12839,City of Montezuma - (IA),Municipal,IA,MISO,"2,256.7","21,440",912,.,N,N,N
+2022,13038,City of Mt Pleasant - (IA),Municipal,IA,MISO,"8,936.3","72,218","4,068",.,Y,N,N
+2022,13382,City of Neola - (IA),Municipal,IA,MISO,951.0,"4,824",460,.,N,N,N
+2022,13444,City of New Hampton - (IA),Municipal,IA,MISO,"5,646.0","61,212","2,519",.,N,N,N
+2022,13468,New London Municipal Utilities,Municipal,IA,MISO,"1,815.5","14,451","1,253",.,N,N,N
+2022,13675,Nishnabotna Valley R E C,Cooperative,IA,SWPP,"18,122.6","175,386","3,710",.,Y,N,N
+2022,13684,Nobles Cooperative Electric,Cooperative,IA,MISO,23.8,186,11,.,Y,N,Y
+2022,13990,City of Ogden - (IA),Municipal,IA,MISO,"2,085.1","12,871","1,160",.,Y,N,N
+2022,14132,City of Onawa - (IA),Municipal,IA,MISO,"3,342.0","31,080","3,342",.,N,N,N
+2022,14159,City of Orange City - (IA),Municipal,IA,MISO,"7,676.0","86,167","2,356",.,N,N,N
+2022,14166,City of Orient - (IA),Municipal,IA,MISO,312.0,"2,613",221,.,N,N,N
+2022,14201,City of Osage - (IA),Municipal,IA,MISO,"5,996.9","54,162","2,405",.,N,Y,N
+2022,14202,"Osceola Electric Coop, Inc",Cooperative,IA,SWPP,"6,290.6","62,414","1,252",.,Y,Y,N
+2022,14433,City of Panora - (IA),Municipal,IA,MISO,"1,564.0","13,923",762,.,Y,N,N
+2022,14473,City of Paton - (IA),Municipal,IA,MISO,127.0,"1,720",142,.,N,N,N
+2022,14577,City of Paullina - (IA),Municipal,IA,MISO,892.0,"9,503",660,.,N,N,N
+2022,14645,City of Pella - (IA),Municipal,IA,MISO,"17,673.8","195,335","5,197",.,Y,Y,N
+2022,15180,City of Pocahontas - (IA),Municipal,IA,MISO,"2,054.0","20,656","1,162",.,N,N,N
+2022,15377,City of Primghar - (IA),Municipal,IA,MISO,936.8,"8,749",572,.,N,N,N
+2022,15751,City of Readlyn - (IA),Municipal,IA,MISO,712.8,"5,289",376,.,N,Y,N
+2022,15846,City of Remsen - (IA),Municipal,IA,MISO,"1,517.0","14,691",876,.,N,N,N
+2022,15862,City of Renwick - (IA),Municipal,IA,MISO,606.0,"5,310",174,.,N,N,N
+2022,16206,Rock Rapids Municipal Utility,Municipal,IA,SWPP,"2,429.0","28,327","1,422",.,N,N,N
+2022,16211,City of Rockford- (IA),Municipal,IA,MISO,957.0,"5,933",453,.,Y,N,N
+2022,16528,City of Sabula - (IA),Municipal,IA,MISO,594.0,"3,220",392,.,Y,N,N
+2022,16628,City of Sanborn - (IA),Municipal,IA,SWPP,"2,730.6","29,514",776,.,Y,Y,N
+2022,16932,City of Sergeant Bluff - (IA),Municipal,IA,MISO,"3,314.7","32,620","2,066",.,N,Y,N
+2022,16992,City of Stanton - (IA),Municipal,IA,MISO,672.0,"7,937",366,.,N,N,N
+2022,17046,City of Shelby - (IA),Municipal,IA,SWPP,619.0,"6,112",341,.,N,N,N
+2022,17141,City of Sibley - (IA),Municipal,IA,MISO,"3,249.0","35,385","1,648",.,N,N,N
+2022,17264,City of Sioux Center,Municipal,IA,MISO,"10,664.5","128,698","2,905",.,N,Y,N
+2022,17643,"Southern Iowa Elec Coop, Inc",Cooperative,IA,AECI,"11,294.4","78,778","4,774",.,N,N,Y
+2022,17783,City of Spencer - (IA),Municipal,IA,MISO,"13,550.0","165,895","6,480",.,N,N,N
+2022,18014,City of State Center - (IA),Municipal,IA,MISO,"1,947.0","16,808","1,017",.,Y,Y,N
+2022,18177,City of Story City - (IA),Municipal,IA,MISO,"6,902.2","60,920","1,960",.,Y,N,N
+2022,18201,City of Stratford - (IA),Municipal,IA,MISO,609.9,"5,009",401,.,Y,N,N
+2022,18204,City of Strawberry Point,Municipal,IA,MISO,"1,137.0","8,140",718,.,N,N,N
+2022,18231,City of Stuart - (IA),Municipal,IA,MISO,"2,123.5","14,786",978,.,N,N,N
+2022,18301,City of Sumner - (IA),Municipal,IA,MISO,"2,289.0","15,889","1,131",.,Y,N,N
+2022,18446,T I P Rural Electric Coop,Cooperative,IA,MISO,"16,403.3","148,490","6,553",.,Y,N,N
+2022,18947,City of Tipton - (IA),Municipal,IA,MISO,"3,628.5","33,784","1,815",.,N,N,N
+2022,19062,City of Traer - (IA),Municipal,IA,MISO,"1,604.0","14,415","1,106",.,Y,N,N
+2022,19437,Western Iowa Power Coop,Cooperative,IA,SWPP,"14,332.4","105,263","5,578",.,Y,N,N
+2022,19843,City of Villisca - (IA),Municipal,IA,MISO,"1,170.0","11,230",725,.,N,Y,N
+2022,19865,City of Vinton - (IA),Municipal,IA,MISO,"4,846.0","39,023","2,565",.,N,N,N
+2022,20025,City of Wall Lake - (IA),Municipal,IA,MISO,884.1,"8,851",528,.,N,N,N
+2022,20214,Waverly Municipal Elec Utility,Municipal,IA,MISO,"14,540.0","142,696","5,118",.,Y,N,Y
+2022,20259,City of Webster City - (IA),Municipal,IA,MISO,"11,042.0","96,913","4,468",.,Y,N,N
+2022,20364,City of West Bend,Municipal,IA,MISO,"1,999.0","18,788",611,.,N,N,N
+2022,20379,Town of Westfield - (IA),Municipal,IA,SWPP,92.7,834,76,.,N,N,N
+2022,20380,City of West Liberty - (IA),Municipal,IA,MISO,"5,259.0","48,816","1,595",.,N,N,N
+2022,20396,West Point Utility System,Municipal,IA,MISO,"1,469.0","13,481",782,.,N,N,N
+2022,20604,City of Whittemore - (IA),Municipal,IA,MISO,664.9,"5,735",323,.,N,N,N
+2022,20789,City of Wilton,Municipal,IA,MISO,"2,599.0","24,040","1,559",.,N,N,N
+2022,20835,City of Winterset - (IA),Municipal,IA,MISO,"5,708.0","46,738","2,729",.,N,N,N
+2022,20846,City of Woolstock - (IA),Municipal,IA,MISO,200.0,"1,448",126,.,N,N,N
+2022,20949,City of Woodbine - (IA),Municipal,IA,SWPP,"1,551.5","15,132",907,.,N,Y,N
+2022,20951,Woodbury County Rural E C A,Cooperative,IA,SWPP,"10,432.4","77,377","3,420",.,Y,N,N
+2022,22646,"United Electric Coop, Inc - (MO)",Cooperative,IA,AECI,"1,133.6","7,478",533,.,Y,N,N
+2022,26765,Pella Cooperative Elec Assn,Cooperative,IA,MISO,"7,958.9","61,085","3,167",.,N,N,Y
+2022,27269,City of Stanhope - (IA),Municipal,IA,MISO,473.9,"3,271",239,.,N,N,N
+2022,40390,City of Buffalo - (IA),Municipal,IA,MISO,629.0,"4,096",533,.,N,N,N
+2022,49986,Southwest Iowa Rural Elec Coop,Cooperative,IA,MISO,"12,461.0","105,028","6,027",.,N,Y,N
+2022,60080,Pleasant Hill Community Line,Cooperative,IA,MISO,577.7,"5,317",140,.,N,N,N
+2022,244,City of Albion - (ID),Municipal,ID,BPAT,360.0,"4,154",197,.,Y,N,N
+2022,1956,City of Bonners Ferry,Municipal,ID,BPAT,"5,451.0","80,111","2,763",.,N,N,N
+2022,2545,City of Burley - (ID),Municipal,ID,BPAT,"9,767.0","125,863","4,857",.,Y,N,N
+2022,3739,Clearwater Power Company,Cooperative,ID,AVA,"20,721.3","192,018","10,201",.,Y,N,N
+2022,5584,East End Mutual Elec Co Ltd,Cooperative,ID,BPAT,"2,180.0","26,946",803,.,N,N,N
+2022,6155,"Farmers Electric Company, Ltd - (ID)",Cooperative,ID,BPAT,265.0,"4,126",142,.,N,N,N
+2022,7084,City of Declo - (ID),Municipal,ID,BPAT,33.0,360,134,.,N,N,N
+2022,8532,City of Heyburn - (ID),Municipal,ID,BPAT,"3,970.7","61,825","1,561",.,N,N,N
+2022,9186,"Idaho County L&P Coop Assn, Inc",Cooperative,ID,AVA,"6,903.3","63,946","4,350",.,Y,N,N
+2022,11211,Lost River Electric Coop Inc,Cooperative,ID,PACE,"7,054.3","89,858","2,886",.,N,Y,N
+2022,12609,City of Minidoka - (ID),Municipal,ID,BPAT,70.0,773,47,.,N,N,N
+2022,15297,City of Plummer - (ID),Municipal,ID,AVA,"2,559.0","34,820","1,000",.,N,N,Y
+2022,16416,City of Rupert - (ID),Municipal,ID,BPAT,"6,100.0","93,624","3,147",.,N,N,N
+2022,17493,City of Soda Springs - (ID),Municipal,ID,PACE,"2,562.0","26,112","1,882",.,N,Y,N
+2022,17576,"South Side Electric, Inc",Cooperative,ID,BPAT,"3,929.1","57,946","1,058",.,N,N,N
+2022,20297,City of Weiser - (ID),Municipal,ID,BPAT,"3,429.0","53,260","3,293",.,N,N,N
+2022,23586,"Vigilante Electric Coop, Inc",Cooperative,ID,NWMT,19.6,162,27,.,Y,N,N
+2022,56536,Riverside Electric Cooperative,Cooperative,ID,IPCO,"1,668.0","23,422",616,.,N,N,N
+2022,97,Adams Electric Coop,Cooperative,IL,MISO,"25,120.0","176,762","9,062",.,Y,Y,Y
+2022,229,City of Albany - (IL),Municipal,IL,MISO,687.0,"4,782",486,.,N,N,N
+2022,366,City of Allendale- (IL),Municipal,IL,MISO,400.0,"2,694",250,.,N,N,N
+2022,406,City of Altamont - (IL),Municipal,IL,MISO,"2,251.0","21,807","1,532",.,Y,N,N
+2022,1648,Village of Bethany - (IL),Municipal,IL,MISO,"1,246.0","7,800",680,.,Y,N,N
+2022,2188,City of Breese - (IL),Municipal,IL,MISO,"6,322.0","50,401","2,402",.,Y,N,N
+2022,2634,City of Bushnell - (IL),Municipal,IL,MISO,"3,532.0","31,777","1,579",.,N,N,N
+2022,2776,Cairo Public Utility Company,Municipal,IL,MISO,"6,733.6","58,634","1,165",.,N,N,N
+2022,3037,City of Carlyle - (IL),Municipal,IL,MISO,"3,848.0","31,376","2,001",.,N,N,N
+2022,3040,City of Carmi - (IL),Municipal,IL,MISO,"7,198.0","46,227","3,112",.,Y,N,N
+2022,3153,City of Casey - (IL),Municipal,IL,MISO,"2,860.0","26,434","1,858",.,N,N,N
+2022,3405,Village of Chatham - (IL),Municipal,IL,MISO,"8,858.0","81,951","6,582",.,N,N,N
+2022,3726,Clay Electric Coop Inc,Cooperative,IL,MISO,"7,571.5","52,760","3,278",.,N,N,N
+2022,3806,"Clinton County Elec Coop, Inc",Cooperative,IL,MISO,"17,376.0","143,946","6,201",.,Y,N,N
+2022,5531,Enerstar Power Corp,Cooperative,IL,MISO,"13,329.8","90,627","5,289",.,Y,N,N
+2022,6141,City of Fairfield- (IL),Municipal,IL,MISO,"8,481.1","59,891","3,257",.,Y,N,N
+2022,6192,City of Farmer City - (IL),Municipal,IL,MISO,"2,274.0","16,741","1,334",.,N,N,N
+2022,6417,City of Flora - (IL),Municipal,IL,MISO,"12,790.0","104,327","2,776",.,Y,N,N
+2022,6764,Village of Freeburg - (IL),Municipal,IL,MISO,"5,002.0","37,925","2,269",.,Y,N,N
+2022,7095,City of Geneseo - (IL),Municipal,IL,MISO,"8,102.5","65,772","3,852",.,Y,N,N
+2022,7633,Village of Greenup - (IL),Municipal,IL,MISO,"2,286.0","17,976",917,.,N,N,N
+2022,8573,City of Highland,Municipal,IL,MISO,"14,826.9","119,140","6,878",.,Y,N,N
+2022,8824,M J M Electric Cooperative Inc,Cooperative,IL,MISO,"21,838.3","139,722","9,503",.,Y,N,N
+2022,9209,Illinois Rural Electric Coop,Cooperative,IL,MISO,"35,306.0","199,770","10,306",.,N,N,Y
+2022,11736,City of Marshall - (IL),Municipal,IL,MISO,"7,464.0","63,125","2,837",.,Y,N,N
+2022,11790,City of Mascoutah - (IL),Municipal,IL,MISO,"8,646.0","57,471","3,840",.,Y,N,N
+2022,12070,McDonough Power Coop,Cooperative,IL,MISO,"11,560.4","74,152","5,062",.,Y,N,N
+2022,12167,City of McLeansboro - (IL),Municipal,IL,MISO,"3,373.0","22,212","1,520",.,N,N,N
+2022,12388,City of Metropolis - (IL),Municipal,IL,MISO,"8,988.0","73,456","3,850",.,Y,N,N
+2022,12803,"Monroe County Elec Coop, Inc",Cooperative,IL,MISO,"17,437.0","117,420","7,517",.,Y,Y,N
+2022,13560,City of Newton - (IL),Municipal,IL,MISO,"3,071.0","24,679","1,649",.,Y,N,N
+2022,13993,City of Oglesby - (IL),Municipal,IL,MISO,"5,529.0","56,497","2,358",.,Y,N,N
+2022,15388,City of Princeton - (IL),Municipal,IL,MISO,"11,900.0","93,360","4,552",.,N,N,N
+2022,15686,Village of Rantoul - (IL),Municipal,IL,MISO,"16,618.0","170,661","6,128",.,Y,N,N
+2022,15772,City of Red Bud - (IL),Municipal,IL,MISO,"5,534.0","44,933","2,102",.,Y,N,N
+2022,16092,Village of Riverton - (IL),Municipal,IL,MISO,"3,439.5","26,134","1,668",.,Y,N,N
+2022,16198,City of Rock Falls - (IL),Municipal,IL,MISO,"11,715.0","67,549","5,326",.,Y,N,N
+2022,16269,City of Roodhouse - (IL),Municipal,IL,MISO,"1,460.0","10,438",954,.,Y,N,N
+2022,16420,Rural Electric Conven Coop,Cooperative,IL,MISO,"14,547.0","114,724","5,904",.,Y,N,N
+2022,17631,Southern Illinois Elec Coop,Cooperative,IL,MISO,"28,191.0","187,622","11,212",.,Y,N,N
+2022,17838,"Spoon River Electric Coop, Inc",Cooperative,IL,MISO,"10,595.0","58,837","4,955",.,Y,N,N
+2022,18277,City of Sullivan - (IL),Municipal,IL,MISO,"6,998.0","65,967","3,154",.,Y,N,N
+2022,20180,City of Waterloo - (IL),Municipal,IL,MISO,"10,331.0","83,610","5,059",.,Y,N,N
+2022,20824,Village of Winnetka - (IL),Municipal,IL,PJM,"15,848.6","121,274","5,044",.,Y,N,Y
+2022,29296,Western Illinois Elec Coop,Cooperative,IL,MISO,"9,943.0","73,588","3,637",.,Y,N,N
+2022,40367,Village of Ladd - (IL),Municipal,IL,MISO,"1,429.0","10,549",682,.,Y,N,N
+2022,157,Town of Advance - (IN),Municipal,IN,MISO,530.7,"4,127",275,.,N,N,N
+2022,789,Town of Argos,Municipal,IN,MISO,"3,724.0","33,666",870,.,N,N,N
+2022,1028,Town of Avilla - (IN),Municipal,IN,PJM,"3,596.0","36,807","1,198",.,N,N,N
+2022,1119,Town of Bainbridge - (IN),Municipal,IN,MISO,707.3,"5,820",400,.,N,N,N
+2022,1208,Town of Bargersville - (IN),Municipal,IN,MISO,"7,435.0","62,136","3,745",.,Y,N,N
+2022,2192,Bremen Electric Light & Power Co,Municipal,IN,MISO,"12,824.0","152,227","2,409",.,Y,Y,Y
+2022,2289,Town of Brooklyn,Municipal,IN,MISO,"1,004.7","7,516",560,.,Y,N,N
+2022,2304,Town of Brookston - (IN),Municipal,IN,MISO,"1,430.5","10,646",830,.,N,N,N
+2022,2964,Cannelton Utilities,Municipal,IN,MISO,"1,458.0","14,115",920,.,Y,N,N
+2022,3230,Town of Centerville - (IN),Municipal,IN,MISO,"2,661.9","24,337","1,417",.,N,N,N
+2022,3323,Town of Chalmers - (IN),Municipal,IN,MISO,526.3,"4,470",344,.,N,N,N
+2022,3815,Town of Coatesville - (IN),Municipal,IN,MISO,634.0,"4,708",323,.,N,N,N
+2022,4007,City of Columbia City - (IN),Municipal,IN,PJM,"12,311.0","90,585","4,898",.,N,N,N
+2022,4429,City of Covington - (IN),Municipal,IN,MISO,"2,762.0","24,801","1,651",.,N,N,N
+2022,4486,Town of Crane - (IN),Municipal,IN,MISO,104.9,924,104,.,N,N,N
+2022,4799,Darlington Light & Power Co,Municipal,IN,MISO,"2,161.0","17,948",681,.,N,N,N
+2022,5071,Town of Dunreith - (IN),Municipal,IN,MISO,177.0,"1,370",150,.,N,N,N
+2022,5392,Dublin Municipal Electric Util,Municipal,IN,MISO,658.0,"4,055",501,.,N,N,N
+2022,5655,Edinburgh Municipal Utilities,Municipal,IN,MISO,"9,670.0","87,903","2,813",.,N,N,N
+2022,5928,Town of Etna Green,Municipal,IN,MISO,989.9,"7,513",364,.,N,N,N
+2022,6276,Town of Ferdinand - (IN),Municipal,IN,MISO,"3,768.3","47,715",892,.,N,N,N
+2022,6425,Flora Utilities,Municipal,IN,PJM,"2,050.0","20,077","1,348",.,N,N,N
+2022,6735,Town of Frankton - (IN),Municipal,IN,PJM,"1,959.0","16,342","1,120",.,N,N,N
+2022,6848,Fulton County Rural E M C,Cooperative,IN,MISO,"16,694.0","150,074","6,133",.,N,N,N
+2022,6907,City of Greendale,Municipal,IN,MISO,"11,537.0","121,596","2,318",.,Y,N,N
+2022,6970,City of Garrett,Municipal,IN,PJM,"8,760.0","82,885","3,412",.,N,N,N
+2022,6993,City of Gas City - (IN),Municipal,IN,PJM,"6,073.8","60,544","3,268",.,N,N,N
+2022,7907,City of Hagerstown - (IN),Municipal,IN,MISO,"2,088.0","21,721","1,173",.,N,N,N
+2022,8466,Henry County Rural E M C,Cooperative,IN,MISO,"26,218.0","207,453","9,658",.,Y,N,N
+2022,9088,City of Huntingburg - (IN),Municipal,IN,MISO,"8,333.0","76,516","3,675",.,Y,N,N
+2022,9646,Town of Jamestown - (IN),Municipal,IN,MISO,"2,414.5","17,773",551,.,N,N,N
+2022,9666,Jay County Rural E M C,Cooperative,IN,PJM,"26,541.0","183,805","5,460",.,Y,N,N
+2022,10330,Town of Kingsford Heights,Municipal,IN,MISO,594.8,"7,381",580,.,N,N,N
+2022,10407,Town of Knightstown - (IN),Municipal,IN,PJM,"2,572.1","21,872","1,719",.,N,N,N
+2022,10562,Lagrange County Rural E M C,Cooperative,IN,MISO,"13,189.0","99,206","7,253",.,Y,Y,N
+2022,10568,Town of Ladoga - (IN),Municipal,IN,MISO,973.0,"7,798",622,.,N,N,N
+2022,10798,Lawrenceburg Municipal Utils,Municipal,IN,MISO,"16,105.8","146,169","3,732",.,Y,N,N
+2022,10961,City of Lewisville - (IN),Municipal,IN,MISO,325.0,"2,407",230,.,N,N,N
+2022,11055,City of Linton - (IN),Municipal,IN,MISO,"7,408.6","59,885","3,540",.,Y,N,N
+2022,11767,Marshall County Rural E M C,Cooperative,IN,MISO,"17,298.1","103,315","7,414",.,Y,N,N
+2022,12406,Miami-Cass County Rural E M C,Cooperative,IN,MISO,"17,444.0","144,253","6,127",.,Y,N,N
+2022,12476,Town of Middletown - (IN),Municipal,IN,MISO,"2,183.0","17,742","1,454",.,N,N,N
+2022,12840,Town of Montezuma - (IN),Municipal,IN,MISO,"1,759.1","15,402",598,.,N,N,N
+2022,13423,Town of New Carlisle- (IN),Municipal,IN,PJM,"1,724.7","12,482",980,.,N,N,N
+2022,13566,Newton County Rural E M C,Cooperative,IN,MISO,"6,971.3","61,072","1,405",.,Y,N,N
+2022,13782,City of New Ross - (IN),Municipal,IN,MISO,328.8,"2,543",221,.,N,N,N
+2022,14160,Orange County Rural E M C,Cooperative,IN,MISO,"16,433.9","117,977","8,160",.,Y,Y,Y
+2022,14435,Town of Paoli,Municipal,IN,MISO,"3,756.0","35,114","1,854",.,N,N,N
+2022,14471,Parke County Rural E M C,Cooperative,IN,MISO,"27,928.7","188,411","12,497",.,Y,N,Y
+2022,14659,Town of Pendleton - (IN),Municipal,IN,MISO,"8,238.0","70,577","3,336",.,Y,N,N
+2022,15116,Town of Pittsboro - (IN),Municipal,IN,MISO,"1,265.9","10,618",791,.,N,N,N
+2022,15860,City of Rensselaer - (IN),Municipal,IN,MISO,"11,306.4","102,120","3,305",.,N,N,N
+2022,16068,City of Rising Sun - (IN),Municipal,IN,MISO,"4,164.0","40,836","1,747",.,N,N,N
+2022,16219,Town of Rockville - (IN),Municipal,IN,MISO,"3,319.0","18,190","1,941",.,Y,N,N
+2022,16830,City of Scottsburg - (IN),Municipal,IN,MISO,"13,552.0","133,328","3,803",.,N,N,N
+2022,17589,Town of South Whitley - (IN),Municipal,IN,PJM,"1,739.3","17,330",935,.,N,N,N
+2022,17790,Town of Spiceland - (IN),Municipal,IN,PJM,"1,441.0","14,554",603,.,N,N,N
+2022,18100,Steuben County Rural E M C,Cooperative,IN,MISO,"23,542.5","203,639","9,722",.,N,N,N
+2022,18250,Town of Straughn - (IN),Municipal,IN,MISO,169.4,"1,479",159,.,N,N,N
+2022,18538,City of Tell City - (IN),Municipal,IN,MISO,"17,899.2","183,742","4,276",.,Y,N,N
+2022,18887,City of Thorntown - (IN),Municipal,IN,MISO,"1,468.0","14,348",904,.,N,N,N
+2022,18942,Tipton Municipal Electric Util,Municipal,IN,MISO,"13,037.0","119,500","4,267",.,Y,N,N
+2022,19227,City of Troy - (IN),Municipal,IN,MISO,"1,530.0","13,458",309,.,Y,N,N
+2022,19771,Town of Veedersburg - (IN),Municipal,IN,MISO,"4,717.1","42,765","1,377",.,N,N,N
+2022,20021,Town of Walkerton - (IN),Municipal,IN,MISO,"3,812.0","35,277","1,560",.,N,N,N
+2022,20111,Warren County Rural E M C,Cooperative,IN,MISO,"15,192.5","110,829","4,944",.,Y,N,Y
+2022,20122,Town of Warren - (IN),Municipal,IN,PJM,"1,849.0","17,568",869,.,N,N,N
+2022,20139,City of Washington - (IN),Municipal,IN,PJM,"18,696.5","178,471","7,646",.,N,N,N
+2022,20226,City of Waynetown - (IN),Municipal,IN,PJM,647.2,"5,399",525,.,Y,N,N
+2022,20730,City of Williamsport - (IN),Municipal,IN,MISO,"2,732.0","22,210",997,.,N,N,N
+2022,20792,Town of Winamac - (IN),Municipal,IN,MISO,"6,950.6","54,370","2,068",.,Y,N,N
+2022,385,City of Alma - (KS),Municipal,KS,SWPP,"1,676.4","13,696",484,.,N,N,N
+2022,408,City of Altamont - (KS),Municipal,KS,SWPP,948.1,"7,914",563,.,Y,N,N
+2022,701,City of Anthony - (KS),Municipal,KS,SWPP,"3,982.0","28,492","1,877",.,N,N,N
+2022,764,City of Arcadia - (KS),Municipal,KS,SWPP,218.0,"1,374",173,.,N,N,N
+2022,832,City of Arma - (KS),Municipal,KS,SWPP,"1,667.0","7,840",820,.,N,N,N
+2022,911,City of Ashland - (KS),Municipal,KS,SWPP,"1,124.0","12,413",700,.,N,N,N
+2022,989,City of Attica - (KS),Municipal,KS,SWPP,670.7,"5,315",448,.,N,N,N
+2022,998,City of Augusta - (KS),Municipal,KS,SWPP,"9,288.0","66,356","4,392",.,N,N,N
+2022,1033,City of Axtell - (KS),Municipal,KS,SWPP,381.0,"2,797",229,.,N,N,N
+2022,1148,City of Baldwin City- (KS),Municipal,KS,SWPP,"4,938.0","33,936","2,052",.,Y,N,N
+2022,1512,City of Belleville - (KS),Municipal,KS,SWPP,"2,871.0","24,370","1,433",.,N,N,N
+2022,1525,City of Beloit - (KS),Municipal,KS,SWPP,"5,167.7","43,193","2,303",.,N,N,N
+2022,1726,City of Blue Mound - (KS),Municipal,KS,SWPP,214.8,"1,619",147,.,N,N,N
+2022,2270,City of Bronson,Municipal,KS,SWPP,245.0,"1,713",136,.,N,N,N
+2022,2354,Brown-Atchison E C A Inc,Cooperative,KS,SWPP,"7,747.3","50,149","3,298",.,Y,N,N
+2022,2547,City of Burlingame - (KS),Municipal,KS,SWPP,770.0,"8,814",679,.,N,N,N
+2022,2551,City of Burlington - (KS),Municipal,KS,SWPP,"3,829.1","31,872","1,691",.,Y,N,N
+2022,2641,"Butler Rural El Coop Assn, Inc - (KS)",Cooperative,KS,SWPP,"21,613.0","162,048","7,745",.,Y,N,Y
+2022,2961,"Caney Valley El Coop Assn, Inc",Cooperative,KS,SWPP,"10,261.5","61,383","5,253",.,Y,N,N
+2022,3191,City of Cawker City - (KS),Municipal,KS,SWPP,510.4,"4,904",405,.,N,N,N
+2022,3294,City of Centralia - (KS),Municipal,KS,SWPP,437.5,"3,854",262,.,N,N,N
+2022,3366,City of Chapman - (KS),Municipal,KS,SWPP,"1,324.8","11,146",673,.,Y,N,N
+2022,3454,City of Chetopa - (KS),Municipal,KS,SWPP,"1,386.0","8,283",636,.,N,N,N
+2022,3535,City of Cimarron - (KS),Municipal,KS,SWPP,"2,007.0","15,173","1,102",.,N,N,N
+2022,3710,City of Clay Center - (KS),Municipal,KS,SWPP,"6,903.0","45,391","2,764",.,Y,N,N
+2022,3913,City of Colby - (KS),Municipal,KS,SWPP,"6,472.5","58,061","3,116",.,Y,N,N
+2022,4704,"DS&O Electric Cooperative, Inc.",Cooperative,KS,SWPP,"22,908.9","138,092","8,430",.,Y,Y,Y
+2022,5154,City of Dighton - (KS),Municipal,KS,SWPP,"1,465.6","9,822",801,.,N,N,N
+2022,5334,"Doniphan Elec Coop Assn, Inc",Cooperative,KS,SWPP,"3,473.0","18,935","1,592",.,N,N,N
+2022,5795,City of Elsmore - (KS),Municipal,KS,SWPP,65.0,415,47,.,N,N,N
+2022,5802,City of Ellinwood - (KS),Municipal,KS,SWPP,"2,570.4","15,118","1,267",.,Y,N,N
+2022,5839,City of Elwood - (KS),Municipal,KS,SWPP,993.5,"7,770",580,.,N,N,N
+2022,5919,City of Enterprise - (KS),Municipal,KS,SWPP,554.0,"4,305",371,.,N,N,N
+2022,5957,City of Erie - (KS),Municipal,KS,SWPP,"1,731.0","9,648",577,.,N,N,N
+2022,6019,City of Eudora - (KS),Municipal,KS,SWPP,"6,041.0","40,146","2,646",.,Y,N,N
+2022,6431,"Flint Hills Rural E C A, Inc",Cooperative,KS,SWPP,"12,924.0","83,508","6,660",.,Y,Y,Y
+2022,6762,City of Fredonia - (KS),Municipal,KS,SWPP,"2,943.0","31,603","1,492",.,Y,N,N
+2022,6931,City of Galva - (KS),Municipal,KS,SWPP,551.0,"5,525",471,.,N,N,N
+2022,6949,City of Gardner - (KS),Municipal,KS,SWPP,"17,756.0","152,340","9,436",.,N,N,N
+2022,6965,City of Garnett - (KS),Municipal,KS,SWPP,"3,643.0","25,165","1,921",.,N,N,N
+2022,7257,City of Girard - (KS),Municipal,KS,SWPP,"4,471.3","28,488","1,638",.,N,N,N
+2022,7269,City of Glasco - (KS),Municipal,KS,SWPP,509.0,"3,189",441,.,Y,N,N
+2022,7287,City of Glen Elder - (KS),Municipal,KS,SWPP,560.0,"3,924",370,.,N,N,N
+2022,7374,City of Goodland - (KS),Municipal,KS,SWPP,"5,761.0","44,315","2,688",.,Y,N,N
+2022,7631,City of Greensburg - (KS),Municipal,KS,SWPP,"1,482.0","13,352",637,.,Y,N,N
+2022,8279,City of Haven - (KS),Municipal,KS,SWPP,"1,650.0","11,839",661,.,Y,N,N
+2022,8490,City of Herington - (KS),Municipal,KS,SWPP,"3,149.6","17,476","1,339",.,Y,N,N
+2022,8497,City of Herndon,Municipal,KS,SWPP,164.0,"1,237",160,.,N,N,N
+2022,8599,City of Hill City,Municipal,KS,SWPP,"1,981.5","13,989","1,031",.,N,N,N
+2022,8629,City of Hillsboro - (KS),Municipal,KS,SWPP,"2,964.0","23,614","1,511",.,N,N,N
+2022,8703,City of Hoisington - (KS),Municipal,KS,SWPP,"2,979.9","22,880","1,574",.,N,N,N
+2022,8770,City of Holton - (KS),Municipal,KS,SWPP,"3,507.0","47,748","2,492",.,Y,N,N
+2022,8781,City of Holyrood - (KS),Municipal,KS,SWPP,495.1,"2,935",341,.,N,N,N
+2022,8871,City of Horton - (KS),Municipal,KS,SWPP,"1,782.0","13,348","1,224",.,N,N,N
+2022,9011,City of Hugoton - (KS),Municipal,KS,SWPP,"4,177.0","41,656","2,019",.,N,N,N
+2022,9418,City of Iola - (KS),Municipal,KS,SWPP,"11,760.0","94,110","3,695",.,N,N,N
+2022,9463,City of Isabel - (KS),Municipal,KS,SWPP,63.2,531,65,.,N,N,N
+2022,9541,City of Iuka - (KS),Municipal,KS,SWPP,261.0,"1,660",89,.,N,N,N
+2022,9732,City of Jetmore,Municipal,KS,SWPP,"1,091.7","8,216",638,.,Y,N,N
+2022,9776,City of Johnson - (KS),Municipal,KS,SWPP,"2,227.0","15,605",826,.,N,N,N
+2022,10321,City of Kingman - (KS),Municipal,KS,SWPP,"5,557.0","40,875","1,890",.,N,N,N
+2022,10351,City of Kiowa - (KS),Municipal,KS,SWPP,"1,374.0","13,990",881,.,N,N,N
+2022,10533,City of La Harpe - (KS),Municipal,KS,SWPP,459.0,"2,808",283,.,N,N,N
+2022,10559,City of La Crosse - (KS),Municipal,KS,SWPP,"1,369.2","11,893",917,.,N,N,N
+2022,10628,City of Lakin - (KS),Municipal,KS,SWPP,"2,677.3","16,824","1,058",.,N,N,N
+2022,10713,City of Larned - (KS),Municipal,KS,SWPP,"4,964.9","38,829","2,489",.,N,N,N
+2022,10728,"Lane-Scott Electric Coop, Inc",Cooperative,KS,SWPP,"19,407.0","160,371","5,768",.,Y,N,N
+2022,11017,City of Lincoln Center - (KS),Municipal,KS,SWPP,"1,682.0","10,890",879,.,Y,N,N
+2022,11040,City of Lindsborg - (KS),Municipal,KS,SWPP,"3,675.7","28,999","1,764",.,Y,N,N
+2022,11206,City of Mulberry - (KS),Municipal,KS,SWPP,404.0,"2,156",219,.,N,N,N
+2022,11207,City of Muscotah,Municipal,KS,SWPP,132.0,782,99,.,N,N,N
+2022,11299,City of Lucas- (KS),Municipal,KS,SWPP,937.3,"6,348",360,.,N,N,N
+2022,11306,City of Luray - (KS),Municipal,KS,MISO,232.0,"1,643",159,.,N,N,N
+2022,11572,City of Mankato - (KS),Municipal,KS,SWPP,716.5,"8,630",685,.,N,N,N
+2022,11658,City of Marion - (KS),Municipal,KS,SWPP,"2,326.0","17,041","1,213",.,N,N,N
+2022,12242,City of Meade - (KS),Municipal,KS,SWPP,"1,582.8","14,026",911,.,N,N,N
+2022,12838,City of Montezuma - (KS),Municipal,KS,SWPP,"1,268.0","10,723",560,.,N,N,N
+2022,12896,City of Morrill - (KS),Municipal,KS,SWPP,174.8,"1,080",135,.,N,N,N
+2022,12909,City of Moran - (KS),Municipal,KS,SWPP,555.0,"4,343",272,.,N,N,N
+2022,13029,City of Moundridge - (KS),Municipal,KS,SWPP,"3,216.7","31,860","1,050",.,Y,N,N
+2022,13035,City of Mount Hope - (KS),Municipal,KS,SWPP,816.0,"5,200",434,.,Y,N,N
+2022,13095,City of Mulvane - (KS),Municipal,KS,SWPP,"6,207.0","43,122","2,892",.,N,N,N
+2022,13380,City of Neodesha - (KS),Municipal,KS,SWPP,"4,778.0","38,234","1,571",.,N,N,N
+2022,13386,"Nemaha-Marshall E C A, Inc",Cooperative,KS,SWPP,"7,579.5","49,672","3,546",.,Y,N,N
+2022,13570,Ninnescah Rural E C A Inc,Cooperative,KS,SWPP,"15,121.0","119,058","4,177",.,N,N,N
+2022,13819,City of Norton,Municipal,KS,SWPP,"3,184.9","24,300","1,771",.,Y,N,N
+2022,13948,City of Oberlin - (KS),Municipal,KS,SWPP,"2,138.2","14,227","1,315",.,N,N,N
+2022,14199,City of Osage City - (KS),Municipal,KS,SWPP,"3,993.9","31,875","1,668",.,N,N,N
+2022,14203,City of Osawatomie - (KS),Municipal,KS,SWPP,"4,129.0","30,614","2,026",.,Y,N,N
+2022,14214,City of Osborne - (KS),Municipal,KS,SWPP,"2,194.0","13,922",911,.,N,N,N
+2022,14229,City of Ottawa - (KS),Municipal,KS,SWPP,"17,133.6","143,085","6,329",.,Y,N,N
+2022,14276,City of Oxford - (KS),Municipal,KS,SWPP,"1,324.5","7,131",607,.,N,N,N
+2022,15201,City of Pomona - (KS),Municipal,KS,SWPP,863.0,"7,477",648,.,N,N,N
+2022,15321,City of Pratt- (KS),Municipal,KS,SWPP,"11,021.0","79,084","4,473",.,N,N,N
+2022,15336,City of Prescott - (KS),Municipal,KS,SWPP,221.7,"1,139",138,.,N,N,N
+2022,16135,City of Robinson - (KS),Municipal,KS,SWPP,192.3,"1,078",158,.,N,N,N
+2022,16267,Rolling Hills Electric Coop,Cooperative,KS,SWPP,"30,829.0","199,419","11,336",.,Y,Y,Y
+2022,16440,City of Russell - (KS),Municipal,KS,SWPP,"9,947.0","118,409","3,319",.,Y,N,N
+2022,16518,City of Sabetha - (KS),Municipal,KS,SWPP,"5,068.0","44,417","1,824",.,N,N,N
+2022,16834,City of Scranton - (KS),Municipal,KS,SWPP,572.0,"3,676",333,.,N,N,N
+2022,16854,"Heartland Rural Elec Coop, Inc",Cooperative,KS,SWPP,"26,630.1","197,410","11,391",.,Y,N,Y
+2022,16876,City of Savonburg - (KS),Municipal,KS,SWPP,65.0,600,58,.,N,N,N
+2022,16920,Sedgwick County El Coop Assn Inc,Cooperative,KS,SWPP,"20,719.0","157,904","7,476",.,Y,Y,Y
+2022,16922,City of Seneca - (KS),Municipal,KS,SWPP,"3,452.0","35,868","1,289",.,N,Y,N
+2022,16988,City of Sharon Springs - (KS),Municipal,KS,SWPP,"1,147.0","7,395",568,.,N,N,N
+2022,17754,City of Summerfield - (KS),Municipal,KS,SWPP,.,.,.,.,,,
+2022,17872,City of St Francis - (KS),Municipal,KS,SWPP,"1,461.4","11,048","1,017",.,N,N,N
+2022,17879,City of St. John - (KS),Municipal,KS,SWPP,"1,130.2","13,559",809,.,N,N,N
+2022,17894,City of St Marys - (KS),Municipal,KS,SWPP,"2,638.1","18,160","1,109",.,N,N,N
+2022,17924,City of Stafford - (KS),Municipal,KS,SWPP,"1,166.1","8,463",697,.,N,N,N
+2022,18086,City of Sterling - (KS),Municipal,KS,SWPP,"2,756.0","22,464","1,226",.,N,N,N
+2022,18137,City of Stockton - (KS),Municipal,KS,SWPP,"1,960.0","12,649",940,.,Y,N,N
+2022,18316,"Sumner-Cowley Elec Coop, Inc",Cooperative,KS,SWPP,"13,190.0","91,096","4,524",.,Y,N,N
+2022,18945,City of Toronto - (KS),Municipal,KS,SWPP,223.0,"1,296",202,.,N,N,N
+2022,18959,City of Troy - (KS),Municipal,KS,SWPP,"1,063.0","6,577",572,.,N,N,N
+2022,18962,Twin Valley Electric Coop Inc,Cooperative,KS,SWPP,"6,911.7","36,097","2,901",.,Y,N,N
+2022,19344,City of Udall - (KS),Municipal,KS,SWPP,856.8,"5,174",467,.,N,N,N
+2022,20069,City of Wamego - (KS),Municipal,KS,SWPP,"5,988.0","45,783","2,404",.,N,N,N
+2022,20141,City of Washington - (KS),Municipal,KS,SWPP,"1,590.0","10,462",768,.,N,N,N
+2022,20189,City of Waterville - (KS),Municipal,KS,SWPP,763.0,"4,335",394,.,N,N,N
+2022,20192,City of Wathena - (KS),Municipal,KS,SWPP,"1,236.0","8,343",631,.,Y,N,N
+2022,20315,City of Wellington - (KS),Municipal,KS,SWPP,"13,747.7","94,568","4,375",.,N,N,N
+2022,21533,City of Minneapolis - (KS),Municipal,KS,SWPP,"2,638.9","17,810","1,183",.,Y,N,N
+2022,23826,Bluestem Electric Coop Inc,Cooperative,KS,SWPP,"18,941.6","114,464","7,439",.,Y,Y,Y
+2022,26894,City of Radium - (KS),Municipal,KS,SWPP,27.9,191,23,.,N,N,N
+2022,27545,City of Vermillion - (KS),Municipal,KS,SWPP,106.9,608,104,.,N,N,N
+2022,40208,"Ark Valley Elec Coop Assn, Inc",Cooperative,KS,SWPP,"15,293.3","106,277","5,228",.,Y,N,Y
+2022,64196,"4 Rivers Electric Cooperative, Inc.",Cooperative,KS,SWPP,"27,610.5","162,049","12,649",.,Y,N,N
+2022,1201,Barbourville Utility Comm,Municipal,KY,LGEE,"7,964.7","88,674","4,211",.,N,N,N
+2022,1205,City of Bardwell - (KY),Municipal,KY,LGEE,946.0,"7,795",505,.,N,N,N
+2022,1387,City of Benham,Municipal,KY,LGEE,617.0,"5,381",270,.,N,N,N
+2022,4341,Corbin City Utilities Comm,Municipal,KY,LGEE,"6,306.3","70,921","4,173",.,Y,N,N
+2022,6178,City of Falmouth - (KY),Municipal,KY,LGEE,"2,158.0","14,955","1,072",.,N,N,N
+2022,13577,City of Nicholasville - (KY),Municipal,KY,LGEE,"16,408.3","174,268","6,684",.,N,N,N
+2022,14103,City of Olive Hill - (KY),Municipal,KY,PJM,"3,155.0","19,829","1,202",.,N,N,N
+2022,14459,City of Paris - (KY),Municipal,KY,LGEE,"5,606.0","51,073","3,235",.,N,N,N
+2022,15386,City of Princeton - (KY),Municipal,KY,LGEE,"12,397.0","105,921","3,740",.,N,N,N
+2022,15443,City of Providence - (KY),Municipal,KY,LGEE,"2,956.0","25,240","1,332",.,N,N,N
+2022,19716,City of Vanceburg,Municipal,KY,PJM,"7,188.5","50,454","2,583",.,Y,N,N
+2022,20731,Williamstown Utility Comm,Municipal,KY,PJM,"3,579.0","35,162","1,615",.,N,N,N
+2022,59,City of Abbeville - (LA),Municipal,LA,MISO,"12,075.7","119,769","5,470",.,Y,N,N
+2022,925,"Ashley Chicot Elec Coop, Inc",Cooperative,LA,MISO,212.0,"1,506",104,.,Y,N,N
+2022,2064,Town of Boyce,Municipal,LA,MISO,750.0,"5,205",353,.,N,N,N
+2022,5945,City of Erath - (LA),Municipal,LA,MISO,"2,030.8","17,692",929,.,N,N,N
+2022,7760,Town of Gueydan,Municipal,LA,MISO,"2,023.0","13,115",899,.,Y,N,N
+2022,9880,City of Jonesville - (LA),Municipal,LA,MISO,"2,761.0","18,451","1,005",.,N,N,N
+2022,10025,City of Kaplan - (LA),Municipal,LA,MISO,"5,913.0","33,722","2,046",.,N,N,N
+2022,12625,City of Minden - (LA),Municipal,LA,MISO,"21,294.0","125,883","6,353",.,N,N,N
+2022,12927,Morgan City - (LA),Municipal,LA,MISO,"19,170.0","151,195","5,709",.,Y,N,N
+2022,13483,City of New Roads - (LA),Municipal,LA,MISO,"3,500.0","45,526","2,299",.,N,N,N
+2022,15137,City of Plaquemine - (LA),Municipal,LA,MISO,"12,489.0","94,205","4,557",.,N,N,N
+2022,15728,City of Rayne - (LA),Municipal,LA,MISO,"9,727.0","71,149","3,885",.,Y,N,N
+2022,17889,City of St Martinville - (LA),Municipal,LA,MISO,"4,538.0","49,570","2,673",.,N,N,N
+2022,19828,Town of Vidalia - (LA),Municipal,LA,MISO,"10,955.0","92,636","2,819",.,N,N,N
+2022,19866,Town of Vinton - (LA),Municipal,LA,MISO,"2,760.2","31,789","1,542",.,N,N,N
+2022,20343,Town of Welsh - (LA),Municipal,LA,MISO,"2,343.0","36,331","1,735",.,N,N,N
+2022,30856,City of Winnfield - (LA),Municipal,LA,MISO,"6,880.0","66,206","2,515",.,N,N,N
+2022,902,Town of Ashburnham - (MA),Municipal,MA,ISNE,"5,839.0","35,296","3,160",.,Y,N,N
+2022,1523,Town of Belmont - (MA),Municipal,MA,ISNE,"26,350.3","124,914","11,818",.,N,N,Y
+2022,2086,Town of Boylston - (MA),Municipal,MA,ISNE,"5,573.9","33,962","2,537",.,Y,N,N
+2022,3447,Town of Chester,Municipal,MA,ISNE,"1,267.0","5,392",742,.,N,N,N
+2022,4147,Town of Concord - (MA),Municipal,MA,ISNE,"36,459.0","168,961","8,515",.,Y,Y,Y
+2022,7130,Town of Georgetown - (MA),Municipal,MA,ISNE,"8,624.0","48,601","3,487",.,N,N,N
+2022,7715,Town of Groton - (MA),Municipal,MA,ISNE,"12,640.0","72,473","4,918",.,Y,Y,Y
+2022,7723,Town of Groveland - (MA),Municipal,MA,ISNE,"6,184.2","38,059","3,017",.,Y,N,N
+2022,8715,Town of Holden - (MA),Municipal,MA,ISNE,"16,892.0","106,438","8,308",.,Y,N,N
+2022,8796,City of Hingham - (MA),Municipal,MA,ISNE,"34,568.0","190,782","10,144",.,Y,Y,N
+2022,8797,Hull Municipal Light Plant,Municipal,MA,ISNE,"8,984.7","49,998","6,260",.,Y,N,N
+2022,9442,Town of Ipswich - (MA),Municipal,MA,ISNE,"20,769.6","110,184","7,209",.,Y,Y,N
+2022,11624,Town of Marblehead - (MA),Municipal,MA,ISNE,"19,791.0","100,707","10,141",.,Y,Y,N
+2022,12296,Town of Merrimac - (MA),Municipal,MA,ISNE,"5,028.0","29,690","3,210",.,N,N,N
+2022,12477,Town of Middleton,Municipal,MA,ISNE,"14,706.8","98,895","3,966",.,Y,N,N
+2022,14585,Town of Paxton - (MA),Municipal,MA,ISNE,"4,057.7","23,668","1,954",.,Y,N,N
+2022,15371,Town of Princeton - (MA),Municipal,MA,ISNE,"3,843.0","14,612","1,528",.,Y,N,N
+2022,16377,Town of Rowley - (MA),Municipal,MA,ISNE,"8,439.0","44,050","3,088",.,N,N,N
+2022,16438,City of Russell - (MA),Municipal,MA,ISNE,894.6,"4,804",468,.,N,N,N
+2022,17560,Town of South Hadley - (MA),Municipal,MA,ISNE,"17,223.9","111,414","8,080",.,Y,N,N
+2022,18546,Town of Templeton - (MA),Municipal,MA,ISNE,"8,205.0","66,096","3,765",.,Y,N,Y
+2022,19979,Town of Wakefield - (MA),Municipal,MA,ISNE,"29,563.0","163,664","13,286",.,Y,N,N
+2022,20326,Town of West Boylston - (MA),Municipal,MA,ISNE,"8,598.1","59,089","3,747",.,Y,N,N
+2022,1615,Town of Berlin - (MD),Municipal,MD,PJM,"6,008.8","46,639","2,662",.,Y,Y,N
+2022,18901,Thurmont Municipal Light Co,Municipal,MD,PJM,"5,910.3","72,795","2,879",.,Y,N,N
+2022,20729,Town of Williamsport - (MD),Municipal,MD,PJM,"1,607.2","19,760","1,015",.,Y,N,N
+2022,8780,"Fox Islands Electric Coop, Inc",Cooperative,ME,ISNE,"4,111.0","10,488","2,114",.,Y,N,N
+2022,10144,Kennebunk Light & Power Dist,Municipal,ME,ISNE,"12,985.0","115,615","7,454",.,Y,N,N
+2022,11844,Matinicus Plantation Elec Co,Municipal,ME,NA,99.0,193,135,.,N,N,N
+2022,19702,Van Buren Light & Power Dist,Municipal,ME,NBSO,"1,745.0","14,562","1,444",.,N,N,N
+2022,1367,"Bayfield Electric Coop, Inc",Cooperative,MI,MISO,54.2,171,69,.,Y,Y,N
+2022,3384,City of Charlevoix - (MI),Municipal,MI,MISO,"7,129.0","56,946","4,551",.,N,N,N
+2022,3415,Village of Chelsea - (MI),Municipal,MI,MISO,"10,741.0","104,954","3,213",.,N,N,N
+2022,3813,Village of Clinton - (MI),Municipal,MI,MISO,"3,508.0","24,924","1,467",.,Y,N,N
+2022,4562,City of Croswell - (MI),Municipal,MI,MISO,"4,283.0","44,804","1,277",.,N,N,N
+2022,4792,Village of Daggett - (MI),Municipal,MI,MISO,132.2,"1,368",144,.,N,N,N
+2022,5343,City of Dowagiac,Municipal,MI,PJM,"8,032.0","55,126","3,047",.,N,Y,N
+2022,5630,City of Eaton Rapids - (MI),Municipal,MI,MISO,"12,355.0","116,424","3,250",.,N,Y,N
+2022,8083,City of Harbor Springs - (MI),Municipal,MI,MISO,"3,987.1","40,245","3,781",.,N,N,N
+2022,8205,City of Hart Hydro - (MI),Municipal,MI,MISO,"5,675.0","44,202","1,377",.,Y,N,N
+2022,8631,Hillsdale Board of Public Wks,Municipal,MI,MISO,"13,133.5","119,982","6,122",.,Y,Y,N
+2022,11268,City of Lowell - (MI),Municipal,MI,MISO,"9,266.0","80,775","3,085",.,Y,N,N
+2022,11713,City of Marshall - (MI),Municipal,MI,MISO,"17,460.4","137,732","4,572",.,N,N,N
+2022,13525,Newberry Water & Light Board,Municipal,MI,MISO,"1,455.0","15,911","1,390",.,N,N,N
+2022,13604,City of Niles - (MI),Municipal,MI,PJM,"16,109.0","128,479","7,186",.,N,N,N
+2022,14156,Ontonagon County R E A,Cooperative,MI,MISO,"6,693.0","26,118","4,902",.,Y,N,N
+2022,14581,Village of Paw Paw - (MI),Municipal,MI,PJM,"3,973.0","40,205","1,796",.,N,N,N
+2022,14867,City of Petoskey - (MI),Municipal,MI,MISO,"10,981.0","92,867","5,331",.,Y,N,N
+2022,15246,City of Portland - (MI),Municipal,MI,MISO,"5,554.3","35,420","2,583",.,Y,N,N
+2022,16873,Village of Sebewaing - (MI),Municipal,MI,MISO,"4,895.0","46,526","1,280",.,N,Y,N
+2022,17562,City of South Haven - (MI),Municipal,MI,PJM,"18,172.0","139,332","8,628",.,Y,N,N
+2022,17886,City of St Louis - (MI),Municipal,MI,MISO,"4,652.6","36,589","1,925",.,Y,N,N
+2022,18074,City of Stephenson - (MI),Municipal,MI,MISO,718.9,"6,219",487,.,N,N,N
+2022,18895,Thumb Electric Coop of Mich,Cooperative,MI,MISO,"24,011.0","188,606","12,389",.,Y,Y,Y
+2022,19432,Village of Union City - (MI),Municipal,MI,MISO,"2,040.4","16,189","1,540",.,N,N,N
+2022,19975,City of Wakefield - (MI),Municipal,MI,MISO,"1,299.8","12,377","1,047",.,N,N,N
+2022,24558,City of Escanaba,Municipal,MI,MISO,"14,180.0","137,405","7,221",.,Y,N,N
+2022,87,City of Ada - (MN),Municipal,MN,MISO,"1,806.0","19,518","1,192",.,N,N,N
+2022,150,Adrian Public Utilities Comm,Municipal,MN,MISO,"1,201.0","12,936",631,.,N,N,N
+2022,174,Aitkin Public Utilities Comm,Municipal,MN,MISO,"4,417.0","35,281","1,998",.,N,N,N
+2022,266,City of Alpha - (MN),Municipal,MN,MISO,195.0,"1,091",79,.,N,N,N
+2022,482,City of Alvarado - (MN),Municipal,MN,MISO,472.0,"3,938",191,.,N,N,N
+2022,828,City of Arlington - (MN),Municipal,MN,MISO,"2,400.2","20,173","1,136",.,Y,Y,N
+2022,887,"Arrowhead Electric Coop, Inc",Cooperative,MN,MISO,"10,354.9","76,305","4,485",.,Y,N,Y
+2022,1101,Bagley Public Utilities Comm,Municipal,MN,MISO,"2,703.0","23,844",783,.,N,Y,N
+2022,1233,City of Barnesville - (MN),Municipal,MN,MISO,"2,169.0","22,846","1,525",.,Y,Y,N
+2022,1353,City of Baudette - (MN),Municipal,MN,MISO,"2,439.7","17,617",772,.,N,N,N
+2022,1573,City of Benson - (MN),Municipal,MN,MISO,"3,277.0","35,742","1,827",.,Y,Y,N
+2022,1753,City of Biwabik - (MN),Municipal,MN,MISO,655.3,"5,962",618,.,Y,N,N
+2022,1824,City of Bigelow - (MN),Municipal,MN,MISO,173.2,"1,564",130,.,N,N,N
+2022,1871,City of Blooming Prairie - (MN),Municipal,MN,MISO,"2,682.5","24,068","1,039",.,Y,N,N
+2022,1883,Blue Earth Light & Water,Municipal,MN,MISO,"5,640.9","56,106","2,175",.,Y,Y,N
+2022,2138,Brainerd Public Utilities,Municipal,MN,MISO,"21,555.8","184,500","8,383",.,Y,N,N
+2022,2182,City of Breckenridge- (MN),Municipal,MN,MISO,"3,177.0","31,508","1,841",.,N,Y,N
+2022,2206,City of Brewster - (MN),Municipal,MN,MISO,621.1,"5,791",268,.,N,N,N
+2022,2316,Brown County Rural Elec Assn,Cooperative,MN,MISO,"16,407.7","144,495","4,553",.,Y,Y,N
+2022,2412,City of Brownton - (MN),Municipal,MN,MISO,480.0,"4,761",441,.,N,N,N
+2022,2485,City of Buffalo - (MN),Municipal,MN,MISO,"19,581.0","122,576","6,435",.,Y,N,N
+2022,2491,City of Buhl - (MN),Municipal,MN,MISO,606.6,"6,066",534,.,N,N,N
+2022,2810,City of Caledonia - (MN),Municipal,MN,MISO,"3,048.0","24,092","1,669",.,N,N,N
+2022,3356,City of Ceylon - (MN),Municipal,MN,MISO,229.0,"2,438",217,.,N,N,N
+2022,3764,Clearwater-Polk Elec Coop Inc,Cooperative,MN,MISO,"10,232.5","75,280","4,520",.,Y,Y,N
+2022,4346,Cooperative L&P Assn Lake County,Cooperative,MN,MISO,"14,079.2","107,096","6,436",.,Y,N,N
+2022,5015,Delano Municipal Utilities,Municipal,MN,MISO,"7,962.2","73,074","3,145",.,N,N,N
+2022,5111,City of Detroit Lakes - (MN),Municipal,MN,MISO,"18,368.3","192,422","7,920",.,Y,Y,Y
+2022,5397,City of Dunnell - (MN),Municipal,MN,MISO,89.6,841,101,.,N,N,N
+2022,5575,City of East Grand Forks - (MN),Municipal,MN,MISO,"15,979.0","159,179","4,458",.,N,Y,N
+2022,5692,City of Eitzen - (MN),Municipal,MN,MISO,238.2,"2,002",163,.,Y,N,N
+2022,5732,City of Elbow Lake - (MN),Municipal,MN,MISO,"2,045.0","18,980",707,.,N,Y,N
+2022,5841,City of Ely - (MN),Municipal,MN,MISO,"3,914.1","38,846","2,095",.,N,N,N
+2022,6138,City of Fairfax - (MN),Municipal,MN,MISO,918.7,"9,268",721,.,N,N,N
+2022,6151,Fairmont Public Utilities Comm,Municipal,MN,MISO,"15,130.0","144,773","5,893",.,Y,Y,N
+2022,6627,City of Fosston - (MN),Municipal,MN,MISO,"3,522.0","29,371",863,.,N,N,N
+2022,7194,City of Gilbert,Municipal,MN,MISO,"1,107.9","11,541",983,.,N,N,N
+2022,7292,Glencoe Light & Power Comm,Municipal,MN,MISO,"10,476.4","127,149","2,952",.,Y,Y,N
+2022,7460,Goodhue County Coop Elec Assn,Cooperative,MN,MISO,"13,279.3","100,895","5,256",.,Y,N,N
+2022,7487,City of Grand Marais - (MN),Municipal,MN,MISO,"2,714.6","24,283","1,286",.,Y,Y,N
+2022,7489,Grand Rapids Public Util Comm,Municipal,MN,MISO,"19,120.0","156,690","7,681",.,Y,Y,Y
+2022,7494,City of Granite Falls - (MN),Municipal,MN,MISO,"3,870.3","29,099","1,604",.,Y,N,N
+2022,7732,City of Grove City,Municipal,MN,MISO,"1,033.0","7,601",421,.,Y,N,N
+2022,7870,H-D Electric Coop Inc,Cooperative,MN,SWPP,20.0,158,11,.,N,N,N
+2022,7969,City of Halstad - (MN),Municipal,MN,MISO,"1,004.0","8,274",321,.,N,N,N
+2022,8131,City of Harmony - (MN),Municipal,MN,MISO,813.0,"8,318",739,.,N,N,N
+2022,8307,Hawley Public Utilities Comm,Municipal,MN,MISO,"2,636.0","20,588","1,184",.,N,Y,N
+2022,8459,City of Henning - (MN),Municipal,MN,MISO,907.8,"8,200",548,.,N,N,N
+2022,8543,Hibbing Public Utilities Comm,Municipal,MN,MISO,"13,004.0","105,032","7,801",.,Y,N,N
+2022,9599,City of Jackson - (MN),Municipal,MN,MISO,"5,688.3","44,913","1,974",.,N,N,N
+2022,9650,City of Janesville - (MN),Municipal,MN,MISO,"1,540.0","12,299","1,187",.,N,N,N
+2022,9991,Kandiyohi Power Coop,Cooperative,MN,MISO,"21,277.0","167,292","8,937",.,Y,N,N
+2022,10037,City of Kasota - (MN),Municipal,MN,MISO,419.0,"3,762",354,.,N,N,N
+2022,10040,City of Kasson,Municipal,MN,MISO,"3,947.6","34,430","2,742",.,Y,Y,N
+2022,10089,Keewatin Public Utilities,Municipal,MN,MISO,589.6,"5,033",526,.,N,N,N
+2022,10179,Kenyon Municipal Utilities,Municipal,MN,MISO,"1,982.5","16,108","1,016",.,N,N,N
+2022,10595,City of Lake City - (MN),Municipal,MN,MISO,"9,894.0","106,892","3,248",.,Y,N,N
+2022,10609,City of Lake Park - (MN),Municipal,MN,MISO,778.0,"7,673",534,.,N,N,N
+2022,10622,City of Lakefield - (MN),Municipal,MN,MISO,"1,670.0","15,441","1,023",.,N,N,N
+2022,10685,Lanesboro Public Utility Comm,Municipal,MN,MISO,664.5,"7,159",638,.,N,N,N
+2022,10814,City of Le Sueur - (MN),Municipal,MN,MISO,"7,765.5","86,688","2,317",.,Y,N,Y
+2022,11064,Litchfield Public Utilities,Municipal,MN,MISO,"11,811.0","152,255","3,275",.,Y,Y,N
+2022,11332,City of Luverne - (MN),Municipal,MN,SWPP,"7,652.0","71,915","2,591",.,Y,Y,N
+2022,11345,"Lyon Electric Cooperative, Inc.",Cooperative,MN,SWPP,"10,972.9","97,863","3,945",.,Y,N,N
+2022,11424,City of Mabel - (MN),Municipal,MN,MISO,615.6,"4,775",465,.,N,N,N
+2022,11482,City of Madison - (MN),Municipal,MN,MISO,"1,445.9","17,562",982,.,Y,Y,N
+2022,11910,McLeod Cooperative Power Assn,Cooperative,MN,MISO,"22,657.0","183,065","7,006",.,Y,N,Y
+2022,12286,Melrose Public Utilities,Municipal,MN,MISO,"10,183.3","122,653","1,681",.,N,N,N
+2022,12897,Moose Lake Water & Light Comm,Municipal,MN,MISO,"4,514.0","33,289",989,.,Y,N,N
+2022,12900,City of Mora - (MN),Municipal,MN,MISO,"5,435.0","53,077","1,919",.,Y,Y,N
+2022,13044,City of Mountain Iron - (MN),Municipal,MN,MISO,"2,601.0","24,071","1,249",.,N,N,N
+2022,13048,City of Mountain Lake - (MN),Municipal,MN,MISO,"3,047.4","28,976","1,062",.,Y,Y,N
+2022,13219,City of Nashwauk - (MN),Municipal,MN,MISO,965.0,"10,562",548,.,N,N,N
+2022,13465,City of Nielsville - (MN),Municipal,MN,MISO,61.0,503,52,.,N,N,N
+2022,13480,New Prague Utilities Comm,Municipal,MN,MISO,"6,469.0","68,905","3,759",.,Y,Y,Y
+2022,13488,New Ulm Public Utilities Comm,Municipal,MN,MISO,"24,256.0","193,837","7,417",.,Y,Y,N
+2022,13495,City of Newfolden - (MN),Municipal,MN,MISO,368.0,"3,200",241,.,N,N,N
+2022,13681,North Branch Water & Light Comm,Municipal,MN,MISO,"4,032.0","26,730","2,092",.,N,N,N
+2022,13684,Nobles Cooperative Electric,Cooperative,MN,MISO,"22,663.6","194,839","6,937",.,Y,N,Y
+2022,13700,North Itasca Electric Coop Inc,Cooperative,MN,MISO,"9,150.9","54,256","5,560",.,Y,N,N
+2022,13730,City of North St Paul - (MN),Municipal,MN,MISO,"11,191.8","70,923","6,637",.,Y,N,Y
+2022,13731,"North Star Electric Coop, Inc",Cooperative,MN,MISO,"15,773.5","112,918","6,872",.,Y,Y,N
+2022,14107,City of Olivia - (MN),Municipal,MN,MISO,"3,052.0","28,383","1,287",.,N,N,N
+2022,14178,"P K M Electric Coop, Inc",Cooperative,MN,MISO,"13,883.0","110,490","4,003",.,Y,Y,N
+2022,14196,City of Ortonville - (MN),Municipal,MN,MISO,"2,610.6","26,630","1,340",.,Y,Y,N
+2022,14841,City of Peterson - (MN),Municipal,MN,MISO,182.0,"1,480",148,.,N,N,N
+2022,15041,City of Pierz - (MN),Municipal,MN,MISO,"1,162.5","10,998",795,.,N,N,N
+2022,15348,Preston Public Utilities Comm,Municipal,MN,MISO,"1,766.0","13,894",884,.,Y,Y,N
+2022,15387,Princeton Public Utils Comm,Municipal,MN,MISO,"6,723.8","52,686","2,810",.,Y,Y,N
+2022,15460,Proctor Public Utilities Comm,Municipal,MN,MISO,"2,732.2","24,430","1,449",.,Y,N,N
+2022,15665,City of Randall - (MN),Municipal,MN,MISO,530.0,"4,512",349,.,N,N,N
+2022,15750,Redwood Electric Coop,Cooperative,MN,MISO,"15,808.8","134,996","4,480",.,Y,N,N
+2022,15793,Redwood Falls Public Util Comm,Municipal,MN,MISO,"6,431.2","61,972","2,914",.,Y,N,N
+2022,15845,Renville-Sibley Coop Pwr Assn,Cooperative,MN,MISO,"15,401.4","176,622","1,882",.,Y,N,N
+2022,16284,"Roseau Electric Coop, Inc",Cooperative,MN,MISO,"19,445.0","152,681","6,654",.,Y,Y,N
+2022,16285,City of Roseau - (MN),Municipal,MN,MISO,"4,035.0","36,272","1,472",.,N,Y,N
+2022,16427,City of Rushford - (MN),Municipal,MN,MISO,"1,763.0","13,442",911,.,N,N,N
+2022,16451,City of Rushmore - (MN),Municipal,MN,MISO,255.0,"2,076",212,.,N,N,N
+2022,16679,City of Sauk Centre - (MN),Municipal,MN,MISO,"5,667.0","59,529","2,425",.,Y,Y,Y
+2022,17074,City of Shelly - (MN),Municipal,MN,MISO,220.6,"2,198",144,.,N,Y,N
+2022,17320,Sleepy Eye Public Utility Comm,Municipal,MN,MISO,"4,144.0","39,040","2,005",.,Y,Y,N
+2022,17823,City of Spring Grove,Municipal,MN,MISO,"1,412.0","11,506",817,.,N,N,N
+2022,17824,Spring Valley Pub Utils Comm,Municipal,MN,MISO,"3,098.0","20,715","1,367",.,Y,N,N
+2022,17836,Springfield Public Utils Comm - (MN),Municipal,MN,MISO,"2,462.0","20,486","1,233",.,N,N,N
+2022,17862,City of St Charles - (MN),Municipal,MN,MISO,"2,991.1","23,529","1,885",.,Y,N,N
+2022,17876,City of St James - (MN),Municipal,MN,MISO,"3,921.8","53,252","2,254",.,Y,N,N
+2022,17900,City of Saint Peter,Municipal,MN,MISO,"11,557.6","101,592","4,541",.,Y,Y,N
+2022,17983,City of Staples- (MN),Municipal,MN,MISO,"3,397.0","27,846","1,300",.,N,N,N
+2022,18063,City of Stephen - (MN),Municipal,MN,MISO,989.0,"8,727",331,.,N,N,N
+2022,18820,City of Thief River Falls,Municipal,MN,MISO,"16,148.0","142,384","5,276",.,N,N,N
+2022,19060,"Traverse Electric Coop, Inc",Cooperative,MN,SWPP,"8,419.0","86,894","2,129",.,Y,Y,N
+2022,19237,Truman Public Utilities Comm,Municipal,MN,MISO,"1,876.6","9,578",678,.,Y,Y,N
+2022,19321,City of Two Harbors- (MN),Municipal,MN,MISO,"3,963.0","27,979","1,894",.,Y,N,N
+2022,19332,City of Tyler - (MN),Municipal,MN,MISO,"1,311.7","13,965",713,.,N,N,N
+2022,19883,City of Virginia - (MN),Municipal,MN,MISO,"12,593.9","97,666","5,057",.,Y,Y,N
+2022,19947,City of Wadena - (MN),Municipal,MN,MISO,"6,018.2","69,829","2,454",.,Y,Y,N
+2022,20110,City of Warren - (MN),Municipal,MN,MISO,"1,277.0","15,549","1,001",.,N,Y,N
+2022,20134,City of Warroad,Municipal,MN,MISO,"5,713.0","63,659",978,.,Y,N,N
+2022,20136,City of Waseca - (MN),Municipal,MN,MISO,"6,832.5","56,949","4,192",.,Y,Y,N
+2022,20430,City of Westbrook,Municipal,MN,MISO,885.0,"7,486",494,.,N,Y,N
+2022,20466,City of Whalan - (MN),Municipal,MN,MISO,42.0,352,57,.,N,N,N
+2022,20806,City of Windom,Municipal,MN,MISO,"6,878.8","81,394","2,516",.,Y,Y,N
+2022,20837,City of Winthrop - (MN),Municipal,MN,MISO,"1,763.4","16,111",781,.,N,N,N
+2022,26934,"Red Lake Electric Coop, Inc",Cooperative,MN,MISO,"14,468.6","115,251","5,760",.,Y,Y,N
+2022,26939,Red River Valley Coop Pwr Assn,Cooperative,MN,MISO,"16,414.0","137,795","4,791",.,Y,Y,N
+2022,27026,City of Round Lake - (MN),Municipal,MN,MISO,442.0,"3,940",276,.,N,N,N
+2022,27422,Todd-Wadena Electric Coop,Cooperative,MN,MISO,"21,970.0","202,886","9,136",.,Y,N,N
+2022,29295,City of Wells - (MN),Municipal,MN,MISO,"2,827.0","22,779","1,379",.,N,Y,N
+2022,29305,City of Madelia - (MN),Municipal,MN,MISO,"5,285.0","36,496","1,244",.,Y,N,N
+2022,228,City of Albany - (MO),Municipal,MO,SWPP,"2,073.6","15,176",975,.,Y,N,N
+2022,942,Atchison-Holt Electric Coop,Cooperative,MO,AECI,"7,107.0","72,733","2,604",.,Y,N,N
+2022,1024,City of Ava - (MO),Municipal,MO,AECI,"5,880.0","65,582","1,578",.,Y,N,N
+2022,1279,Barry Electric Coop,Cooperative,MO,AECI,"21,898.2","186,022","9,796",.,Y,N,N
+2022,1301,"Barton County Elec Coop, Inc",Cooperative,MO,AECI,"20,091.0","171,925","6,715",.,Y,N,N
+2022,1647,City of Bethany - (MO),Municipal,MO,SPA,"4,100.8","36,008","1,875",.,N,N,N
+2022,2647,City of Butler - (MO),Municipal,MO,SWPP,"5,327.3","43,547","2,383",.,Y,N,N
+2022,2726,City of Cabool - (MO),Municipal,MO,AECI,"4,063.0","43,429","1,066",.,Y,N,N
+2022,2851,City of California - (MO),Municipal,MO,MISO,"3,938.9","42,076","2,382",.,Y,N,N
+2022,2900,City of Cameron,Municipal,MO,AECI,"7,070.0","74,597","3,440",.,Y,N,N
+2022,3082,Carrollton Board of Public Wks,Municipal,MO,SWPP,"5,282.0","42,314","2,107",.,Y,N,N
+2022,3296,City of Centralia - (MO),Municipal,MO,MISO,"4,018.4","32,594","2,391",.,Y,N,N
+2022,3486,Chillicothe Municipal Utils,Municipal,MO,SWPP,"9,524.0","94,839","4,560",.,Y,N,N
+2022,3634,City of Nixa - (MO),Municipal,MO,SWPP,"18,894.1","171,911","11,247",.,Y,N,N
+2022,4483,City of Crane - (MO),Municipal,MO,AECI,"1,080.0","10,496",755,.,Y,N,N
+2022,4608,City of Cuba - (MO),Municipal,MO,AECI,"5,971.0","46,429","1,921",.,Y,N,N
+2022,5583,City of Easton - (MO),Municipal,MO,AECI,215.0,"1,780",102,.,N,N,N
+2022,5686,City of El Dorado Springs - (MO),Municipal,MO,SWPP,"4,514.1","109,024","1,852",.,Y,N,N
+2022,6231,City of Fayette - (MO),Municipal,MO,SWPP,"2,720.4","22,084","1,490",.,Y,N,N
+2022,6761,City of Fredericktown - (MO),Municipal,MO,SWPP,"6,485.3","46,020","2,574",.,Y,N,N
+2022,6839,City of Fulton - (MO),Municipal,MO,AECI,"16,484.0","153,400","5,762",.,N,N,N
+2022,6924,City of Gallatin - (MO),Municipal,MO,SWPP,"2,158.9","17,630",845,.,Y,N,N
+2022,7200,City of Gilman City - (MO),Municipal,MO,SWPP,276.7,"1,942",200,.,Y,N,N
+2022,7720,"Grundy Electric Coop, Inc",Cooperative,MO,AECI,"13,967.9","118,056","6,714",.,Y,Y,N
+2022,8199,City of Harrisonville - (MO),Municipal,MO,SWPP,"12,424.0","98,555","4,949",.,Y,N,N
+2022,8493,City of Hermann,Municipal,MO,AECI,"5,224.2","48,730","1,540",.,Y,N,N
+2022,8567,City of Higginsville - (MO),Municipal,MO,SWPP,"6,140.6","56,908","2,610",.,Y,N,N
+2022,8896,City of Houston - (MO),Municipal,MO,AECI,"3,256.7","37,218","1,294",.,Y,N,N
+2022,8911,Howard Electric Coop,Cooperative,MO,AECI,"7,818.1","53,919","3,713",.,Y,N,Y
+2022,9025,City of Hunnewell - (MO),Municipal,MO,AECI,151.0,"1,540",80,.,N,N,N
+2022,9603,City of Jackson - (MO),Municipal,MO,MISO,"15,772.0","146,413","7,439",.,N,N,N
+2022,9973,City of Kahoka,Municipal,MO,MISO,"2,419.0","21,600","1,231",.,Y,N,N
+2022,10057,City of Lamar - (MO),Municipal,MO,AECI,"7,172.0","56,486","2,429",.,Y,N,N
+2022,10152,City of Kennett - (MO),Municipal,MO,SWPP,"11,061.3","120,188","5,577",.,Y,N,N
+2022,10538,City of La Plata - (MO),Municipal,MO,SWPP,"1,110.0","9,109",751,.,N,N,N
+2022,10767,City of Linneus - (MO),Municipal,MO,MISO,279.0,"2,241",151,.,N,N,N
+2022,10962,Lewis County Rural E C A,Cooperative,MO,AECI,"16,058.0","117,150","7,371",.,Y,N,Y
+2022,10977,City of Liberal - (MO),Municipal,MO,SWPP,723.3,"5,109",375,.,Y,N,N
+2022,11121,Lockwood Water & Light Company,Municipal,MO,SWPP,"1,352.0","8,523",563,.,Y,N,N
+2022,11460,City of Macon - (MO),Municipal,MO,AECI,"9,793.0","81,648","3,039",.,Y,N,N
+2022,11540,City of Malden - (MO),Municipal,MO,SWPP,"4,400.8","47,969","2,171",.,N,N,N
+2022,11585,City of Mansfield - (MO),Municipal,MO,AECI,"2,924.0","25,406",660,.,N,N,N
+2022,11626,City of Marceline - (MO),Municipal,MO,MISO,"3,300.0","29,208","1,260",.,Y,N,N
+2022,11732,City of Marshall - (MO),Municipal,MO,SWPP,"15,367.1","146,967","6,098",.,Y,N,N
+2022,12292,City of Meadville - (MO),Municipal,MO,MISO,359.5,"2,716",229,.,N,N,N
+2022,12294,City of Memphis - (MO),Municipal,MO,AECI,"2,183.1","16,412","1,211",.,Y,N,N
+2022,12531,City of Milan - (MO),Municipal,MO,SWPP,"3,339.0","31,853",962,.,N,N,N
+2022,12627,City of Mindenmines - (MO),Municipal,MO,SWPP,281.0,"1,863",110,.,N,N,N
+2022,12802,City of Monroe City - (MO),Municipal,MO,AECI,"3,867.5","31,696","1,098",.,Y,N,N
+2022,13040,City of Mount Vernon - (MO),Municipal,MO,SWPP,"6,299.0","57,627","2,239",.,Y,N,N
+2022,13057,City of Mountain View - (MO),Municipal,MO,AECI,"3,134.0","21,299","1,367",.,N,N,N
+2022,13470,City of New Madrid - (MO),Municipal,MO,AECI,"3,268.0","38,065","1,700",.,N,N,N
+2022,13527,City of Newburg - (MO),Municipal,MO,AECI,411.0,"3,860",210,.,N,N,N
+2022,13690,North Central MO Elec Coop Inc,Cooperative,MO,AECI,"15,774.9","164,064","4,902",.,Y,Y,N
+2022,13971,City of Odessa - (MO),Municipal,MO,SWPP,"5,338.0","42,511","2,557",.,Y,N,N
+2022,14400,City of Palmyra - (MO),Municipal,MO,SWPP,"3,745.0","30,402","1,866",.,N,N,N
+2022,14456,City of Paris - (MO),Municipal,MO,AECI,"1,166.4","10,528",816,.,Y,N,N
+2022,14712,Pemiscot-Dunklin Elec Coop Inc,Cooperative,MO,AECI,"22,211.0","160,764","8,612",.,Y,N,N
+2022,14806,City of Perry - (MO),Municipal,MO,MISO,"1,108.0","10,332",396,.,Y,N,N
+2022,15672,Ralls County Electric Coop,Cooperative,MO,AECI,"15,265.0","108,756","6,454",.,Y,N,N
+2022,15981,City of Richland - (MO),Municipal,MO,AECI,"2,148.9","16,153","1,002",.,Y,N,N
+2022,16511,Sac-Osage Electric Coop Inc,Cooperative,MO,AECI,"20,330.7","161,458","11,632",.,Y,N,Y
+2022,16559,City of Salem - (MO),Municipal,MO,AECI,"5,389.0","54,184","2,734",.,Y,N,N
+2022,16560,City of Salisbury - (MO),Municipal,MO,SWPP,"2,041.0","15,581",994,.,Y,N,N
+2022,16851,SE-MA-NO Electric Coop,Cooperative,MO,AECI,"11,759.0","117,771","6,453",.,Y,N,N
+2022,16959,City of Seymour - (MO),Municipal,MO,AECI,"2,739.0","23,659",891,.,N,N,N
+2022,17035,City of Shelbina - (MO),Municipal,MO,AECI,"3,373.1","31,367","1,019",.,Y,N,N
+2022,17312,City of Slater - (MO),Municipal,MO,SWPP,"2,344.5","19,875","1,002",.,N,N,N
+2022,17877,City of St James - (MO),Municipal,MO,MISO,"6,323.9","55,827","1,708",.,Y,N,N
+2022,17918,City of St Robert - (MO),Municipal,MO,AECI,"8,101.0","62,002","3,430",.,Y,N,N
+2022,17946,City of Stanberry - (MO),Municipal,MO,SWPP,"1,217.0","9,804",709,.,Y,N,N
+2022,18045,City of Steelville,Municipal,MO,AECI,"2,884.6","22,083",797,.,Y,N,N
+2022,18273,City of Sullivan - (MO),Municipal,MO,AECI,"10,868.0","116,241","3,971",.,Y,N,N
+2022,18806,City of Thayer - (MO),Municipal,MO,MISO,"1,906.0","15,495","1,133",.,Y,N,N
+2022,19150,Trenton Municipal Utilities - (MO),Municipal,MO,SWPP,"7,450.8","69,644","2,993",.,Y,N,N
+2022,19158,Tri-County Electric Coop Assn (MO),Cooperative,MO,AECI,"14,583.0","96,394","6,497",.,Y,N,N
+2022,19474,City of Unionville - (MO),Municipal,MO,AECI,"2,350.8","17,082","1,515",.,N,N,N
+2022,19722,City of Vandalia - (MO),Municipal,MO,AECI,"2,818.4","23,872","1,423",.,Y,N,N
+2022,20224,City of Waynesville - (MO),Municipal,MO,AECI,"7,240.0","68,881","2,472",.,Y,N,N
+2022,20392,City of West Plains - (MO),Municipal,MO,SWPP,"16,220.0","183,869","6,626",.,Y,N,N
+2022,20739,City of Willow Springs - (MO),Municipal,MO,AECI,"3,755.0","31,788","1,144",.,Y,N,N
+2022,20827,City of Winona - (MO),Municipal,MO,AECI,"1,386.7","9,425",615,.,Y,N,N
+2022,22646,"United Electric Coop, Inc - (MO)",Cooperative,MO,AECI,"24,583.0","170,369","9,424",.,Y,N,N
+2022,40382,City of Rockport - (MO),Municipal,MO,AECI,"1,444.0","10,659",740,.,N,N,N
+2022,40383,City of Osceola - (MO),Municipal,MO,SWPP,753.0,"6,845",500,.,N,N,N
+2022,2974,Canton Municipal Utilities,Municipal,MS,MISO,"9,943.0","105,707","4,720",.,N,N,N
+2022,3702,Clarksdale Public Utilities,Municipal,MS,MISO,"17,442.0","114,262","6,370",.,N,N,N
+2022,3839,Coahoma Electric Power Assn,Cooperative,MS,MISO,"19,525.7","165,539","8,369",.,N,N,N
+2022,3957,City of Collins - (MS),Municipal,MS,SOCO,"4,922.0","46,917","1,364",.,N,N,N
+2022,5479,City of Durant - (MS),Municipal,MS,MISO,"3,248.5","22,187","1,400",.,N,N,N
+2022,9472,City of Itta Bena - (MS),Municipal,MS,MISO,720.2,"31,815","1,931",.,N,N,N
+2022,10447,City of Kosciusko - (MS),Municipal,MS,MISO,"7,168.9","62,721","3,074",.,N,N,N
+2022,10892,City of Leland - (MS),Municipal,MS,MISO,"3,542.0","25,699","1,801",.,N,N,N
+2022,18961,Twin County Electric Pwr Assn,Cooperative,MS,MISO,"30,243.6","207,486","12,107",.,N,N,N
+2022,21095,Public Serv Comm of Yazoo City,Municipal,MS,MISO,"13,070.0","111,244","5,667",.,N,N,N
+2022,1417,"Beartooth Electric Coop, Inc",Cooperative,MT,NWMT,"8,923.0","71,255","6,161",.,Y,Y,Y
+2022,1671,Big Flat Electric Coop Inc,Cooperative,MT,NWMT,"3,976.8","31,642","2,086",.,N,N,N
+2022,1675,Big Horn Rural Electric Co,Cooperative,MT,WACM,"2,494.0","21,324",71,.,Y,N,Y
+2022,1683,"Big Horn County Elec Coop, Inc",Cooperative,MT,NWMT,"7,348.3","56,889","3,658",.,Y,N,N
+2022,7262,"Glacier Electric Coop, Inc",Cooperative,MT,NWMT,"16,393.2","177,824","7,903",.,Y,N,N
+2022,7318,"Goldenwest Electric Coop, Inc",Cooperative,MT,SWPP,"1,815.1","13,270",845,.,Y,N,N
+2022,7484,"Grand Electric Coop, Inc",Cooperative,MT,SWPP,17.0,129,14,.,N,N,N
+2022,8632,"Hill County Electric Coop, Inc",Cooperative,MT,NWMT,"17,162.9","171,713","3,915",.,N,N,N
+2022,11022,"Lincoln Electric Coop, Inc",Cooperative,MT,BPAT,"13,018.0","135,858","6,457",.,Y,N,N
+2022,11643,Marias River Electric Coop Inc,Cooperative,MT,NWMT,"7,647.0","75,042","3,823",.,N,N,N
+2022,11989,McCone Electric Coop Inc,Cooperative,MT,WAUW,"10,463.8","75,185","5,407",.,Y,N,N
+2022,12463,"Mid-Yellowstone Elec Coop, Inc",Cooperative,MT,WAUW,"3,837.1","29,198","2,040",.,Y,Y,N
+2022,13749,"NorVal Electric Cooperative, Inc",Cooperative,MT,SWPP,"7,647.1","53,577","3,533",.,Y,Y,N
+2022,14500,Park Electric Coop Inc,Cooperative,MT,NWMT,"16,256.3","193,699","6,648",.,Y,N,N
+2022,16759,"Sheridan Electric Coop, Inc",Cooperative,MT,SWPP,"12,557.0","97,533","3,761",.,N,N,N
+2022,17593,"Southeast Electric Coop, Inc",Cooperative,MT,WAUW,"7,460.0","54,369","2,163",.,N,N,N
+2022,18401,"Sun River Electric Coop, Inc",Cooperative,MT,WAUW,"12,429.5","109,803","6,127",.,Y,N,N
+2022,19022,Tongue River Electric Coop Inc,Cooperative,MT,NWMT,"13,157.2","98,641","5,162",.,Y,N,N
+2022,19236,City of Troy - (MT),Municipal,MT,BPAT,"1,334.9","17,215","1,042",.,N,N,N
+2022,23586,"Vigilante Electric Coop, Inc",Cooperative,MT,NWMT,"15,732.6","199,282","10,964",.,Y,N,N
+2022,26916,"Ravalli County Elec Coop, Inc",Cooperative,MT,NWMT,"18,587.2","191,317","11,725",.,Y,N,N
+2022,202,Town of Black Creek - (NC),Municipal,NC,CPLE,"1,851.0","11,582",787,.,N,N,N
+2022,1036,Town of Ayden - (NC),Municipal,NC,CPLE,"11,722.0","114,811","4,219",.,N,N,Y
+2022,1494,Town of Belhaven - (NC),Municipal,NC,CPLE,"2,308.3","15,050","1,057",.,N,N,N
+2022,1571,Town of Benson - (NC),Municipal,NC,CPLE,"5,154.0","37,563","2,040",.,N,N,N
+2022,1987,Town of Bostic - (NC),Municipal,NC,DUK,390.3,"3,335",203,.,N,N,N
+2022,2982,Cape Hatteras Elec Member Corp,Cooperative,NC,PJM,"19,897.0","135,241","8,029",.,Y,N,N
+2022,3437,City of Cherryville - (NC),Municipal,NC,DUK,"5,477.0","51,460","2,525",.,N,N,N
+2022,3731,Town of Clayton,Municipal,NC,CPLE,"15,462.0","119,097","7,923",.,N,Y,Y
+2022,4365,Town of Cornelius - (NC),Municipal,NC,DUK,"6,424.0","55,460","4,007",.,N,N,N
+2022,4739,Town of Dallas - (NC),Municipal,NC,DUK,"6,537.0","70,423","3,727",.,N,N,N
+2022,5372,Town of Drexel - (NC),Municipal,NC,DUK,"2,082.0","17,824","1,250",.,N,N,N
+2022,5896,Town of Enfield - (NC),Municipal,NC,PJM,"2,622.0","17,889","1,265",.,N,N,N
+2022,6209,Town of Farmville - (NC),Municipal,NC,CPLE,"6,031.0","46,042","3,061",.,N,Y,N
+2022,6580,Town of Forest City,Municipal,NC,DUK,"10,459.0","93,397","4,237",.,N,N,N
+2022,6613,Town of Fountain - (NC),Municipal,NC,CPLE,601.0,"4,258",303,.,N,N,N
+2022,6710,Town of Edenton - (NC),Municipal,NC,CPLE,"11,131.0","96,418","4,187",.,N,N,N
+2022,6780,Town of Fremont - (NC),Municipal,NC,CPLE,"1,565.6","11,498",763,.,N,N,N
+2022,7496,Town of Granite Falls - (NC),Municipal,NC,DUK,"6,392.0","57,875","2,638",.,Y,N,Y
+2022,7978,Halifax Electric Member Corp,Cooperative,NC,CPLE,"26,980.1","183,223","12,134",.,N,N,N
+2022,7996,Town of Hamilton - (NC),Municipal,NC,PJM,373.6,"3,020",250,.,N,N,N
+2022,8517,City of Hertford - (NC),Municipal,NC,CPLE,"2,660.0","23,519","1,183",.,N,Y,N
+2022,8579,City of Highlands - (NC),Municipal,NC,DUK,"5,780.0","46,806","2,891",.,N,N,N
+2022,8677,Town of Hobgood,Municipal,NC,CPLE,482.2,"3,058",267,.,N,N,N
+2022,8825,Town of Hookerton - (NC),Municipal,NC,CPLE,766.0,"5,833",429,.,N,N,N
+2022,10324,City of Kings Mountain - (NC),Municipal,NC,DUK,"15,625.0","144,072","5,305",.,N,N,N
+2022,10586,Town of La Grange - (NC),Municipal,NC,CPLE,"3,193.1","24,640","1,796",.,N,Y,N
+2022,10669,Town of Landis - (NC),Municipal,NC,DUK,"5,742.5","48,574","3,670",.,N,N,Y
+2022,10770,City of Laurinburg - (NC),Municipal,NC,CPLE,"13,075.7","128,260","5,558",.,Y,N,Y
+2022,11035,City of Lincolnton - (NC),Municipal,NC,DUK,"7,816.0","61,831","2,952",.,N,N,N
+2022,11205,Town of Lucama - (NC),Municipal,NC,CPLE,"2,548.0","19,265","1,165",.,N,N,N
+2022,11228,Town of Louisburg - (NC),Municipal,NC,CPLE,"6,889.2","51,663","2,047",.,N,N,N
+2022,11360,Town of MacClesfield - (NC),Municipal,NC,CPLE,652.3,"4,774",268,.,N,N,N
+2022,11515,Town of Maiden - (NC),Municipal,NC,DUK,"6,877.0","72,805","1,215",.,N,N,Y
+2022,13561,City of Newton - (NC),Municipal,NC,DUK,"15,643.0","156,112","4,675",.,N,N,Y
+2022,13931,Town of Oak City - (NC),Municipal,NC,PJM,411.0,"2,778",224,.,N,N,N
+2022,14857,Pitt & Greene Elec Member Corp,Cooperative,NC,CPLE,"24,078.7","189,882","9,029",.,N,N,N
+2022,15046,Town of Pikeville - (NC),Municipal,NC,CPLE,"1,074.0","7,743",505,.,N,N,N
+2022,15058,Town of Pinetops - (NC),Municipal,NC,CPLE,"2,612.0","19,626",718,.,N,N,N
+2022,15062,Town of Pineville - (NC),Municipal,NC,DUK,"11,501.0","106,229","4,198",.,N,N,N
+2022,15778,Town of Red Springs - (NC),Municipal,NC,CPLE,"4,973.0","38,040","1,733",.,N,Y,N
+2022,16113,City of Robersonville - (NC),Municipal,NC,PJM,"2,254.3","20,463",883,.,N,N,N
+2022,16788,Town of Scotland Neck - (NC),Municipal,NC,CPLE,"3,499.0","25,123","1,361",.,N,N,N
+2022,16914,Town of Selma - (NC),Municipal,NC,CPLE,"6,678.0","64,018","2,908",.,N,N,N
+2022,17004,Town of Sharpsburg - (NC),Municipal,NC,CPLE,"2,307.0","17,086","1,251",.,N,N,N
+2022,17037,City of Shelby - (NC),Municipal,NC,DUK,"19,510.0","183,905","8,524",.,N,N,Y
+2022,17451,Town of Smithfield - (NC),Municipal,NC,CPLE,"16,563.8","161,615","4,940",.,N,N,N
+2022,17668,City of Southport - (NC),Municipal,NC,CPLE,"6,187.6","55,979","3,299",.,Y,Y,Y
+2022,17981,Town of Stantonsburg - (NC),Municipal,NC,CPLE,"2,683.0","20,101","1,214",.,N,N,N
+2022,19974,Town of Wake Forest - (NC),Municipal,NC,CPLE,"20,685.5","156,876","6,904",.,N,N,N
+2022,20071,Town of Walstonburg,Municipal,NC,CPLE,258.4,"1,800",136,.,N,N,N
+2022,20225,Town of Waynesville - (NC),Municipal,NC,DUK,"9,221.3","84,081","3,189",.,N,N,N
+2022,20811,Town of Windsor- (NC),Municipal,NC,PJM,"5,774.1","45,229","1,721",.,N,N,N
+2022,20836,City of Winterville - (NC),Municipal,NC,CPLE,"7,044.0","50,878","3,333",.,N,N,N
+2022,3138,"Cavalier Rural Elec Coop, Inc",Cooperative,ND,MISO,"5,345.0","33,406","1,612",.,N,Y,N
+2022,3186,City of Cavalier - (ND),Municipal,ND,MISO,"1,366.0","16,623",872,.,N,Y,N
+2022,7318,"Goldenwest Electric Coop, Inc",Cooperative,ND,SWPP,"3,416.9","32,277",787,.,Y,N,N
+2022,7444,City of Grafton - (ND),Municipal,ND,MISO,"6,226.0","49,795","2,265",.,N,Y,N
+2022,8628,City of Hillsboro - (ND),Municipal,ND,MISO,"2,595.0","30,681",985,.,N,N,N
+2022,9067,City of Hope,Municipal,ND,MISO,449.2,"5,027",202,.,N,N,N
+2022,10153,KEM Electric Coop Inc,Cooperative,ND,SWPP,"11,741.0","94,379","3,698",.,Y,N,N
+2022,10629,City of Lakota - (ND),Municipal,ND,SWPP,"1,302.0","14,520",541,.,N,N,N
+2022,11470,City of Maddock - (ND),Municipal,ND,SWPP,787.7,"13,584",306,.,N,N,N
+2022,12899,Mor-Gran-Sou Electric Coop Inc,Cooperative,ND,SWPP,"21,744.0","165,830","10,222",.,Y,N,N
+2022,13816,City of Northwood - (ND),Municipal,ND,MISO,"1,649.1","57,063",699,.,N,Y,N
+2022,14474,City of Park River - (ND),Municipal,ND,MISO,"2,193.8","17,713",852,.,N,N,N
+2022,16105,City of Riverdale - (ND),Municipal,ND,SWPP,363.6,"3,398",337,.,N,N,N
+2022,16759,"Sheridan Electric Coop, Inc",Cooperative,ND,SWPP,"4,045.0","26,965",435,.,N,N,N
+2022,17045,City of Sharon- (ND),Municipal,ND,MISO,99.1,"1,285",83,.,N,N,N
+2022,19060,"Traverse Electric Coop, Inc",Cooperative,ND,SWPP,49.7,435,26,.,Y,Y,N
+2022,19687,City of Valley City,Municipal,ND,SWPP,"7,921.0","104,476","3,904",.,N,N,N
+2022,40440,City of Stanton - (ND),Municipal,ND,WACM,496.2,"4,305",254,.,N,N,N
+2022,367,City of Alliance- (NE),Municipal,NE,SWPP,"13,562.7","110,180","5,254",.,Y,N,N
+2022,695,City of Ansley - (NE),Municipal,NE,SWPP,657.0,"4,592",343,.,N,N,N
+2022,752,City of Arapahoe - (NE),Municipal,NE,SWPP,"1,545.7","10,780",695,.,N,N,N
+2022,871,Village of Arnold - (NE),Municipal,NE,SWPP,963.0,"7,358",497,.,N,N,N
+2022,993,Auburn Board of Public Works,Municipal,NE,SWPP,"6,487.0","62,352","2,685",.,Y,Y,N
+2022,1326,Village of Bartley - (NE),Municipal,NE,SWPP,604.3,"4,142",224,.,N,N,N
+2022,1346,City of Battle Creek- (NE),Municipal,NE,SWPP,"1,097.3","10,317",591,.,N,N,N
+2022,1374,City of Bayard - (NE),Municipal,NE,WACM,"1,232.0","8,302",607,.,N,N,N
+2022,1427,City of Beatrice - (NE),Municipal,NE,SWPP,"15,745.1","176,415","6,961",.,Y,N,N
+2022,1435,City of Beaver City - (NE),Municipal,NE,SWPP,779.6,"5,146",408,.,N,N,N
+2022,1554,City of Benkelman - (NE),Municipal,NE,SWPP,"1,490.2","12,320",602,.,N,N,N
+2022,1955,City of Bridgeport Utilities - (NE),Municipal,NE,SWPP,"1,939.0","17,188",907,.,N,N,N
+2022,2120,Village of Brainard - (NE),Municipal,NE,SWPP,443.4,"4,448",273,.,N,N,N
+2022,2277,City of Broken Bow - (NE),Municipal,NE,SWPP,"10,219.7","99,826","2,495",.,N,N,N
+2022,2599,Burt County Public Power Dist,Political Subdivision,NE,SWPP,"13,676.8","99,737","4,265",.,Y,Y,N
+2022,2609,City of Burwell - (NE),Municipal,NE,SWPP,"1,770.8","12,115",691,.,N,N,N
+2022,2643,Butler Public Power District - (NE),Political Subdivision,NE,SWPP,"21,853.0","230,340","6,434",.,Y,Y,N
+2022,2859,Village of Callaway - (NE),Municipal,NE,SWPP,993.9,"8,014",473,.,N,N,N
+2022,2888,City of Cambridge - (NE),Municipal,NE,SWPP,"3,236.0","44,991",618,.,N,N,N
+2022,2931,Village of Campbell - (NE),Municipal,NE,SWPP,242.0,"2,629",235,.,N,N,N
+2022,3235,City of Central City,Municipal,NE,SWPP,"3,724.0","34,513","1,762",.,Y,N,N
+2022,3373,City of Chappell - (NE),Municipal,NE,SWPP,"1,002.6","9,771",692,.,N,N,N
+2022,3435,"Cherry-Todd Electric Coop, Inc",Cooperative,NE,SWPP,"3,987.2","35,785","1,092",.,N,N,N
+2022,3445,Village of Chester - (NE),Municipal,NE,SWPP,287.0,"2,010",183,.,N,N,N
+2022,3495,Chimney Rock Public Power Dist,Political Subdivision,NE,WACM,"7,759.0","60,047","3,287",.,Y,N,N
+2022,4459,Cozad Board of Public Works,Municipal,NE,SWPP,"5,150.0","57,124","2,108",.,Y,N,N
+2022,4527,City of Crete,Municipal,NE,SWPP,"11,129.0","114,255","3,224",.,Y,Y,N
+2022,4632,Cuming County Public Pwr Dist,Political Subdivision,NE,SWPP,"11,299.5","107,769","3,896",.,Y,N,N
+2022,4661,City of Curtis - (NE),Municipal,NE,SWPP,"1,654.6","13,207",657,.,N,N,N
+2022,4671,Custer Public Power District,Political Subdivision,NE,SWPP,"33,619.0","293,863","10,887",.,Y,Y,N
+2022,4836,City of David City,Municipal,NE,SWPP,"4,003.0","38,836","1,508",.,N,N,N
+2022,4914,Village of Davenport - (NE),Municipal,NE,SWPP,335.1,"2,908",230,.,N,N,N
+2022,4934,Village of De Witt - (NE),Municipal,NE,SWPP,855.8,"7,293",311,.,N,N,N
+2022,4961,Village of Decatur - (NE),Municipal,NE,SWPP,224.5,"4,522",352,.,Y,N,N
+2022,5097,City of Deshler - (NE),Municipal,NE,SWPP,868.7,"7,722",503,.,Y,N,N
+2022,5350,Village of Dorchester - (NE),Municipal,NE,WACM,777.5,"6,541",345,.,N,N,N
+2022,5762,Village of Elk Creek - (NE),Municipal,NE,SWPP,.,.,.,.,,,
+2022,5850,City of Emerson - (NE),Municipal,NE,SWPP,675.0,"5,905",435,.,N,N,N
+2022,5927,Village of Endicott - (NE),Municipal,NE,SWPP,113.0,832,86,.,N,N,N
+2022,6132,City of Fairbury,Municipal,NE,SWPP,"10,299.2","91,743","3,405",.,N,N,N
+2022,6136,Village of Fairmont - (NE),Municipal,NE,SWPP,539.0,"4,735",393,.,N,N,N
+2022,6175,City of Falls City - (NE),Municipal,NE,SWPP,"6,124.0","53,082","2,627",.,Y,N,N
+2022,6723,City of Franklin - (NE),Municipal,NE,SWPP,"1,254.7","10,269",588,.,N,N,N
+2022,6793,City of Friend - (NE),Municipal,NE,SWPP,"1,257.0","11,042",604,.,Y,N,N
+2022,7149,City of Gering - (NE),Municipal,NE,WACM,"9,006.3","67,930","3,975",.,N,N,N
+2022,7249,City of Giltner - (NE),Municipal,NE,SWPP,618.0,"4,315",233,.,N,N,N
+2022,7411,City of Gothenburg - (NE),Municipal,NE,SWPP,"5,280.0","56,128","1,900",.,Y,Y,N
+2022,7485,City of Grant - (NE),Municipal,NE,SWPP,"2,130.1","18,042",800,.,N,N,N
+2022,7650,Village of Greenwood - (NE),Municipal,NE,SWPP,536.0,"4,895",317,.,N,N,N
+2022,8063,Village of Hampton - (NE),Municipal,NE,SWPP,613.0,"3,548",261,.,N,N,N
+2022,8375,City of Hebron - (NE),Municipal,NE,SWPP,839.0,"9,566",952,.,N,N,Y
+2022,8430,Village of Hemingford - (NE),Municipal,NE,SWPP,786.0,"6,786",536,.,N,N,N
+2022,8717,City of Holdrege,Municipal,NE,SWPP,"9,650.8","129,760","3,750",.,Y,N,N
+2022,8924,Howard Greeley Rural P P D,Political Subdivision,NE,SWPP,"14,841.0","142,071","5,748",.,Y,Y,N
+2022,9022,City of Hubbell- (NE),Municipal,NE,SWPP,159.0,"1,136",54,.,N,N,N
+2022,9217,City of Imperial,Municipal,NE,SWPP,"3,594.0","31,209",902,.,N,N,N
+2022,9274,City of Indianola - (NE),Municipal,NE,SWPP,503.8,"4,193",350,.,N,N,N
+2022,10065,KBR Rural Public Power District,Political Subdivision,NE,SWPP,"15,767.0","117,599","4,922",.,Y,N,N
+2022,10229,City of Hickman - (NE),Municipal,NE,SWPP,"1,804.4","16,960","1,436",.,Y,N,N
+2022,10260,City of Kimball - (NE),Municipal,NE,WACM,"3,189.2","20,179","1,694",.,N,N,N
+2022,10550,McCook Public Power District,Political Subdivision,NE,SWPP,"17,908.1","192,876","5,104",.,Y,N,N
+2022,10558,"LaCreek Electric Assn, Inc",Cooperative,NE,WACM,819.3,"7,574",250,.,Y,Y,N
+2022,10573,Village of Hildreth - (NE),Municipal,NE,SWPP,155.6,"4,070",245,.,N,N,N
+2022,10760,City of Laurel - (NE),Municipal,NE,SWPP,"1,232.6","10,958",618,.,N,N,N
+2022,11122,City of Lodgepole - (NE),Municipal,NE,SWPP,274.0,"2,318",233,.,N,N,N
+2022,11250,Loup Valleys Rural P P D,Political Subdivision,NE,SWPP,"17,152.0","152,503","5,813",.,N,Y,N
+2022,11346,Village of Lyman - (NE),Municipal,NE,WACM,685.5,"5,920",247,.,N,N,N
+2022,11372,City of Lyons - (NE),Municipal,NE,SWPP,874.0,"8,219",565,.,N,N,N
+2022,11481,City of Madison - (NE),Municipal,NE,SWPP,"6,005.0","74,694",756,.,N,N,N
+2022,12626,City of Minden - (NE),Municipal,NE,SWPP,"3,472.0","27,233","1,642",.,Y,Y,N
+2022,12717,City of Mitchell - (NE),Municipal,NE,SWPP,"1,634.3","14,290","1,314",.,N,N,N
+2022,12952,Village of Morrill - (NE),Municipal,NE,SWPP,"2,420.9","15,612","1,083",.,N,N,N
+2022,13090,Village of Mullen - (NE),Municipal,NE,SWPP,616.0,"5,405",383,.,N,N,N
+2022,13233,City of Neligh - (NE),Municipal,NE,SWPP,"1,952.0","21,867","1,114",.,N,N,N
+2022,13334,City of Nebraska City,Municipal,NE,SWPP,"16,789.0","171,140","5,806",.,Y,N,N
+2022,13375,City of Nelson - (NE),Municipal,NE,SWPP,519.0,"4,762",326,.,N,N,N
+2022,13610,Niobrara Valley El Member Corp,Cooperative,NE,SWPP,"17,676.0","162,275","6,413",.,N,N,N
+2022,13685,"Niobrara Electric Assn, Inc",Cooperative,NE,WACM,"1,563.9","10,010",920,.,Y,Y,Y
+2022,13698,North Central Public Pwr Dist,Political Subdivision,NE,SWPP,"17,849.0","169,817","6,808",.,Y,Y,Y
+2022,13805,Northwest Rural Pub Pwr Dist,Political Subdivision,NE,WACM,"12,023.0","78,186","3,356",.,Y,N,Y
+2022,14172,City of Ord - (NE),Municipal,NE,SWPP,"3,185.0","33,958","1,441",.,Y,N,N
+2022,14277,Village of Oxford - (NE),Municipal,NE,SWPP,"1,004.3","6,640",475,.,N,N,N
+2022,14426,Panhandle Rural El Member Assn,Cooperative,NE,WACM,"15,645.3","105,916","3,801",.,Y,Y,N
+2022,14656,City of Pender - (NE),Municipal,NE,SWPP,"2,191.8","16,914",673,.,N,N,N
+2022,15039,City of Pierce - (NE),Municipal,NE,SWPP,"2,012.0","21,113","1,235",.,N,N,N
+2022,15188,Polk County Rural Pub Pwr Dist,Political Subdivision,NE,SWPP,"14,708.0","126,379","4,840",.,Y,N,N
+2022,15346,Village of Polk - (NE),Municipal,NE,SWPP,465.5,"2,937",231,.,Y,N,N
+2022,15352,Village of Prague - (NE),Municipal,NE,SWPP,323.3,"2,770",198,.,Y,N,N
+2022,15674,City of Randolph - (NE),Municipal,NE,SWPP,"1,057.0","10,415",562,.,N,N,N
+2022,15773,City of Red Cloud - (NE),Municipal,NE,SWPP,"1,655.9","12,697",701,.,N,N,N
+2022,16022,Village of Reynolds - (NE),Municipal,NE,SWPP,92.4,645,44,.,N,N,N
+2022,16164,Roosevelt Public Power Dist,Political Subdivision,NE,WACM,"8,760.2","65,204","3,447",.,Y,N,N
+2022,16610,City of Scribner - (NE),Municipal,NE,SWPP,"1,149.0","8,639",570,.,N,N,N
+2022,16667,City of Sargent - (NE),Municipal,NE,SWPP,821.2,"6,099",378,.,N,N,N
+2022,16778,City of Schuyler - (NE),Municipal,NE,WACM,"12,018.0","138,389","2,739",.,N,N,N
+2022,16845,Village of Shickley - (NE),Municipal,NE,SWPP,465.7,"3,515",259,.,N,N,N
+2022,16953,City of Seward - (NE),Municipal,NE,SWPP,"10,744.4","103,614","3,565",.,N,N,N
+2022,17149,City of Sidney - (NE),Municipal,NE,WACM,"9,061.2","67,413","4,674",.,N,N,N
+2022,17497,City of Snyder - (NE),Municipal,NE,SWPP,619.0,"6,921",207,.,N,N,N
+2022,17548,South Central Public Pwr Dist,Political Subdivision,NE,SWPP,"18,365.5","186,949","8,384",.,Y,Y,Y
+2022,17727,Village of Spalding - (NE),Municipal,NE,SWPP,729.0,"7,449",374,.,N,N,N
+2022,17787,City of Spencer - (NE),Municipal,NE,SWPP,681.8,"5,302",313,.,N,N,N
+2022,17899,City of St Paul - (NE),Municipal,NE,SWPP,"2,636.0","26,120","1,255",.,Y,N,N
+2022,17979,Stanton County Public Pwr Dist,Political Subdivision,NE,SWPP,"13,233.0","159,759","2,737",.,Y,Y,N
+2022,18129,City of Stratton - (NE),Municipal,NE,SWPP,412.0,"3,583",275,.,N,N,N
+2022,18217,City of Stromsburg - (NE),Municipal,NE,SWPP,"1,488.3","8,413",682,.,N,N,N
+2022,18230,City of Stuart - (NE),Municipal,NE,SWPP,844.6,"5,757",421,.,N,N,N
+2022,18330,City of Superior - (NE),Municipal,NE,SWPP,"2,840.0","34,009","1,303",.,Y,N,N
+2022,18354,City of Sutton - (NE),Municipal,NE,SWPP,"1,764.0","16,441",924,.,N,N,N
+2022,18408,City of Syracuse - (NE),Municipal,NE,SWPP,"2,236.0","20,136","1,245",.,Y,N,N
+2022,18428,Village of Talmage - (NE),Municipal,NE,SWPP,232.0,"1,891",158,.,N,N,N
+2022,18525,City of Tecumseh,Municipal,NE,SWPP,"2,990.0","26,435","1,039",.,N,N,N
+2022,18954,City of Trenton - (NE),Municipal,NE,SWPP,687.4,"4,845",421,.,N,N,N
+2022,19677,City of Valentine - (NE),Municipal,NE,SWPP,"4,435.4","46,778","2,202",.,N,N,N
+2022,19968,City of Wahoo - (NE),Municipal,NE,SWPP,"5,797.0","73,241","2,459",.,Y,Y,N
+2022,19980,City of Wakefield - (NE),Municipal,NE,SWPP,"3,550.0","45,950",701,.,N,N,N
+2022,20063,Village of Walthill - (NE),Municipal,NE,SWPP,550.8,"4,782",245,.,N,N,N
+2022,20212,Village of Wauneta - (NE),Municipal,NE,SWPP,727.0,"6,548",430,.,Y,N,N
+2022,20219,City of Wayne,Municipal,NE,SWPP,"8,435.0","65,613","2,644",.,N,N,N
+2022,20397,City of West Point - (NE),Municipal,NE,SWPP,"6,587.0","51,197","1,936",.,Y,N,N
+2022,20456,Twin Valleys Public Power Dist,Political Subdivision,NE,SWPP,"15,760.0","123,702","6,646",.,Y,Y,N
+2022,20509,Wheat Belt Public Power Dist,Political Subdivision,NE,WACM,"22,137.0","182,446","5,037",.,Y,N,Y
+2022,20632,City of Wilber,Municipal,NE,SWPP,"1,555.3","17,469","1,013",.,N,N,N
+2022,20641,Village of Wilcox - (NE),Municipal,NE,SWPP,329.5,"2,781",224,.,N,N,N
+2022,20848,City of Blue Hill - (NE),Municipal,NE,SWPP,730.0,"7,833",482,.,N,N,N
+2022,20880,City of Wisner,Municipal,NE,SWPP,"1,631.7","14,623",742,.,N,N,N
+2022,20945,City of Wood River- (NE),Municipal,NE,SWPP,"1,344.5","11,984",718,.,N,N,N
+2022,20950,Village of Winside - (NE),Municipal,NE,SWPP,354.0,"3,454",249,.,N,N,N
+2022,21056,City of Wymore - (NE),Municipal,NE,SWPP,"1,178.0","11,439",888,.,N,N,N
+2022,21079,Wyrulec Company,Cooperative,NE,WACM,"2,536.8","22,727",497,.,Y,N,N
+2022,24791,Village of Bradshaw - (NE),Municipal,NE,SWPP,135.5,"2,749",213,.,N,N,N
+2022,906,Town of Ashland,Municipal,NH,ISNE,"3,188.0","22,425","1,785",.,N,N,N
+2022,11196,Town of Littleton - (NH),Municipal,NH,ISNE,"10,789.0","67,686","3,989",.,Y,N,N
+2022,13286,New Hampton Village Precinct,Municipal,NH,ISNE,505.0,"4,196",110,.,N,N,N
+2022,20913,Town of Wolfeboro - (NH),Municipal,NH,ISNE,"10,300.0","72,404","5,801",.,Y,N,N
+2022,20980,Precinct of Woodsville,Municipal,NH,ISNE,"3,463.7","22,136","1,024",.,N,N,N
+2022,2650,Borough of Butler - (NJ),Municipal,NJ,PJM,"16,358.3","154,403","11,795",.,Y,N,N
+2022,10776,Borough of Lavallette - (NJ),Municipal,NJ,PJM,"3,244.0","19,770","2,566",.,N,N,N
+2022,11476,Borough of Madison - (NJ),Municipal,NJ,PJM,"19,818.1","124,393","6,799",.,Y,N,N
+2022,12608,Borough of Milltown - (NJ),Municipal,NJ,PJM,"7,576.0","36,000","3,005",.,N,N,N
+2022,14472,Borough of Park Ridge - (NJ),Municipal,NJ,PJM,"9,704.0","58,991","3,870",.,N,N,N
+2022,14648,Borough of Pemberton - (NJ),Municipal,NJ,PJM,"1,653.0","6,275",755,.,N,N,N
+2022,16864,Seaside Heights Municipal Utility,Municipal,NJ,PJM,"5,346.0","27,660","3,090",.,Y,N,N
+2022,17571,Borough of South River - (NJ),Municipal,NJ,PJM,"14,553.6","59,450","6,469",.,N,N,N
+2022,40299,Sussex Rural Electric Coop Inc,Cooperative,NJ,PJM,"20,294.0","165,542","12,019",.,Y,Y,N
+2022,1046,City of Aztec - (NM),Municipal,NM,WACM,"5,383.0","42,415","3,136",.,Y,N,N
+2022,4071,"Columbus Electric Coop, Inc",Cooperative,NM,PNM,"13,155.8","89,687","4,921",.,Y,N,N
+2022,5438,"Duncan Valley Elec Coop, Inc",Cooperative,NM,WALC,624.6,"4,131",340,.,Y,N,Y
+2022,6930,City of Gallup - (NM),Municipal,NM,PNM,"24,110.2","183,168","10,109",.,Y,N,Y
+2022,12901,Mora-San Miguel Elec Coop,Cooperative,NM,PNM,"12,877.4","80,909","11,266",.,Y,N,N
+2022,13777,Northern Rio Arriba E Coop Inc,Cooperative,NM,PNM,"4,834.3","26,416","3,186",.,N,N,Y
+2022,15698,Raton Public Service Company,Municipal,NM,PSCO,"6,061.0","43,077","4,034",.,Y,N,N
+2022,17492,"Socorro Electric Coop, Inc",Cooperative,NM,PNM,"24,220.0","177,502","13,085",.,Y,Y,Y
+2022,17827,Town of Springer - (NM),Municipal,NM,PNM,753.9,"4,966",646,.,N,N,N
+2022,19246,City of Truth or Consequences - (NM),Municipal,NM,PNM,"6,906.0","47,981","4,037",.,N,N,N
+2022,23326,"Sierra Electric Coop, Inc",Cooperative,NM,PNM,"7,679.0","46,195","4,389",.,Y,N,Y
+2022,191,Alamo Power District No 3,Political Subdivision,NV,NEVP,"1,903.0","14,468",744,.,Y,N,N
+2022,2821,City of Caliente - (NV),Municipal,NV,NEVP,"1,214.9","15,734",548,.,N,N,N
+2022,6172,City of Fallon - (NV),Municipal,NV,NEVP,"11,171.0","88,169","5,059",.,N,N,N
+2022,11021,Lincoln County Power Dist No 1,Political Subdivision,NV,NEVP,"5,244.3","57,243","2,041",.,Y,N,N
+2022,11589,"Harney Electric Coop, Inc",Cooperative,NV,BPAT,"7,998.0","123,428","1,372",.,Y,N,N
+2022,15308,Plumas-Sierra Rural Elec Coop,Cooperative,NV,CISO,998.5,"5,424",441,.,Y,Y,N
+2022,58123,Aha Macav Power Service,Political Subdivision,NV,WALC,"2,287.5","20,829",297,.,N,N,N
+2022,122,Village of Arcade - (NY),Municipal,NY,NYIS,"10,088.8","160,389","4,311",.,N,N,N
+2022,183,Village of Akron - (NY),Municipal,NY,NYIS,"2,899.0","52,497","1,681",.,N,N,N
+2022,661,Village of Andover - (NY),Municipal,NY,NYIS,302.0,"6,915",601,.,N,N,N
+2022,669,Village of Angelica - (NY),Municipal,NY,NYIS,873.7,"9,386",730,.,N,N,N
+2022,1343,Bath Electric Gas & Water,Municipal,NY,NYIS,"4,690.0","79,122","4,403",.,N,N,N
+2022,1604,Village of Bergen - (NY),Municipal,NY,NYIS,"2,797.5","33,861",669,.,N,N,N
+2022,1970,Village of Boonville - (NY),Municipal,NY,NYIS,"4,703.0","78,323","3,506",.,Y,Y,N
+2022,2272,Village of Brocton - (NY),Municipal,NY,NYIS,932.0,"14,922",892,.,N,N,N
+2022,3164,Village of Castile - (NY),Municipal,NY,NYIS,676.0,"9,979",623,.,N,N,N
+2022,3525,Village of Churchville - (NY),Municipal,NY,NYIS,"1,822.1","23,553","1,119",.,N,N,N
+2022,5021,Delaware County Elec Coop Inc,Cooperative,NY,NYIS,"9,593.2","86,285","5,441",.,Y,Y,N
+2022,5875,Village of Endicott - (NY),Municipal,NY,NYIS,"3,475.0","52,162","3,171",.,N,N,N
+2022,6711,Village of Frankfort - (NY),Municipal,NY,NYIS,"1,584.0","29,147","1,677",.,N,N,Y
+2022,7600,Village of Green Island - (NY),Municipal,NY,NYIS,"3,281.0","26,613","1,664",.,N,N,N
+2022,7624,Village of Greene - (NY),Municipal,NY,NYIS,"2,266.0","42,673","1,271",.,N,N,N
+2022,7630,Village of Greenport - (NY),Municipal,NY,NYIS,"3,612.5","29,727","2,171",.,N,N,N
+2022,7713,Village of Groton - (NY),Municipal,NY,NYIS,"1,630.0","24,675","1,168",.,N,N,N
+2022,7995,Village of Hamilton - (NY),Municipal,NY,NYIS,"3,392.0","63,234","1,642",.,N,N,N
+2022,8733,Village of Holley - (NY),Municipal,NY,NYIS,"2,265.9","33,972","1,003",.,N,N,N
+2022,9200,Village of Ilion - (NY),Municipal,NY,NYIS,"4,174.0","79,867","4,074",.,N,N,N
+2022,10610,"Lake Placid Village, Inc - (NY)",Municipal,NY,NYIS,"10,070.6","168,772","5,431",.,Y,N,N
+2022,11083,Village of Little Valley - (NY),Municipal,NY,NYIS,"1,839.5","19,811","1,419",.,N,N,N
+2022,11618,Village of Marathon - (NY),Municipal,NY,NYIS,"1,367.0","21,624",940,.,N,N,N
+2022,11892,Village of Mayville - (NY),Municipal,NY,NYIS,"1,876.9","27,346","1,180",.,N,N,N
+2022,12759,Mohawk Municipal Comm,Municipal,NY,NYIS,922.9,"21,777","1,322",.,N,N,N
+2022,13726,North Shore Towers Apts Inc,Cooperative,NY,NA,"2,127.8","6,881","1,860",.,N,N,N
+2022,14125,"Oneida-Madison Elec Coop, Inc",Cooperative,NY,NYIS,"3,041.0","24,234","2,073",.,Y,N,N
+2022,14267,"Otsego Electric Coop, Inc",Cooperative,NY,NYIS,"7,340.6","52,800","4,889",.,N,Y,Y
+2022,14700,Village of Penn Yan - (NY),Municipal,NY,NYIS,"3,234.1","89,166","3,129",.,N,N,N
+2022,14945,Village of Philadelphia - (NY),Municipal,NY,NYIS,649.0,"10,350",705,.,N,N,N
+2022,15991,Village of Richmondville - (NY),Municipal,NY,NYIS,"1,646.0","17,047","1,133",.,N,N,N
+2022,16217,Village of Rockville Centre - (NY),Municipal,NY,NYIS,"21,552.4","192,628","10,805",.,N,Y,N
+2022,16325,Village of Rouses Point - (NY),Municipal,NY,NYIS,"2,400.0","60,609","1,352",.,N,N,N
+2022,16549,City of Salamanca - (NY),Municipal,NY,NYIS,"6,347.0","108,153","3,643",.,N,N,N
+2022,17079,Village of Sherburne - (NY),Municipal,NY,NYIS,"4,153.0","84,294","2,420",.,N,N,N
+2022,17085,City of Sherrill - (NY),Municipal,NY,NYIS,"3,180.0","51,386","1,911",.,N,N,N
+2022,17186,Village of Silver Springs - (NY),Municipal,NY,NYIS,556.2,"7,200",524,.,N,N,N
+2022,17280,Village of Skaneateles - (NY),Municipal,NY,NYIS,"1,908.2","28,228","1,647",.,N,N,N
+2022,17789,Village of Spencerport - (NY),Municipal,NY,NYIS,"2,968.2","66,408","2,934",.,N,N,N
+2022,17846,Village of Springville - (NY),Municipal,NY,NYIS,"3,736.0","59,433","2,708",.,N,N,N
+2022,18102,"Steuben Rural Elec Coop, Inc",Cooperative,NY,NYIS,"11,528.0","85,426","6,430",.,Y,Y,Y
+2022,18813,Village of Theresa - (NY),Municipal,NY,NYIS,584.8,"7,214",469,.,N,Y,N
+2022,19274,Village of Tupper Lake - (NY),Municipal,NY,NYIS,"4,418.0","79,285","3,436",.,N,N,N
+2022,20193,Village of Watkins Glen - (NY),Municipal,NY,NYIS,"3,100.0","61,186","1,495",.,Y,N,N
+2022,20337,Village of Wellsville - (NY),Municipal,NY,NYIS,"2,518.9","44,830","2,593",.,N,N,N
+2022,20480,Village of Westfield - (NY),Municipal,NY,NYIS,"4,326.0","71,185","3,474",.,Y,N,N
+2022,118,"Adams Rural Electric Coop, Inc",Cooperative,OH,PJM,"17,146.0","118,236","7,673",.,Y,N,N
+2022,282,Village of Arcadia - (OH),Municipal,OH,PJM,679.6,"4,828",306,.,N,N,N
+2022,560,City of Amherst- (OH),Municipal,OH,PJM,"12,899.0","106,864","6,410",.,N,N,N
+2022,768,City of Arcanum - (OH),Municipal,OH,PJM,"2,464.0","20,618","1,665",.,N,N,N
+2022,1386,Village of Beach City - (OH),Municipal,OH,PJM,"1,390.0","8,518",840,.,N,N,N
+2022,1650,Village of Bethel - (OH),Municipal,OH,PJM,"2,575.0","24,149","1,635",.,N,N,N
+2022,1677,Village of Bloomdale - (OH),Municipal,OH,PJM,453.0,"2,973",312,.,N,N,N
+2022,1832,Village of Blanchester - (OH),Municipal,OH,PJM,"6,642.1","56,234","2,212",.,N,N,N
+2022,2128,Village of Bradner - (OH),Municipal,OH,PJM,820.0,"5,681",537,.,N,N,N
+2022,2205,Village of Brewster - (OH),Municipal,OH,PJM,"4,640.1","42,022",964,.,Y,N,N
+2022,2439,City of Bryan - (OH),Municipal,OH,PJM,"19,402.3","170,587","5,823",.,N,N,Y
+2022,3008,Village of Carey - (OH),Municipal,OH,PJM,"7,905.8","95,430","1,947",.,Y,N,N
+2022,3076,"Carroll Electric Coop, Inc - (OH)",Cooperative,OH,PJM,"24,392.0","157,670","11,996",.,Y,Y,N
+2022,4061,City of Columbiana - (OH),Municipal,OH,PJM,"8,780.0","75,293","3,907",.,N,N,N
+2022,4685,Village of Cygnet - (OH),Municipal,OH,PJM,380.0,"3,083",272,.,N,N,N
+2022,4725,City of Custar,Municipal,OH,PJM,301.0,"2,515",118,.,N,N,N
+2022,4796,"Darke Rural Electric Coop, Inc",Cooperative,OH,PJM,"17,326.0","128,661","5,185",.,Y,Y,N
+2022,5096,Village of Deshler - (OH),Municipal,OH,PJM,"2,449.7","15,386",978,.,N,N,N
+2022,5653,Village of Edgerton - (OH),Municipal,OH,PJM,"2,887.0","25,003","1,110",.,N,N,N
+2022,5752,Village of Eldorado - (OH),Municipal,OH,PJM,499.0,"4,079",277,.,N,N,N
+2022,5833,Village of Elmore - (OH),Municipal,OH,PJM,"1,826.8","14,964",962,.,N,N,N
+2022,6335,"Firelands Electric Coop, Inc",Cooperative,OH,PJM,"21,646.0","148,156","9,208",.,Y,Y,N
+2022,6804,Frontier Power Company,Cooperative,OH,PJM,"17,313.0","112,566","9,124",.,Y,Y,N
+2022,6914,City of Galion,Municipal,OH,PJM,"12,431.0","104,762","6,057",.,Y,N,N
+2022,7100,Village of Genoa - (OH),Municipal,OH,PJM,"1,839.0","12,336","1,113",.,N,N,N
+2022,7131,Village of Georgetown - (OH),Municipal,OH,PJM,"4,349.0","42,546","2,145",.,N,Y,N
+2022,7311,Village of Glouster - (OH),Municipal,OH,PJM,"1,408.9","10,008",961,.,N,N,N
+2022,7445,Village of Grafton - (OH),Municipal,OH,PJM,"3,378.0","24,933","1,316",.,N,N,N
+2022,7643,Village of Greenwich - (OH),Municipal,OH,PJM,"1,600.0","10,503",735,.,Y,N,N
+2022,7973,Village of Hamersville - (OH),Municipal,OH,PJM,541.0,"5,509",268,.,N,N,N
+2022,8240,Village of Haskins - (OH),Municipal,OH,PJM,881.0,"6,136",554,.,N,N,N
+2022,8949,City of Hubbard,Municipal,OH,PJM,"6,449.0","47,658","4,371",.,N,N,N
+2022,8972,City of Hudson - (OH),Municipal,OH,PJM,"22,631.7","170,769","7,017",.,Y,N,N
+2022,9572,Village of Jackson Center - (OH),Municipal,OH,PJM,"1,816.0","26,072",769,.,N,N,N
+2022,9598,City of Jackson - (OH),Municipal,OH,PJM,"21,907.5","176,899","4,186",.,N,N,N
+2022,10616,Village of Lakeview - (OH),Municipal,OH,PJM,"1,560.0","10,295",910,.,N,N,N
+2022,11126,Village of Lodi - (OH),Municipal,OH,PJM,"4,056.5","83,631","1,865",.,N,N,N
+2022,11203,Logan County Coop Power & Light,Cooperative,OH,PJM,"20,842.5","171,676","4,708",.,Y,N,N
+2022,11296,Village of Lucas - (OH),Municipal,OH,PJM,496.0,"4,125",354,.,N,N,N
+2022,11739,Village of Marshallville - (OH),Municipal,OH,PJM,841.0,"6,326",507,.,N,N,N
+2022,12302,City of Mendon - (OH),Municipal,OH,PJM,619.0,"4,425",333,.,N,N,N
+2022,12533,Village of Milan - (OH),Municipal,OH,PJM,"1,628.0","11,260",740,.,N,N,N
+2022,12660,Village of Minster - (OH),Municipal,OH,PJM,"14,396.0","135,741","1,544",.,N,Y,N
+2022,12811,Village of Monroeville - (OH),Municipal,OH,PJM,"4,252.0","46,231",843,.,N,N,N
+2022,12861,Village of Montpelier - (OH),Municipal,OH,PJM,"6,649.0","62,079","2,311",.,N,N,N
+2022,13209,City of Napoleon - (OH),Municipal,OH,PJM,"17,180.9","144,212","6,066",.,Y,N,N
+2022,13420,Village of New Bremen - (OH),Municipal,OH,PJM,"7,938.0","73,417","1,608",.,N,N,N
+2022,13464,Village of New Knoxville - (OH),Municipal,OH,PJM,"1,567.0","10,175",480,.,N,N,N
+2022,13563,City of Newton Falls - (OH),Municipal,OH,PJM,"6,037.0","43,325","2,572",.,N,N,N
+2022,13704,"North Western Elec Coop, Inc",Cooperative,OH,PJM,"17,079.0","129,220","6,033",.,Y,N,N
+2022,13932,Village of Oak Harbor - (OH),Municipal,OH,PJM,"3,044.0","20,663","1,544",.,N,N,N
+2022,13949,City of Oberlin - (OH),Municipal,OH,PJM,"12,669.5","96,401","3,098",.,Y,N,N
+2022,13950,Village of Obetz - (OH),Municipal,OH,PJM,"7,286.0","71,430",105,.,N,N,N
+2022,13997,Village of Ohio City - (OH),Municipal,OH,PJM,659.5,"5,276",411,.,N,N,N
+2022,14650,Village of Pemberville - (OH),Municipal,OH,PJM,"1,332.1","10,656",711,.,N,N,N
+2022,15072,Village of Pioneer - (OH),Municipal,OH,PJM,"3,741.0","32,998",840,.,N,N,N
+2022,15203,Village of Plymouth - (OH),Municipal,OH,PJM,"1,673.0","10,702",839,.,N,N,N
+2022,15432,Prospect Corporation,Municipal,OH,PJM,"1,094.0","9,292",735,.,N,N,N
+2022,15865,Village of Republic - (OH),Municipal,OH,PJM,555.0,"3,384",308,.,N,N,Y
+2022,16062,Village of Ripley - (OH),Municipal,OH,PJM,"1,671.0","13,957","1,046",.,N,N,N
+2022,16951,Seville Board of Public Affairs,Municipal,OH,PJM,"5,988.0","69,510","2,028",.,Y,N,N
+2022,17043,City of Shelby - (OH),Municipal,OH,PJM,"10,586.0","90,667","5,045",.,N,N,N
+2022,17098,Village of Shiloh - (OH),Municipal,OH,PJM,705.0,"4,415",275,.,N,N,N
+2022,17588,South Vienna Corporation,Municipal,OH,PJM,561.0,"5,277",245,.,N,N,N
+2022,17865,City of St Clairsville - (OH),Municipal,OH,PJM,"7,399.0","45,208","3,030",.,N,N,N
+2022,18393,Village of Sycamore - (OH),Municipal,OH,PJM,"1,638.0","18,985",513,.,N,N,N
+2022,18941,City of Tipp City - (OH),Municipal,OH,PJM,"19,273.0","172,941","5,201",.,N,N,N
+2022,18944,Village of Tontogany - (OH),Municipal,OH,PJM,510.1,"3,260",241,.,Y,N,N
+2022,19176,"Tricounty Rural Elec Coop, Inc",Cooperative,OH,PJM,"10,444.0","74,420","4,447",.,Y,N,N
+2022,19805,Village of Versailles - (OH),Municipal,OH,PJM,"7,912.0","75,794","1,940",.,N,N,N
+2022,20150,Washington Electric Coop - (OH),Cooperative,OH,PJM,"21,109.8","107,751","10,527",.,Y,N,N
+2022,20223,Village of Waynesfield - (OH),Municipal,OH,PJM,977.0,"7,834",476,.,N,N,N
+2022,20313,Village of Wellington - (OH),Municipal,OH,PJM,"5,894.0","69,152","2,660",.,N,Y,N
+2022,20471,Village of Wharton - (OH),Municipal,OH,PJM,216.2,"1,812",174,.,N,N,N
+2022,20977,City of Woodsfield - (OH),Municipal,OH,PJM,"2,581.6","21,698","1,566",.,N,N,N
+2022,20979,Village of Woodville - (OH),Municipal,OH,PJM,"1,654.0","11,870","1,013",.,N,N,N
+2022,21101,Village of Yellow Springs - (OH),Municipal,OH,PJM,"4,478.0","30,791","2,205",.,N,N,N
+2022,36189,"Mid-Ohio Energy Coop, Inc",Cooperative,OH,PJM,"24,611.6","171,871","8,169",.,Y,N,N
+2022,416,City of Altus - (OK),Municipal,OK,SWPP,"28,871.0","216,901","9,130",.,N,N,N
+2022,588,Anadarko Public Works Authority,Municipal,OK,SWPP,"5,457.8","44,293","2,204",.,N,N,N
+2022,1800,City of Blackwell - (OK),Municipal,OK,SWPP,"7,073.8","69,184","3,231",.,Y,N,N
+2022,2268,Town of Braman - (OK),Municipal,OK,SWPP,229.4,"1,450",154,.,N,N,N
+2022,2553,City of Burlington - (OK),Municipal,OK,SWPP,231.0,"3,035",76,.,N,N,N
+2022,3986,City of Collinsville - (OK),Municipal,OK,SWPP,"8,318.0","59,320","3,562",.,N,N,N
+2022,4078,City of Comanche - (OK),Municipal,OK,SWPP,"1,977.1","12,715",822,.,N,N,N
+2022,4319,Copan Public Works Authority,Municipal,OK,SWPP,434.6,"15,074",443,.,N,N,N
+2022,4344,City of New Cordell - (OK),Municipal,OK,SWPP,"2,734.0","22,705","1,124",.,N,N,N
+2022,4667,City of Cushing - (OK),Municipal,OK,SWPP,"9,841.0","92,318","4,375",.,N,N,N
+2022,5429,City of Duncan - (OK),Municipal,OK,SWPP,"19,668.4","196,545","8,781",.,N,N,N
+2022,5741,City of Eldorado - (OK),Municipal,OK,SWPP,273.0,"1,582",229,.,N,N,N
+2022,6152,City of Fairview - (OK),Municipal,OK,SWPP,"2,367.3","25,496","1,517",.,N,N,Y
+2022,6618,Town of Fort Supply - (OK),Municipal,OK,SWPP,292.0,"2,078",208,.,N,N,N
+2022,6750,City of Frederick - (OK),Municipal,OK,SWPP,"5,348.4","46,098","1,955",.,Y,Y,N
+2022,7048,City of Geary - (OK),Municipal,OK,SWPP,"1,025.3","8,061",532,.,N,N,N
+2022,7441,Goltry Public Works Authority,Municipal,OK,SWPP,229.0,"1,710",164,.,N,N,N
+2022,7501,City of Granite - (OK),Municipal,OK,SWPP,920.0,"6,485",550,.,Y,N,N
+2022,8183,Harmon Electric Assn Inc,Cooperative,OK,SWPP,"8,720.0","75,595","3,146",.,N,N,N
+2022,8799,City of Hominy - (OK),Municipal,OK,SWPP,"1,925.0","19,262","1,345",.,N,N,N
+2022,10320,City of Kingfisher - (OK),Municipal,OK,AECI,"6,904.2","53,909","2,301",.,N,N,N
+2022,10777,Town of Laverne - (OK),Municipal,OK,SWPP,"1,279.4","10,810",725,.,N,N,N
+2022,10970,City of Lexington - (OK),Municipal,OK,SWPP,"1,527.6","12,390",854,.,N,N,N
+2022,11058,City of Lindsay - (OK),Municipal,OK,SPA,"4,600.0","33,571","1,582",.,N,N,N
+2022,11541,City of Manitou - (OK),Municipal,OK,SWPP,138.0,"1,808",80,.,N,N,N
+2022,11566,City of Mangum - (OK),Municipal,OK,SWPP,"2,848.1","24,910","1,449",.,N,N,N
+2022,11578,Town of Mannford - (OK),Municipal,OK,SWPP,"4,112.0","37,725","1,150",.,N,N,N
+2022,11691,City of Marlow - (OK),Municipal,OK,SWPP,"3,294.7","36,875","2,303",.,N,N,N
+2022,12408,City of Miami - (OK),Municipal,OK,SWPP,"17,365.0","175,758","6,524",.,N,N,N
+2022,12892,City of Mooreland - (OK),Municipal,OK,SWPP,"1,104.0","8,198",786,.,N,N,N
+2022,13530,City of Newkirk - (OK),Municipal,OK,SWPP,"2,275.4","21,192","1,588",.,N,N,N
+2022,13838,"Northfork Electric Coop, Inc",Cooperative,OK,SWPP,"24,433.9","177,909","6,556",.,Y,Y,N
+2022,13966,City of Olustee,Municipal,OK,SWPP,466.0,"3,483",350,.,N,N,N
+2022,14057,Okeene Public Works Authority,Municipal,OK,SWPP,"2,172.0","20,659",623,.,N,N,N
+2022,14176,City of Orlando - (OK),Municipal,OK,SWPP,139.0,"1,268",112,.,N,N,N
+2022,14582,City of Pawhuska - (OK),Municipal,OK,SWPP,"3,541.0","41,817","2,126",.,N,N,N
+2022,14583,City of Pawnee - (OK),Municipal,OK,SWPP,"2,892.0","21,100","1,373",.,N,N,N
+2022,14829,City of Perry - (OK),Municipal,OK,SWPP,"7,921.5","69,934","2,982",.,Y,N,N
+2022,15311,Prague Public Works Authority,Municipal,OK,SWPP,"2,530.2","20,824","1,282",.,N,N,N
+2022,15462,City of Pryor - (OK),Municipal,OK,SWPP,"10,993.3","100,959","4,857",.,N,N,N
+2022,15515,City of Purcell - (OK),Municipal,OK,SPA,"7,417.0","65,288","3,006",.,Y,N,N
+2022,15811,"Rich Mountain Elec Coop, Inc",Cooperative,OK,MISO,698.0,"6,658",526,.,Y,N,N
+2022,15923,City of Pond Creek - (OK),Municipal,OK,SWPP,"1,276.0","7,865",589,.,N,N,N
+2022,16487,Town of Ryan - (OK),Municipal,OK,SWPP,692.0,"5,463",397,.,N,N,N
+2022,16561,City of Sallisaw - (OK),Municipal,OK,SWPP,"11,283.0","107,807","4,319",.,N,N,N
+2022,17286,City of Skiatook - (OK),Municipal,OK,SWPP,"7,894.8","77,276","4,096",.,N,N,N
+2022,17553,Town of South Coffeyville - (OK),Municipal,OK,SWPP,796.0,"7,850",501,.,N,N,N
+2022,17681,Southwest Rural Elec Assn Inc,Cooperative,OK,SWPP,"12,537.9","88,248","4,346",.,Y,N,N
+2022,17802,Town of Spiro - (OK),Municipal,OK,SWPP,"2,026.0","19,135","1,089",.,N,N,N
+2022,18126,City of Stilwell - (OK),Municipal,OK,SWPP,"8,585.0","96,505","2,048",.,N,N,N
+2022,18224,City of Stroud - (OK),Municipal,OK,SWPP,"4,916.2","41,475","1,504",.,N,N,N
+2022,18433,Tahlequah Public Works Authority,Municipal,OK,SWPP,"21,732.5","197,206","11,217",.,N,N,N
+2022,18524,Tecumseh Utility Authority,Municipal,OK,SWPP,"4,415.0","34,476","2,282",.,N,N,N
+2022,19025,City of Tonkawa - (OK),Municipal,OK,SWPP,"4,390.0","39,829","1,512",.,N,N,N
+2022,19719,City of Yale - (OK),Municipal,OK,SWPP,"1,258.4","8,820",671,.,N,N,N
+2022,20061,Walters Public Works Authority,Municipal,OK,SWPP,"1,880.0","18,105","1,197",.,N,N,N
+2022,20163,Wagoner Public Works Authority,Municipal,OK,SWPP,"9,302.0","76,838","3,869",.,N,N,N
+2022,20196,City of Watonga - (OK),Municipal,OK,SWPP,"5,665.4","36,032","1,848",.,N,N,N
+2022,20227,City of Waynoka - (OK),Municipal,OK,SWPP,"1,161.3","9,982",729,.,N,N,N
+2022,20502,City of Wetumka - (OK),Municipal,OK,SWPP,"1,118.3","10,598",620,.,N,N,N
+2022,21066,City of Wynnewood - (OK),Municipal,OK,SWPP,"2,554.0","17,761","1,045",.,Y,N,N
+2022,907,City of Ashland - (OR),Municipal,OR,PACW,"17,281.0","165,478","12,224",.,Y,N,N
+2022,1176,City of Bandon - (OR),Municipal,OR,BPAT,"6,156.1","71,021","4,811",.,N,Y,N
+2022,1736,Blachly-Lane County Coop El Assn,Cooperative,OR,BPAT,"16,385.7","184,845","3,680",.,Y,N,N
+2022,2955,Canby Utility Board,Municipal,OR,PGE,"13,609.1","188,441","7,566",.,Y,N,N
+2022,3136,City of Cascade Locks - (OR),Municipal,OR,BPAT,"2,769.4","36,741",993,.,Y,Y,N
+2022,3739,Clearwater Power Company,Cooperative,OR,BPAT,249.8,"1,908",181,.,Y,N,N
+2022,4005,"Columbia Basin Elec Cooperative, Inc",Cooperative,OR,BPAT,"10,813.1","125,970","3,978",.,Y,N,N
+2022,4008,Columbia Power Coop Assn Inc,Cooperative,OR,BPAT,"2,758.0","25,279","1,980",.,Y,N,N
+2022,5327,Douglas Electric Coop - (OR),Cooperative,OR,BPAT,"18,000.0","156,798","10,480",.,Y,Y,Y
+2022,5354,City of Drain - (OR),Municipal,OR,BPAT,"1,659.0","16,819",751,.,N,N,N
+2022,8515,City of Hermiston,Municipal,OR,BPAT,"10,072.0","108,963","5,493",.,Y,N,N
+2022,8830,Hood River Electric Coop,Cooperative,OR,BPAT,"9,507.5","129,955","3,968",.,Y,N,N
+2022,11589,"Harney Electric Coop, Inc",Cooperative,OR,BPAT,"7,699.7","111,336","2,487",.,Y,N,N
+2022,12615,City of Milton-Freewater- (OR),Municipal,OR,BPAT,"8,603.0","105,497","4,407",.,Y,Y,N
+2022,12789,City of Monmouth - (OR),Municipal,OR,BPAT,"7,041.5","77,601","4,890",.,Y,N,N
+2022,20138,"Wasco Electric Coop, Inc",Cooperative,OR,BPAT,"13,450.0","106,264","4,726",.,Y,N,N
+2022,20385,West Oregon Electric Coop Inc,Cooperative,OR,BPAT,"14,104.1","70,592","4,454",.,Y,N,N
+2022,1618,Borough of Berlin - (PA),Municipal,PA,PJM,"2,135.0","19,725","1,173",.,N,N,N
+2022,1823,Borough of Blakely - (PA),Municipal,PA,PJM,"5,746.9","33,624","3,678",.,N,N,N
+2022,3170,Borough of Catawissa,Municipal,PA,PJM,"1,520.6","8,939",856,.,Y,N,N
+2022,5442,Borough of Duncannon - (PA),Municipal,PA,PJM,"1,206.2","11,501","1,002",.,N,N,N
+2022,5586,Borough of East Conemaugh,Municipal,PA,PJM,643.0,"4,939",630,.,N,N,N
+2022,5828,Borough of Ellwood City - (PA),Municipal,PA,PJM,"6,223.0","45,046","4,055",.,Y,N,N
+2022,5935,Borough of Ephrata - (PA),Municipal,PA,PJM,"17,991.0","134,810","6,679",.,Y,N,N
+2022,7256,Borough of Girard - (PA),Municipal,PA,PJM,"3,371.0","29,334","1,628",.,N,N,N
+2022,7359,Borough of Goldsboro - (PA),Municipal,PA,PJM,682.0,"6,031",386,.,N,N,N
+2022,7719,Borough of Grove City - (PA),Municipal,PA,PJM,"7,153.5","55,268","2,986",.,Y,N,N
+2022,8254,Borough of Hatfield- (PA),Municipal,PA,PJM,"3,744.0","22,462","1,764",.,N,N,N
+2022,8826,Hooversville Boro Elec Lgt Co,Municipal,PA,PJM,508.1,"3,316",366,.,N,N,N
+2022,10494,Borough of Kutztown - (PA),Municipal,PA,PJM,"6,676.0","40,673","2,499",.,Y,N,N
+2022,10702,Borough of Lansdale,Municipal,PA,PJM,"20,307.0","166,984","8,879",.,Y,N,Y
+2022,10882,Borough of Lehighton - (PA),Municipal,PA,PJM,"7,279.5","45,745","3,281",.,N,N,N
+2022,10959,Borough of Lewisberry - (PA),Municipal,PA,PJM,311.0,"2,329",194,.,N,N,N
+2022,12474,Borough of Middletown - (PA),Municipal,PA,PJM,"8,715.1","69,634","4,265",.,Y,N,N
+2022,12523,Borough of Mifflinburg - (PA),Municipal,PA,PJM,"5,662.0","43,029","1,883",.,N,N,N
+2022,12817,Mont Alto Borough,Municipal,PA,PJM,"1,047.9","10,245",723,.,N,N,N
+2022,13205,"New Enterprise R E C, Inc",Cooperative,PA,PJM,"8,256.0","75,283","3,754",.,Y,Y,N
+2022,13489,Borough of New Wilmington - (PA),Municipal,PA,PJM,"2,679.0","18,799",744,.,N,N,N
+2022,14124,Borough of Olyphant - (PA),Municipal,PA,PJM,"4,428.2","21,782","2,581",.,Y,N,N
+2022,14792,Borough of Perkasie - (PA),Municipal,PA,PJM,"8,511.0","53,872","4,236",.,Y,N,N
+2022,15104,Borough of Pitcairn - (PA),Municipal,PA,PJM,"2,032.0","12,820","1,782",.,N,N,N
+2022,15541,Borough of Quakertown - (PA),Municipal,PA,PJM,"12,903.0","87,304","4,571",.,Y,N,N
+2022,16375,Borough of Royalton - (PA),Municipal,PA,PJM,613.1,"4,835",546,.,N,N,N
+2022,16780,Borough of Schuylkill Haven - (PA),Municipal,PA,PJM,"5,929.8","44,738","3,028",.,N,N,N
+2022,16853,Borough of St Clair - (PA),Municipal,PA,PJM,"3,852.7","20,185","1,836",.,N,N,N
+2022,17337,Borough of Smethport - (PA),Municipal,PA,PJM,"1,496.0","11,580","1,013",.,N,N,N
+2022,18284,Borough of Summerhill - (PA),Municipal,PA,PJM,409.0,"2,986",296,.,N,N,N
+2022,18456,Borough of Tarentum - (PA),Municipal,PA,PJM,"3,977.6","29,848","2,318",.,N,N,N
+2022,20070,Borough of Wampum,Municipal,PA,PJM,517.0,"3,705",373,.,N,N,N
+2022,20206,Borough of Watsontown - (PA),Municipal,PA,PJM,"2,086.6","11,251","1,198",.,N,N,N
+2022,20232,Borough of Weatherly - (PA),Municipal,PA,PJM,"2,947.0","22,905","1,189",.,N,N,N
+2022,21160,Borough of Zelienople - (PA),Municipal,PA,PJM,"5,166.0","28,504","2,307",.,Y,N,N
+2022,40219,"United Electric Coop, Inc - (PA)",Cooperative,PA,PJM,"29,274.0","170,000","19,110",.,Y,Y,N
+2022,40223,Warren Electric Coop Inc,Cooperative,PA,PJM,"9,770.0","55,569","8,709",.,Y,N,N
+2022,40291,"Sullivan County R E C, Inc - (PA)",Cooperative,PA,PJM,"9,866.0","55,429","6,078",.,Y,Y,Y
+2022,34,City of Abbeville - (SC),Municipal,SC,DUK,"8,224.5","58,822","3,487",.,N,N,N
+2022,1170,Bamberg Board of Public Works,Municipal,SC,SC,"4,497.5","37,934","1,883",.,N,N,N
+2022,1566,City of Bennettsville - (SC),Municipal,SC,SC,"8,794.0","77,145","4,426",.,N,N,N
+2022,2890,City of Camden,Municipal,SC,CPLE,"22,912.9","170,215","11,524",.,Y,N,N
+2022,3804,Clinton Combined Utility Sys,Municipal,SC,DUK,"14,650.0","100,994","4,163",.,Y,Y,N
+2022,3844,"Coastal Electric Coop, Inc",Cooperative,SC,SC,"28,137.3","176,602","11,967",.,Y,Y,N
+2022,5402,City of Due West - (SC),Municipal,SC,DUK,"1,321.4","13,920",493,.,N,N,N
+2022,7128,City of Georgetown - (SC),Municipal,SC,SC,"10,796.6","124,761","5,386",.,Y,N,N
+2022,11019,Little River Electric Coop Inc,Cooperative,SC,DUK,"30,421.6","194,193","14,991",.,Y,N,N
+2022,12006,Town of McCormick - (SC),Municipal,SC,SCEG,"3,091.7","16,647","1,093",.,N,N,N
+2022,15433,Town of Prosperity - (SC),Municipal,SC,DUK,"1,505.0","11,707",690,.,N,N,N
+2022,16921,City of Seneca - (SC),Municipal,SC,DUK,"16,960.5","131,595","7,860",.,N,N,N
+2022,19431,City of Union - (SC),Municipal,SC,DUK,"17,328.0","125,488","7,000",.,Y,N,N
+2022,20490,City of Westminster - (SC),Municipal,SC,DUK,"3,887.0","24,094","1,515",.,Y,Y,N
+2022,20826,Town of Winnsboro - (SC),Municipal,SC,SCEG,"7,445.0","61,084","3,210",.,N,N,N
+2022,21526,City of Laurens - (SC),Municipal,SC,DUK,"12,907.0","108,719","5,487",.,Y,Y,Y
+2022,831,City of Arlington - (SD),Municipal,SD,SWPP,"1,253.4","10,790",589,.,N,Y,N
+2022,1004,City of Aurora - (SD),Municipal,SD,SWPP,616.5,"6,591",518,.,N,N,N
+2022,1080,City of Badger - (SD),Municipal,SD,MISO,190.5,"1,637",83,.,N,Y,N
+2022,1601,City of Beresford,Municipal,SD,SWPP,"4,194.0","48,512","1,243",.,N,N,N
+2022,1698,City of Big Stone City - (SD),Municipal,SD,MISO,"1,475.0","11,943",405,.,N,N,N
+2022,1898,"Bon Homme Yankton El Assn, Inc",Cooperative,SD,SWPP,"11,324.4","101,804","4,020",.,N,N,N
+2022,2448,City of Bryant - (SD),Municipal,SD,SWPP,545.4,"3,354",261,.,N,N,N
+2022,2534,City of Burke - (SD),Municipal,SD,SWPP,668.0,"7,281",470,.,N,N,N
+2022,2655,"Butte Electric Coop, Inc",Cooperative,SD,WACM,"15,909.9","117,947","6,765",.,N,Y,Y
+2022,2986,"Cam Wal Electric Coop, Inc",Cooperative,SD,SWPP,"7,390.0","61,502","2,545",.,N,N,N
+2022,3315,"Charles Mix Electric Assn, Inc",Cooperative,SD,SWPP,"8,707.0","69,482","2,627",.,N,N,N
+2022,3435,"Cherry-Todd Electric Coop, Inc",Cooperative,SD,SWPP,"11,201.7","115,014","5,004",.,N,N,N
+2022,3633,City of McLaughlin - (SD),Municipal,SD,SWPP,652.0,"6,431",350,.,Y,N,N
+2022,3716,Clay-Union Electric Corp,Cooperative,SD,SWPP,"8,952.0","84,736","3,850",.,N,N,N
+2022,3735,City of Colman - (SD),Municipal,SD,SWPP,"1,161.7","10,032",366,.,N,Y,N
+2022,3850,"Codington-Clark Elec Coop, Inc",Cooperative,SD,SWPP,"13,865.0","145,786","3,407",.,N,N,N
+2022,5328,"Douglas Electric Coop, Inc",Cooperative,SD,SWPP,"3,100.5","25,439",825,.,N,N,N
+2022,5771,City of Elk Point,Municipal,SD,SWPP,"2,023.0","18,508","1,029",.,N,N,N
+2022,5995,City of Estelline - (SD),Municipal,SD,SWPP,644.4,"6,877",411,.,N,Y,N
+2022,6157,City of Faith - (SD),Municipal,SD,SWPP,583.0,"5,175",264,.,N,N,N
+2022,6272,"FEM Electric Assn, Inc",Cooperative,SD,SWPP,"15,911.0","166,187","2,124",.,N,N,N
+2022,6390,City of Flandreau,Municipal,SD,MISO,"3,719.1","35,643","1,447",.,N,N,N
+2022,6615,City of Fort Pierre - (SD),Municipal,SD,SWPP,"2,601.0","26,353","1,398",.,N,N,N
+2022,7484,"Grand Electric Coop, Inc",Cooperative,SD,SWPP,"12,467.7","83,036","5,101",.,N,N,N
+2022,7712,City of Groton - (SD),Municipal,SD,SWPP,"1,612.8","17,512",752,.,N,Y,N
+2022,7870,H-D Electric Coop Inc,Cooperative,SD,SWPP,"12,734.0","122,092","3,743",.,N,N,N
+2022,8379,City of Hecla,Municipal,SD,SWPP,405.8,"3,293",291,.,N,Y,N
+2022,8919,City of Howard - (SD),Municipal,SD,MISO,"1,643.0","17,628",623,.,N,Y,N
+2022,10329,"Kingsbury Electric Coop, Inc",Cooperative,SD,SWPP,"3,434.7","25,327",886,.,N,N,N
+2022,10558,"LaCreek Electric Assn, Inc",Cooperative,SD,WACM,"14,289.8","130,767","6,660",.,Y,Y,N
+2022,10632,"Lake Region Electric Assn, Inc - (SD)",Cooperative,SD,WACM,"18,587.0","202,130","3,470",.,N,N,N
+2022,12580,City of Miller - (SD),Municipal,SD,SWPP,"2,074.0","21,088",937,.,N,N,N
+2022,12915,Moreau-Grand Electric Coop Inc,Cooperative,SD,SWPP,"12,644.5","105,339","7,115",.,N,Y,N
+2022,13685,"Niobrara Electric Assn, Inc",Cooperative,SD,WACM,22.1,135,16,.,Y,Y,Y
+2022,13853,Oahe Electric Coop Inc,Cooperative,SD,SWPP,"13,441.9","147,824","3,309",.,N,N,N
+2022,14138,City of Onida - (SD),Municipal,SD,SWPP,872.0,"8,014",447,.,N,N,N
+2022,14489,City of Parker - (SD),Municipal,SD,SWPP,"1,285.3","11,127",623,.,N,Y,N
+2022,15134,City of Plankinton - (SD),Municipal,SD,SWPP,900.8,"10,356",475,.,N,N,N
+2022,17265,City of Sioux Falls - (SD),Municipal,SD,MISO,"9,502.0","94,191","2,931",.,N,N,N
+2022,17593,"Southeast Electric Coop, Inc",Cooperative,SD,SWPP,26.0,194,23,.,N,N,N
+2022,19060,"Traverse Electric Coop, Inc",Cooperative,SD,SWPP,"4,059.0","42,773","1,068",.,Y,Y,N
+2022,19333,City of Tyndall - (SD),Municipal,SD,SWPP,"1,537.5","14,139",629,.,N,N,N
+2022,19493,Union County Electric Coop Inc,Cooperative,SD,SWPP,"4,355.0","35,588","1,663",.,Y,Y,N
+2022,19788,City of Vermillion - (SD),Municipal,SD,SWPP,"8,238.9","72,168","4,965",.,Y,Y,N
+2022,20359,City of Wessington Springs,Municipal,SD,SWPP,"1,310.9","10,786",615,.,N,N,N
+2022,20368,West Central Electric Coop Inc - (SD),Cooperative,SD,SWPP,"17,332.0","136,600","6,783",.,N,N,N
+2022,20422,Whetstone Valley Elec Coop Inc,Cooperative,SD,SWPP,"10,576.0","98,199","3,594",.,N,N,Y
+2022,20823,Winner Municipal Utility,Municipal,SD,SWPP,"3,963.7","39,019","1,991",.,N,N,N
+2022,26120,Town of Langford- (SD),Municipal,SD,SWPP,402.1,"2,851",193,.,N,Y,N
+2022,40435,City of White - (SD),Municipal,SD,SWPP,500.3,"3,838",310,.,N,N,N
+2022,40604,Heartland Consumers Power Dist,Political Subdivision,SD,SWPP,925.5,"10,516",3,.,Y,N,N
+2022,58139,Town of Pickstown - (SD),Municipal,SD,SWPP,298.2,"2,887",168,.,N,N,N
+2022,1287,City of Bartlett - (TX),Municipal,TX,ERCO,"1,488.0","15,002",636,.,N,N,N
+2022,1324,City of Bastrop - (TX),Municipal,TX,ERCO,"8,074.0","78,976","2,929",.,N,N,N
+2022,1519,City of Bellville - (TX),Municipal,TX,ERCO,"5,929.5","60,026","2,595",.,Y,N,N
+2022,1913,City of Boerne,Municipal,TX,ERCO,"17,611.0","156,644","6,381",.,N,N,N
+2022,2050,City of Bowie - (TX),Municipal,TX,ERCO,"7,978.0","69,438","3,103",.,N,N,N
+2022,2135,City of Brady - (TX),Municipal,TX,ERCO,"8,033.0","58,754","3,042",.,Y,N,N
+2022,2210,City of Bridgeport - (TX),Municipal,TX,ERCO,"6,152.9","55,340","2,318",.,N,N,N
+2022,2404,City of Brownfield - (TX),Municipal,TX,SWPP,"8,545.8","65,922","4,161",.,Y,N,N
+2022,2559,City of Burnet - (TX),Municipal,TX,ERCO,"10,072.5","90,933","3,261",.,N,N,N
+2022,2800,City of Caldwell,Municipal,TX,MISO,"6,674.0","62,151","2,206",.,N,N,N
+2022,3168,City of Castroville - (TX),Municipal,TX,ERCO,"3,673.1","30,368","1,581",.,Y,N,N
+2022,3923,City of Coleman - (TX),Municipal,TX,ERCO,"4,654.0","39,071","2,423",.,N,N,N
+2022,3938,"Coleman County Elec Coop, Inc",Cooperative,TX,ERCO,"18,439.9","155,569","8,958",.,N,N,N
+2022,4610,City of Cuero - (TX),Municipal,TX,ERCO,"10,475.0","94,600","3,769",.,N,N,N
+2022,5744,City of Electra - (TX),Municipal,TX,SWPP,"3,165.0","20,510","1,230",.,N,N,N
+2022,6173,Fannin County Electric Coop,Cooperative,TX,ERCO,"30,951.0","190,178","11,606",.,Y,N,N
+2022,6203,City of Farmersville - (TX),Municipal,TX,ERCO,"4,571.8","30,360","1,618",.,N,N,N
+2022,6396,City of Flatonia - (TX),Municipal,TX,ERCO,"4,199.7","28,766","1,127",.,Y,N,N
+2022,6472,City of Floydada - (TX),Municipal,TX,SWPP,"2,149.2","16,938","1,255",.,N,N,N
+2022,6611,Fort Belknap Electric Coop Inc,Cooperative,TX,ERCO,"16,980.0","119,690","6,171",.,N,N,N
+2022,6758,City of Fredericksburg - (TX),Municipal,TX,ERCO,"13,096.0","141,892","5,854",.,Y,N,N
+2022,7184,City of Giddings - (TX),Municipal,TX,ERCO,"5,806.0","55,224","2,790",.,N,N,N
+2022,7368,City of Goldthwaite - (TX),Municipal,TX,ERCO,"3,039.0","20,536","1,326",.,N,N,N
+2022,7370,City of Gonzales - (TX),Municipal,TX,ERCO,"9,870.2","94,302","2,996",.,N,N,N
+2022,7419,City of Goldsmith - (TX),Municipal,TX,ERCO,574.0,"5,379",229,.,N,N,N
+2022,7480,City of Granbury - (TX),Municipal,TX,ERCO,"11,763.0","96,655","3,571",.,N,N,N
+2022,7958,City of Hallettsville - (TX),Municipal,TX,ERCO,"4,313.4","38,127","1,655",.,Y,N,N
+2022,8183,Harmon Electric Assn Inc,Cooperative,TX,SWPP,"1,093.0","5,621",466,.,N,N,N
+2022,8359,City of Hearne - (TX),Municipal,TX,ERCO,"5,748.6","48,095","2,685",.,N,N,N
+2022,8432,City of Hemphill - (TX),Municipal,TX,MISO,"2,621.9","18,839",791,.,N,N,N
+2022,8435,City of Hempstead - (TX),Municipal,TX,ERCO,"5,671.6","49,489","2,522",.,N,N,N
+2022,8801,City of Hondo - (TX),Municipal,TX,ERCO,"9,619.6","85,812","3,060",.,N,N,N
+2022,9422,J-A-C Electric Coop Inc,Cooperative,TX,ERCO,"14,876.4","94,151","5,967",.,N,N,N
+2022,9664,City of Jasper - (TX),Municipal,TX,MISO,"10,457.0","95,417","4,487",.,N,N,N
+2022,10359,Kirbyville Light & Power Co,Municipal,TX,MISO,"2,297.8","15,361","1,083",.,N,N,N
+2022,10532,City of La Grange - (TX),Municipal,TX,ERCO,"5,993.0","65,720","3,153",.,N,N,N
+2022,10656,City of Lampasas - (TX),Municipal,TX,ERCO,"11,958.0","95,704","4,655",.,N,N,N
+2022,10969,City of Lexington - (TX),Municipal,TX,ERCO,"1,334.0","13,051",709,.,N,N,N
+2022,10982,City of Liberty - (TX),Municipal,TX,MISO,"12,644.8","110,825","3,647",.,Y,N,N
+2022,11097,City of Livingston - (TX),Municipal,TX,MISO,"10,155.0","76,655","3,474",.,N,N,N
+2022,11103,City of Llano - (TX),Municipal,TX,ERCO,"4,912.7","46,236","2,027",.,N,N,N
+2022,11119,City of Lockhart - (TX),Municipal,TX,ERCO,"11,960.3","111,941","5,721",.,Y,N,N
+2022,11316,City of Luling - (TX),Municipal,TX,ERCO,"6,955.8","57,380","2,860",.,N,N,N
+2022,11793,City of Mason - (TX),Municipal,TX,ERCO,"3,396.0","28,396","1,590",.,N,N,N
+2022,13025,City of Moulton - (TX),Municipal,TX,ERCO,"1,282.7","11,988",667,.,N,N,N
+2022,13603,City of Newton - (TX),Municipal,TX,MISO,"2,455.7","20,609","1,038",.,N,N,N
+2022,16175,City of Robstown - (TX),Municipal,TX,ERCO,"9,788.3","92,569","4,608",.,N,N,N
+2022,16605,City of San Augustine - (TX),Municipal,TX,MISO,"2,843.5","24,136","1,217",.,N,N,N
+2022,16647,City of Sanger - (TX),Municipal,TX,ERCO,"8,079.7","77,845","2,609",.,Y,N,N
+2022,16765,City of Schulenburg - (TX),Municipal,TX,ERCO,"8,013.0","64,707","1,884",.,Y,N,N
+2022,16961,City of Seymour - (TX),Municipal,TX,ERCO,"3,496.9","27,647","1,575",.,N,N,N
+2022,17101,City of Shiner - (TX),Municipal,TX,ERCO,"4,631.0","45,261","1,409",.,N,N,N
+2022,17453,City of Smithville - (TX),Municipal,TX,ERCO,"5,541.0","40,400","2,289",.,N,N,N
+2022,17681,Southwest Rural Elec Assn Inc,Cooperative,TX,SWPP,"10,213.8","77,373","3,324",.,Y,N,N
+2022,18199,"Swisher Electric Coop, Inc",Cooperative,TX,SWPP,"22,340.6","167,482","7,972",.,Y,N,N
+2022,18933,City of Timpson - (TX),Municipal,TX,ERCO,"1,838.0","14,928",725,.,N,N,N
+2022,19264,City of Tulia,Municipal,TX,SWPP,"3,975.0","31,182","2,058",.,N,N,N
+2022,19952,City of Waelder - (TX),Municipal,TX,ERCO,.,.,.,.,,,
+2022,20331,City of Weimar - (TX),Municipal,TX,ERCO,"3,960.1","34,834","1,254",.,N,N,N
+2022,20588,City of Whitesboro - (TX),Municipal,TX,ERCO,"5,205.6","35,925","2,157",.,Y,N,N
+2022,21108,City of Yoakum - (TX),Municipal,TX,ERCO,"9,141.7","94,424","2,949",.,Y,N,N
+2022,28981,City of San Saba - (TX),Municipal,TX,ERCO,"1,701.5","36,989","1,860",.,N,N,N
+2022,1434,Beaver City Corporation,Municipal,UT,PACE,"2,988.8","35,949","1,765",.,N,N,N
+2022,1839,City of Blanding - (UT),Municipal,UT,PACE,"2,982.0","26,507","1,772",.,Y,N,N
+2022,2215,"Bridger Valley Elec Assn, Inc",Cooperative,UT,WACM,"2,208.1","14,529","2,165",.,Y,N,N
+2022,2220,Brigham City Corporation,Municipal,UT,PACE,"16,265.0","179,180","8,227",.,Y,N,N
+2022,5932,City of Ephraim - (UT),Municipal,UT,PACE,"3,323.5","36,738","2,508",.,Y,N,N
+2022,6154,Fairview City Corporation,Municipal,UT,PACE,950.0,"9,280",926,.,N,N,N
+2022,6316,Fillmore City Corporation,Municipal,UT,PACE,"2,903.0","36,667","1,266",.,Y,N,N
+2022,8366,Heber Light & Power Company,Municipal,UT,PACE,"21,288.0","201,380","14,181",.,Y,Y,N
+2022,8428,City of Helper - (UT),Municipal,UT,PACE,"1,202.0","16,550","1,315",.,Y,N,N
+2022,8714,Town of Holden - (UT),Municipal,UT,PACE,233.0,"2,124",243,.,N,N,N
+2022,9128,Hurricane City Power,Municipal,UT,PACE,"13,698.0","149,308","8,433",.,Y,Y,N
+2022,9163,Hyrum City Corporation,Municipal,UT,PACE,"9,385.0","109,449","4,190",.,Y,N,N
+2022,9995,Kanosh Town Corporation,Municipal,UT,PACE,253.2,"2,516",312,.,N,N,N
+2022,10063,Kaysville City Corporation,Municipal,UT,PACE,"16,916.0","164,965","10,618",.,Y,N,N
+2022,10978,Levan Town Corporation - (UT),Municipal,UT,PACE,504.8,"5,015",369,.,Y,Y,N
+2022,11588,City of Manti - (UT),Municipal,UT,PACE,"2,199.0","20,698","1,546",.,Y,N,N
+2022,12289,Meadow Town Corporation,Municipal,UT,PACE,124.0,"1,783",173,.,N,N,N
+2022,12797,City of Monroe - (UT),Municipal,UT,PACE,"1,454.0","14,339","1,243",.,N,N,N
+2022,12928,Morgan City - (UT),Municipal,UT,PACE,"2,245.4","22,340","1,927",.,Y,N,N
+2022,13037,City of Mt Pleasant - (UT),Municipal,UT,PACE,"2,969.3","26,306","2,450",.,Y,N,Y
+2022,13388,Nephi City Corporation,Municipal,UT,PACE,"7,980.0","110,984","2,749",.,Y,N,N
+2022,14022,Town of Oak City - (UT),Municipal,UT,PACE,245.0,"3,431",292,.,N,N,N
+2022,14198,Price Municipal Corporation,Municipal,UT,PACE,"7,238.7","70,554","4,096",.,Y,N,N
+2022,14443,Town of Paragonah - (UT),Municipal,UT,PACE,246.0,"2,169",279,.,N,N,N
+2022,14512,Parowan City Corporation,Municipal,UT,PACE,"2,352.0","19,955","1,870",.,Y,N,N
+2022,14600,Payson City Corporation,Municipal,UT,PACE,"14,760.0","137,983","8,336",.,Y,N,N
+2022,16557,Salem City Corporation - (UT),Municipal,UT,PACE,"4,937.4","43,553","3,270",.,Y,N,N
+2022,16648,City of Santa Clara - (UT),Municipal,UT,PACE,"7,728.0","56,434","3,162",.,Y,N,N
+2022,17844,Spring City Corporation,Municipal,UT,PACE,452.0,"5,236",616,.,Y,N,N
+2022,20135,City of Washington - (UT),Municipal,UT,PACE,"17,438.0","141,838","10,536",.,Y,N,N
+2022,40433,City of Enterprise - (UT),Municipal,UT,PACE,"1,196.3","10,430",762,.,N,N,N
+2022,1062,BARC Electric Coop Inc,Cooperative,VA,PJM,"27,055.0","180,218","12,965",.,Y,Y,N
+2022,1795,Town of Blackstone - (VA),Municipal,VA,PJM,"4,591.0","37,543","2,015",.,Y,N,N
+2022,4117,Community Electric Coop,Cooperative,VA,PJM,"26,243.4","204,261","11,618",.,Y,Y,N
+2022,4471,Craig-Botetourt Electric Coop,Cooperative,VA,PJM,"14,333.3","83,438","6,873",.,Y,N,Y
+2022,4619,Town of Culpeper- (VA),Municipal,VA,PJM,"13,894.1","103,900","5,786",.,N,N,N
+2022,5794,Town of Elkton,Municipal,VA,PJM,"2,188.0","22,738","1,110",.,N,N,N
+2022,6715,City of Franklin - (VA),Municipal,VA,PJM,"15,149.0","132,233","5,636",.,Y,N,N
+2022,6803,Town of Front Royal,Municipal,VA,PJM,"17,488.1","170,425","8,120",.,N,N,N
+2022,11770,City of Martinsville - (VA),Municipal,VA,PJM,"18,870.0","156,062","7,705",.,Y,N,Y
+2022,15619,City of Radford - (VA),Municipal,VA,PJM,"19,105.0","166,872","7,492",.,Y,N,N
+2022,15982,Town of Richlands - (VA),Municipal,VA,PJM,"6,498.6","55,086","2,466",.,N,N,N
+2022,19978,Town of Wakefield - (VA),Municipal,VA,PJM,"1,440.0","12,414",535,.,N,N,N
+2022,1299,"Barton Village, Inc",Municipal,VT,ISNE,"2,892.7","14,174","2,202",.,Y,N,N
+2022,5915,Village of Enosburg Falls - (VT),Municipal,VT,ISNE,"4,331.5","26,812","1,800",.,Y,N,N
+2022,8104,Town of Hardwick,Municipal,VT,ISNE,"7,296.7","35,217","4,783",.,Y,N,N
+2022,9144,Village of Hyde Park - (VT),Municipal,VT,ISNE,"2,443.0","12,912","1,406",.,Y,N,N
+2022,9610,Village of Jacksonville - (VT),Municipal,VT,ISNE,913.4,"5,263",729,.,Y,N,N
+2022,9806,Village of Johnson - (VT),Municipal,VT,ISNE,"2,087.0","12,138",998,.,Y,N,N
+2022,11305,Village of Ludlow - (VT),Municipal,VT,ISNE,"8,509.5","54,784","3,812",.,Y,N,N
+2022,11359,Village of Lyndonville - (VT),Municipal,VT,ISNE,"9,523.5","61,917","5,936",.,Y,N,N
+2022,12989,Village of Morrisville - (VT),Municipal,VT,ISNE,"7,069.8","46,532","4,540",.,Y,N,N
+2022,13789,Village of Northfield - (VT),Municipal,VT,ISNE,"3,799.3","29,372","1,900",.,Y,N,N
+2022,14261,Village of Orleans - (VT),Municipal,VT,ISNE,"1,818.3","12,835",673,.,Y,N,N
+2022,18371,Village of Swanton - (VT),Municipal,VT,ISNE,"6,742.0","52,383","3,795",.,Y,N,N
+2022,27316,Town of Stowe- (VT),Municipal,VT,ISNE,"14,148.4","77,918","4,453",.,Y,N,N
+2022,1818,City of Blaine - (WA),Municipal,WA,PSEI,"7,081.0","81,775","3,687",.,N,N,N
+2022,3420,City of Cheney - (WA),Municipal,WA,AVA,"8,276.0","148,390","5,981",.,Y,N,N
+2022,3459,City of Chewelah,Municipal,WA,AVA,"2,118.5","21,983","1,355",.,N,N,N
+2022,3739,Clearwater Power Company,Cooperative,WA,AVA,"2,380.5","22,748","1,042",.,Y,N,N
+2022,4414,City of Coulee Dam - (WA),Municipal,WA,BPAT,"1,248.0","18,173",601,.,N,N,N
+2022,5631,Town of Eatonville - (WA),Municipal,WA,BPAT,"2,449.0","30,871","1,274",.,Y,N,N
+2022,6297,PUD No 1 of Ferry County,Political Subdivision,WA,BPAT,"8,018.8","81,664","3,739",.,Y,N,N
+2022,10326,PUD No 1 of Kittitas County,Political Subdivision,WA,BPAT,"13,020.5","118,069","5,005",.,Y,N,N
+2022,11965,City of McCleary - (WA),Municipal,WA,BPAT,"3,558.2","30,013","1,231",.,Y,N,N
+2022,12616,City of Milton - (WA),Municipal,WA,BPAT,"5,687.2","57,310","3,550",.,Y,N,N
+2022,13387,"Nespelem Valley Elec Coop, Inc",Cooperative,WA,BPAT,"5,262.9","62,003","1,536",.,N,N,N
+2022,14012,"Ohop Mutual Light Company, Inc",Cooperative,WA,BPAT,"8,116.0","95,716","4,961",.,Y,N,N
+2022,14074,"Okanogan County Elec Coop, Inc",Cooperative,WA,BPAT,"6,830.0","71,506","3,951",.,Y,N,N
+2022,14505,Parkland Light & Water Company,Cooperative,WA,BPAT,"8,482.0","119,283","4,604",.,Y,Y,N
+2022,14771,PUD No 1 of Asotin County,Municipal,WA,BPAT,12.9,216,3,.,N,N,N
+2022,15327,PUD No 1 of Wahkiakum County,Political Subdivision,WA,BPAT,"4,619.0","46,433","2,736",.,Y,N,N
+2022,16462,Town of Ruston - (WA),Municipal,WA,TPWR,"1,271.0","10,148",631,.,N,N,N
+2022,17279,PUD No 1 of Skamania Co,Political Subdivision,WA,BPAT,"15,586.0","132,705","6,531",.,N,N,N
+2022,18051,Town of Steilacoom,Municipal,WA,BPAT,"4,071.0","39,525","3,025",.,Y,N,N
+2022,18282,City of Sumas - (WA),Municipal,WA,PSEI,"2,423.8","21,353","1,068",.,Y,N,N
+2022,18448,Tanner Electric Coop,Cooperative,WA,BPAT,"12,796.0","99,824","5,223",.,Y,N,N
+2022,22355,PUD No 1 of Mason County,Political Subdivision,WA,BPAT,"10,583.0","86,385","5,562",.,Y,N,N
+2022,765,City of Arcadia - (WI),Municipal,WI,MISO,"8,002.3","82,194","1,664",.,N,N,N
+2022,792,City of Argyle - (WI),Municipal,WI,MISO,657.1,"6,196",502,.,N,N,N
+2022,1181,Village of Bangor - (WI),Municipal,WI,MISO,"3,145.0","26,014","2,099",.,Y,N,Y
+2022,1278,City of Barron - (WI),Municipal,WI,MISO,"6,413.2","74,140","1,817",.,Y,N,Y
+2022,1367,"Bayfield Electric Coop, Inc",Cooperative,WI,MISO,"14,750.7","80,634","9,379",.,Y,Y,N
+2022,1522,Village of Belmont - (WI),Municipal,WI,MISO,"2,640.0","22,173",578,.,N,N,Y
+2022,1585,Village of Benton - (WI),Municipal,WI,MISO,716.0,"5,755",457,.,Y,N,N
+2022,1765,Village of Black Earth - (WI),Municipal,WI,MISO,"1,689.0","15,470","1,400",.,Y,N,N
+2022,1866,Bloomer Electric & Water Co,Municipal,WI,MISO,"5,350.0","64,150","2,160",.,Y,N,Y
+2022,2759,Village of Cadott - (WI),Municipal,WI,MISO,"1,478.0","12,563",834,.,N,N,N
+2022,3156,Village of Cashton - (WI),Municipal,WI,MISO,"1,570.0","16,503",607,.,N,N,N
+2022,3293,Central Wisconsin Elec Coop,Cooperative,WI,MISO,"17,654.7","102,911","8,239",.,Y,N,Y
+2022,3498,Chippewa Valley Electric Coop,Cooperative,WI,MISO,"15,595.0","108,345","7,805",.,Y,Y,Y
+2022,3701,Clark Electric Coop - (WI),Cooperative,WI,MISO,"24,575.2","207,855","9,564",.,Y,N,Y
+2022,3814,City of Clintonville - (WI),Municipal,WI,MISO,"11,659.0","112,845","2,809",.,Y,N,Y
+2022,4369,City of Cornell,Municipal,WI,MISO,"1,355.0","12,729",862,.,N,N,N
+2022,4627,City of Cumberland - (WI),Municipal,WI,MISO,"4,662.0","36,320","1,425",.,Y,N,N
+2022,5632,Eau Claire Electric Coop,Cooperative,WI,MISO,"27,456.0","208,451","12,155",.,Y,Y,Y
+2022,5777,City of Elkhorn - (WI),Municipal,WI,MISO,"14,812.0","118,227","5,056",.,N,N,N
+2022,5834,City of Elroy - (WI),Municipal,WI,MISO,"2,135.0","21,165",816,.,N,N,N
+2022,6274,City of Fennimore - (WI),Municipal,WI,MISO,"2,942.0","34,738","1,430",.,Y,N,N
+2022,7665,Village of Gresham - (WI),Municipal,WI,MISO,"3,182.0","23,071","1,193",.,Y,N,N
+2022,8336,Village of Hazel Green - (WI),Municipal,WI,MISO,"1,159.4","7,593",656,.,Y,N,N
+2022,8574,"Jackson Electric Coop, Inc - (WI)",Cooperative,WI,MISO,"23,757.5","209,619","7,925",.,Y,Y,N
+2022,9922,Jump River Electric Coop Inc,Cooperative,WI,MISO,"15,669.8","98,278","9,886",.,Y,Y,N
+2022,10243,City of Kiel - (WI),Municipal,WI,MISO,"10,553.1","107,717","2,602",.,N,N,N
+2022,10525,La Farge Municipal Electric Co,Municipal,WI,MISO,834.9,"6,595",520,.,Y,N,N
+2022,11895,Village of Mazomanie - (WI),Municipal,WI,MISO,"6,526.0","55,524",968,.,N,N,N
+2022,12265,City of Medford - (WI),Municipal,WI,MISO,"8,890.0","118,401","3,391",.,Y,N,Y
+2022,12336,Village of Merrillan - (WI),Municipal,WI,MISO,378.0,"4,150",419,.,N,N,N
+2022,13466,City of New Lisbon,Municipal,WI,MISO,"2,397.0","25,389","1,039",.,N,N,N
+2022,13964,Oconto Electric Cooperative,Cooperative,WI,MISO,"17,045.2","126,030","10,223",.,N,N,N
+2022,14451,Village of Pardeeville - (WI),Municipal,WI,MISO,"2,257.0","20,371","1,344",.,N,N,N
+2022,15034,Pierce-Pepin Coop Services,Cooperative,WI,MISO,"19,983.0","126,775","7,830",.,Y,Y,Y
+2022,15356,Price Electric Coop Inc,Cooperative,WI,MISO,"13,607.0","69,163","9,547",.,Y,Y,N
+2022,15385,City of Princeton - (WI),Municipal,WI,MISO,"1,395.0","9,834",958,.,Y,N,N
+2022,15938,Rice Lake Utilities,Municipal,WI,MISO,"14,307.0","153,533","6,033",.,Y,N,Y
+2022,15983,Richland Electric Coop,Cooperative,WI,MISO,"8,287.0","47,858","3,853",.,Y,Y,Y
+2022,16680,Village of Sauk City - (WI),Municipal,WI,MISO,"4,126.8","30,295","1,943",.,Y,N,Y
+2022,17028,City of Sheboygan Falls - (WI),Municipal,WI,MISO,"17,528.0","165,101","6,021",.,N,N,N
+2022,17130,City of Shullsburg - (WI),Municipal,WI,MISO,"2,313.0","11,229",752,.,Y,N,Y
+2022,17811,City of Spooner - (WI),Municipal,WI,MISO,"3,259.4","30,389","1,868",.,Y,N,N
+2022,17868,St Croix Electric Coop,Cooperative,WI,MISO,"25,057.0","205,778","11,562",.,Y,Y,Y
+2022,18200,Village of Stratford - (WI),Municipal,WI,MISO,"1,732.2","16,509",889,.,Y,N,N
+2022,18383,Taylor Electric Coop - (WI),Cooperative,WI,MISO,"10,243.4","70,183","4,510",.,Y,Y,Y
+2022,19114,Village of Trempealeau - (WI),Municipal,WI,MISO,"2,104.0","15,252","1,429",.,Y,N,N
+2022,19813,Vernon Electric Coop,Cooperative,WI,MISO,"22,206.0","153,481","11,449",.,Y,Y,Y
+2022,19867,Village of Viola - (WI),Municipal,WI,MISO,607.8,"5,710",438,.,Y,N,N
+2022,20153,"Washington Island El Coop, Inc",Cooperative,WI,MISO,"1,542.0","9,920","1,090",.,N,N,N
+2022,20844,Wisconsin Dells Electric Util,Municipal,WI,MISO,"7,251.6","69,384","2,292",.,Y,N,Y
+2022,20924,Wonewoc Electric & Water Util,Municipal,WI,MISO,614.5,"4,921",461,.,N,N,Y
+2022,4471,Craig-Botetourt Electric Coop,Cooperative,WV,PJM,597.3,"3,082",488,.,Y,N,Y
+2022,8192,"Harrison Rural Elec Assn, Inc",Cooperative,WV,PJM,"14,688.1","88,313","7,005",.,Y,N,N
+2022,13471,City of New Martinsville - (WV),Municipal,WV,PJM,"4,221.0","30,439","1,855",.,N,N,N
+2022,14954,Philippi Municipal Electric,Municipal,WV,PJM,"3,417.0","33,746","1,812",.,N,N,N
+2022,1417,"Beartooth Electric Coop, Inc",Cooperative,WY,NWMT,952.2,"7,974",532,.,Y,Y,Y
+2022,1675,Big Horn Rural Electric Co,Cooperative,WY,WACM,"13,287.0","114,363","3,965",.,Y,N,Y
+2022,1683,"Big Horn County Elec Coop, Inc",Cooperative,WY,NWMT,589.1,"4,693",301,.,Y,N,N
+2022,1779,Town of Basin - (WY),Municipal,WY,PACE,"1,624.0","11,589",789,.,N,N,N
+2022,2215,"Bridger Valley Elec Assn, Inc",Cooperative,WY,WACM,"10,791.1","118,237","4,780",.,Y,N,N
+2022,2998,"Carbon Power & Light, Inc",Cooperative,WY,WACM,"15,735.0","115,627","6,602",.,Y,N,Y
+2022,3881,City of Cody,Municipal,WY,WACM,"12,382.0","106,061","7,682",.,Y,N,N
+2022,4981,City of Deaver - (WY),Municipal,WY,PACE,90.8,797,82,.,N,N,N
+2022,6509,Town of Fort Laramie- (WY),Municipal,WY,WACM,156.2,"1,112",158,.,N,N,N
+2022,6950,Garland Light & Power Company,Cooperative,WY,WACM,"4,687.5","30,548","2,187",.,Y,N,N
+2022,7759,Town of Guernsey - (WY),Municipal,WY,WACM,"1,743.0","13,297",731,.,N,N,N
+2022,11099,Town of Lingle - (WY),Municipal,WY,WACM,631.0,"3,632",297,.,N,N,N
+2022,11330,Town of Lusk - (WY),Municipal,WY,WACM,"2,131.2","17,736","1,152",.,N,N,N
+2022,13685,"Niobrara Electric Assn, Inc",Cooperative,WY,WACM,"11,411.3","91,788","2,117",.,Y,Y,Y
+2022,15051,City of Pine Bluffs - (WY),Municipal,WY,WACM,"1,287.9","9,520",718,.,N,N,N
+2022,15294,City of Powell - (WY),Municipal,WY,WACM,"6,792.3","50,601","3,378",.,Y,N,N
+2022,17593,"Southeast Electric Coop, Inc",Cooperative,WY,WAUW,28.0,255,12,.,N,N,N
+2022,19032,City of Torrington - (WY),Municipal,WY,WACM,"8,327.0","77,310","3,920",.,Y,N,N
+2022,20506,"Wheatland Rural Elec Assn, Inc",Cooperative,WY,WACM,"17,447.0","143,843","3,530",.,Y,N,Y
+2022,20512,Town of Wheatland - (WY),Municipal,WY,WACM,"4,342.0","32,913","2,396",.,N,N,N
+2022,21079,Wyrulec Company,Cooperative,WY,WACM,"17,414.8","140,678","5,113",.,Y,N,N
+2022,21664,Willwood Light & Power Company,Cooperative,WY,PACE,205.0,"1,184",62,.,N,N,N
+2022,31516,Midvale Irrigation District,Political Subdivision,WY,PACE,2.4,77,5,.,N,N,N
+These entities are one of the elements used in the state Adjustment lines in the Sales to Ultimate Customers file.,,,,,,,,,,,,
