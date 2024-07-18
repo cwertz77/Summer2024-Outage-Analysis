@@ -1,4 +1,4 @@
-Year,Month,Event date,Event time,Restoration date,Restoration time,Duration,,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected,
+Year,Month,Event date,Event time,Restoration date,Restoration time,Duration,Unnamed: 7,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected,
 ,,,,,,,,,,,Public Appeal due to Severe,,,
 2014,1,1/6/14,7:01 AM,1/7/14,9:00 AM,"25 Hours, 59 Minutes",,ERCOT,TRE,Texas,Weather - Cold,N/A,N/A,
 ,,,,,,,,,,,Voltage Reduction due to,,,

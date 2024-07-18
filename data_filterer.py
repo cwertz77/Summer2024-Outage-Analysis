@@ -57,7 +57,8 @@ def shift_data_to_correct_col(df, index, cur_col, new_col):
         df.at[index, cur_col] = ''
 
 def shift_data_to_correct_row(df, col, cur_row, new_row):
-    if df.at[cur_row, col] != '':
+    cur_entry = df.at[cur_row, col]
+    if not (pd.isna(cur_entry) or cur_entry == ''):
         df.at[new_row, col] = str(df.at[new_row, col]) + "," + str(df.at[cur_row, col])
         df.at[cur_row, col] = ''
 
@@ -67,9 +68,9 @@ def get_num_empty_entries_in_row(df, index):
     return len(list(empty_entries))
 
 # Major Disturbances and Unusual Occurrences dataset
-def base_filter(csv_path, filtered_save_path, year):
+def reformat(csv_path, filtered_save_path, year):
     df = pd.read_csv(csv_path)
-    illinois_df = pd.DataFrame()
+    formatted_df = pd.DataFrame()
     skip_counter = 0
 
     for i in range(len(df)):
@@ -90,14 +91,26 @@ def base_filter(csv_path, filtered_save_path, year):
             if df.iloc[i]['Type of Disturbance'] != '':
                 shift_data_to_correct_row(df, 'Type of Disturbance', i, i+1)
         else:
-            illinois_df = pd.concat([illinois_df, pd.DataFrame([df.iloc[i]])], ignore_index=True)
+            formatted_df = pd.concat([formatted_df, pd.DataFrame([df.iloc[i]])], ignore_index=True)
 
     # Clean up csv by shifting any entries in the empty column to 'Duration'
-    for i in range(len(illinois_df)):
-        for col in illinois_df.columns:
+    for i in range(len(formatted_df)):
+        for col in formatted_df.columns:
             print(col)
             if col == 'Unnamed: 7':
-                shift_data_to_correct_col(illinois_df, i, col, 'Duration')
-    
+                shift_data_to_correct_col(formatted_df, i, col, 'Duration')
+
     with open(filtered_save_path, 'w+') as f:
-        f.write(illinois_df.drop(columns=['Unnamed: 7']).to_csv())
+        f.write(formatted_df.drop(columns=['Unnamed: 7']).to_csv())
+
+def filter(csv_path, save_path):
+    formatted_df = pd.read_csv(csv_path)
+    illinois_df = pd.DataFrame()
+    for i in range(len(formatted_df)):
+        if str(formatted_df.iloc[i]['Area Affected']).__contains__('Illinois'):
+            copy = formatted_df.iloc[i]
+            copied_row_df = pd.DataFrame([copy])
+            illinois_df = pd.concat([illinois_df, copied_row_df], ignore_index=True) #reindex dataset
+
+    with open(save_path, 'w') as f:
+        f.write(illinois_df.to_csv())
