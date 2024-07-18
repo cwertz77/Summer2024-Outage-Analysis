@@ -1,6 +1,6 @@
 import pandas as pd
 
-def convert_xlsx_to_csv(excel_path, csv_save_path, check=False):
+def xlsx_to_csv(excel_path, csv_save_path, check=False):
     try:
         pd.read_excel(excel_path).to_csv(csv_save_path, index=None, header=True)
         if check:
