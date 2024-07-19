@@ -101,7 +101,7 @@ def reformat(csv_path, filtered_save_path, year):
                 shift_data_to_correct_col(illinois_df, i, col, 'Duration')
     
     with open(filtered_save_path, 'w+') as f:
-        f.write(illinois_df.drop(columns=['Unnamed: 7']).to_csv())
+        f.write(illinois_df.to_csv())
 
 def filter(csv_path, save_path):
     formatted_df = pd.read_csv(csv_path)
@@ -113,8 +113,9 @@ def filter(csv_path, save_path):
             illinois_df = pd.concat([illinois_df, copied_row_df], ignore_index=True) #reindex dataset
 
     with open(save_path, 'w') as f:
-        f.write(illinois_df.drop(columns=['Unnamed: 0']).to_csv())
+        f.write(illinois_df.to_csv())
 
 
-#reformat('/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/2017/2017_unformatted.csv', '/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/2017/2017_formatted.csv', 2017)
-#filter('/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/2015/2015_formatted.csv', '/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/2015/2015_illinois.csv')
+for i in range(2019, 2023):
+    #reformat(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_unformatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', i)
+    filter(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_illinois.csv')
