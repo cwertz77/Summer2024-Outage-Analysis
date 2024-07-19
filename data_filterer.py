@@ -113,9 +113,9 @@ def filter(csv_path, save_path):
             illinois_df = pd.concat([illinois_df, copied_row_df], ignore_index=True) #reindex dataset
 
     with open(save_path, 'w') as f:
-        f.write(illinois_df.to_csv())
+        f.write(illinois_df.drop(columns=['Unnamed: 0']).to_csv())
 
 
-for i in range(2019, 2023):
-    #reformat(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_unformatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', i)
-    filter(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_illinois.csv')
+for i in range(2019, 2020):
+    reformat(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_unformatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', i)
+   # filter(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_illinois.csv')
