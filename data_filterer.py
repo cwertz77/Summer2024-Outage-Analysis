@@ -114,8 +114,3 @@ def filter(csv_path, save_path):
 
     with open(save_path, 'w') as f:
         f.write(illinois_df.drop(columns=['Unnamed: 0']).to_csv())
-
-
-for i in range(2019, 2020):
-    reformat(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_unformatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', i)
-   # filter(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_formatted.csv', f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/{i}_illinois.csv')

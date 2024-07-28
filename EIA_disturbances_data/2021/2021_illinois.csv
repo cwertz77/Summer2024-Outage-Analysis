@@ -1,4 +1,4 @@
-,Year,Month,Event date and time,Restoration date and time,Duration,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected,Unnamed: 12
+,Year,Month,Event date and time,Restoration date and time,Duration,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected,Number of Customers Affected
 0,2021,2.0,02/11/2021 8:30 AM,02/22/2021 9:00 AM,"264 Hours, 30 Minutes","Prairie Power, Inc.",SERC,Illinois: Scott County;,Fuel supply emergencies that could impact electric power system adequacy or reliability.-Fuel Supply Deficiency,Unknown,Unknown,
 1,2021,2.0,02/16/2021 5:30 AM,02/16/2021 2:00 PM,"8 Hours, 30 Minutes",Midcontinent Independent System Operator,SERC,Louisiana: Texas: Illinois:,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.-Severe Weather,1420,Unknown,
 2,2021,8.0,08/10/2021 8:30 PM,08/11/2021 7:00 PM,"22 Hours, 30 Minutes",ComEd,RF/SERC,Illinois:,"Loss of electric service to more than 50,000 customers for 1 hour or more-Severe Weather",Unknown,318761,
