@@ -32,7 +32,23 @@ def desaturate_color(hex_code, percent):
 
     return f"#{r:02x}{g:02x}{b:02x}"
 
-def generate_svi_map(svi_path):
+def get_normalized_nri_data(nri_path):
+    with open(nri_path, 'r') as f:
+        csv = pd.read_csv(f)
+
+    max = 0
+    for i in range(len(csv)):
+        risk_val = csv.iloc[i]['RISK_SCORE']
+        if risk_val > max:
+            max = risk_val
+        
+    county_scores = {}
+    for i in range(len(csv)):
+        county_scores[csv.iloc[i]['COUNTY']] = csv.iloc[i]['RISK_SCORE'] / max
+
+    return county_scores
+
+def generate_svi_and_nri_map(svi_path, nri_path):
     geojson_data = {}
     with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
         geojson_data = json.load(f)
@@ -40,9 +56,16 @@ def generate_svi_map(svi_path):
     county_saturation = {}
     with open(svi_path, 'r') as f:
         csv = pd.read_csv(f)
-        for i in range(len(csv)):
-            row = csv.iloc[i]
-            county_saturation[row['COUNTY']] = row['RPL_THEMES']
+
+    nri_data = get_normalized_nri_data(nri_path)
+    for i in range(len(csv)):
+        row = csv.iloc[i]
+        county_saturation[row['COUNTY']] = row['RPL_THEMES']
+        try:
+            county_saturation[row['COUNTY']] = (row['RPL_THEMES'] + nri_data[row['COUNTY'].replace('County', '').strip()])/2
+        except:
+            print(f'does not exist {row['COUNTY']}')
+
 
     county_hex = {}
     for key in county_saturation.keys():
@@ -61,6 +84,5 @@ def generate_svi_map(svi_path):
     ).add_to(m)
 
     year = svi_path.split("_")[-1].replace('.csv', '')
-    m.save(f"cdc_svi/svi_map_{year}.html")
-
+    m.save(f"cdc_svi/svi_and_nri_map_{year}.html")
 
