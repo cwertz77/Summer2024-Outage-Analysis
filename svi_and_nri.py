@@ -1,7 +1,8 @@
 import folium
 import json
 import pandas as pd
-
+import json
+from datetime import datetime
 
 def make_style_function(county_colors_map):
     def style_function(feature):
@@ -31,26 +32,41 @@ def desaturate_color(hex_code, percent):
 
     return f"#{r:02x}{g:02x}{b:02x}"
 
+
+def get_time_diff(row):
+    start_time = datetime.strptime(row['run_start_time'], '%Y-%m-%d %H:%M:%S')
+    end_time = datetime.strptime(row['run_end_time'], '%Y-%m-%d %H:%M:%S')
+    time_diff = abs(end_time - start_time).total_seconds()/60
+    return time_diff
                
 def get_quantitative_vulnerability(data_path):
-    # entry is county_name : {date: [num people out]}
+    # entry is county_name : {date: [ (num people out, duration in minutes) ]}
     counties_outages = {}
     with open(data_path, 'r') as f:
         csv = pd.read_csv(f)
         for i in range(len(csv)):
             row = csv.iloc[i]
+            duration = get_time_diff(row)
             start_date = str(row['run_start_time']).split(' ')[0]
             if row['county'] not in counties_outages.keys():
-                counties_outages[row['county']] = {start_date: [row['customers_out']]}
+                counties_outages[row['county']] = {start_date: [ (row['customers_out'], duration) ]}
             else:
                 county_dates = counties_outages[row['county']]
                 if start_date not in county_dates.keys():
-                    county_dates[start_date] = [row['customers_out']]
+                    county_dates[start_date] = [ (row['customers_out'], duration) ]
                 else:
                     county_events = county_dates[start_date]
-                    if row['customers_out'] not in county_events:
-                        county_events.append(row['customers_out'])
-                        counties_outages[row['county']][start_date] = county_events
+                    customers_out = row['customers_out']     
+                    #check if row['customers_out'] is not in the first element of any tuple in county_events
+                    found = False
+                    for index, (out, dur) in enumerate(county_events):
+                        if out == customers_out:
+                            county_events[index] = (customers_out, dur + duration)
+                            found = True
+                            break
+                    if not found:
+                        county_events.append((customers_out, duration))
+
     return counties_outages
 
 def normalize_quantitative_vulnerabilities(data_path):
@@ -64,8 +80,9 @@ def normalize_quantitative_vulnerabilities(data_path):
         for date, events in dates.items():
             print(f"  Date: {date}")
             for event in events:
-                county_totals[county] += event
-                print(f"    Customers out: {event}")         
+                num_people_out, total_duration = event[0], event[1]
+                county_totals[county] += num_people_out * total_duration #scale importance by duration
+                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")         
     
     min_val = min(county_totals.values())
     max_val = max(county_totals.values())
@@ -119,9 +136,6 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
     county_hex = {}
     for key in county_saturation.keys():
         county_hex[key.replace('County', '').strip()] = desaturate_color('#0000FF', county_saturation[key])
-            
-    '''for key in county_hex.keys():
-        print(f'key is {key} and value is {county_hex[key]}')'''
 
     style_function = make_style_function(county_colors_map=county_hex)
 
@@ -141,6 +155,44 @@ def filter_svi_map(path):
         df_filtered = csv[csv['ST_ABBR'] == 'IL']
         df_filtered.to_csv(path, index=False)
         
-svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
+svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2014.csv',
                           './cdc_svi/NRI_Table_Counties_Illinois.csv', 
-                          './outage_records/filtered_2022.csv')
+                          './outage_records/filtered_2014.csv')
+
+def eagleI_EIA_overlap_map(data_path, save_path):
+    with open(data_path, 'r') as f:
+        data = json.load(f)
+        keys = data.keys()
+        num = {}
+        for key in keys:
+            county_list = data[key]
+            for county in county_list:
+                if county not in num.keys():
+                    num[county] = 1
+                else:
+                    num[county] += 1
+
+        max_val = max(num.values())
+        min_val = min(num.values())
+        norm_num = {}
+
+        for key in num:
+            norm_num[key] = (num[key] - min_val)/(max_val - min_val)
+
+        county_hex = {}
+        for key in norm_num.keys():
+            county_hex[key] = desaturate_color('#0000FF', norm_num[key])
+
+        style_function = make_style_function(county_colors_map=county_hex)
+
+        m = folium.Map(location=[40.754, -88.931], zoom_start=6)
+
+        with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+                geojson_data = json.load(f)
+
+        folium.GeoJson(
+            geojson_data,
+            style_function=style_function
+        ).add_to(m)
+
+        m.save(save_path)

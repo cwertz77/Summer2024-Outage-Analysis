@@ -32,21 +32,24 @@ def generate_geojson(outage_data = './outage_records/processed_illinois2023.csv'
     breakpoint()
 
 
+
 def filter_repeats(outage_data, save_path):
     csv = pd.read_csv(outage_data, index_col=0)
     no_repeats_df = pd.DataFrame()
     start_time = ""
+    
     for index in range(1, len(csv)):
-        percent_done = index/len(csv)*100
+        percent_done = index / len(csv) * 100
         print(f'on iteration {index}; percent done: {percent_done}%')
         cols = ["county", "state", "customers_out"]
+        
         if all(csv.iloc[index][col] == csv.iloc[index-1][col] for col in cols):
             if start_time == "":
                 start_time = csv.iloc[index]["run_start_time"]
         else:
-            last = str(csv.iloc[index-1]["run_start_time"]).split(":")
-            minutes = int(last[1]) + 15
-            end_time = f"{last[0]}:{minutes}:{last[2]}"
+            last_time = pd.to_datetime(csv.iloc[index-1]["run_start_time"])
+            end_time = last_time + pd.Timedelta(minutes=15)
+            end_time = end_time.strftime('%Y-%m-%d %H:%M:%S')
 
             cur_col = csv.iloc[index-1].copy()
             cur_col["run_start_time"] = start_time if start_time else cur_col["run_start_time"]
@@ -54,6 +57,21 @@ def filter_repeats(outage_data, save_path):
             no_repeats_df = pd.concat([no_repeats_df, cur_col.to_frame().T], ignore_index=True)
 
             start_time = ""
-    
+
+    if start_time:
+        last_time = pd.to_datetime(csv.iloc[-1]["run_start_time"])
+        end_time = last_time + pd.Timedelta(minutes=15)
+        end_time = end_time.strftime('%Y-%m-%d %H:%M:%S')
+
+        cur_col = csv.iloc[-1].copy()
+        cur_col["run_start_time"] = start_time if start_time else cur_col["run_start_time"]
+        cur_col["run_end_time"] = end_time
+        no_repeats_df = pd.concat([no_repeats_df, cur_col.to_frame().T], ignore_index=True)
+
     with open(save_path, 'w+') as f:
         f.write(no_repeats_df.to_csv())
+
+
+for i in range(2015, 2024):
+    filter_repeats(f'/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/processed_illinois{i}.csv',
+                f'/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_{i}.csv')
