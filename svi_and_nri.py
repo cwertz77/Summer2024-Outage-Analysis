@@ -69,10 +69,45 @@ def get_quantitative_vulnerability(data_path):
 
     return counties_outages
 
+def search_for_equals(sorted_list, index):
+    if index < 0 or index >= len(sorted_list):
+        return 0, 0
+    value = sorted_list[index]
+    left_count, right_count  = 0, 0
+
+    left_index = index - 1
+    while left_index >= 0 and sorted_list[left_index] == value:
+        left_count += 1
+        left_index -= 1
+    
+    right_index = index + 1
+    while right_index < len(sorted_list) and sorted_list[right_index] == value:
+        right_count += 1
+        right_index += 1
+    
+    return left_count, right_count
+
+def get_percentile_sorted_data(data_map):
+    sorted_data = [(key, value) for key, value in data_map.items()]
+    sorted_data = sorted(sorted_data, key=lambda x: x[1])
+
+    total = len(sorted_data)
+    percentile_ranks = {}
+    values = [val[1] for val in sorted_data]
+
+    for i in range(total):
+       left_equal, right_equal = search_for_equals(values, i)
+       num_equal = left_equal + right_equal + 1
+       percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total * 100
+       county = sorted_data[i][0]
+       percentile_ranks[county] = percentile_rank
+    
+    return percentile_ranks
+
+
 def normalize_quantitative_vulnerabilities(data_path):
     outages = get_quantitative_vulnerability(data_path)
     county_totals = {}
-    norm_county_totals = {}
 
     for county, dates in outages.items():
         print(f"County: {county}")
@@ -84,11 +119,11 @@ def normalize_quantitative_vulnerabilities(data_path):
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
                 print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")         
     
-    min_val = min(county_totals.values())
-    max_val = max(county_totals.values())
+    percentile_ranks = get_percentile_sorted_data(county_totals)
     for key in county_totals.keys():
-        norm_county_totals[key] = (county_totals[key] - min_val)/(max_val - min_val)
-    return norm_county_totals
+        percentile_ranks[key] = percentile_ranks[key]/100
+
+    return percentile_ranks
 
 
 def get_normalized_nri_data(nri_path):
@@ -154,10 +189,10 @@ def filter_svi_map(path):
         csv = pd.read_csv(f)
         df_filtered = csv[csv['ST_ABBR'] == 'IL']
         df_filtered.to_csv(path, index=False)
-        
-svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2014.csv',
+
+svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
                           './cdc_svi/NRI_Table_Counties_Illinois.csv', 
-                          './outage_records/filtered_2014.csv')
+                          './outage_records/filtered_2022.csv')
 
 def eagleI_EIA_overlap_map(data_path, save_path):
     with open(data_path, 'r') as f:
