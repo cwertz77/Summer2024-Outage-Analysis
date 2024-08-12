@@ -108,16 +108,39 @@ def get_percentile_sorted_data(data_map):
 def normalize_quantitative_vulnerabilities(data_path):
     outages = get_quantitative_vulnerability(data_path)
     county_totals = {}
+    metric_df = pd.DataFrame()
 
     for county, dates in outages.items():
         print(f"County: {county}")
         county_totals[county] = 0
+        #to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
+        num_interruptions, num_customers, cum_duration = 0, 0, 0
         for date, events in dates.items():
             print(f"  Date: {date}")
+            max_people_out = max([e[0] for e in events])
+            num_customers += max_people_out
             for event in events:
+                num_interruptions += 1
                 num_people_out, total_duration = event[0], event[1]
+                cum_duration += total_duration
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
-                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")         
+                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")     
+
+        saifi = num_interruptions / num_customers
+        saidi = cum_duration / num_customers    
+        caidi = saidi / saifi
+        year = data_path.split("_")[2].replace(".csv", "")
+        metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi}
+        metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
+
+    try:
+        cur_contents = pd.read_csv('./outage_records/metrics.csv')
+    except FileNotFoundError:
+        cur_contents = pd.DataFrame()
+
+    all_data = pd.concat([cur_contents, metric_df], ignore_index=True)
+    all_data.to_csv('./outage_records/metrics.csv', index=False)
+
     
     percentile_ranks = get_percentile_sorted_data(county_totals)
     for key in county_totals.keys():
@@ -125,17 +148,16 @@ def normalize_quantitative_vulnerabilities(data_path):
 
     return percentile_ranks
 
+for i in range(2014, 2024):
+    normalize_quantitative_vulnerabilities(f'./outage_records/filtered_{i}.csv')
 
 def get_normalized_nri_data(nri_path):
-    # Read the CSV file into a DataFrame
     csv = pd.read_csv(nri_path)
     
-    # Get the risk scores and their min and max values
     scores = csv['RISK_SCORE'].tolist()
     min_val = min(scores)
     max_val = max(scores)
     
-    # Normalize the risk scores and add them to the dictionary
     county_scores = {}
     for i in range(len(csv)):
         county = csv.iloc[i]['COUNTY']
@@ -190,9 +212,9 @@ def filter_svi_map(path):
         df_filtered = csv[csv['ST_ABBR'] == 'IL']
         df_filtered.to_csv(path, index=False)
 
-svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
+'''svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
                           './cdc_svi/NRI_Table_Counties_Illinois.csv', 
-                          './outage_records/filtered_2022.csv')
+                          './outage_records/filtered_2022.csv')'''
 
 def eagleI_EIA_overlap_map(data_path, save_path):
     with open(data_path, 'r') as f:
