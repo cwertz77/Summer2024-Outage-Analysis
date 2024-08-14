@@ -1,0 +1,15 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..State|,|Utility Characteristics..BA Code|,|Number of.Customers Enrolled.Residential|,|Number of.Customers Enrolled.Commercial|,|Number of.Customers Enrolled.Industrial|,|Number of.Customers Enrolled.Transportation|,|Number of.Customers Enrolled.Total|,|Types of Program.Time of Use Pricing.Residential|,|Types of Program.Time of Use Pricing.Commercial|,|Types of Program.Time of Use Pricing.Industrial|,|Types of Program.Time of Use Pricing.Transportation|,|Types of Program.Real Time Pricing.Residential|,|Types of Program.Real Time Pricing.Commercial|,|Types of Program.Real Time Pricing.Industrial|,|Types of Program.Real Time Pricing.Transportation|,|Types of Program.Variable Peak Pricing.Residential|,|Types of Program.Variable Peak Pricing.Commercial|,|Types of Program.Variable Peak Pricing.Industrial|,|Types of Program.Variable Peak Pricing.Transportation|,|Types of Program.Critical Peak Pricing.Residential|,|Types of Program.Critical Peak Pricing.Commercial|,|Types of Program.Critical Peak Pricing.Industrial|,|Types of Program.Critical Peak Pricing.Transportation|,|Types of Program.Critical Peak Rebate.Residential|,|Types of Program.Critical Peak Rebate.Commercial|,|Types of Program.Critical Peak Rebate.Industrial|,|Types of Program.Critical Peak Rebate.Transportation|
+0,2017,97,Adams Electric Coop,IL,MISO,36,5,.,.,41,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+1,2017,970,Homefield Energy,IL,MISO,0,0,74,0,74,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+2,2017,4110,Commonwealth Edison Co,IL,PJM,252513,8523,114,0,261150,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N
+3,2017,7096,City of Geneva- (IL),IL,PJM,.,.,5,.,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+4,2017,7279,"NextEra Energy Services, LLC",IL,MISO,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+5,2017,9750,"Jo-Carroll Energy, Inc",IL,MISO,.,.,16,.,16,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+6,2017,12341,MidAmerican Energy Co,IL,MISO,5,96,38,.,139,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+7,2017,16179,Rochelle Municipal Utilities,IL,PJM,.,.,34,.,34,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+8,2017,20222,Wayne-White Counties Elec Coop,IL,MISO,2,.,.,.,2,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+9,2017,21795,"Constellation Energy Services, Inc.",IL,MISO,0,7279,0,0,7279,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+10,2017,56379,"MC Squared Energy Services, LLC",IL,PJM,.,744,11,.,755,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+11,2017,56697,Ameren Illinois Company,IL,MISO,22230,1629,57,.,23916,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N
+12,2017,59385,"Dynegy Energy Services, LLC",IL,PJM,0,0,9,1,10,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+13,2017,59808,MP2 Energy LLC,IL,PJM,0,23,17,0,40,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N

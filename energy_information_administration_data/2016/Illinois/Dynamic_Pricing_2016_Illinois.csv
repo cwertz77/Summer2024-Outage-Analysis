@@ -1,0 +1,13 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..State|,|Utility Characteristics..BA Code|,|Number of.Customers Enrolled.Residential|,|Number of.Customers Enrolled.Commercial|,|Number of.Customers Enrolled.Industrial|,|Number of.Customers Enrolled.Transportation|,|Number of.Customers Enrolled.Total|,|Types of Program.Time of Use Pricing.Residential|,|Types of Program.Time of Use Pricing.Commercial|,|Types of Program.Time of Use Pricing.Industrial|,|Types of Program.Time of Use Pricing.Transportation|,|Types of Program.Real Time Pricing.Residential|,|Types of Program.Real Time Pricing.Commercial|,|Types of Program.Real Time Pricing.Industrial|,|Types of Program.Real Time Pricing.Transportation|,|Types of Program.Variable Peak Pricing.Residential|,|Types of Program.Variable Peak Pricing.Commercial|,|Types of Program.Variable Peak Pricing.Industrial|,|Types of Program.Variable Peak Pricing.Transportation|,|Types of Program.Critical Peak Pricing.Residential|,|Types of Program.Critical Peak Pricing.Commercial|,|Types of Program.Critical Peak Pricing.Industrial|,|Types of Program.Critical Peak Pricing.Transportation|,|Types of Program.Critical Peak Rebate.Residential|,|Types of Program.Critical Peak Rebate.Commercial|,|Types of Program.Critical Peak Rebate.Industrial|,|Types of Program.Critical Peak Rebate.Transportation|
+0,2016,97,Adams Electric Coop,IL,35,5,.,.,40,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+1,2016,4110,Commonwealth Edison Co,IL,159737,7962,136,0,167835,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,
+2,2016,7096,City of Geneva- (IL),IL,.,.,5,.,5,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+3,2016,7279,"NextEra Energy Services, LLC",IL,.,1,.,.,1,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+4,2016,9750,Jo-Carroll Energy Coop Inc,IL,.,.,16,.,16,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+5,2016,12341,MidAmerican Energy Co,IL,3,94,49,.,146,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+6,2016,16179,Rochelle Municipal Utilities,IL,.,.,34,.,34,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+7,2016,20222,Wayne-White Counties Elec Coop,IL,4,0,0,0,4,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+8,2016,21795,"Constellation Energy Services, Inc.",IL,0,707,0,0,707,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+9,2016,56379,"MC Squared Energy Services, LLC",IL,0,600,0,0,600,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,
+10,2016,56697,Ameren Illinois Company,IL,20229,1678,68,0,21975,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,Y,N,N,N,
+11,2016,59808,MP2 Energy LLC,IL,0,47,8,0,55,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,

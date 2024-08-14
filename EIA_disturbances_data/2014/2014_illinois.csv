@@ -1,0 +1,7 @@
+,Year,Month,Event date,Event time,Restoration date,Restoration time,Duration,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected,
+0,2014,1,1/7/14 10:59,,1/9/14,9:00 AM,"46 Hours,1 Minutes","Prairie Power, Inc.",RFC,Illinois,Fuel Supply Emergency - Natural Gas,,,
+1,2014,1,1/17/14 10:30,,1/28/14,9:00 AM,"262 Hours, 30 Minutes","Prairie Power, Inc.",RFC,Illinois,Fuel Supply Emergency - Natural Gas,Unknown,Unknown,
+2,2014,2,2/20/14,4:40 PM,2/21/14 23:59,,"31 Hours, 19 Minutes",Ameren Missouri,SERC,"Missouri, Illinois",Severe Weather - Snow/Ice,Unknown,66000,
+3,2014,6,6/30/14,8:00 PM,7/2/14,6:30 PM,"46 Hours, 30 Minutes",Exelon Corporation/ComEd,RFC,Illinois,Severe Weather - Thunderstorms,Unknown,420000,
+4,2014,8,8/23/14,4:39 PM,8/24/14,1:46 AM,"9 Hours,7 Minutes",Illinois Municipal Electric Agency,RFC,"City of Highland, Illinois",Operational Failure of Electrical System,31,6549,
+5,2014,9,9/5/14,4:30 PM,9/6/14,2:00 PM,"21 Hours, 30 Minutes",Exelon Corporation / ComEd,RFC,Illinois,Severe Weather - Thunderstorms,Unknown,180400,

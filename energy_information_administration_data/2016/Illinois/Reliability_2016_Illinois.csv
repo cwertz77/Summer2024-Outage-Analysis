@@ -1,0 +1,22 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..State|,|Utility Characteristics..Ownership|,|IEEE Standard.All Events (With Major Event Days).SAIDI (minutes per year)|,|IEEE Standard.All Events (With Major Event Days).SAIFI (times per year)|,|IEEE Standard.All Events (With Major Event Days).CAIDI (minutes per interruption)|,|IEEE Standard.Without Major Event Days.SAIDI (minutes per year)|,|IEEE Standard.Without Major Event Days.SAIFI (times per year)|,|IEEE Standard.Without Major Event Days.CAIDI (minutes per interruption)|,|IEEE Standard.Loss of Supply Removed (With Major Event Days).SAIDI (minutes per year)|,|IEEE Standard.Loss of Supply Removed (With Major Event Days).SAIFI (times per year)|,|IEEE Standard.Loss of Supply Removed (With Major Event Days).CAIDI (minutes per interruption)|,|IEEE Standard...Number of Customers|,|IEEE Standard...Highest Dist. Voltage|,|IEEE Standard...Outages Recorded Automatically|,|Other Standard.All Events (With Major Event Days).SAIDI (minutes per year)|,|Other Standard.All Events (With Major Event Days).SAIFI (times per year)|,|Other Standard.All Events (With Major Event Days).CAIDI With MED|,|Other Standard.Without Major Event Days.SAIDI (minutes per year)|,|Other Standard.Without Major Event Days.SAIFI (times per year)|,|Other Standard.Without Major Event Days.CAIDI Without MED|,|Other Standard...Number of Customers|,|Other Standard...Inactive Accounts Included|,|Other Standard...Momentary Interruptions|,|Other Standard...Highest Dist. Voltage|,|..Outages Recorded Automatically|
+0,2016,97.0,Adams Electric Coop,IL,Cooperative,293.2,2.29,128.03493,121.2,1.46,83.013699,135.8,1.41,96.312057,8842,12.5,Y,.,.,.,.,.,.,.,,,.,
+1,2016,4110.0,Commonwealth Edison Co,IL,Investor Owned,97,0.856,113.31776,63,0.722,87.257618,96,0.85,112.94118,3903478,34,Y,.,.,.,.,.,.,.,,,.,
+2,2016,4362.0,Corn Belt Energy Corporation,IL,Cooperative,262.4,4.2,62.47619,262.4,4.2,62.47619,117,4.08,28.676471,35679,69,Y,.,.,.,.,.,.,.,,,.,
+3,2016,5585.0,Eastern Illinois Elec Coop,IL,Cooperative,300.7,2.53,118.85375,120.9,1.57,77.006369,262.4,1.77,148.24859,13457,7.2,Y,.,.,.,.,.,.,.,,,.,
+4,2016,7096.0,City of Geneva- (IL),IL,Municipal,32.343,0.45,71.873333,32.343,0.45,71.873333,.,.,.,10153,34.5,N,.,.,.,.,.,.,.,,,.,
+5,2016,9209.0,Illinois Rural Electric Coop,IL,Cooperative,.,.,.,.,.,.,.,.,.,.,.,,30.845,.,.,27.574,.,.,10339,N,L,12.5,N
+6,2016,9750.0,Jo-Carroll Energy Coop Inc,IL,Cooperative,.,.,.,.,.,.,.,.,.,.,.,,102.337,0.799,128.08135,77.656,0.625,124.2496,21233,N,L,35,N
+7,2016,12341.0,MidAmerican Energy Co,IL,Investor Owned,255,1.59,160.37736,103,1,103,251,1.54,162.98701,85050,13.8,Y,.,.,.,.,.,.,.,,,.,
+8,2016,12395.0,Menard Electric Coop,IL,Cooperative,.,.,.,.,.,.,.,.,.,.,.,,183,1.506,121.51394,183,1.506,121.51394,11020,N,O,12.5,N
+9,2016,12803.0,"Monroe County Elec Coop, Inc",IL,Cooperative,707.4,0.038,18615.789,707.4,0.038,18615.789,289.2,0.035,8262.8571,7313,12,N,.,.,.,.,.,.,.,,,.,
+10,2016,13032.0,Mt Carmel Public Utility Co,IL,Investor Owned,.,.,.,.,.,.,.,.,.,.,.,,.,1.89,.,.,1.17,.,5350,N,L,7.2,N
+11,2016,13208.0,City of Naperville - (IL),IL,Municipal,18.64,0.339,54.985251,.,.,.,.,.,.,59097,12.4,N,.,.,.,.,.,.,.,,,.,
+12,2016,16420.0,Rural Electric Conven Coop,IL,Cooperative,329.954,2.293,143.89621,95.136,1.211,78.559868,289.862,1.767,164.04188,5802,15,Y,.,.,.,.,.,.,.,,,.,
+13,2016,17585.0,"Southeastern IL Elec Coop, Inc",IL,Cooperative,157.09,1.43,109.85315,146.11,1.37,106.64964,.,.,.,23803,12.4,Y,.,.,.,.,.,.,.,,,.,
+14,2016,17631.0,Southern Illinois Elec Coop,IL,Cooperative,.,.,.,.,.,.,.,.,.,.,.,,198.36,.,.,150.54,.,.,11281,N,O,12.5,Y
+15,2016,17697.0,Southwestern Electric Coop Inc - (IL),IL,Cooperative,383.02,1.72,222.68605,83.71,0.86,97.337209,299.31,0.956,313.08577,21849,13,N,.,.,.,.,.,.,.,,,.,
+16,2016,17828.0,City of Springfield - (IL),IL,Municipal,.,.,.,.,.,.,.,.,.,.,.,,79,1.46,54.109589,.,.,.,68265,N,L,12.5,N
+17,2016,17860.0,City of St Charles - (IL),IL,Municipal,.,.,.,.,.,.,.,.,.,.,.,,46.1,1.1,41.909091,46.1,1.1,41.909091,15588,Y,L,12.4,N
+18,2016,18955.0,"Tri-County Electric Coop, Inc",IL,Cooperative,346.1,2.39,144.81172,86.8,1,86.8,202.5,1.2,168.75,16241,12.5,Y,.,.,.,.,.,.,.,,,.,
+19,2016,20824.0,Village of Winnetka - (IL),IL,Municipal,.,.,.,.,.,.,.,.,.,.,.,,52.347,1.254,41.744019,.,.,.,5061,N,F,12.4,N
+20,2016,56697.0,Ameren Illinois Company,IL,Investor Owned,239,1.36,175.73529,124,1.04,119.23077,235,1.33,176.69173,1239428,69,Y,.,.,.,.,.,.,.,,,.,

@@ -1,0 +1,125 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..Part|,|Utility Characteristics..Service Type|,"|Utility Characteristics..""Data Type O = Observed I = Imputed""|",|Utility Characteristics..State|,|Utility Characteristics..Ownership|,|Utility Characteristics.BA Code|,|RESIDENTIAL.Revenues.Thousand Dollars|,|RESIDENTIAL.Sales.Megawatthours|,|RESIDENTIAL.Customers.Count|,|COMMERCIAL.Revenues.Thousand Dollars|,|COMMERCIAL.Sales.Megawatthours|,|COMMERCIAL.Customers.Count|,|INDUSTRIAL.Revenues.Thousand Dollars|,|INDUSTRIAL.Sales.Megawatthours|,|INDUSTRIAL.Customers.Count|,|TRANSPORTATION.Revenues.Thousand Dollars|,|TRANSPORTATION.Sales.Megawatthours|,|TRANSPORTATION.Customers.Count|,|TOTAL.Revenues.Thousand Dollars|,|TOTAL.Sales.Megawatthours|,|TOTAL.Customers.Count|
+0,2020,970.0,Homefield Energy,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,0.0,0,0,"1,604.1","19,653",9,0.0,0,0,"1,604.1","19,653",9
+1,2020,970.0,Homefield Energy,B,Energy,O,IL,Retail Power Marketer,MISO,"228,621.1","4,215,830","401,790","127,696.9","2,600,537","3,319","25,622.0","658,320",86,"1,606.7","21,862",1,"383,546.7","7,496,549","405,196"
+2,2020,1325.0,City of Batavia - (IL),A,Bundled,O,IL,Municipal,PJM,"12,612.0","89,816","9,763","16,139.0","135,608","1,339","16,301.0","181,400",9,.,.,.,"45,052.0","406,824","11,111"
+3,2020,1611.0,"Messer Energy Services, Inc.",B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,0.0,0,0,"6,399.0","160,583",3,0.0,0,0,"6,399.0","160,583",3
+4,2020,3931.0,Coles-Moultrie Electric Coop,A,Bundled,O,IL,Cooperative,MISO,"17,364.0","117,724","8,446","6,147.0","48,914","1,116","3,198.0","33,025",8,.,.,.,"26,709.0","199,663","9,570"
+5,2020,4100.0,"Commerce Energy, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"29,981.2","361,667","37,517","3,067.9","41,990","2,434",0.0,0,0,0.0,0,0,"33,049.1","403,657","39,951"
+6,2020,4110.0,Commonwealth Edison Co,A,Bundled,O,IL,Investor Owned,PJM,"2,547,676.2","19,250,047","2,637,056","786,494.6","7,841,717","215,127","54,721.4","858,862",174,0.0,0,0,"3,388,892.2","27,950,626","2,852,357"
+7,2020,4110.0,Commonwealth Edison Co,C,Delivery,O,IL,Investor Owned,PJM,"543,084.6","8,783,712","1,044,873","651,184.3","21,369,962","176,067","459,610.9","25,020,423","1,780","6,809.7","433,045",2,"1,660,689.5","55,607,142","1,222,722"
+8,2020,4362.0,Corn Belt Energy Corporation,A,Bundled,O,IL,Cooperative,MISO,"53,350.0","399,300","34,072","19,245.3","160,831","2,320","4,740.6","68,998",3,.,.,.,"77,335.9","629,129","36,395"
+9,2020,5535.0,Egyptian Electric Coop Assn,A,Bundled,O,IL,Cooperative,MISO,"27,457.5","194,458","13,644","12,656.3","117,272","1,743",.,.,.,.,.,.,"40,113.8","311,730","15,387"
+10,2020,5585.0,Eastern Illinois Elec Coop,A,Bundled,O,IL,Cooperative,MISO,"24,900.0","173,647","11,192","6,089.0","45,499","2,313","2,203.0","21,002",15,.,.,.,"33,192.0","240,148","13,520"
+11,2020,6458.0,Energy Harbor Corp.,B,Energy,O,IL,Retail Power Marketer,MISO,"1,663.7","23,246","2,430","6,351.9","187,577",146,"58,967.7","1,828,861",20,0.0,0,0,"66,983.3","2,039,684","2,596"
+12,2020,7096.0,City of Geneva- (IL),A,Bundled,O,IL,Municipal,PJM,"8,853.0","81,337","8,694","12,514.0","126,306","1,574","13,389.0","153,979",61,.,.,.,"34,756.0","361,622","10,329"
+13,2020,7279.0,"NextEra Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"4,423.7","78,975",368,0.0,0,0,0.0,0,0,"4,423.7","78,975",368
+14,2020,7554.0,Green Mountain Energy Company,B,Energy,O,IL,Retail Power Marketer,PJM,"12,958.8","108,285","15,478",12.5,110,2,0.0,0,0,0.0,0,0,"12,971.3","108,395","15,480"
+15,2020,9750.0,"Jo-Carroll Energy, Inc",A,Bundled,O,IL,Cooperative,MISO,"25,953.7","155,519","17,514","12,520.7","92,932","2,944","8,244.0","87,500",70,.,.,.,"46,718.4","335,951","20,528"
+16,2020,9750.0,"Jo-Carroll Energy, Inc",C,Delivery,O,IL,Cooperative,MISO,0.0,0,0,0.0,0,0,"1,398.2","189,828",1,0.0,0,0,"1,398.2","189,828",1
+17,2020,12341.0,MidAmerican Energy Co,A,Bundled,O,IL,Investor Owned,MISO,"61,540.5","639,263","73,949","41,293.0","568,653","11,376","30,086.2","639,592",42,.,.,.,"132,919.7","1,847,508","85,367"
+18,2020,12341.0,MidAmerican Energy Co,C,Delivery,O,IL,Investor Owned,MISO,19.4,418,76,768.0,"43,453",188,387.5,"29,247",5,.,.,.,"1,174.9","73,118",269
+19,2020,12395.0,Menard Electric Coop,A,Bundled,O,IL,Cooperative,MISO,"17,980.2","115,683","9,104","3,908.4","27,444",581,"6,739.5","56,415","1,255",.,.,.,"28,628.1","199,542","10,940"
+20,2020,13032.0,Mt Carmel Public Utility Co,A,Bundled,O,IL,Investor Owned,MISO,"7,033.0","47,330","4,356","2,174.0","14,386",815,"3,137.0","24,504",92,0.0,0,0,"12,344.0","86,220","5,263"
+21,2020,13208.0,City of Naperville - (IL),A,Bundled,O,IL,Municipal,PJM,"70,482.8","525,365","54,483","74,783.6","669,464","6,467","7,241.9","63,025",8,.,.,.,"152,508.3","1,257,854","60,958"
+22,2020,13292.0,Norris Electric Coop,A,Bundled,O,IL,Cooperative,MISO,"27,124.0","252,912","17,859","7,940.0","83,282","2,185","4,513.0","14,710",12,.,.,.,"39,577.0","350,904","20,056"
+23,2020,13374.0,"Constellation NewEnergy, Inc",B,Energy,O,IL,Retail Power Marketer,PJM,"86,400.5","1,123,913","123,748","792,680.1","14,830,590","52,803","102,384.5","2,018,471",875,0.0,0,0,"981,465.1","17,972,974","177,426"
+24,2020,13374.0,"Constellation NewEnergy, Inc",B,Energy,O,IL,Retail Power Marketer,MISO,"27,543.4","510,480","54,331","162,873.5","3,754,693","21,428","30,961.2","780,392",968,0.0,0,0,"221,378.1","5,045,565","76,727"
+25,2020,14840.0,City of Peru - (IL),A,Bundled,O,IL,Municipal,MISO,"4,618.0","38,197","4,732","10,451.0","91,955","1,152","10,680.0","103,478",8,.,.,.,"25,749.0","233,630","5,892"
+26,2020,16179.0,Rochelle Municipal Utilities,A,Bundled,O,IL,Municipal,PJM,"6,263.0","62,281","5,884","5,063.0","39,855",975,"23,298.0","276,230",40,.,.,.,"34,624.0","378,366","6,899"
+27,2020,16196.0,Rock Energy Cooperative,A,Bundled,O,IL,Cooperative,MISO,"11,431.0","85,938","9,273","8,343.0","81,602","1,016","4,677.0","52,227",23,.,.,.,"24,451.0","219,767","10,312"
+28,2020,16740.0,Scenic Rivers Energy Coop,A,Bundled,O,IL,Cooperative,MISO,26.6,218,12,.,.,.,.,.,.,.,.,.,26.6,218,12
+29,2020,16840.0,"Calpine Energy Solutions, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"145,014.6","3,659,131",169,"10,816.7","270,831",14,0.0,0,0,"155,831.3","3,929,962",183
+30,2020,17040.0,"Shelby Electric Coop, Inc",A,Bundled,O,IL,Cooperative,MISO,"21,013.3","125,139","9,713","3,504.0","29,412",158,"8,730.0","87,404",21,0.0,0,0,"33,247.3","241,955","9,892"
+31,2020,17585.0,"Southeastern IL Elec Coop, Inc",A,Bundled,O,IL,Cooperative,MISO,"42,186.0","313,192","22,250","11,899.0","83,325","2,281","35,778.0","343,434",28,.,.,.,"89,863.0","739,951","24,559"
+32,2020,17697.0,Southwestern Electric Coop Inc - (IL),A,Bundled,O,IL,Cooperative,MISO,"42,550.1","321,161","23,017","11,408.9","95,250",594,"4,171.9","13,660",7,.,.,.,"58,130.9","430,071","23,618"
+33,2020,17710.0,"Spark Energy, LP",B,Energy,O,IL,Retail Power Marketer,MISO,"40,131.0","284,983","41,599","2,175.0","26,980","1,081",0.0,0,0,0.0,0,0,"42,306.0","311,963","42,680"
+34,2020,17828.0,City of Springfield - (IL),A,Bundled,O,IL,Municipal,MISO,"72,426.3","616,209","59,975","129,028.6","977,949","11,473",.,.,.,.,.,.,"201,454.9","1,594,158","71,448"
+35,2020,17860.0,City of St Charles - (IL),A,Bundled,O,IL,Municipal,PJM,"17,934.7","122,678","13,769","21,021.6","162,667","2,236","19,902.0","199,201",43,0.0,0,0,"58,858.3","484,546","16,048"
+36,2020,18193.0,Direct Energy Business,B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"379,299.5","7,302,904","19,809","5,175.5","99,285",883,0.0,0,0,"384,475.0","7,402,189","20,692"
+37,2020,18955.0,"Tri-County Electric Coop, Inc (IL)",A,Bundled,O,IL,Cooperative,MISO,"33,002.4","230,382","15,983","3,765.6","31,771",344,"9,801.5","112,757",47,0.0,0,0,"46,569.5","374,910","16,374"
+38,2020,19107.0,ENGIE Resources LLC,B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"161,479.1","2,400,361",459,"50,993.4","758,009",145,0.0,0,0,"212,472.5","3,158,370",604
+39,2020,20222.0,Wayne-White Counties Elec Coop,A,Bundled,O,IL,Cooperative,MISO,"22,544.8","149,375","11,931","7,787.6","66,948","1,530","8,994.6","117,412",166,0.0,0,0,"39,327.0","333,735","13,627"
+40,2020,49730.0,American PowerNet,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"18,492.9","384,268",4,0.0,0,0,0.0,0,0,"18,492.9","384,268",4
+41,2020,50046.0,"Texas Retail Energy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"16,534.4","311,185",116,0.0,0,0,0.0,0,0,"16,534.4","311,185",116
+42,2020,50046.0,"Texas Retail Energy, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"8,009.8","216,349",85,0.0,0,0,0.0,0,0,"8,009.8","216,349",85
+43,2020,54820.0,Direct Energy Services,B,Energy,O,IL,Retail Power Marketer,MISO,"44,655.9","394,869","46,592","16,080.5","188,886","10,584",0.0,0,0,0.0,0,0,"60,736.4","583,755","57,176"
+44,2020,54862.0,Champion Energy Services,B,Energy,O,IL,Retail Power Marketer,MISO,79.5,951,"1,510","25,535.1","567,095",635,0.0,0,0,0.0,0,0,"25,614.6","568,046","2,145"
+45,2020,55722.0,AEP Energy,B,Energy,O,IL,Retail Power Marketer,PJM,"14,155.7","224,700","21,250","337,962.0","5,135,745","22,079",0.0,0,0,0.0,0,0,"352,117.7","5,360,445","43,329"
+46,2020,55781.0,Liberty Power Corp.,B,Energy,O,IL,Retail Power Marketer,MISO,"23,257.3","240,326","36,398","12,138.5","213,035","1,515",0.0,0,0,0.0,0,0,"35,395.8","453,361","37,913"
+47,2020,55815.0,"IDT Energy, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"6,478.4","45,794","7,995",746.9,"5,893",170,0.0,0,0,0.0,0,0,"7,225.3","51,687","8,165"
+48,2020,55874.0,"Energy Services Providers, Inc",B,Energy,O,IL,Retail Power Marketer,MISO,"18,310.9","205,429","23,535","1,910.0","23,134",676,0.0,0,0,0.0,0,0,"20,220.9","228,563","24,211"
+49,2020,55878.0,Hudson Energy Services,B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"47,515.8","797,271","3,934",0.0,0,0,0.0,0,0,"47,515.8","797,271","3,934"
+50,2020,56212.0,"Ambit Energy Holdings, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,"32,458.0","476,049","48,966","24,411.0","458,871","7,799",0.0,0,0,0.0,0,0,"56,869.0","934,920","56,765"
+51,2020,56265.0,Energy Plus Holdings LLC,B,Energy,O,IL,Retail Power Marketer,PJM,"12,254.0","90,697","10,696","1,537.9","11,383",506,0.0,0,0,0.0,0,0,"13,791.9","102,080","11,202"
+52,2020,56286.0,"Frontier Utilities, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"2,858.9","22,451","2,875",0.0,0,0,0.0,0,0,0.0,0,0,"2,858.9","22,451","2,875"
+53,2020,56379.0,"MC Squared Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"55,261.0","823,131","82,911","42,212.0","624,873","9,340","1,315.0","19,352",54,0.0,0,0,"98,788.0","1,467,356","92,305"
+54,2020,56504.0,Major Energy Electric Services,B,Energy,O,IL,Retail Power Marketer,PJM,950.0,"5,992",979,161.0,"2,255",21,0.0,0,0,0.0,0,0,"1,111.0","8,247","1,000"
+55,2020,56697.0,Ameren Illinois Company,A,Bundled,O,IL,Investor Owned,MISO,"486,932.9","5,000,723","459,922","214,851.3","2,453,658","65,683","18,758.2","370,162",282,.,.,.,"720,542.4","7,824,543","525,887"
+56,2020,56697.0,Ameren Illinois Company,C,Delivery,O,IL,Investor Owned,MISO,"373,943.4","6,442,441","600,344","294,731.4","9,250,344","98,279","105,179.2","10,304,303",691,463.0,"16,913",1,"774,317.0","26,014,001","699,315"
+57,2020,56775.0,Entrust Energy,B,Energy,O,IL,Retail Power Marketer,PJM,9.0,110,13,"7,710.0","111,653","1,859",0.0,0,0,0.0,0,0,"7,719.0","111,763","1,872"
+58,2020,57037.0,Reliant Energy Northeast LLC,B,Energy,O,IL,Retail Power Marketer,PJM,"118,369.0","1,196,040","142,093",837.0,"9,832",205,"6,193.0","118,103",20,0.0,0,0,"125,399.0","1,323,975","142,318"
+59,2020,57067.0,"ENGIE Retail, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"1,713.1","17,480","2,569",415.9,"4,366",95,0.0,0,0,0.0,0,0,"2,129.0","21,846","2,664"
+60,2020,57307.0,ENGIE Power & Gas LLC,B,Energy,O,IL,Retail Power Marketer,PJM,504.7,"4,869",598,"5,044.5","88,904",178,0.0,0,0,0.0,0,0,"5,549.2","93,773",776
+61,2020,57313.0,SolarCity Corporation,A,Bundled,O,IL,Behind the Meter,PJM,1.9,23,3,0.0,0,0,0.0,0,0,0.0,0,0,1.9,23,3
+62,2020,57488.0,"XOOM Energy Illinois, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"12,161.0","111,860","17,372","4,976.0","49,955","2,154",0.0,0,0,0.0,0,0,"17,137.0","161,815","19,526"
+63,2020,58119.0,Public Power LLC (CT),B,Energy,O,IL,Retail Power Marketer,PJM,"1,766.7","17,419","2,182","5,092.0","75,268",784,0.0,0,0,0.0,0,0,"6,858.7","92,687","2,966"
+64,2020,58162.0,Viridian Energy PA LLC,B,Energy,O,IL,Retail Power Marketer,PJM,"5,255.5","46,020","5,384","1,682.0","15,076",760,0.0,0,0,0.0,0,0,"6,937.5","61,096","6,144"
+65,2020,58314.0,"Palmco Power IL, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"6,831.0","72,615","11,259",24.0,260,50,0.0,0,0,0.0,0,0,"6,855.0","72,875","11,309"
+66,2020,58667.0,"North American Power and Gas, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"3,506.2","23,414","2,925",158.1,"1,020",60,0.0,0,0,0.0,0,0,"3,664.3","24,434","2,985"
+67,2020,58683.0,Everyday Energy LLC,B,Energy,O,IL,Retail Power Marketer,PJM,426.3,"4,108",506,0.0,0,0,0.0,0,0,0.0,0,0,426.3,"4,108",506
+68,2020,58951.0,"CleanChoice Energy, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"17,442.9","139,003","20,544",75.9,591,75,0.0,0,0,0.0,0,0,"17,518.8","139,594","20,619"
+69,2020,58952.0,Tomorow Energy Corp.,B,Energy,O,IL,Retail Power Marketer,PJM,"4,721.0","28,791","3,907",345.0,"2,109",109,0.0,0,0,0.0,0,0,"5,066.0","30,900","4,016"
+70,2020,58953.0,"Star Energy Partners, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"15,883.6","173,867","19,950",0.0,0,0,0.0,0,0,0.0,0,0,"15,883.6","173,867","19,950"
+71,2020,58956.0,"SmartEnergy Holdings, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"9,954.9","128,052","17,216",0.0,0,0,0.0,0,0,0.0,0,0,"9,954.9","128,052","17,216"
+72,2020,58957.0,"Interstate Gas Supply, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"18,950.0","192,141","23,596","23,540.0","448,275","2,426",0.0,0,0,0.0,0,0,"42,490.0","640,416","26,022"
+73,2020,58964.0,"Alpha Gas and Electric, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"1,487.0","14,091","2,527",0.0,0,0,0.0,0,0,0.0,0,0,"1,487.0","14,091","2,527"
+74,2020,58965.0,Energy.Me Midwest LLC,B,Energy,O,IL,Retail Power Marketer,PJM,4.3,64,19,21.8,321,29,0.0,0,0,0.0,0,0,26.1,385,48
+75,2020,58965.0,Energy.Me Midwest LLC,B,Energy,O,IL,Retail Power Marketer,MISO,0.1,2,1,6.4,94,8,0.0,0,0,0.0,0,0,6.5,96,9
+76,2020,58972.0,"Realgy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"7,871.4","146,412","13,267","6,569.5","116,163","2,448",0.0,0,0,0.0,0,0,"14,440.9","262,575","15,715"
+77,2020,58974.0,Clearview Electric Inc.,B,Energy,O,IL,Retail Power Marketer,MISO,"15,390.4","146,937","16,341",489.8,"5,075",359,0.0,0,0,0.0,0,0,"15,880.2","152,012","16,700"
+78,2020,59054.0,"Eligo Energy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"35,304.4","491,548","60,500","3,033.5","45,138",823,0.0,0,0,0.0,0,0,"38,337.9","536,686","61,323"
+79,2020,59064.0,"Great American Power, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"5,244.4","49,577","7,529",12.7,152,22,0.0,0,0,0.0,0,0,"5,257.1","49,729","7,551"
+80,2020,59065.0,Titan Gas LLC,B,Energy,O,IL,Retail Power Marketer,PJM,164.6,"1,901",230,"3,614.1","55,469",432,0.0,0,0,0.0,0,0,"3,778.7","57,370",662
+81,2020,59088.0,"Nordic Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"24,911.7","354,208","44,449","10,177.2","140,381","4,615",0.0,0,0,0.0,0,0,"35,088.9","494,589","49,064"
+82,2020,59088.0,"Nordic Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,"9,530.7","115,507","12,136","3,252.7","44,449","1,426",0.0,0,0,0.0,0,0,"12,783.4","159,956","13,562"
+83,2020,59310.0,"Inspire Energy Holdings, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"16,148.2","160,607","20,335",27.9,279,3,0.0,0,0,0.0,0,0,"16,176.1","160,886","20,338"
+84,2020,59385.0,"Dynegy Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"110,555.6","1,593,169","174,115","172,827.3","2,717,867","1,996","6,191.5","97,022",10,"25,881.2","533,375",2,"315,455.6","4,941,433","176,123"
+85,2020,59472.0,Agera Energy LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.1,2,1,73.2,315,30,0.0,0,0,0.0,0,0,73.3,317,31
+86,2020,59472.0,Agera Energy LLC,B,Energy,O,IL,Retail Power Marketer,MISO,0.6,11,1,26.9,116,11,0.0,0,0,0.0,0,0,27.5,127,12
+87,2020,59579.0,Sunnova,A,Bundled,O,IL,Behind the Meter,PJM,93.8,587,83,0.0,0,0,0.0,0,0,0.0,0,0,93.8,587,83
+88,2020,59619.0,"EDF Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,.,.,.,"51,472.6","1,454,785",18,"39,547.3","1,288,065",10,.,.,.,"91,019.9","2,742,850",28
+89,2020,59624.0,"Vivint Solar, Inc.",A,Bundled,O,IL,Behind the Meter,PJM,"1,101.3","12,118","1,649",0.0,0,0,0.0,0,0,0.0,0,0,"1,101.3","12,118","1,649"
+90,2020,59647.0,Sunrun Inc.,A,Bundled,O,IL,Behind the Meter,PJM,"4,928.6","37,556","5,338",0.0,0,0,0.0,0,0,0.0,0,0,"4,928.6","37,556","5,338"
+91,2020,59795.0,"Starion Energy PA, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,727.4,"6,930","1,208",47.9,557,17,0.0,0,0,0.0,0,0,775.3,"7,487","1,225"
+92,2020,59797.0,Park Power LLC,B,Energy,O,IL,Retail Power Marketer,PJM,"1,543.9","15,657","2,354",0.5,4,2,0.0,0,0,0.0,0,0,"1,544.4","15,661","2,356"
+93,2020,59799.0,American Power & Gas,B,Energy,O,IL,Retail Power Marketer,PJM,"1,362.6","11,854","1,302","3,476.6","31,358","1,320",.,.,.,.,.,.,"4,839.2","43,212","2,622"
+94,2020,59807.0,"Rushmore Energy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,386.1,"3,562",606,0.0,0,0,0.0,0,0,0.0,0,0,386.1,"3,562",606
+95,2020,59807.0,"Rushmore Energy, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,"2,166.5","27,845","2,921",0.0,0,0,0.0,0,0,0.0,0,0,"2,166.5","27,845","2,921"
+96,2020,59808.0,MP2 Energy LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"49,478.0","1,496,079","2,913","25,985.0","715,660",105,0.0,0,0,"75,463.0","2,211,739","3,018"
+97,2020,59809.0,"Residents Energy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"27,554.7","261,078","30,491",378.6,"4,391",262,0.0,0,0,0.0,0,0,"27,933.3","265,469","30,753"
+98,2020,59811.0,Santanna Energy Services,B,Energy,O,IL,Retail Power Marketer,PJM,"7,881.1","96,084","12,282","2,824.2","34,431",537,0.0,0,0,0.0,0,0,"10,705.3","130,515","12,819"
+99,2020,59847.0,Sustainable Star LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,0.0,0,0,"3,135.2","66,311",53,0.0,0,0,"3,135.2","66,311",53
+100,2020,59848.0,"ResCom Energy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,124.0,"1,827",303,.,.,.,.,.,.,.,.,.,124.0,"1,827",303
+101,2020,59931.0,"MidAmerican Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,495.1,"6,918",523,"54,497.6","942,307","4,869","58,845.1","1,066,505",32,0.0,0,0,"113,837.8","2,015,730","5,424"
+102,2020,59931.0,"MidAmerican Energy Services, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,"5,196.8","103,755","10,232","15,318.0","317,952","1,831","19,549.3","426,053",112,0.0,0,0,"40,064.1","847,760","12,175"
+103,2020,59932.0,Switch Energy,B,Energy,O,IL,Retail Power Marketer,PJM,"2,358.0","33,416","4,371",0.0,0,0,0.0,0,0,0.0,0,0,"2,358.0","33,416","4,371"
+104,2020,59958.0,"Mega Energy of Illinois, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"5,699.0","49,882","5,381","2,396.0","40,493",301,0.0,0,0,0.0,0,.,"8,095.0","90,375","5,682"
+105,2020,60218.0,MPower Energy NJ LLC,B,Energy,O,IL,Retail Power Marketer,PJM,73.1,795,106,0.0,0,0,0.0,0,0,0.0,0,0,73.1,795,106
+106,2020,60219.0,"LifeEnergy, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,0.1,2,11,0.1,1,1,0.0,0,0,0.0,0,0,0.2,3,12
+107,2020,60583.0,Atlantic Energy LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"1,431.0","14,793","1,306",0.0,0,0,0.0,0,0,"1,431.0","14,793","1,306"
+108,2020,60696.0,"Vista Energy Marketing, L.P.",B,Energy,O,IL,Retail Power Marketer,MISO,"11,624.4","109,903","15,267",501.9,"7,311",124,0.0,0,0,0.0,0,0,"12,126.3","117,214","15,391"
+109,2020,61092.0,"Stream Energy Illinois, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"4,332.9","52,398","7,099",768.4,"11,262",407,0.0,0,0,0.0,0,0,"5,101.3","63,660","7,506"
+110,2020,61131.0,Freepoint Energy Solutions LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"20,983.0","360,666",753,0.0,0,0,0.0,0,0,"20,983.0","360,666",753
+111,2020,61367.0,South Bay Energy Corp.,B,Energy,O,IL,Retail Power Marketer,PJM,181.0,"1,945",268,190.0,"2,016",106,0.0,0,0,0.0,0,0,371.0,"3,961",374
+112,2020,61922.0,"Pure Energy USA, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,"1,165.0","10,999","1,460",350.0,"3,409",427,0.0,0,0,0.0,0,0,"1,515.0","14,408","1,887"
+113,2020,62094.0,"SFE Energy Illinois, Inc.",B,Energy,O,IL,Retail Power Marketer,MISO,631.0,"7,916",953,412.0,"5,186",70,0.0,0,0,0.0,0,0,"1,043.0","13,102","1,023"
+114,2020,62790.0,"Summer Energy Midwest, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,473.0,"7,990",30,0.0,0,0,0.0,0,0,473.0,"7,990",30
+115,2020,63008.0,Agressive Energy LLC,B,Energy,O,IL,Retail Power Marketer,PJM,0.0,0,0,"29,603.1","507,703","1,178",0.0,0,0,0.0,0,0,"29,603.1","507,703","1,178"
+116,2020,63029.0,Josco Energy IL LLC,B,Energy,O,IL,Retail Power Marketer,PJM,164.2,"1,668",389,27.8,398,30,0.0,0,0,0.0,0,0,192.0,"2,066",419
+117,2020,63489.0,"Tenaska Power Management, LLC",B,Energy,O,IL,Retail Power Marketer,MISO,0.0,0,0,"21,294.2","671,438",2,0.0,0,0,0.0,0,0,"21,294.2","671,438",2
+118,2020,63695.0,"RPA Energy, Inc.",B,Energy,O,IL,Retail Power Marketer,PJM,"20,061.3","147,654","25,092",0.0,0,0,0.0,0,0,0.0,0,0,"20,061.3","147,654","25,092"
+119,2020,64222.0,"Grid Power Direct, LLC",B,Energy,O,IL,Retail Power Marketer,PJM,.,.,.,"4,507.7","59,305",286,.,.,.,.,.,.,"4,507.7","59,305",286
+120,2020,99999.0,Adjustment 2020,A,Bundled,I,IL,,PJM,"10,647.6","81,309","-2,273","4,806.4","41,473",820,"7,647.0","446,774",1,0.0,0,0,"23,101.0","569,556","-1,452"
+121,2020,99999.0,Adjustment 2020,A,Bundled,I,IL,,MISO,"250,620.1","1,704,480","152,924","91,732.6","734,645","16,172","49,506.8","492,652",669,0.0,0,0,"391,859.5","2,931,777","169,765"
+122,2020,99999.0,Adjustment 2020,B,Energy,I,IL,,PJM,"26,484.8","307,045","55,092","-464,404.2","-8,833,672","54,676","1,049,645.5","19,611,281",612,"-4,888.7","-100,330",0,"606,837.5","10,984,324","110,380"
+123,2020,99999.0,Adjustment 2020,B,Energy,I,IL,,MISO,"-28,071.8","-421,180","-114,583","-696,068.2","-14,233,623","22,629","276,689.3","5,541,044","-1,534",-364.5,"-4,949",0,"-447,815.3","-9,118,708","-93,488"
