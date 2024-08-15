@@ -114,8 +114,3 @@ def filter_disturbances(csv_path, save_path):
 
     with open(save_path, 'w') as f:
         f.write(illinois_df.to_csv())
-
-
-for i in range(2014, 2022):
-    filter_disturbances(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/us.csv', 
-                        f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/illinois.csv')

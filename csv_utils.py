@@ -9,6 +9,13 @@ def xlsx_to_csv(excel_path, csv_save_path, check=False):
     except IOError as e:
         print(f"file type conversion unsupported: {e}")
 
+def concatenate_csvs(save_path, csv_paths):
+    df = pd.DataFrame()
+    for path in csv_paths:
+        df = pd.concat([df, pd.DataFrame(pd.read_csv(path))], ignore_index=True)
+    with open(save_path, 'w') as f:
+        f.write(df.to_csv())
+
 def is_not_name_column(column: str, year):
     return not (column.__contains__(year) or column.__contains__('O = Observed') or column.__contains__('I = Imputed'))
 

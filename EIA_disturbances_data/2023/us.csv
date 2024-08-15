@@ -1,4 +1,4 @@
-Event Month,Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
+Month,Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
 January,01/01/2023,00:06:00,01/01/2023,03:57:00,California: Riverside County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0
 January,01/01/2023,09:55:00,01/01/2023,10:30:00,California: Sacramento County;,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0
 January,01/01/2023,14:47:00,01/01/2023,16:50:00,Florida: Citrus County;,SERC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,19,3509
