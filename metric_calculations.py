@@ -16,21 +16,15 @@ def make_style_function(county_colors_map):
         }
     return style_function
 
-def desaturate_color(hex_code, percent):
-    #hex to rgb
-    r = int(hex_code[1:3], 16)
-    g = int(hex_code[3:5], 16)
-    b = int(hex_code[5:7], 16)
+def desaturate_color(percent):
+    percent = max(0, min(percent, 1))
+    g = int(255*(1-percent))
+    b = int(255*percent)
 
-    #grayscale
-    gray = int(r * 0.299 + g * 0.587 + b * 0.114)
-
-    #desaturate
-    r = int(r * percent + gray * (1 - percent))
-    g = int(g * percent + gray * (1 - percent))
-    b = int(b * percent + gray * (1 - percent))
-
-    return f"#{r:02x}{g:02x}{b:02x}"
+    g_hex = f"{g:02x}"
+    b_hex = f"{b:02x}"
+    
+    return f"#00{g_hex}{b_hex}"
 
 
 def get_time_diff(row):
@@ -98,25 +92,25 @@ def get_percentile_sorted_data(data_map):
     for i in range(total):
        left_equal, right_equal = search_for_equals(values, i)
        num_equal = left_equal + right_equal + 1
-       percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total * 100
+       percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total
        county = sorted_data[i][0]
        percentile_ranks[county] = percentile_rank
     
     return percentile_ranks
 
 
-def normalize_quantitative_vulnerabilities(data_path):
+def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
     outages = get_quantitative_vulnerability(data_path)
     county_totals = {}
     metric_df = pd.DataFrame()
 
     for county, dates in outages.items():
-        #print(f"County: {county}")
+        print(f"County: {county}")
         county_totals[county] = 0
         #to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
         num_interruptions, num_customers, cum_duration = 0, 0, 0
         for date, events in dates.items():
-            #print(f"  Date: {date}")
+            print(f"  Date: {date}")
             max_people_out = max([e[0] for e in events])
             num_customers += max_people_out
             for event in events:
@@ -124,14 +118,15 @@ def normalize_quantitative_vulnerabilities(data_path):
                 num_people_out, total_duration = event[0], event[1]
                 cum_duration += total_duration
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
-                #print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")     
+                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
 
-        saifi = num_interruptions / num_customers
-        saidi = cum_duration / num_customers    
-        caidi = saidi / saifi
-        year = data_path.split("_")[2].replace(".csv", "")
-        metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi}
-        metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
+        if calculate_metrics:
+            saifi = num_interruptions / num_customers
+            saidi = cum_duration / num_customers    
+            caidi = saidi / saifi
+            year = data_path.split("_")[2].replace(".csv", "")
+            metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi}
+            metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
 
     try:
         cur_contents = pd.read_csv('./outage_records/metrics.csv')
@@ -143,8 +138,6 @@ def normalize_quantitative_vulnerabilities(data_path):
 
     
     percentile_ranks = get_percentile_sorted_data(county_totals)
-    for key in county_totals.keys():
-        percentile_ranks[key] = percentile_ranks[key]/100
 
     return percentile_ranks
 
@@ -209,11 +202,15 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
 
     county_hex = {}
     for key in county_saturation.keys():
-        county_hex[key.replace('County', '').strip()] = desaturate_color('#0000FF', county_saturation[key])
+        county_hex[key.replace('County', '').strip()] = desaturate_color(county_saturation[key])
 
     style_function = make_style_function(county_colors_map=county_hex)
 
     m = folium.Map(location=[40.754, -88.931], zoom_start=6)
+
+    color_bar_html = open('./cdc_svi/colorbar.html', 'r').read()
+    icon = folium.DivIcon(html=color_bar_html)      
+    folium.Marker(location=[40.4, -86.7], icon=icon).add_to(m)
 
     folium.GeoJson(
         geojson_data,
@@ -223,15 +220,10 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
     year = svi_path.split("_")[-1].replace('.csv', '')
     m.save(f"cdc_svi/svi_nri_quantitative_map_{year}.html")
 
-def filter_svi_map(path):
-    with open(path, 'r') as f:
-        csv = pd.read_csv(f)
-        df_filtered = csv[csv['ST_ABBR'] == 'IL']
-        df_filtered.to_csv(path, index=False)
 
-svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
+svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2016.csv',
                           './cdc_svi/NRI_Table_Counties_Illinois.csv', 
-                          './outage_records/filtered_2022.csv')
+                          './outage_records/filtered_2016.csv')
 
 def eagleI_EIA_overlap_map(data_path, save_path):
     with open(data_path, 'r') as f:
@@ -255,7 +247,7 @@ def eagleI_EIA_overlap_map(data_path, save_path):
 
         county_hex = {}
         for key in norm_num.keys():
-            county_hex[key] = desaturate_color('#0000FF', norm_num[key])
+            county_hex[key] = desaturate_color(norm_num[key])
 
         style_function = make_style_function(county_colors_map=county_hex)
 

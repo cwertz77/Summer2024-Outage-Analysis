@@ -56,4 +56,3 @@ def normalize_columns(csv_path):
 
     with open(csv_path, 'w+') as f:
         f.writelines([line for line in new_lines])
-

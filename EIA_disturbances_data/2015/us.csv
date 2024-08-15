@@ -1,0 +1,144 @@
+Month,Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
+January,2015-01-07,17:00:00,2015-01-08,08:35:00,Tennessee,SERC,Public appeal to reduce the use of electricity,Severe Weather - Winter,Unknown,Unknown
+January,2015-01-07,17:00:00,2015-01-08,08:35:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",SERC,Public appeal to reduce the use of electricity,Severe Weather - Winter,Unknown,Unknown
+January,2015-01-22,04:24:00,2015-01-22,05:55:00,"Portland, Oregon",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+January,2015-01-26,14:39:00,2015-01-26,14:40:00,"Cave Junction, Oregon",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+January,2015-01-27,10:30:00,2015-01-27,10:31:00,"Kountze, Texas",SERC,Suspected Physical Attack,Sabotage,0,0
+February,2015-02-01,11:24:00,2015-02-01,11:44:00,"Weber County, Utah",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-02,09:40:00,2015-02-02,09:41:00,"Conroe, Texas",TRE,Suspected Physical Attack,Sabotage,Unknown,Unknown
+February,2015-02-04,11:55:00,2015-02-04,11:56:00,"Vollmers, California",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-05,08:15:00,2015-02-05,08:17:00,"Cameron, Arizona",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-05,11:20:00,2015-02-05,11:21:00,"Dunismuir, California",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-06,20:58:00,Unknown,Unknown,Northern California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Wind,Unknown,65000
+February,2015-02-09,11:30:00,2015-02-09,13:15:00,"Colorado Springs, Colorado",WECC,Suspected Physical Attack,Sabotage,Unknown,Unknown
+February,2015-02-16,21:41:00,2015-02-18,07:00:00,"Northern/North Eastern, Georgia",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,620,186035
+February,2015-02-16,21:00:00,2015-02-18,14:00:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,Unknown,67189
+February,2015-02-17,09:00:00,2015-02-18,23:00:00,"North Carolina, South Carolina",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,Unknown,52000
+February,2015-02-17,02:12:00,2015-02-18,16:00:00,"North Carolina, South Carolina",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,Unknown,68000
+February,2015-02-17,06:20:00,2015-02-17,07:30:00,"Prescott Valley, Arizona",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-18,15:00:00,2015-02-20,09:00:00,"Tennessee, Kentucky, Virginia, North Carolina, Georgia, Alabama, Missouri",SERC,Public appeal to reduce the use of electricity,Severe Weather - Winter,Unknown,Unknown
+February,2015-02-19,14:30:00,2015-02-19,15:20:00,"Winslow, Arizona",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+February,2015-02-20,06:00:00,2015-02-20,10:00:00,"North Carolina, South Carolina",SERC,System-wide voltage reductions of 3 percent or more,Severe Weather - Winter,Unknown,Unknown
+February,2015-02-21,08:34:00,2015-02-21,12:45:00,"Fentress County, Tennessee",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,Unknown,50000
+February,2015-02-26,03:12:00,2015-02-26,20:00:00,"North Carolina, South Carolina",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,Unknown,124000
+February,2015-02-26,03:30:00,2015-02-27,12:00:00,North Carolina ,SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Winter,400,103776
+March,2015-03-04,09:05:00,2015-03-04,14:15:00,"Johnson City , Tennessee",SERC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+March,2015-03-09,23:50:00,2015-03-10,10:53:00,Washington,WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+March,2015-03-15,15:30:00,2015-03-15,19:00:00,"Greater Portland & Salem , Oregon",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Wind,210,71000
+March,2015-03-16,07:31:00,2015-03-16,10:06:00,"Winona , Minnesota",MRO,Suspected Physical Attack,Sabotage,20,5941
+March,2015-03-19,18:30:00,2015-03-19,21:37:00,Southwest Kansas,SPP,Suspected Physical Attack,Vandalism,Unknown,Unknown
+March,2015-03-22,16:25:00,2015-03-22,16:26:00,West Virginia,RFC,Suspected Physical Attack,Vandalism,24,0
+March,2015-03-26,15:21:00,2015-03-26,16:59:00,"Contra Costa County, California",WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,15,Unknown
+March,2015-03-29,04:26:00,2015-03-29,09:21:00,California,WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+April,2015-04-01,18:25:00,2015-04-01,18:26:00,"San Juan County, Utah",WECC,Suspected Physical Attack,Vandalism,Unknown,37
+April,2015-04-02,07:04:00,2015-04-02,08:57:00,"San Juan County, Utah",WECC,Suspected Physical Attack,Vandalism,6,5763
+April,2015-04-03,02:00:00,2015-04-03,07:48:00,"Harvey, Reno, and Sedgwick Counties, Kansas",SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Thunderstorms,Unknown,70000
+April,2015-04-06,08:12:00,2015-04-06,12:08:00,"Butte County, California",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,Unknown,80000
+April,2015-04-07,12:30:00,2015-04-07,17:34:00,Unknown ,RFC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,Unknown,Unknown
+April,2015-04-07,15:34:00,2015-04-07,15:46:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,0,0
+April,2015-04-17,21:30:00,2015-04-19,23:50:00,"Houston, Texas",TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,280982
+April,2015-04-17,09:16:00,2015-04-17,11:00:00,Canada ,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,9300,Unknown
+April,2015-04-18,21:00:00,2015-04-21,04:00:00,"Dallas, Fort Worth, Texas",TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,89000
+April,2015-04-24,19:10:00,2015-04-26,16:00:00,"Dallas, Fort Worth, Texas",TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,57000
+April,2015-04-27,10:30:00,2015-04-28,18:45:00,Louisiana and Texas,SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,199000
+May,2015-05-02,22:51:00,2015-05-03,00:26:00,"Franklin County, Tennessee",SERC,Suspected Physical Attack,Vandalism,1,215
+May,2015-05-04,15:25:00,2015-05-04,15:26:00,"Salt Lake County, Utah",WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+May,2015-05-11,08:32:00,2015-05-11,08:33:00,"Shasta County, California",WECC,Suspected Physical Attack,Sabotage,0,0
+May,2015-05-12,00:40:00,2015-05-12,00:45:00,"Coahoma County, Mississippi",SERC,Suspected Physical Attack,Sabotage,0,0
+May,2015-05-18,15:28:00,2015-05-18,15:47:00,Washington,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,275,0
+May,2015-05-25,18:00:00,2015-05-29,07:15:00,North Texas,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,454000
+May,2015-05-25,22:45:00,2015-05-28,01:25:00,"Fort Bend County, & Harris County ,Texas",TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,61000
+May,2015-05-25,20:30:00,2015-05-26,18:30:00,Texas,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,57531
+May,2015-05-25,20:30:00,Unknown,Unknown,"Texas, Louisiana, Arkansas",SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,57351
+May,2015-05-26,05:30:00,2015-05-27,19:00:00,"Texas, Louisiana, Arkansas, Mississippi",SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,78515
+June,2015-06-01,00:27:00,2015-06-01,02:15:00,"Daviess County, Kentucky",SERC,Suspected Physical Attack,Vandalism,2,110
+June,2015-06-01,19:19:00,2015-06-02,08:36:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,5,484
+June,2015-06-02,18:58:00,2015-06-02,19:24:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,5,727
+June,2015-06-03,15:00:00,2015-06-05,17:00:00,Texas,TRE,Public appeal to reduce the use of electricity,System Operations,Unknown,Unknown
+June,2015-06-07,13:54:00,2015-06-07,14:13:00,"Shelby County, Tennessee",SERC,"Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident System-wide voltage reductions of 3 percent or more",System Operations,926,Unknown
+June,2015-06-07,13:52:00,2015-06-07,14:13:00,Tennessee,SERC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,Unknown,Unknown
+June,2015-06-08,00:00:00,Unknown,Unknown,"Merced County, California",WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,System Operations,176,Unknown
+June,2015-06-20,13:52:00,2015-06-20,15:30:00,"Solano County, California",WECC,Suspected Physical Attack,Vandalism,Unknown,0
+June,2015-06-23,18:00:00,2015-06-30,18:00:00,"Gloucester County, Burlington County, Atlantic County, Cape May County, New Jersey",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,263000
+June,2015-06-23,17:06:00,2015-06-26,16:00:00,"New Castle County, Delaware",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,65000
+June,2015-06-23,17:30:00,2015-06-23,19:00:00,"Delaware County, PA; Chester County, PA",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,200000
+June,2015-06-23,18:30:00,2015-06-24,05:00:00,"Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont",NPCC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,62442
+June,2015-06-23,18:18:00,2015-06-23,20:30:00,New Jersey,RFC,"Load shedding of 100 Megawatts or more implemented under emergency operational policy Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,198,156338
+June,2015-06-23,18:26:00,Unknown,Unknown,New Jersey,NPCC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,90,73000
+June,2015-06-26,02:00:00,Unknown,Unknown,Kansas,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,110000
+June,2015-06-27,17:00:00,2015-06-30,17:18:00,"Wayne County, Michigan",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,68000
+June,2015-06-29,19:21:00,2015-06-29,19:42:00,Washington,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,0,0
+June,2015-06-30,14:00:00,2015-06-30,21:00:00,California,WECC,Public appeal to reduce the use of electricity,Severe Weather,Unknown,Unknown
+June,2015-06-30,10:50:00,2015-07-01,21:00:00,California,WECC,Public appeal to reduce the use of electricity,Severe Weather,Unknown,Unknown
+July,2015-07-03,08:30:00,2015-07-03,14:30:00,"Butte County, California",WECC,Suspected Physical Attack,Suspicious Activity ,0,0
+July,2015-07-03,17:17:00,2015-07-03,23:30:00,Texas,TRE,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,350,30000
+July,2015-07-13,14:14:00,2015-07-16,06:00:00,"Ohio, Kentucky",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,480,68339
+July,2015-07-13,19:40:00,2015-07-15,12:15:00,Virginia,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,52739
+July,2015-07-14,15:29:00,2015-07-15,11:55:00,Arkansas,SPP,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,Severe Weather,Unknown,Unknown
+July,2015-07-14,20:00:00,2015-07-15,09:23:00,Alabama,SERC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,366,111644
+July,2015-07-15,02:00:00,2015-07-15,02:55:00,California,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,360,0
+July,2015-07-16,16:45:00,2015-07-16,17:48:00,Texas,SPP,Load shedding of 100 Megawatts or more implemented under emergency operational policy,System Operations,117,17311
+July,2015-07-18,02:00:00,2015-07-19,07:00:00,"Henepin and Ramsey County, Minnesota",MRO,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,250,250000
+July,2015-07-18,18:26:00,2015-07-18,21:03:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,30,70
+July,2015-07-18,19:59:00,2015-07-18,22:45:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,160,78164
+July,2015-07-21,12:47:00,2015-07-21,13:12:00,Washington,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,System Operations,200,Unknown
+July,2015-07-27,03:52:00,2015-07-27,04:36:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,Unknown,484
+July,2015-07-28,12:05:00,2015-07-28,12:26:00,Puerto Rico,,System-wide voltage reductions of 3 percent or more,System Operations,150,Unknown
+July,2015-07-29,16:45:00,2015-07-29,21:00:00,New York,NPCC,Fuel supply emergencies that could impact electric power system adequacy or reliability,System Operations,500,0
+July,2015-07-30,09:50:00,2015-07-30,19:00:00,Texas,TRE,Public appeal to reduce the use of electricity,System Operations,Unknown,Unknown
+July,2015-07-30,13:00:00,Unknown,Unknown,Tennessee,SERC,Suspected Physical Attack,Vandalism,0,0
+July,2015-07-31,10:55:00,Unknown,Unknown,Washington,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,9,0
+August,2015-08-02,17:45:00,2015-08-04,03:00:00,Michigan: Emmet County; Grand Traverse County; Leelanau County; Kalkaska County; Benzie County; Manistee County; Wexford County; Missaukee County; Mecosta County; ,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,162000
+August,2015-08-03,00:30:00,2015-08-03,02:00:00,Illinois,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,115000
+August,2015-08-03,01:00:00,2015-08-05,00:00:00,Michigan,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,72520
+August,2015-08-03,08:27:00,2015-08-04,01:18:00,Arizona: New Mexico,WECC,Suspected Physical Attack,Sabotage,0,Unknown
+August,2015-08-04,07:17:00,2015-08-05,12:52:00,Massachusetts: Rhode Island:,NPCC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,132000
+August,2015-08-11,19:30:00,2015-08-13,04:05:00,Texas: Houston;,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,100000
+August,2015-08-13,15:15:00,2015-08-13,19:00:00,Texas: Williamson County;,TRE,Public appeal to reduce the use of electricity,Other,Unknown,Unknown
+August,2015-08-27,21:51:00,2015-08-28,18:00:00,Puerto Rico,WECC,"Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident / Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,360,Unknown
+August,2015-08-29,10:00:00,Unknown,Unknown,Washington,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,500000
+August,2015-08-29,11:00:00,2015-09-04,15:00:00,"King County, Skagit County, Whatcom County, Kitsap County, Pierce County, Thurston County, Island County, Washington",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,250,250000
+August,2015-08-29,13:00:00,2015-08-31,07:00:00,Washington: King County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,1200,64000
+September,2015-09-03,02:33:00,2015-09-03,06:25:00,Michigan,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,50114
+September,2015-09-13,17:56:00,2015-09-13,20:37:00,New York: Dutchess County;,NPCC,Suspected Physical Attack,Vandalism,0,0
+September,2015-09-20,13:12:00,2015-09-20,13:44:00,California,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,System Operations,150,Unknown
+September,2015-09-29,15:40:00,2015-09-29,15:41:00,Oregon,WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+October,2015-10-13,06:30:00,2015-10-13,08:30:00,Utah: Emery County;,WECC,Suspected Physical Attack,Vandalism,0,0
+October,2015-10-13,10:25:00,2015-10-13,18:00:00,Texas,TRE,Public appeal to reduce the use of electricity,Other,Unknown,Unknown
+October,2015-10-13,16:32:00,2015-10-13,20:39:00,California,WECC,Public appeal to reduce the use of electricity,Other,41788,Unknown
+October,2015-10-16,12:25:00,2015-10-16,12:56:00,Utah ,WECC,Suspected Physical Attack,Vandalism,0,0
+October,2015-10-18,07:00:00,2015-10-18,23:29:00,California: Central Coast area;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,88,55677
+October,2015-10-23,09:42:00,2015-10-23,13:26:00,Puerto Rico,,"Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational / Load shedding of 100 Megawatts or more implemented under emergency operational policy / System-wide voltage reductions of 3 percent of more / Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,500,300000
+October,2015-10-28,13:38:00,2015-10-29,17:00:00,Pennsylvania: Columbia County; Montour County; Northumberland County;,RFC,Suspected Physical Attack,Other,Unknown,35000
+October,2015-10-30,15:00:00,2015-10-30,16:00:00,Oregon: Josephine County;,WECC,Suspected Physical Attack,Other,0,0
+October,2015-10-31,00:45:00,2015-11-01,16:05:00,Texas: Harris County;,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,130252
+November,2015-11-01,11:53:00,2015-11-01,12:00:00,Ohio: Hamilton County;,RFC,Suspected Physical Attack,Vandalism,0,0
+November,2015-11-02,17:37:00,2015-11-04,09:00:00,Arkansas: Hot Spring County;,SERC,Suspected Physical Attack,Sabotage,4,0
+November,2015-11-10,12:00:00,2015-11-10,14:00:00,Indiana: Dearborn County;,RFC,Suspected Physical Attack,Sabotage,0,0
+November,2015-11-13,11:30:00,2015-11-13,11:35:00,New York,NPCC,Suspected Physical Attack,Suspicious Activity ,Unknown,Unknown
+November,2015-11-17,09:00:00,Unknown,Unknown,Washington: Snohomish County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,900,89000
+November,2015-11-17,10:00:00,Unknown,Unknown,Washington,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,300000
+November,2015-11-17,13:30:00,Unknown,Unknown,"Washington: Stevens County, Lincoln County, Adams County, Whitman County, Spokane County; Idaho: Bonner County, Kootenai County, Shoshone County, Benewah County, Idaho County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,182000
+November,2015-11-21,20:30:00,2015-11-23,01:00:00,Michigan,RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,60000
+November,2015-11-28,06:00:00,2015-11-30,13:00:00,Oklahoma,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,55609
+November,2015-11-28,06:00:00,Unknown,Unknown,Oklahoma,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,35000
+November,2015-11-29,16:48:00,2015-11-29,18:20:00,Puerto Rico,,System-wide voltage reductions of 3 percent or more,System Operations,0,0
+November,2015-11-30,06:18:00,2015-11-30,21:18:00,Puerto Rico,,System-wide voltage reductions of 3 percent or more,System Operations,100,86559
+December,2015-12-02,13:03:00,2015-12-03,12:29:00,Kansas: Thomas County;,SPP,Suspected Physical Attack,Vandalism,0,0
+December,2015-12-05,21:00:00,2015-12-05,22:30:00,Kansas,SPP,Suspected Physical Attack,Vandalism,0,0
+December,2015-12-05,19:22:00,2015-12-06,05:27:00,"New York: Orange County, Sullivan County; Pennsylvania: Pike County;",NPCC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Other,110,52476
+December,2015-12-08,14:00:00,2015-12-08,14:01:00,Nevada: Clark County;,WECC,Suspected Physical Attack,Sabotage,0,0
+December,2015-12-09,18:06:00,2015-12-09,21:52:00,Puerto Rico,,System-wide voltage reductions of 3 percent or more,System Operations,0,0
+December,2015-12-09,04:00:00,2015-12-09,11:00:00,Washington,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,115,76300
+December,2015-12-10,21:25:00,2015-12-10,22:30:00,Missouri: New Madrid County;,SERC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,400,1
+December,2015-12-10,17:55:00,2015-12-10,17:56:00,California: Stanislaus County;,WECC,Suspected Physical Attack,Vandalism,Unknown,Unknown
+December,2015-12-10,03:53:00,2015-12-10,04:08:00,California: Plumas County,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,24,9956
+December,2015-12-10,06:01:00,2015-12-10,07:13:00,California: Northern;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,29,9956
+December,2015-12-24,03:00:00,2015-12-26,00:00:00,"Michigan: Antrim County, Charlevoix County, Manistee County, Mecosta County, Kalkaska County, Grand Traverse County, Osceola County, Lake County, Newaygo County, Clare County, Isabella County;",RFC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,168000
+December,2015-12-26,19:30:00,Unknown,Unknown,Texas,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,70000
+December,2015-12-26,18:00:00,2015-12-30,06:00:00,Texas: Oklahoma:,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,116800
+December,2015-12-27,23:38:00,2015-12-28,17:00:00,Oklahoma,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,54476
+December,2015-12-27,17:00:00,Unknown,Unknown,Oklahoma,SPP,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,Unknown,50500
+December,2015-12-29,08:30:00,2015-12-29,08:31:00,Maine,NPCC,Suspected Physical Attack,Sabotage,0,0
+December,2015-12-31,17:00:00,2015-12-31,21:40:00,Oklahoma: Blaine County;,SPP,Public appeal to reduce the use of electricity,Severe Weather,8,1500
+December,2015-12-31,11:00:00,Unknown,Unknown,Missouri,SERC,Suspected Physical Attack,Sabotage,0,0

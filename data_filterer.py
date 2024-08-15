@@ -103,7 +103,7 @@ def reformat(csv_path, filtered_save_path, year):
     with open(filtered_save_path, 'w+') as f:
         f.write(illinois_df.to_csv())
 
-def filter(csv_path, save_path):
+def filter_disturbances(csv_path, save_path):
     formatted_df = pd.read_csv(csv_path)
     illinois_df = pd.DataFrame()
     for i in range(len(formatted_df)):
@@ -113,4 +113,9 @@ def filter(csv_path, save_path):
             illinois_df = pd.concat([illinois_df, copied_row_df], ignore_index=True) #reindex dataset
 
     with open(save_path, 'w') as f:
-        f.write(illinois_df.drop(columns=['Unnamed: 0']).to_csv())
+        f.write(illinois_df.to_csv())
+
+
+for i in range(2014, 2022):
+    filter_disturbances(f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/us.csv', 
+                        f'/Users/irislitiu/work/WSU_Outage_Analysis/EIA_disturbances_data/{i}/illinois.csv')

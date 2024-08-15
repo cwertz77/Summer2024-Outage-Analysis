@@ -1,0 +1,7 @@
+,Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected
+0,2014-01-07 00:00:00,10:59:00,2014-01-09 00:00:00,09:00:00,Illinois,RFC,Fuel Supply Emergency - Natural Gas,,
+1,2014-01-17 00:00:00,10:30:00,2014-01-28 00:00:00,09:00:00,Illinois,RFC,Fuel Supply Emergency - Natural Gas,Unknown,Unknown
+2,2014-02-20 00:00:00,16:40:00,2014-02-21 00:00:00,23:59:00,"Missouri, Illinois",SERC,Severe Weather - Snow/Ice,Unknown,66000
+3,2014-06-30 00:00:00,20:00:00,2014-07-02 00:00:00,18:30:00,Illinois,RFC,Severe Weather - Thunderstorms,Unknown,420000
+4,2014-08-23 00:00:00,16:39:00,2014-08-24 00:00:00,01:46:00,"City of Highland, Illinois",RFC,Operational Failure of Electrical System,31,6549
+5,2014-09-05 00:00:00,16:30:00,2014-09-06 00:00:00,14:00:00,Illinois,RFC,Severe Weather - Thunderstorms,Unknown,180400
