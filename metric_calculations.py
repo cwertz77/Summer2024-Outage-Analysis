@@ -147,9 +147,10 @@ def county_metric_data(year, metric_name):
     found_year = False
 
     all_scores = [csv.iloc[i][metric_name] for i in range(len(csv)) if csv.iloc[i]['year'] == year]
+    
     min_val = min(all_scores)
     max_val = max(all_scores)
-    print(max_val)
+
     for i in range(len(csv)):
         row = csv.iloc[i]
         if row['year'] == year:
@@ -241,13 +242,16 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
                           './outage_records/filtered_2022.csv')'''
 
 
-def plot_metric(year, metric_name):
+def plot_metric(year, metric_name, is_svi=False, svi_data={}):
     geojson_data = {}
     with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
         geojson_data = json.load(f)
 
     county_saturation = {}
-    data = county_metric_data(year, metric_name)
+    if is_svi:
+        data = svi_data
+    else:
+        data = county_metric_data(year, metric_name)
 
     for county, metric in data.items():
         if county == "LaSalle":
@@ -274,9 +278,6 @@ def plot_metric(year, metric_name):
     ).add_to(m)
 
     m.save(f"plots_and_metric_data/{metric_name}_{year}.html")
-
-for year in range(2016,2024):
-    plot_metric(year, 'caidi')
 
 
 def eagleI_EIA_overlap_map(data_path, save_path):
