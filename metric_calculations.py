@@ -105,12 +105,12 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
     metric_df = pd.DataFrame()
 
     for county, dates in outages.items():
-        #print(f"County: {county}")
+        print(f"County: {county}")
         county_totals[county] = 0
         #to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
         num_interruptions, num_customers, cum_duration = 0, 0, 0
         for date, events in dates.items():
-            #print(f"  Date: {date}")
+            print(f"  Date: {date}")
             max_people_out = max([e[0] for e in events])
             num_customers += max_people_out
             for event in events:
@@ -118,7 +118,7 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
                 num_people_out, total_duration = event[0], event[1]
                 cum_duration += total_duration
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
-                #print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
+                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
 
         if calculate_metrics:
             saifi = num_interruptions / num_customers
@@ -140,6 +140,8 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
     percentile_ranks = get_percentile_sorted_data(county_totals)
 
     return percentile_ranks
+
+normalize_quantitative_vulnerabilities("/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_2014.csv")
 
 def county_metric_data(year, metric_name):
     csv = pd.read_csv('/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/metrics.csv')
