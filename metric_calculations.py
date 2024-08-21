@@ -143,7 +143,7 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
 
 normalize_quantitative_vulnerabilities("/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_2014.csv")
 
-def county_metric_data(year, metric_name):
+def county_metric_data(year, metric_name, normalize=True):
     csv = pd.read_csv('/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/metrics.csv')
     county_metric_data = {}
     found_year = False
@@ -157,7 +157,10 @@ def county_metric_data(year, metric_name):
         row = csv.iloc[i]
         if row['year'] == year:
             found_year = True
-            county_metric_data[row['county']] = (row[metric_name] - min_val)/(max_val - min_val)
+            if normalize:
+                county_metric_data[row['county']] = (row[metric_name] - min_val)/(max_val - min_val)
+            else:
+                county_metric_data[row['county']] = row[metric_name]
         else:
             if found_year:
                 break
