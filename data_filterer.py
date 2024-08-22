@@ -114,3 +114,19 @@ def filter_disturbances(csv_path, save_path):
 
     with open(save_path, 'w') as f:
         f.write(illinois_df.to_csv())
+
+def filter_weather_events(weather_path, save_path, keywords):
+    cur_df = pd.read_csv(weather_path)
+    filtered_df = pd.DataFrame()
+    for i in range(len(cur_df)):
+        cur_entry = str(cur_df.iloc[i]['EVENT_TYPE'])
+        for key in keywords:
+            if cur_entry.__contains__(key):
+                copy = pd.DataFrame([cur_df.iloc[i]])
+                filtered_df = pd.concat([filtered_df, copy], ignore_index=True)
+                break
+    with open(save_path, 'w') as f:
+        f.write(filtered_df.to_csv())
+
+for i in range(2016,2025):
+    filter_weather_events(f"illinois_weather_data/weather_{i}.csv", f"illinois_weather_data/wind_events_{i}.csv", ["Wind", "Tornado"])
