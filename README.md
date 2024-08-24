@@ -11,3 +11,7 @@
 
 ## Weather + EAGLE-I
 #### The single CSV in the folder is a combination of the weather data and the EAGLE-I data. It is in the form of a timeline and puts a specific weather disturbance in the EAGLE-I data in order to see the aftermath of certain weather events. Due to the unnecessary amount of data points and length, this data doesn't fully serve our purpose, so it has been excluded from our final results.
+
+## Weather to Outage Mapping
+#### The folder contains JSON files containing data regarding the impact of a weather event's magnitude in the form of an outage. The keys inclue, the type of weather event, the magnitude, date, and county. Each value corresponding to the key is a list of rows of the EAGLE-I data from the date the weather disturbance started to when it ended. The python file, "check.py" is the file that loops through the weather and EAGLE-I data sets to match them into the JSON files. 
+
