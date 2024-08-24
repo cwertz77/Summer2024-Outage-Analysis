@@ -98,6 +98,22 @@ def get_percentile_sorted_data(data_map):
     
     return percentile_ranks
 
+def get_num_customers_affected(county_name):
+    data = pd.read_csv("./county_to_fips.csv")
+    for row in range(len(data)):
+        if data.iloc[row]["county"] == county_name:
+            fips_code = data.iloc[row]["fips_code"]
+            break
+    cust_out_data = pd.read_csv("./mcc.csv")
+    for row in range(len(cust_out_data)):
+        if int(cust_out_data.iloc[row]["County_FIPS"]) == fips_code:
+            return cust_out_data.iloc[row]["Customers"]
+        
+def get_svi(county_name, year):
+    svi_csv = pd.read_csv(f"./plots_and_metric_data/svi_interactive_map_{year}.csv")
+    for row in range(len(svi_csv)):
+        if svi_csv.iloc[row]["COUNTY"].replace("County", "").strip() == county_name:
+            return svi_csv.iloc[row]["RPL_THEMES"]
 
 def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
     outages = get_quantitative_vulnerability(data_path)
@@ -108,24 +124,27 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
         print(f"County: {county}")
         county_totals[county] = 0
         #to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
-        num_interruptions, num_customers, cum_duration = 0, 0, 0
+        num_interruptions, cum_duration = 0, 0
         for date, events in dates.items():
-            print(f"  Date: {date}")
-            max_people_out = max([e[0] for e in events])
-            num_customers += max_people_out
+            #print(f"  Date: {date}")
             for event in events:
                 num_interruptions += 1
                 num_people_out, total_duration = event[0], event[1]
                 cum_duration += total_duration
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
-                print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
+                #print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
 
         if calculate_metrics:
+            num_customers = get_num_customers_affected(county)
             saifi = num_interruptions / num_customers
             saidi = cum_duration / num_customers    
             caidi = saidi / saifi
-            year = data_path.split("_")[2].replace(".csv", "")
-            metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi}
+            year = int(data_path.split("_")[-1].replace(".csv", ""))
+            if year % 2 == 1:
+                svi = get_svi(county, year-1)
+            else:
+                svi = get_svi(county, year)
+            metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi, "svi": "%.5f"%svi}
             metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
 
     if calculate_metrics:
@@ -141,7 +160,9 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
 
     return percentile_ranks
 
-normalize_quantitative_vulnerabilities("/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_2014.csv")
+for i in range(2022,2024):
+    normalize_quantitative_vulnerabilities(f"/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_{i}.csv", calculate_metrics=True)
+
 
 def county_metric_data(year, metric_name, normalize=True):
     csv = pd.read_csv('/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/metrics.csv')
