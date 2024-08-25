@@ -19,6 +19,7 @@ def concatenate_csvs(save_path, csv_paths):
 def is_not_name_column(column: str, year):
     return not (column.__contains__(year) or column.__contains__('O = Observed') or column.__contains__('I = Imputed'))
 
+# for energy_information_administration_data files 
 def normalize_columns(csv_path):
     year = csv_path.split('/')[-2]
     lines = []

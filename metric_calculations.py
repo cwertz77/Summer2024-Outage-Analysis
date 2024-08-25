@@ -90,7 +90,7 @@ def get_percentile_sorted_data(data_map):
     values = [val[1] for val in sorted_data]
 
     for i in range(total):
-       left_equal, right_equal = search_for_equals(values, i)
+       left_equal, right_equal = search_for_equals(values, i) #returns a tuple that's unpacked
        num_equal = left_equal + right_equal + 1
        percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total
        county = sorted_data[i][0]
@@ -160,9 +160,6 @@ def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
 
     return percentile_ranks
 
-for i in range(2022,2024):
-    normalize_quantitative_vulnerabilities(f"/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/filtered_{i}.csv", calculate_metrics=True)
-
 
 def county_metric_data(year, metric_name, normalize=True):
     csv = pd.read_csv('/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/metrics.csv')
@@ -204,9 +201,9 @@ def get_normalized_nri_data(nri_path):
     return county_scores
 
 
-def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
+def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path, geojson='./illinois-with-county-boundaries_1097.geojson'):
     geojson_data = {}
-    with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+    with open(geojson, 'r') as f:
         geojson_data = json.load(f)
 
     county_saturation = {}
@@ -268,9 +265,9 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
                           './outage_records/filtered_2022.csv')'''
 
 
-def plot_metric(year, metric_name, is_svi=False, svi_data={}):
+def plot_metric(year, metric_name, is_svi=False, svi_data={}, geojson='./illinois-with-county-boundaries_1097.geojson'):
     geojson_data = {}
-    with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+    with open(geojson, 'r') as f:
         geojson_data = json.load(f)
 
     county_saturation = {}
@@ -279,6 +276,7 @@ def plot_metric(year, metric_name, is_svi=False, svi_data={}):
     else:
         data = county_metric_data(year, metric_name)
 
+    #special case county names for Illinois 
     for county, metric in data.items():
         if county == "LaSalle":
             county = "La Salle"
@@ -306,7 +304,7 @@ def plot_metric(year, metric_name, is_svi=False, svi_data={}):
     m.save(f"plots_and_metric_data/{metric_name}_{year}.html")
 
 
-def eagleI_EIA_overlap_map(data_path, save_path):
+def eagleI_EIA_overlap_map(data_path, save_path, geojson='./illinois-with-county-boundaries_1097.geojson'):
     with open(data_path, 'r') as f:
         data = json.load(f)
         keys = data.keys()
@@ -334,7 +332,7 @@ def eagleI_EIA_overlap_map(data_path, save_path):
 
         m = folium.Map(location=[40.754, -88.931], zoom_start=6)
 
-        with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+        with open(geojson, 'r') as f:
                 geojson_data = json.load(f)
 
         folium.GeoJson(
