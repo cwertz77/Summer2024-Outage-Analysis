@@ -103,7 +103,7 @@ def reformat(csv_path, filtered_save_path, year):
     with open(filtered_save_path, 'w+') as f:
         f.write(illinois_df.to_csv())
 
-def filter(csv_path, save_path):
+def filter_disturbances(csv_path, save_path):
     formatted_df = pd.read_csv(csv_path)
     illinois_df = pd.DataFrame()
     for i in range(len(formatted_df)):
@@ -113,4 +113,65 @@ def filter(csv_path, save_path):
             illinois_df = pd.concat([illinois_df, copied_row_df], ignore_index=True) #reindex dataset
 
     with open(save_path, 'w') as f:
-        f.write(illinois_df.drop(columns=['Unnamed: 0']).to_csv())
+        f.write(illinois_df.to_csv())
+
+def filter_weather_events(weather_path, save_path, keywords):
+    cur_df = pd.read_csv(weather_path)
+    filtered_df = pd.DataFrame()
+    for i in range(len(cur_df)):
+        cur_entry = str(cur_df.iloc[i]['EVENT_TYPE'])
+        for key in keywords:
+            if cur_entry.__contains__(key):
+                copy = pd.DataFrame([cur_df.iloc[i]])
+                filtered_df = pd.concat([filtered_df, copy], ignore_index=True)
+                break
+    with open(save_path, 'w') as f:
+        f.write(filtered_df.to_csv())
+
+'''for i in range(2016,2025):
+    filter_weather_events(f"illinois_weather_data/weather_{i}.csv", f"illinois_weather_data/wind_events_{i}.csv", ["Wind", "Tornado"])
+'''
+
+def filter_repeats(outage_data, save_path):
+    csv = pd.read_csv(outage_data, index_col=0)
+    no_repeats_df = pd.DataFrame()
+    start_time = ""
+    
+    for index in range(1, len(csv)):
+        percent_done = index / len(csv) * 100
+        print(f'on iteration {index}; percent done: {percent_done}%')
+        cols = ["county", "state", "customers_out"]
+        
+        if all(csv.iloc[index][col] == csv.iloc[index-1][col] for col in cols):
+            if start_time == "":
+                start_time = csv.iloc[index]["run_start_time"]
+        else:
+            last_time = pd.to_datetime(csv.iloc[index-1]["run_start_time"])
+            end_time = last_time + pd.Timedelta(minutes=15)
+            end_time = end_time.strftime('%Y-%m-%d %H:%M:%S')
+
+            cur_col = csv.iloc[index-1].copy()
+            cur_col["run_start_time"] = start_time if start_time else cur_col["run_start_time"]
+            cur_col["run_end_time"] = end_time
+            no_repeats_df = pd.concat([no_repeats_df, cur_col.to_frame().T], ignore_index=True)
+
+            start_time = ""
+
+    if start_time:
+        last_time = pd.to_datetime(csv.iloc[-1]["run_start_time"])
+        end_time = last_time + pd.Timedelta(minutes=15)
+        end_time = end_time.strftime('%Y-%m-%d %H:%M:%S')
+
+        cur_col = csv.iloc[-1].copy()
+        cur_col["run_start_time"] = start_time if start_time else cur_col["run_start_time"]
+        cur_col["run_end_time"] = end_time
+        no_repeats_df = pd.concat([no_repeats_df, cur_col.to_frame().T], ignore_index=True)
+
+    with open(save_path, 'w+') as f:
+        f.write(no_repeats_df.to_csv())
+
+'''
+for i in range(2015, 2024):
+    filter_repeats(f'./outage_records/processed_illinois{i}.csv',
+                f'./outage_records/filtered_{i}.csv')
+'''
