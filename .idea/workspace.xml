@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="initializing">
-      <change beforePath="$PROJECT_DIR$/illinois_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/illinois_study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outage records/processed_illinois.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Summer2024-Outage-Analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analyze_results.Rmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processed_wind_customer_outage.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2021.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2024.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,20 +37,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2ikcKDFA4wWnclF7yqR3HC9Hy4w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.data_parser.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.results.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wertz/PycharmProjects/Summer2024-Outage-Analysis&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Charlotte Wertz/OneDrive - Washington State University (email.wsu.edu)/Historical Outage Analysis/Summer2024-Outage-Analysis&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -83,7 +107,19 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initializing" />
     <option name="LAST_COMMIT_MESSAGE" value="initializing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/results.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

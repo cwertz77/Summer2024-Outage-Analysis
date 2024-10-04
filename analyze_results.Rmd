@@ -1,0 +1,47 @@
+---
+title: "plot_results"
+output: pdf_document
+date: "2024-09-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Libraries
+
+```{r libraries}
+library(dplyr)
+library(ggplot2)
+```
+
+# Plot Reliability Metrics Against vulnerability
+
+```{r}
+svi_reliability=read.csv("outage_records/metrics.csv")
+svi_reliability %>%
+  filter(county=="Bond") %>%
+  ggplot(.,aes(x=caidi,y=svi))+geom_point()+scale_x_sqrt()
+```
+
+# Plot wind speed against percentage of customers out
+```{r}
+wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
+# to do: python normalized customer outages csv.
+wind_speed_customers <- wind_speed_customers %>%
+  mutate(year=as.integer(format(as.Date(wind_speed_customers$date,format="%m/%d/%Y"),"%Y")))
+wind_speed_customers %>%
+  #filter(year==2023|year==2022|year==2021|year==2020) %>%
+  filter(percent_customers_out > 0.05) %>%
+  ggplot(.,aes(x=wind_speed_mph,y=percent_customers_out*100))+geom_point()
+```
+```{r}
+svi_reliability <- svi_reliability %>%
+  mutate(quartile=case_when(svi <= 0.25 ~ 1,(svi <= 0.5 & svi > 0.25) ~ 2,(svi <= 0.75 & svi > 0.5) ~ 3,(svi <= 1 & svi > 0.75) ~ 4))
+svi_reliability %>%
+  filter(year==2023|year==2022|year==2021|year==2020) %>%
+  group_by(county) %>%
+  summarise(avg=mean(saidi)) %>%
+  top_n(10)
+```
+
