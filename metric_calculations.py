@@ -16,21 +16,15 @@ def make_style_function(county_colors_map):
         }
     return style_function
 
-def desaturate_color(hex_code, percent):
-    #hex to rgb
-    r = int(hex_code[1:3], 16)
-    g = int(hex_code[3:5], 16)
-    b = int(hex_code[5:7], 16)
+def desaturate_color(percent):
+    percent = max(0, min(percent, 1))
+    g = int(255*(1-percent))
+    b = int(255*percent)
 
-    #grayscale
-    gray = int(r * 0.299 + g * 0.587 + b * 0.114)
-
-    #desaturate
-    r = int(r * percent + gray * (1 - percent))
-    g = int(g * percent + gray * (1 - percent))
-    b = int(b * percent + gray * (1 - percent))
-
-    return f"#{r:02x}{g:02x}{b:02x}"
+    g_hex = f"{g:02x}"
+    b_hex = f"{b:02x}"
+    
+    return f"#00{g_hex}{b_hex}"
 
 
 def get_time_diff(row):
@@ -96,77 +90,99 @@ def get_percentile_sorted_data(data_map):
     values = [val[1] for val in sorted_data]
 
     for i in range(total):
-       left_equal, right_equal = search_for_equals(values, i)
+       left_equal, right_equal = search_for_equals(values, i) #returns a tuple that's unpacked
        num_equal = left_equal + right_equal + 1
-       percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total * 100
+       percentile_rank = ((i - left_equal) + 0.5 * num_equal) / total
        county = sorted_data[i][0]
        percentile_ranks[county] = percentile_rank
     
     return percentile_ranks
 
+def get_num_customers_affected(county_name):
+    data = pd.read_csv("./county_to_fips.csv")
+    for row in range(len(data)):
+        if data.iloc[row]["county"] == county_name:
+            fips_code = data.iloc[row]["fips_code"]
+            break
+    cust_out_data = pd.read_csv("./mcc.csv")
+    for row in range(len(cust_out_data)):
+        if int(cust_out_data.iloc[row]["County_FIPS"]) == fips_code:
+            return cust_out_data.iloc[row]["Customers"]
+        
+def get_svi(county_name, year):
+    svi_csv = pd.read_csv(f"./plots_and_metric_data/svi_interactive_map_{year}.csv")
+    for row in range(len(svi_csv)):
+        if svi_csv.iloc[row]["COUNTY"].replace("County", "").strip() == county_name:
+            return svi_csv.iloc[row]["RPL_THEMES"]
 
-def normalize_quantitative_vulnerabilities(data_path):
+def normalize_quantitative_vulnerabilities(data_path, calculate_metrics=False):
     outages = get_quantitative_vulnerability(data_path)
     county_totals = {}
     metric_df = pd.DataFrame()
 
     for county, dates in outages.items():
-        #print(f"County: {county}")
+        print(f"County: {county}")
         county_totals[county] = 0
         #to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
-        num_interruptions, num_customers, cum_duration = 0, 0, 0
+        num_interruptions, cum_duration = 0, 0
         for date, events in dates.items():
             #print(f"  Date: {date}")
-            max_people_out = max([e[0] for e in events])
-            num_customers += max_people_out
             for event in events:
                 num_interruptions += 1
                 num_people_out, total_duration = event[0], event[1]
                 cum_duration += total_duration
                 county_totals[county] += num_people_out * total_duration #scale importance by duration
-                #print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")     
+                #print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")    
 
-        saifi = num_interruptions / num_customers
-        saidi = cum_duration / num_customers    
-        caidi = saidi / saifi
-        year = data_path.split("_")[2].replace(".csv", "")
-        metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi}
-        metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
+        if calculate_metrics:
+            num_customers = get_num_customers_affected(county)
+            saifi = num_interruptions / num_customers
+            saidi = cum_duration / num_customers    
+            caidi = saidi / saifi
+            year = int(data_path.split("_")[-1].replace(".csv", ""))
+            if year % 2 == 1:
+                svi = get_svi(county, year-1)
+            else:
+                svi = get_svi(county, year)
+            metrics_map = {"year": year, "county": county, "saifi": "%.5f"%saifi, "saidi": "%.5f"%saidi, "caidi": "%.5f"%caidi, "svi": "%.5f"%svi}
+            metric_df = pd.concat([metric_df, pd.DataFrame([metrics_map])], ignore_index=True)
 
-    try:
-        cur_contents = pd.read_csv('./outage_records/metrics.csv')
-    except FileNotFoundError:
-        cur_contents = pd.DataFrame()
+    if calculate_metrics:
+        try:
+            cur_contents = pd.read_csv('./outage_records/metrics.csv')
+        except FileNotFoundError:
+            cur_contents = pd.DataFrame()
 
-    all_data = pd.concat([cur_contents, metric_df], ignore_index=True)
-    all_data.to_csv('./outage_records/metrics.csv', index=False)
-
-    
+        all_data = pd.concat([cur_contents, metric_df], ignore_index=True)
+        all_data.to_csv('./outage_records/metrics.csv', index=False)
+        
     percentile_ranks = get_percentile_sorted_data(county_totals)
-    for key in county_totals.keys():
-        percentile_ranks[key] = percentile_ranks[key]/100
 
     return percentile_ranks
 
-def county_saifi_data(saifi_path, year):
-    csv = pd.read_csv(saifi_path)
-    county_saifi_data = {}
+
+def county_metric_data(year, metric_name, normalize=True):
+    csv = pd.read_csv('/Users/irislitiu/work/WSU_Outage_Analysis/outage_records/metrics.csv')
+    county_metric_data = {}
     found_year = False
 
-    all_scores_saifi = csv['saifi'].tolist()
-    min_saifi = min(all_scores_saifi)
-    max_saifi = max(all_scores_saifi)
+    all_scores = [csv.iloc[i][metric_name] for i in range(len(csv)) if csv.iloc[i]['year'] == year]
+    
+    min_val = min(all_scores)
+    max_val = max(all_scores)
 
     for i in range(len(csv)):
         row = csv.iloc[i]
         if row['year'] == year:
             found_year = True
-            county_saifi_data[row['county']] = (row['saifi'] - min_saifi)/(max_saifi - min_saifi)
+            if normalize:
+                county_metric_data[row['county']] = (row[metric_name] - min_val)/(max_val - min_val)
+            else:
+                county_metric_data[row['county']] = row[metric_name]
         else:
             if found_year:
                 break
-    return county_saifi_data
-
+    return county_metric_data
 
 def get_normalized_nri_data(nri_path):
     csv = pd.read_csv(nri_path)
@@ -185,9 +201,9 @@ def get_normalized_nri_data(nri_path):
     return county_scores
 
 
-def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
+def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path, geojson='./illinois-with-county-boundaries_1097.geojson'):
     geojson_data = {}
-    with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+    with open(geojson, 'r') as f:
         geojson_data = json.load(f)
 
     county_saturation = {}
@@ -199,21 +215,41 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
 
     for i in range(len(csv)):
         row = csv.iloc[i]
-        county_saturation[row['COUNTY']] = row['RPL_THEMES']
         county_name = row['COUNTY'].replace('County', '').strip()
-        try:
-            county_saturation[row['COUNTY']] = (row['RPL_THEMES'] + nri_data[county_name] + quantitative_data[county_name])/3
-        except:
-            print(f'does not exist {row['COUNTY']}')
+        sum, found_count, county_saturation[row['COUNTY']]  = 0, 0, 0
+
+        if row['RPL_THEMES']:
+            sum += row['RPL_THEMES']
+            found_count += 1
+        if  nri_data.keys().__contains__(county_name):
+            sum += nri_data[county_name]
+            found_count += 1
+        if quantitative_data.keys().__contains__(county_name):
+            sum += quantitative_data[county_name]
+            found_count += 1
+        else:
+            print(f"county {county_name} not found in quantitative data")
+
+
+        county_saturation[row['COUNTY']] = sum/found_count
+
+        if county_name == "LaSalle":
+            county_saturation["La Salle"] = sum/found_count
+        if county_name == "St. Clair":
+            county_saturation["Saint Clair"] = sum/found_count
 
 
     county_hex = {}
     for key in county_saturation.keys():
-        county_hex[key.replace('County', '').strip()] = desaturate_color('#0000FF', county_saturation[key])
+        county_hex[key.replace('County', '').strip()] = desaturate_color(county_saturation[key])
 
     style_function = make_style_function(county_colors_map=county_hex)
 
     m = folium.Map(location=[40.754, -88.931], zoom_start=6)
+
+    color_bar_html = open('./plots_and_metric_data/colorbar.html', 'r').read()
+    icon = folium.DivIcon(html=color_bar_html)      
+    folium.Marker(location=[40.4, -86.7], icon=icon).add_to(m)
 
     folium.GeoJson(
         geojson_data,
@@ -221,19 +257,54 @@ def svi_nri_quantitative_map(svi_path, nri_path, quantitative_data_path):
     ).add_to(m)
 
     year = svi_path.split("_")[-1].replace('.csv', '')
-    m.save(f"cdc_svi/svi_nri_quantitative_map_{year}.html")
+    m.save(f"plots_and_metric_data/svi_nri_quantitative_map_{year}.html")
 
-def filter_svi_map(path):
-    with open(path, 'r') as f:
-        csv = pd.read_csv(f)
-        df_filtered = csv[csv['ST_ABBR'] == 'IL']
-        df_filtered.to_csv(path, index=False)
 
-svi_nri_quantitative_map('./cdc_svi/svi_interactive_map_2022.csv',
-                          './cdc_svi/NRI_Table_Counties_Illinois.csv', 
-                          './outage_records/filtered_2022.csv')
+'''svi_nri_quantitative_map('./plots_and_metric_data/svi_interactive_map_2022.csv',
+                          './plots_and_metric_data/NRI_Table_Counties_Illinois.csv', 
+                          './outage_records/filtered_2022.csv')'''
 
-def eagleI_EIA_overlap_map(data_path, save_path):
+
+def plot_metric(year, metric_name, is_svi=False, svi_data={}, geojson='./illinois-with-county-boundaries_1097.geojson'):
+    geojson_data = {}
+    with open(geojson, 'r') as f:
+        geojson_data = json.load(f)
+
+    county_saturation = {}
+    if is_svi:
+        data = svi_data
+    else:
+        data = county_metric_data(year, metric_name)
+
+    #special case county names for Illinois 
+    for county, metric in data.items():
+        if county == "LaSalle":
+            county = "La Salle"
+        if county == "St. Clair":
+            county = "Saint Clair"
+        county_saturation[county] = metric
+    
+    county_hex = {}
+    for key in county_saturation.keys():
+        county_hex[key] = desaturate_color(county_saturation[key])
+
+    style_function = make_style_function(county_colors_map=county_hex)
+
+    m = folium.Map(location=[40.754, -88.931], zoom_start=6)
+
+    color_bar_html = open('./plots_and_metric_data/colorbar.html', 'r').read()
+    icon = folium.DivIcon(html=color_bar_html)      
+    folium.Marker(location=[40.4, -86.7], icon=icon).add_to(m)
+
+    folium.GeoJson(
+        geojson_data,
+        style_function=style_function
+    ).add_to(m)
+
+    m.save(f"plots_and_metric_data/{metric_name}_{year}.html")
+
+
+def eagleI_EIA_overlap_map(data_path, save_path, geojson='./illinois-with-county-boundaries_1097.geojson'):
     with open(data_path, 'r') as f:
         data = json.load(f)
         keys = data.keys()
@@ -255,13 +326,13 @@ def eagleI_EIA_overlap_map(data_path, save_path):
 
         county_hex = {}
         for key in norm_num.keys():
-            county_hex[key] = desaturate_color('#0000FF', norm_num[key])
+            county_hex[key] = desaturate_color(norm_num[key])
 
         style_function = make_style_function(county_colors_map=county_hex)
 
         m = folium.Map(location=[40.754, -88.931], zoom_start=6)
 
-        with open('./illinois-with-county-boundaries_1097.geojson', 'r') as f:
+        with open(geojson, 'r') as f:
                 geojson_data = json.load(f)
 
         folium.GeoJson(
