@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="initializing">
-      <change beforePath="$PROJECT_DIR$/illinois_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/illinois_study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outage records/processed_illinois.csv" beforeDir="false" />
+    <list default="true" id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="processed datasets">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2019.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2020.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2021.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2024.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +45,12 @@
     &quot;Python.data_parser.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wertz/PycharmProjects/Summer2024-Outage-Analysis&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wertz/OneDrive - Washington State University (email.wsu.edu)/DSSE&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wertz\PycharmProjects\Summer2024-Outage-Analysis\weather_records" />
       <recent name="C:\Users\wertz\PycharmProjects\Summer2024-Outage-Analysis" />
     </key>
   </component>
@@ -76,14 +86,34 @@
       <option name="project" value="LOCAL" />
       <updated>1720038105985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="processed datasets">
+      <option name="closed" value="true" />
+      <created>1720203135054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720203135054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initializing" />
-    <option name="LAST_COMMIT_MESSAGE" value="initializing" />
+    <MESSAGE value="processed datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="processed datasets" />
   </component>
 </project>
