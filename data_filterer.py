@@ -136,7 +136,8 @@ def filter_repeats(outage_data, save_path):
     csv = pd.read_csv(outage_data, index_col=0)
     no_repeats_df = pd.DataFrame()
     start_time = ""
-    
+    csv.sort_values(by=['county','run_start_time'], inplace=True)
+
     for index in range(1, len(csv)):
         percent_done = index / len(csv) * 100
         print(f'on iteration {index}; percent done: {percent_done}%')
@@ -173,5 +174,4 @@ def filter_repeats(outage_data, save_path):
 '''
 for i in range(2015, 2024):
     filter_repeats(f'./outage_records/processed_illinois{i}.csv',
-                f'./outage_records/filtered_{i}.csv')
-'''
+                f'./outage_records/filtered_{i}.csv')'''

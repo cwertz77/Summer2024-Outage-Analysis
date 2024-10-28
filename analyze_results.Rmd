@@ -13,28 +13,52 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r libraries}
 library(dplyr)
 library(ggplot2)
+library(tidyr)
+library(readr)
 ```
 
-# Plot Reliability Metrics Against vulnerability
-
+# Plot Reliability Metrics Against Social Vulnerability.
 ```{r}
 svi_reliability=read.csv("outage_records/metrics.csv")
 svi_reliability %>%
-  filter(county=="Bond") %>%
-  ggplot(.,aes(x=caidi,y=svi))+geom_point()+scale_x_sqrt()
+  ggplot(.,aes(x=saifi,y=svi))+geom_point()+scale_x_sqrt()
 ```
 
 # Plot wind speed against percentage of customers out
 ```{r}
 wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
-# to do: python normalized customer outages csv.
 wind_speed_customers <- wind_speed_customers %>%
+  mutate(date=as.Date(date,"%m/%d/%Y")) %>%
   mutate(year=as.integer(format(as.Date(wind_speed_customers$date,format="%m/%d/%Y"),"%Y")))
+county_fips=read.csv('county_to_fips.csv')
+county_customers=read.csv('mcc.csv')
+county_customers$County_FIPS=as.numeric(county_customers$County_FIPS)
+wind_speed_customers <- left_join(wind_speed_customers,county_fips,by="county")
+wind_speed_customers <- left_join(wind_speed_customers,county_customers,join_by(fips_code==County_FIPS))
 wind_speed_customers %>%
-  #filter(year==2023|year==2022|year==2021|year==2020) %>%
-  filter(percent_customers_out > 0.05) %>%
+  filter(year==2023|year==2022|year==2021|year==2020) %>%
   ggplot(.,aes(x=wind_speed_mph,y=percent_customers_out*100))+geom_point()
 ```
+# Regression Model On Dataset
+```{r}
+wind_speed_customers_lm=lm(wind_speed_customers$percent_customers_out~wind_speed_mph,wind_speed_customers)
+summary(wind_speed_customers_lm)
+par(mfrow=c(2,2))
+plot(wind_speed_customers_lm)
+par(mfrow=c(1,1))
+```
+
+
+# Average the outages at each wind speed, create a line plot.
+```{r}
+wind_speed_customers %>%
+  #filter(num_people_out>100) %>%
+  #filter(year==2023|year==2022|year==2021|year==2020) %>%
+  group_by(wind_speed_mph) %>%
+  mutate(avg_pct_out=mean(percent_customers_out)) %>%
+  ggplot(.,aes(x=wind_speed_mph,y=avg_pct_out*100))+geom_line()+geom_point()
+```
+# Create variable indicating SVI quartile for simplicity, print the counties with the most at-risk reliability metrics.
 ```{r}
 svi_reliability <- svi_reliability %>%
   mutate(quartile=case_when(svi <= 0.25 ~ 1,(svi <= 0.5 & svi > 0.25) ~ 2,(svi <= 0.75 & svi > 0.5) ~ 3,(svi <= 1 & svi > 0.75) ~ 4))
@@ -44,4 +68,67 @@ svi_reliability %>%
   summarise(avg=mean(saidi)) %>%
   top_n(10)
 ```
+# SAIDI vs SAIFI
+```{r}
+svi_reliability %>%
+  group_by(county) %>%
+  mutate(SAIDI=mean(saidi),SAIFI=mean(saifi),svi=mean(svi))%>%
+  ggplot(.,aes(x=SAIDI,y=SAIFI,color=svi))+geom_point()+geom_label(label=svi_reliability$county,size=2)
 
+#ggplot(svi_reliability,aes(x=saidi,y=saifi,color=svi))+geom_point()
+```
+# Investigate relationship between EIA disturbances reporting and eagle-i calculations.
+```{r}
+#EIA_saidi_saifi=read.csv('data/energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
+#service_territory=read.csv('data/energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
+```
+
+# Create a new dataframe that aggregates all outages by county into a single outage event.
+```{r}
+grouped_outages <- aggregate(wind_speed_customers$num_people_out,by=list(wind_speed_customers$date),FUN=sum)
+grouped_customers <-aggregate(wind_speed_customers$Customers,by=list(wind_speed_customers$date),FUN=sum)
+wind_speed <- aggregate(wind_speed_customers$wind_speed_mph,by=list(wind_speed_customers$date),FUN=mean)
+wind_customers_grouped<-data.frame(id=grouped_outages$Group.1, num_outages=grouped_outages$x,                   num_customers=grouped_customers$x,wind_speed=wind_speed$x)
+wind_customers_grouped<-wind_customers_grouped %>%
+   mutate(pct_customers_out=num_outages/num_customers)
+```
+
+# REGRESSION MODEL: Number of Outages
+```{r}
+wind_customers_grouped %>%
+   #mutate(year=as.integer(format(as.Date(wind_customers_grouped$id,format="%m/%d/%Y"),"%Y")))%>%
+   #filter(year==2020|year==2021|year==2022|year==2023)%>%
+   ggplot(.,aes(x=wind_speed,y=num_outages))+geom_point()+scale_y_log10()+labs(x='Wind Speed (MPH)',y='Number of Customers Out')
+wind_customers_lm=lm(wind_customers_grouped$num_outages~wind_speed,wind_customers_grouped)
+summary(wind_customers_lm)
+par(mfrow=c(2,2))
+plot(wind_customers_lm)
+par(mfrow=c(1,1))
+```
+# REGRESSION MODEL: Percent Customers Out
+```{r}
+wind_customers_grouped %>%
+   #mutate(year=as.integer(format(as.Date(wind_customers_grouped$id,format="%m/%d/%Y"),"%Y")))%>%
+   #filter(year==2020|year==2021|year==2022|year==2023)%>%
+   ggplot(.,aes(x=wind_speed,y=pct_customers_out))+geom_point()+scale_y_log10()+labs(x='Wind Speed (MPH)',y='Percent of Customers Out')
+wind_customers_lm=lm(wind_customers_grouped$pct_customers_out~wind_speed,wind_customers_grouped)
+summary(wind_customers_lm)
+par(mfrow=c(2,2))
+plot(wind_customers_lm)
+par(mfrow=c(1,1))
+```
+
+
+# REGRESSION MODEL: Average Percent Customers Out (per wind speed)
+```{r}
+avg_wind_customers_grouped <- wind_customers_grouped %>%
+  group_by(wind_speed) %>%
+  mutate(avg_pct_out=mean(pct_customers_out))
+avg_wind_customers_grouped_lm=lm(avg_wind_customers_grouped$avg_pct_out~wind_speed,avg_wind_customers_grouped)
+summary(avg_wind_customers_grouped_lm)
+par(mfrow=c(2,2))
+plot(avg_wind_customers_grouped_lm)
+par(mfrow=c(1,1))
+avg_wind_customers_grouped %>%
+  ggplot(.,aes(x=wind_speed,y=avg_pct_out))+geom_point()+scale_y_log10()+labs(x='Wind Speed (MPH)',y='Average Percent of Customers Out')
+```
