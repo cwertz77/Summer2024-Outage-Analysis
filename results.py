@@ -13,7 +13,7 @@ def fragility_by_wind():
     percent_customers_out=list()
     for i in data.index:
         num_customers.append(mc.get_num_customers_affected(data.iloc[i]["county"]))
-        percent_customers_out.append(data.iloc[i]['num_people_out']/num_customers[-1])
+        percent_customers_out.append(data.iloc[i]['max_num_people_out']/num_customers[-1])
     data['percent_customers_out']=percent_customers_out
     data.to_csv("processed_wind_customer_outage.csv")
 def power_quality_vulnerability():
