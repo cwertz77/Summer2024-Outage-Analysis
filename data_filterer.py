@@ -171,7 +171,7 @@ def filter_repeats(outage_data, save_path):
     with open(save_path, 'w+') as f:
         f.write(no_repeats_df.to_csv())
 
-'''
+
 for i in range(2015, 2024):
     filter_repeats(f'./outage_records/processed_illinois{i}.csv',
-                f'./outage_records/filtered_{i}.csv')'''
+                f'./outage_records/filtered_{i}.csv')
