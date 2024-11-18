@@ -22,21 +22,22 @@ library(tidyverse)
 ```
 # Read CSVS
 ```{r}
-svi_reliability=read.csv("outage_records/metrics_2023_test.csv")
+year=2023
+reliability=read.csv("outage_records/metrics_2022.csv")
 svi=read.csv("plots_and_metric_data/svi_interactive_map_2022.csv")
 county_fips=read.csv('county_to_fips.csv')
 wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
 county_customers=read.csv('mcc.csv')
 EIA_disturbances<-read.csv("EIA_disturbances_data/all_illinois.csv")
-EIA_saidi_saifi=read.csv('data/energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
-service_territory=read.csv('data/energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
+EIA_saidi_saifi=read.csv('energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
+service_territory=read.csv('energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
 ```
 
 # Plot Reliability Metrics Against Social Vulnerability.
 ```{r}
-svi_reliability %>%
+reliability %>%
   ggplot(.,aes(x=saidi,y=svi))+geom_point()
-svi_reliability<-left_join(svi_reliability,county_fips,by="county")
+reliability<-left_join(reliability,county_fips,by="county")
 ```
 
 # Plot wind speed against percentage of customers out
@@ -48,78 +49,64 @@ county_customers$County_FIPS=as.numeric(county_customers$County_FIPS)
 wind_speed_customers <- left_join(wind_speed_customers,county_fips,by="county")
 county_fips <- left_join(county_fips,county_customers,join_by(fips_code==County_FIPS))
 wind_speed_customers <- left_join(wind_speed_customers,county_customers,join_by(fips_code==County_FIPS))
-wind_speed_customers %>%
-  filter(year==2023|year==2022|year==2021|year==2020) %>%
-  ggplot(.,aes(x=wind_speed_mph,y=percent_customers_out*100))+geom_point()
 ```
 
-# Add EIA disturbances to the dataset.
+# Print the counties with the most at-risk reliability metrics.
 ```{r}
-EIA_disturbances<-EIA_disturbances %>%
-  filter(Event.Type == "Severe Weather" | Event.Type == "Severe Weather - Thunderstorms" | Event.Type ==
-"- Weather or natural disaster")
-write.csv(EIA_disturbances, "EIA_disturbances_data/illinois_weather.csv")
-```
-
-# Regression Model On Dataset
-```{r}
-wind_speed_customers_lm=lm(wind_speed_customers$percent_customers_out~wind_speed_mph,wind_speed_customers)
-summary(wind_speed_customers_lm)
-par(mfrow=c(2,2))
-plot(wind_speed_customers_lm)
-par(mfrow=c(1,1))
-```
-
-# Create variable indicating SVI quartile for simplicity, print the counties with the most at-risk reliability metrics.
-```{r}
-svi_reliability <- svi_reliability %>%
-  mutate(quartile=case_when(svi <= 0.25 ~ 1,(svi <= 0.5 & svi > 0.25) ~ 2,(svi <= 0.75 & svi > 0.5) ~ 3,(svi <= 1 & svi > 0.75) ~ 4))
-svi_reliability %>%
-  filter(year==2023|year==2022|year==2021|year==2020) %>%
+reliability %>%
   group_by(county) %>%
-  summarise(avg=mean(saidi)) %>%
-  top_n(10)
+  summarise(saidi=(saidi),svi=svi) %>%
+  top_n(10,saidi)
 ```
 # SAIDI vs SAIFI
 ```{r}
- svi_reliability%>%
+ reliability%>%
   group_by(county) %>%
   mutate(SAIDI=mean(saidi),SAIFI=mean(saifi),svi=mean(svi))%>%
-  ggplot(.,aes(x=SAIDI/60,y=SAIFI,color=svi))+geom_point()+geom_label(label=svi_reliability$county,size=2)
+  ggplot(.,aes(x=SAIDI/60,y=SAIFI,color=svi))+geom_point()+geom_label(label=reliability$county,size=2)
 ```
 # Convert EIA disturbances metrics into county-based format for SAIDI, SAIFI, and CAIDI.
 ```{r}
-EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)
-EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..)
-EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..)
-rel_by_utility<-left_join(service_territory,EIA_saidi_saifi,join_by('X.Utility.Name.'=='X.Utility.Characteristics..Utility.Name.'))
-reliability_by_county <- rel_by_utility %>%
-  filter(!is.na(X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)) %>%
+EIA_saidi_saifi$SAIDI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)
+EIA_saidi_saifi$SAIFI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..)
+EIA_saidi_saifi$CAIDI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..)
+service_reliability_mapper<-inner_join(service_territory,EIA_saidi_saifi,join_by('X.Utility.Name.'=='X.Utility.Characteristics..Utility.Name.'))
+eia_reliability_county <- service_reliability_mapper %>%
+  filter(!is.na(SAIDI)) %>%
   group_by(X.County.) %>%
-  summarise(SAIDI=mean(X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..),
-         SAIFI=mean(X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..),
-         CAIDI=mean(X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..)) %>%
+  summarise(eia_SAIDI=mean(SAIDI),
+         eia_SAIFI=mean(SAIFI),
+         eia_CAIDI=mean(CAIDI)) %>%
   arrange(X.County.)
 ```
 # Compare SAIDI, SAIFI, and CAIDI values between EIA database and EAGLE-I Calculations.
 ```{r}
 
-residual_cmp<-left_join(svi_reliability,reliability_by_county,join_by(county==X.County.))
+residual_cmp<-left_join(reliability,eia_reliability_county,join_by(county==X.County.))
 residual_cmp<-left_join(residual_cmp,svi,join_by(fips_code==FIPS))
 residual_cmp <- residual_cmp %>%
-  mutate(saidi_res=(SAIDI-saidi),saifi_res=(SAIFI-saifi),caidi_res=(CAIDI-caidi))
+  mutate(saidi_res=(eia_SAIDI-saidi),saifi_res=(eia_SAIFI-saifi),caidi_res=(eia_CAIDI-caidi))
 residual_cmp %>%
-  ggplot(.,aes(x=saidi,y=SAIDI))+geom_point()+xlab("EAGLE-I SAIDI")+ylab("EIA SAIDI")
+  ggplot(.,aes(x=saidi,y=eia_SAIDI))+geom_point()+xlab("EAGLE-I SAIDI")+ylab("EIA SAIDI")+geom_abline(slope=1,intercept=0)
 residual_cmp %>%
-  ggplot(.,aes(x=saifi,y=SAIFI))+geom_point()+xlab("EAGLE-I SAIFI")+ylab("EIA SAIFI")
+  ggplot(.,aes(x=saifi,y=eia_SAIFI))+geom_point()+xlab("EAGLE-I SAIFI")+ylab("EIA SAIFI")+geom_abline(slope=1,intercept=0)
 residual_cmp %>%
-  ggplot(.,aes(x=caidi,y=CAIDI))+geom_point()+xlab("EAGLE-I CAIDI")+ylab("EIA CAIDI")
+  ggplot(.,aes(x=caidi,y=eia_CAIDI))+geom_point()+xlab("EAGLE-I CAIDI")+ylab("EIA CAIDI")+geom_abline(slope=1,intercept=0)
 residual_cmp %>%
   ggplot(.,aes(x=saidi_res,y=saifi_res,label=county))+geom_point()+geom_text_repel()
 ```
 # Continued comparison, but by utility instead of county
 ```{r}
-rel_by_utility=left_join(rel_by_utility,svi_reliability,join_by(X.County.==county))
+service_reliability_mapper_eaglei=inner_join(service_reliability_mapper,reliability,join_by(X.County.==county))
+service_reliability_mapper_eaglei <- service_reliability_mapper_eaglei %>%
+  group_by(X.Utility.Name.)%>%
+  summarise(county=X.County.,utility=X.Utility.Name.,saifi=mean(saifi,na.rm=TRUE),saidi=mean(saidi,na.rm=TRUE),caidi=mean(caidi,na.rm=TRUE))
+EIA_service_util<-left_join(eia_reliability_county,service_reliability_mapper_eaglei,join_by(X.County.==county))
+EIA_service_util<- EIA_service_util %>%
+  mutate(diff_saidi=eia_SAIDI-saidi,diff_saifi=eia_SAIFI-saifi,diff_caidi=eia_CAIDI-caidi)
+EIA_service_util %>%
+  group_by(utility)%>%
+  summarise(diff_saidi=mean(diff_saidi),diff_saifi=mean(diff_saifi),diff_caidi=mean(diff_caidi),utility=utility)
 ```
 
 
