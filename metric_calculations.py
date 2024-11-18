@@ -47,23 +47,24 @@ def get_quantitative_vulnerability(data_path):
             duration = get_time_diff(row)
             start_date = str(row['run_start_time']).split(' ')[0]
             if row['county'] not in counties_outages.keys():
-                counties_outages[row['county']] = {start_date: [(row['customers_out'], duration)]}
+                counties_outages[row['county']] = {
+                    start_date: [(row['customers_out'], duration, row['run_start_time'])]}
             else:
                 county_dates = counties_outages[row['county']]
                 if start_date not in county_dates.keys():
-                    county_dates[start_date] = [(row['customers_out'], duration)]
+                    county_dates[start_date] = [(row['customers_out'], duration, row['run_start_time'])]
                 else:
                     county_events = county_dates[start_date]
                     customers_out = row['customers_out']
                     # check if row['customers_out'] is not in the first element of any tuple in county_events
                     found = False
-                    for index, (out, dur) in enumerate(county_events):
+                    for index, (out, dur, time) in enumerate(county_events):
                         if out == customers_out:
-                            county_events[index] = (customers_out, dur + duration)
+                            county_events[index] = (customers_out, dur + duration, row['run_start_time'])
                             found = True
                             break
                     if not found:
-                        county_events.append((customers_out, duration))
+                        county_events.append((customers_out, duration, row['run_start_time']))
 
     return counties_outages
 
@@ -124,25 +125,23 @@ def get_svi(county_name, year):
             return svi_csv.iloc[row]["RPL_THEMES"]
 
 
-def normalize_quantitative_vulnerabilities(data_path, year,calculate_metrics=True):
+def normalize_quantitative_vulnerabilities(data_path, year, calculate_metrics=True):
     outages = get_quantitative_vulnerability(data_path)
     county_totals = {}
     metric_df = pd.DataFrame()
 
     for county, dates in outages.items():
         print(f"County: {county}")
-        county_totals[county] = 0
         # to generate SAIFI, SAIDI, and CAIDI (SAIFI/SAIDI)
         num_interruptions, cum_duration, customer_interruptions, customer_minute_interruptions = 0, 0, 0, 0
         for date, events in dates.items():
+            customer_interruptions += max(events)[0]
             # print(f"  Date: {date}")
             for event in events:
                 num_interruptions += 1
-                customer_interruptions += event[0]
                 num_people_out, total_duration = event[0], event[1]
                 cum_duration += total_duration
-                customer_minute_interruptions+=num_people_out*total_duration
-                county_totals[county] += num_people_out * total_duration  # scale importance by duration
+                customer_minute_interruptions += total_duration*num_people_out
                 # print(f"    Customers out: {num_people_out} for a duration of {total_duration} minutes")
 
         if calculate_metrics:
@@ -167,7 +166,7 @@ def normalize_quantitative_vulnerabilities(data_path, year,calculate_metrics=Tru
     return percentile_ranks
 
 
-normalize_quantitative_vulnerabilities('outage_records/filtered_2015.csv',2015, calculate_metrics=True)
+normalize_quantitative_vulnerabilities('outage_records/filtered_2015.csv', 2015, calculate_metrics=True)
 
 
 def county_metric_data(year, metric_name, normalize=True):

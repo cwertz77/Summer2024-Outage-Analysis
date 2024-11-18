@@ -16,28 +16,37 @@ library(ggplot2)
 library(tidyr)
 library(readr)
 library(ggrepel)
+library(lubridate)
+library(tidyr)
+library(tidyverse)
+```
+# Read CSVS
+```{r}
+svi_reliability=read.csv("outage_records/metrics_2023_test.csv")
+svi=read.csv("plots_and_metric_data/svi_interactive_map_2022.csv")
+county_fips=read.csv('county_to_fips.csv')
+wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
+county_customers=read.csv('mcc.csv')
+EIA_disturbances<-read.csv("EIA_disturbances_data/all_illinois.csv")
+EIA_saidi_saifi=read.csv('data/energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
+service_territory=read.csv('data/energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
 ```
 
 # Plot Reliability Metrics Against Social Vulnerability.
 ```{r}
-svi_reliability=read.csv("outage_records/metrics.csv")
-county_fips=read.csv('county_to_fips.csv')
-
 svi_reliability %>%
   ggplot(.,aes(x=saidi,y=svi))+geom_point()
 svi_reliability<-left_join(svi_reliability,county_fips,by="county")
-
 ```
 
 # Plot wind speed against percentage of customers out
 ```{r}
-wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
 wind_speed_customers <- wind_speed_customers %>%
   mutate(date=as.Date(date,"%m/%d/%Y")) %>%
   mutate(year=as.integer(format(as.Date(wind_speed_customers$date,format="%m/%d/%Y"),"%Y")))
-county_customers=read.csv('mcc.csv')
 county_customers$County_FIPS=as.numeric(county_customers$County_FIPS)
 wind_speed_customers <- left_join(wind_speed_customers,county_fips,by="county")
+county_fips <- left_join(county_fips,county_customers,join_by(fips_code==County_FIPS))
 wind_speed_customers <- left_join(wind_speed_customers,county_customers,join_by(fips_code==County_FIPS))
 wind_speed_customers %>%
   filter(year==2023|year==2022|year==2021|year==2020) %>%
@@ -46,7 +55,6 @@ wind_speed_customers %>%
 
 # Add EIA disturbances to the dataset.
 ```{r}
-EIA_disturbances<-read.csv("EIA_disturbances_data/all_illinois.csv")
 EIA_disturbances<-EIA_disturbances %>%
   filter(Event.Type == "Severe Weather" | Event.Type == "Severe Weather - Thunderstorms" | Event.Type ==
 "- Weather or natural disaster")
@@ -74,23 +82,18 @@ svi_reliability %>%
 ```
 # SAIDI vs SAIFI
 ```{r}
-#svi=read.csv("plots_and_metric_data/svi_interactive_map_2022.csv")
-#svi_reliability <- left_join(svi_reliability,svi,join_by(fips_code==FIPS))
  svi_reliability%>%
   group_by(county) %>%
   mutate(SAIDI=mean(saidi),SAIFI=mean(saifi),svi=mean(svi))%>%
-  ggplot(.,aes(x=SAIDI,y=SAIFI,color=svi))+geom_point()+geom_label(label=svi_reliability$county,size=2)
+  ggplot(.,aes(x=SAIDI/60,y=SAIFI,color=svi))+geom_point()+geom_label(label=svi_reliability$county,size=2)
 ```
 # Convert EIA disturbances metrics into county-based format for SAIDI, SAIFI, and CAIDI.
 ```{r}
-EIA_saidi_saifi=read.csv('data/energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
-service_territory=read.csv('data/energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
 EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)
 EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..)
 EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..)
-reliability_by_county<-left_join(service_territory,EIA_saidi_saifi,join_by('X.Utility.Name.'=='X.Utility.Characteristics..Utility.Name.'))
-
-reliability_by_county <- reliability_by_county %>%
+rel_by_utility<-left_join(service_territory,EIA_saidi_saifi,join_by('X.Utility.Name.'=='X.Utility.Characteristics..Utility.Name.'))
+reliability_by_county <- rel_by_utility %>%
   filter(!is.na(X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)) %>%
   group_by(X.County.) %>%
   summarise(SAIDI=mean(X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..),
@@ -100,9 +103,9 @@ reliability_by_county <- reliability_by_county %>%
 ```
 # Compare SAIDI, SAIFI, and CAIDI values between EIA database and EAGLE-I Calculations.
 ```{r}
-svi_reliability_2022 <- svi_reliability %>%
-  filter(year==2022)
-residual_cmp<-left_join(svi_reliability_2022,reliability_by_county,join_by(county==X.County.))
+
+residual_cmp<-left_join(svi_reliability,reliability_by_county,join_by(county==X.County.))
+residual_cmp<-left_join(residual_cmp,svi,join_by(fips_code==FIPS))
 residual_cmp <- residual_cmp %>%
   mutate(saidi_res=(SAIDI-saidi),saifi_res=(SAIFI-saifi),caidi_res=(CAIDI-caidi))
 residual_cmp %>%
@@ -112,7 +115,11 @@ residual_cmp %>%
 residual_cmp %>%
   ggplot(.,aes(x=caidi,y=CAIDI))+geom_point()+xlab("EAGLE-I CAIDI")+ylab("EIA CAIDI")
 residual_cmp %>%
-  ggplot(.,aes(x=saidi_res,y=saifi_res,color=svi,label=county))+geom_point()+geom_text_repel()
+  ggplot(.,aes(x=saidi_res,y=saifi_res,label=county))+geom_point()+geom_text_repel()
+```
+# Continued comparison, but by utility instead of county
+```{r}
+rel_by_utility=left_join(rel_by_utility,svi_reliability,join_by(X.County.==county))
 ```
 
 
@@ -128,49 +135,39 @@ wind_customers_grouped<-wind_customers_grouped %>%
    mutate(pct_customers_out=num_outages/num_customers)
 ```
 
-# REGRESSION MODEL: Number of Outages
-```{r}
-wind_customers_grouped %>%
-   #mutate(year=as.integer(format(as.Date(wind_customers_grouped$id,format="%m/%d/%Y"),"%Y")))%>%
-   #filter(year==2020|year==2021|year==2022|year==2023)%>%
-   ggplot(.,aes(x=wind_speed,y=num_outages))+geom_point()+scale_y_log10()+labs(x='Wind Speed (KTS)',y='Number of Customers Out')
-wind_customers_lm=lm(wind_customers_grouped$num_outages~wind_speed,wind_customers_grouped)
-summary(wind_customers_lm)
-par(mfrow=c(2,2))
-plot(wind_customers_lm)
-par(mfrow=c(1,1))
-```
-# REGRESSION MODEL: Percent Customers Out
-```{r}
-wind_customers_grouped %>%
-   #mutate(year=as.integer(format(as.Date(wind_customers_grouped$id,format="%m/%d/%Y"),"%Y")))%>%
-   #filter(year==2020|year==2021|year==2022|year==2023)%>%
-   ggplot(.,aes(x=wind_speed,y=pct_customers_out))+geom_point()+scale_y_log10()+labs(x='Wind Speed (KTS)',y='Percent of Customers Out')
-wind_customers_lm=lm(wind_customers_grouped$pct_customers_out~wind_speed,wind_customers_grouped)
-summary(wind_customers_lm)
-par(mfrow=c(2,2))
-plot(wind_customers_lm)
-par(mfrow=c(1,1))
-```
-
-
 # EXPONENTIAL REGRESSION MODEL: Average Percent Customers Out (per wind speed)
 ```{r}
 avg_wind_customers_grouped <- wind_customers_grouped %>%
+  mutate(wind_speed=as.integer(round(wind_speed*1.15078))) %>%
   group_by(wind_speed) %>%
-  filter(num_outages>100 & duration > 120) %>%
-  mutate(avg_pct_out=mean(pct_customers_out),avg_cust_min=mean(customer_mins/num_customers))
+  mutate(avg_pct_out=mean(pct_customers_out),avg_cust_min=mean(customer_mins/num_outages))
 avg_wind_customers_grouped_lm=lm(log(avg_wind_customers_grouped$avg_pct_out)~wind_speed,avg_wind_customers_grouped)
 summary(avg_wind_customers_grouped_lm)
 par(mfrow=c(2,2))
 plot(avg_wind_customers_grouped_lm)
 par(mfrow=c(1,1))
 avg_wind_customers_grouped %>%
-  ggplot(.,aes(x=wind_speed,y=avg_pct_out))+geom_point()+labs(x='Wind Speed (KTS)',y='Average Percent of Customers Out')
+  ggplot(.,aes(x=wind_speed,y=avg_pct_out))+geom_point()+labs(x='Wind Speed (MPH)',y='Average Percent of Customers Out')
 ```
-# REGRESSION MODEL: Wind Speed v.s. Customer-Minutes
+# Wind Speed v.s. Customer-Minutes
 ```{r}
 avg_wind_customers_grouped %>%
-  ggplot(.,aes(x=wind_speed,y=avg_cust_min))+geom_point()+labs(x='Wind Speed (KTS)',y='Average Customer Minutes Out')
+  ggplot(.,aes(x=wind_speed,y=avg_cust_min))+geom_point()+labs(x='Wind Speed (MPH)',y='Average Customer Minutes Out')
+```
+# Add EIA disturbances to dataset
+```{r}
+EIA_disturbances_fmtd <- EIA_disturbances %>%
+  mutate(id_start=parse_date_time(Date.Event.Began,orders=c("%m/%d/%Y","%Y-%m-%d","%Y-%m-%d %H%M%S")),
+         id_end=parse_date_time(Date.of.Restoration,orders=c("%m/%d/%Y","%Y-%m-%d","%Y-%m-%d %H%M%S")))
+
+EIA_disturbances_fmtd <- EIA_disturbances_fmtd %>%
+  mutate(duration=as.numeric(difftime(strptime(paste(id_end,Time.of.Restoration),format="%Y-%m-%d   %H:%M:%S"),strptime(paste(id_start,Time.Event.Began),format="%Y-%m-%d %H:%M:%S"))))
+
+EIA_disturbances_fmtd <- EIA_disturbances_fmtd %>%
+  separate(.,Area.Affected,sep=c(":"),into=c("State","County"))
+
+EIA_disturbances_fmtd <- EIA_disturbances_fmtd %>%
+  mutate(customer_mins=duration*60*as.numeric(Number.of.Customers.Affected))
+
 ```
 
