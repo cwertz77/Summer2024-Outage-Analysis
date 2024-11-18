@@ -1,0 +1,18 @@
+,Data Year,Utility Number,Utility Name,State,Ownership,SAIDI With MED,SAIFI With MED,CAIDI With MED,SAIDI Without MED,SAIFI Without MED,CAIDI Without MED,SAIDI With MED Minus LOS,SAIFI With MED Minus LOS,CAIDI Minus MED,Number of Customers,Highest Dist. Voltage,Outages Recorded Automatically,SAIDI With MED.1,SAIFI With MED.1,CAIDI With MED.1,SAIDI Without MED.1,SAIFI Without MED.1,CAIDI Without MED.1,Number of Customers.1,Inactive Accounts Included,Momentary Interruptions,Highest Dist. Voltage.1,Outages Recorded Automatically.1
+0,2020,4110.0,Commonwealth Edison Co,IL,Investor Owned,341.1,0.83,410.96386,39.95,0.55,72.636364,333.65,0.81,411.91358,4153856,34,Y,.,.,.,.,.,.,.,,,.,
+1,2020,4362.0,Corn Belt Energy Corporation,IL,Cooperative,314.9,4.46,70.605381,166.9,3.97,42.040302,247.8,4.36,56.834862,36418,69,Y,.,.,.,.,.,.,.,,,.,
+2,2020,5585.0,Eastern Illinois Elec Coop,IL,Cooperative,148.9,1.47,101.29252,108.9,1.21,90,129.9,1.18,110.08475,13488,7.2,Y,.,.,.,.,.,.,.,,,.,
+3,2020,7096.0,City of Geneva- (IL),IL,Municipal,83.285,0.716,116.31983,83.285,0.716,116.31983,.,.,.,10153,.,N,.,.,.,.,.,.,.,,,.,
+4,2020,9750.0,"Jo-Carroll Energy, Inc",IL,Cooperative,86.45,0.69,125.28986,49.22,0.5,98.44,37.26,0.19,196.10526,19651,34.5,Y,.,.,.,.,.,.,.,,,.,
+5,2020,12341.0,MidAmerican Energy Co,IL,Investor Owned,2267,2.6,871.92308,129,1.24,104.03226,2262,2.52,897.61905,85375,13.8,Y,.,.,.,.,.,.,.,,,.,
+6,2020,12395.0,Menard Electric Coop,IL,Cooperative,151.88,1.722,88.199768,125.18,1.606,77.945205,121.691,1.453,83.751549,11140,12.5,Y,.,.,.,.,.,.,.,,,.,
+7,2020,13032.0,Mt Carmel Public Utility Co,IL,Investor Owned,.,.,.,.,.,.,.,.,.,.,.,,103.67,1.14,90.938596,103.67,1.14,90.938596,5304,N,L,7.2,Y
+8,2020,13208.0,City of Naperville - (IL),IL,Municipal,13.93,0.22,63.318182,.,.,.,.,.,.,61072,12.4,Y,.,.,.,.,.,.,.,,,.,
+9,2020,16179.0,Rochelle Municipal Utilities,IL,Municipal,93.067,0.725,128.36828,.,.,.,.,.,.,6899,15,N,.,.,.,.,.,.,.,,,.,
+10,2020,16196.0,Rock Energy Cooperative,IL,Cooperative,18.619,0.185,100.64324,.,.,.,.,.,.,11494,12.5,Y,.,.,.,.,.,.,.,,,.,
+11,2020,17585.0,"Southeastern IL Elec Coop, Inc",IL,Cooperative,170.335,1.228,138.70928,92.159,0.988,93.27834,.,.,.,24373,12.4,Y,.,.,.,.,.,.,.,,,.,
+12,2020,17697.0,Southwestern Electric Coop Inc - (IL),IL,Cooperative,201.46,1.51,133.41722,187.97,1.47,127.87075,134.07,1.22,109.89344,23618,13,Y,.,.,.,.,.,.,.,,,.,
+13,2020,17828.0,City of Springfield - (IL),IL,Municipal,.,.,.,.,.,.,.,.,.,.,.,,53.95,0.814,66.277641,.,.,.,70648,N,L,12.5,Y
+14,2020,17860.0,City of St Charles - (IL),IL,Municipal,.,.,.,.,.,.,.,.,.,.,.,,30.16,0.793,38.032787,30.16,0.793,38.032787,16048,Y,L,12.4,N
+15,2020,18955.0,"Tri-County Electric Coop, Inc (IL)",IL,Cooperative,160.5,1.14,140.78947,83.1,0.85,97.764706,112.3,0.78,143.97436,16501,12.5,Y,.,.,.,.,.,.,.,,,.,
+16,2020,56697.0,Ameren Illinois Company,IL,Investor Owned,223.6,1.04,215,101.3,0.82,123.53659,220.9,1,220.9,1249150,69,Y,.,.,.,.,.,.,.,,,.,
