@@ -1,0 +1,45 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..State|,|Utility Characteristics..Ownership Type|,|Utility Characteristics..NERC Region|,|Demand.(Megawatts).Summer Peak Demand|,|Demand.(Megawatts).Winter Peak Demand|,|Energy Sources (Megawatthours).(Megawatts).Net Generation|,|Energy Sources (Megawatthours).(Megawatts).Wholesale Power Purchases|,|Energy Sources (Megawatthours).Power Exchanged.Exchange Energy Received|,|Energy Sources (Megawatthours).Power Exchanged.Exchange Energy Delivered|,|Energy Sources (Megawatthours).Power Exchanged.Net Power Exchanged|,|Energy Sources (Megawatthours).Wheeled Power.Wheeled Power Received|,|Energy Sources (Megawatthours).Wheeled Power.Wheeled Power Delivered|,|Energy Sources (Megawatthours).Wheeled Power.Net Wheeled Power|,|Energy Sources (Megawatthours).Wheeled Power.Transmission by Other Losses|,|Energy Sources (Megawatthours).Wheeled Power.Total Sources|,|Disposition.(Megawatthours).Sales to Ultimate Customers|,|Disposition.(Megawatthours).Sales for Resale|,|Disposition.(Megawatthours).Furnished without Charge|,|Disposition.(Megawatthours).Consumed by Respondent without Charge|,|Disposition.(Megawatthours).Total Energy Losses|,|Disposition.(Megawatthours).Total Disposition|,|Electric Revenues.(Thousands Dollars).From Retail Sales|,|Electric Revenues.(Thousands Dollars).From Delivery Customers|,|Electric Revenues.(Thousands Dollars).From Sales for Resale|,|Electric Revenues.(Thousands Dollars).From Credits or Adjustments|,|Electric Revenues.(Thousands Dollars).From Transmission|,|Electric Revenues.(Thousands Dollars).From Other|,|Electric Revenues.(Thousands Dollars).Total|,"|..""Data Type O = Observed I = Imputed""|"
+0,2014,97,Adams Electric Coop,IL,Cooperative,SERC,36,42,4705,177628,.,.,0,.,.,0,.,182333,169145,.,.,383,12805,182333,21843,.,.,.,.,247,22090,O
+1,2014,970,Homefield Energy,IL,Retail Power Marketer,RFC,.,.,.,14539682,.,.,0,.,.,0,.,14539682,14539682,.,.,.,.,14539682,835576,.,.,.,.,.,835576,O
+2,2014,1325,City of Batavia - (IL),IL,Municipal,RFC,92,73.8,.,490693,.,.,0,.,.,0,.,490693,473484,.,.,.,17209,490693,47750,.,.,.,.,2166,49916,O
+3,2014,3806,"Clinton County Elec Coop, Inc",IL,Cooperative,RFC,32,31,.,149177,.,.,0,.,.,0,.,149177,141539,.,.,.,7638,149177,16375,.,.,.,.,123,16498,O
+4,2014,3931,Coles-Moultrie Electric Coop,IL,Cooperative,SERC,41.5,49.9,.,220270,.,.,0,.,.,0,.,220270,206662,.,.,548,13060,220270,24505,.,.,.,.,1128,25633,O
+5,2014,4110,Commonwealth Edison Co,IL,Investor Owned,RFC,19721,16515,.,21464503,.,.,0,.,.,0,.,21464503,18061768,1997938,462663,86955,855179,21464503,1970315.4,2009539.3,88665.7,.,.,.,4068520.4,O
+6,2014,4362,Corn Belt Energy Corporation,IL,Cooperative,RFC,137.1,130.4,.,678337,.,.,0,.,.,0,.,678337,653630,.,.,1798,22909,678337,80030,.,.,.,.,239,80269,O
+7,2014,5535,Egyptian Electric Coop Assn,IL,Cooperative,RFC,76.8,102.4,.,364968,.,.,0,.,.,0,.,364968,351788,.,.,.,13180,364968,40469,.,.,.,.,.,40469,O
+8,2014,5585,Eastern Illinois Elec Coop,IL,Cooperative,RFC,42.9,59.4,0,268778,.,.,0,.,.,0,.,268778,247462,.,.,105,21211,268778,34728,.,.,-26,.,39,34741,O
+9,2014,5748,Electric Energy Inc,IL,Investor Owned,SERC,0,0,7171412,0,0,0,0,0,0,0,0,7171412,46462,7067523,0,0,57427,7171412,2137,0,243373.8,0,0,0,245510.8,O
+10,2014,6417,City of Flora - (IL),IL,Municipal,,25.3,18.1,66,124391,.,.,0,.,.,0,.,124457,115924,.,.,1615,6918,124457,12292,.,.,.,.,226,12518,O
+11,2014,7096,City of Geneva- (IL),IL,Municipal,RFC,81.1,71.7,2157,411165,.,.,0,.,.,0,-13478,399844,390288,.,.,.,9556,399844,39252.9,.,.,.,.,.,39252.9,O
+12,2014,8573,City of Highland,IL,Municipal,SERC,35.6,21.2,269,137534,.,.,0,.,.,0,.,137803,129830,.,485,857,6631,137803,13693.3,.,.,.,.,502.8,14196.1,O
+13,2014,8824,M J M Electric Cooperative Inc,IL,Cooperative,RFC,34,31,.,145938,.,.,0,.,.,0,.,145938,134981,.,.,.,10957,145938,19693,.,.,.,.,206,19899,O
+14,2014,9209,Illinois Rural Electric Coop,IL,Cooperative,RFC,41,40,.,190858,.,.,0,.,.,0,.,190858,176260,.,.,.,14598,190858,27107,.,.,.,.,183,27290,O
+15,2014,9286,Illinois Municipal Elec Agency,IL,Municipal Mktg Authority,SERC & RFC,882026,694087,2405660,1739268,.,.,0,.,.,0,.,4144928,.,4144928,.,.,.,4144928,.,.,312861,.,.,4352,317213,O
+16,2014,9750,Jo-Carroll Energy Coop Inc,IL,Cooperative,MRO,103.7,96.5,264,567903,.,.,0,.,.,0,.,568167,538211,.,.,1834,28122,568167,61643.7,.,.,.,.,.,61643.7,O
+17,2014,12395,Menard Electric Coop,IL,Cooperative,RFC,62.6,39.1,.,231044,.,.,0,.,.,0,.,231044,214098,.,.,278,16668,231044,27938.3,.,.,.,.,222.2,28160.5,O
+18,2014,12803,"Monroe County Elec Coop, Inc",IL,Cooperative,RFC,30,29,.,124624,.,.,0,.,.,0,.,124624,116425,.,.,398,7801,124624,15361,.,.,.,.,212,15573,O
+19,2014,13032,Mt Carmel Public Utility Co,IL,Investor Owned,SERC,24,21.1,.,107900,.,.,0,.,.,0,.,107900,96250,3591,318,433,7308,107900,11256.8,.,225.9,.,.,46,11528.7,O
+20,2014,13208,City of Naperville - (IL),IL,Municipal,RFC,324.7,240,.,1451621,.,.,0,.,.,0,.,1451621,1399607,9213,10052,.,32749,1451621,133361.9,.,676.5,.,.,3330.4,137368.8,O
+21,2014,13292,Norris Electric Coop,IL,Cooperative,RFC,81,77,.,391639,.,.,0,.,.,0,.,391639,367465,.,.,453,23721,391639,44961.6,.,.,.,.,274.6,45236.2,O
+22,2014,14840,City of Peru - (IL),IL,Municipal,RFC,52,42,36313,227063,.,.,0,.,.,0,.,263376,251169,.,.,.,12207,263376,24730,.,.,.,.,210,24940,O
+23,2014,15388,City of Princeton - (IL),IL,Municipal,SERC,24.6,17.4,534,105481,.,.,0,.,.,0,.,106015,95098,.,634,7546,2737,106015,9266.5,.,.,.,.,24,9290.5,O
+24,2014,15686,Village of Rantoul - (IL),IL,Municipal,RFC,33.7,24.5,285,161216,.,.,0,.,.,0,.,161501,152775,.,2010,2155,4561,161501,12016,.,.,.,.,.,12016,O
+25,2014,16179,Rochelle Municipal Utilities,IL,Municipal,RFC,54,46.7,1584,319351,.,.,0,.,.,0,.,320935,306633,.,.,.,14302,320935,30144,.,.,.,.,0,30144,O
+26,2014,16420,Rural Electric Conven Coop,IL,Cooperative,RFC,23.7,26.8,.,123777,.,.,0,.,.,0,.,123777,115370,.,.,204,8203,123777,15758,.,.,.,.,224.4,15982.4,O
+27,2014,17040,"Shelby Electric Coop, Inc",IL,Cooperative,RFC,47.3,39.8,.,264975,.,.,0,.,.,0,.,264975,247355,.,.,448,17172,264975,34051,.,.,.,.,212,34263,O
+28,2014,17585,"Southeastern IL Elec Coop, Inc",IL,Cooperative,RFC,202,229,.,1066000,.,.,0,.,.,0,.,1066000,1038738,.,.,1007,26255,1066000,103557,.,.,-552,.,.,103005,O
+29,2014,17631,Southern Illinois Elec Coop,IL,Cooperative,RFC,44.5,57.5,.,209576,.,.,0,.,.,0,.,209576,200124,.,482,.,8970,209576,27987,.,.,.,.,337,28324,O
+30,2014,17632,Southern Illinois Power Coop,IL,Cooperative,SERC,508.7,570.8,2479960,516029,.,.,0,.,.,0,.,2995989,.,2959551,.,480,35958,2995989,.,.,219740.2,.,.,150.1,219890.3,O
+31,2014,17697,Southwestern Electric Coop Inc - (IL),IL,Cooperative,SERC,105,89,739,457395,.,.,0,.,.,0,.,458134,423547,739,.,.,33848,458134,55508,.,58.4,.,.,.,55566.4,O
+32,2014,17828,City of Springfield - (IL),IL,Municipal,SERC,395,324,2548675,456102,.,.,0,.,.,0,.,3004777,1735828,1167253,19742,5068,76886,3004777,220237,0,37715,-3467,0,4157,258642,O
+33,2014,17860,City of St Charles - (IL),IL,Municipal,RFC,113.3,84.2,.,544788,.,.,0,.,.,0,.,544788,530153,.,.,.,14635,544788,54823.4,.,.,.,.,.,54823.4,O
+34,2014,18955,"Tri-County Electric Coop, Inc",IL,Cooperative,RFC,78.3,82.4,.,405535,.,.,0,.,.,0,.,405535,387131,.,.,200,18204,405535,46830.2,.,.,.,.,1411,48241.2,O
+35,2014,20222,Wayne-White Counties Elec Coop,IL,Cooperative,RFC,69.2,71.4,.,373943,.,.,0,.,.,0,.,373943,357630,.,.,369,15944,373943,42201,.,.,.,.,377,42578,O
+36,2014,20824,Village of Winnetka - (IL),IL,Municipal,RFC,32,25.2,.,127369,.,.,0,.,.,0,.,127369,120064,.,.,2532,4773,127369,13754,.,.,.,.,.,13754,O
+37,2014,40307,"Prairie Power, Inc",IL,Cooperative,SERC,297.3,320.3,793740,829663,.,.,0,19465,19272,193,.,1623596,.,1602794,.,.,20802,1623596,.,.,118325,4566,15774,4861,143526,O
+38,2014,55722,AEP Energy,IL,Retail Power Marketer,RFC,2163.4,2181.8,.,10825746,.,.,0,.,.,0,.,10825746,10825746,.,.,.,.,10825746,712744,.,.,.,.,.,712744,O
+39,2014,56379,"MC Squared Energy Services, LLC",IL,Retail Power Marketer,,.,.,.,2310567,.,.,0,.,.,0,-124719,2185848,2185848,.,.,.,.,2185848,132347,.,.,.,.,.,132347,O
+40,2014,57459,"Wolverine Alternative Investments, LLC",IL,Retail Power Marketer,,1,1,.,3937,.,.,0,.,.,0,.,3937,3937,0,0,0,0,3937,306.2,.,.,.,.,.,306.2,O
+41,2014,58965,Energy.Me Midwest LLC,IL,Retail Power Marketer,SERC,.,.,.,2342745,0,0,0,.,.,0,.,2342745,2342745,.,.,.,.,2342745,138866.1,0,0,0,0,0,138866.1,O
+42,2014,59054,"Eligo Energy, LLC",IL,Retail Power Marketer,,.,.,.,210010,0,0,0,.,.,0,.,210010,210010,.,.,.,.,210010,16986.8,.,.,.,.,.,16986.8,O
+43,2014,59088,"Nordic Energy Services, LLC",IL,Retail Power Marketer,,105,85,.,984895,0,0,0,.,.,0,.,984895,964840,.,.,.,20055,984895,58824.1,0,.,.,.,.,58824.1,O

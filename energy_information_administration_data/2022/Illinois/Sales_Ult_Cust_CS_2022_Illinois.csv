@@ -1,0 +1,21 @@
+,|Utility Characteristics..Data Year|,|Utility Characteristics..Facility Number|,|Utility Characteristics..Facility Name|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..STATE|,|Utility Characteristics..BA Code|,|RESIDENTIAL.Revenues.Thousand Dollars|,|RESIDENTIAL.Sales.Megawatthours|,|RESIDENTIAL.Customers.Count|,|COMMERCIAL.Revenues.Thousand Dollars|,|COMMERCIAL.Sales.Megawatthours|,|COMMERCIAL.Customers.Count|,|INDUSTRIAL.Revenues.Thousand Dollars|,|INDUSTRIAL.Sales.Megawatthours|,|INDUSTRIAL.Customers.Count|,|TRANSPORTATION.Revenues.Thousand Dollars|,|TRANSPORTATION.Sales.Megawatthours|,|TRANSPORTATION.Customers.Count|,|TOTAL.Revenues.Thousand Dollars|,|TOTAL.Sales.Megawatthours|,|TOTAL.Customers.Count|
+0,2022,65005.0,Albertsons at Melrose Park,64440.0,"ESIL-AL-Melrose, LLC",IL,PJM,0.0,0,0,74.0,"1,578",1.0,0.0,0,0.0,0.0,0.0,0.0,74.0,"1,578",1
+1,2022,64610.0,Amazon MDW6 Solar Project,64220.0,"Solar Star Prime 5, LLC",IL,PJM,0.0,0,0,6.0,122,1.0,0.0,0,0.0,0.0,0.0,0.0,6.0,122,1
+2,2022,62681.0,CED Champaign Solar LLC,56769.0,Consolidated Edison Development Inc.,IL,MISO,0.0,0,0,0.0,0,0.0,207.0,"2,924",1.0,0.0,0.0,0.0,207.0,"2,924",1
+3,2022,63967.0,Charter Durabar at Woodstock,63511.0,"Luminace Solar Illinois 2, LLC",IL,PJM,0.0,0,0,100.0,"4,013",1.0,0.0,0,0.0,0.0,0.0,0.0,100.0,"4,013",1
+4,2022,63830.0,Conagra Foods at St. Elmo,63511.0,"Luminace Solar Illinois 2, LLC",IL,MISO,0.0,0,0,75.0,"3,449",1.0,0.0,0,0.0,0.0,0.0,0.0,75.0,"3,449",1
+5,2022,63889.0,"ESIL-PFCHICAGO 2, LLC",62915.0,Madison Energy Holdings LLC,IL,MISO,0.0,0,0,268.0,"3,754",1.0,0.0,0,0.0,0.0,0.0,0.0,268.0,"3,754",1
+6,2022,63888.0,"ESIL-PFCHICAGO 3, LLC",62915.0,Madison Energy Holdings LLC,IL,MISO,0.0,0,0,399.0,"5,574",1.0,0.0,0,0.0,0.0,0.0,0.0,399.0,"5,574",1
+7,2022,64919.0,FedEx Chicago Solar Facility,63505.0,"DG Illinois Solar, LLC",IL,PJM,0.0,0,0,183.0,"1,959",1.0,0.0,0,0.0,0.0,0.0,0.0,183.0,"1,959",1
+8,2022,63069.0,Harmony Road Solar,62856.0,"Forefront Power, LLC",IL,PJM,0.0,0,0,76.0,"2,943",1.0,0.0,0,0.0,0.0,0.0,0.0,76.0,"2,943",1
+9,2022,64629.0,JM Huber at Quincy,63511.0,"Luminace Solar Illinois 2, LLC",IL,MISO,0.0,0,0,0.0,0,0.0,67.0,"2,396",1.0,0.0,0.0,0.0,67.0,"2,396",1
+10,2022,61878.0,John A Logan College Solar,63359.0,"REA Investments, LLC",IL,MISO,427.0,"2,628",1,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,427.0,"2,628",1
+11,2022,63073.0,Mooseheart School Solar,62856.0,"Forefront Power, LLC",IL,PJM,0.0,0,0,96.0,"3,115",1.0,0.0,0,0.0,0.0,0.0,0.0,96.0,"3,115",1
+12,2022,55216.0,Morris Cogeneration LLC,54755.0,Morris Cogeneration LLC,IL,PJM,0.0,0,0,0.0,0,0.0,"11,961.0","448,208",1.0,0.0,0.0,0.0,"11,961.0","448,208",1
+13,2022,62735.0,Phoenix Solar South Farms LLC Solar Farm,62656.0,Phoenix Solar South Farms LLC,IL,MISO,0.0,0,0,"1,426.0","7,276",1.0,0.0,0,0.0,0.0,0.0,0.0,"1,426.0","7,276",1
+14,2022,63071.0,Reed Road Solar,62856.0,"Forefront Power, LLC",IL,PJM,0.0,0,0,53.0,"2,047",1.0,0.0,0,0.0,0.0,0.0,0.0,53.0,"2,047",1
+15,2022,64362.0,"SCS American Bottoms 009885 Sauget, LLC",61677.0,Sol Systems,IL,MISO,0.0,0,0,0.0,0,0.0,81.0,"2,842",1.0,0.0,0.0,0.0,81.0,"2,842",1
+16,2022,64628.0,Slidematic at Rockford,63511.0,"Luminace Solar Illinois 2, LLC",IL,PJM,0.0,0,0,45.0,"2,507",1.0,0.0,0,0.0,0.0,0.0,0.0,45.0,"2,507",1
+17,2022,63070.0,Square Barn Solar,62856.0,"Forefront Power, LLC",IL,PJM,0.0,0,0,58.0,"2,244",1.0,0.0,0,0.0,0.0,0.0,0.0,58.0,"2,244",1
+18,2022,63968.0,The GSI Group LLC at Assumption,63511.0,"Luminace Solar Illinois 2, LLC",IL,MISO,0.0,0,0,76.0,"3,172",1.0,0.0,0,0.0,0.0,0.0,0.0,76.0,"3,172",1
+19,2022,54780.0,University of Illinois Abbott Power Plt,19528.0,University of Illinois,IL,MISO,95.0,"1,036",236,"1,382.0","14,351",84.0,0.0,0,0.0,0.0,0.0,0.0,"1,477.0","15,387",320

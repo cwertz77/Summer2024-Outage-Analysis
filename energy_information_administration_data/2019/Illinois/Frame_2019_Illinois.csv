@@ -1,0 +1,56 @@
+,Data Year,Utility Number,Utility Name,Short Form,Ownership Code,Ownership,Monthly,Advanced Metering,Demand Response,Distribution Systems,Dynamic Pricing,Energy Efficiency,Mergers,Net Metering,Non Net Metering Distributed,Operational Data,Reliablity,Sales to Ultimate Customers,Service Territory,Utility Data
+0,2019,229,City of Albany - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+1,2019,366,City of Allendale- (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+2,2019,406,City of Altamont - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+3,2019,1325,City of Batavia - (IL),,M,Municipal,,X,,X,,,,,,X,,X,X,X
+4,2019,1648,Village of Bethany - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+5,2019,2188,City of Breese - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+6,2019,2634,City of Bushnell - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+7,2019,3037,City of Carlyle - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+8,2019,3040,City of Carmi - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+9,2019,3153,City of Casey - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+10,2019,3405,Village of Chatham - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+11,2019,5585,Eastern Illinois Elec Coop,,C,Cooperative,,X,,X,,X,,X,,X,X,X,X,X
+12,2019,6141,City of Fairfield- (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+13,2019,6192,City of Farmer City - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+14,2019,6417,City of Flora - (IL),,M,Municipal,,X,,X,,,,,,X,,X,X,X
+15,2019,6764,Village of Freeburg - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+16,2019,7095,City of Geneseo - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+17,2019,7096,City of Geneva- (IL),,M,Municipal,,X,,X,X,,,X,,X,X,X,X,X
+18,2019,7633,Village of Greenup - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+19,2019,8620,"HILCO Electric Cooperative, Inc.",,C,Cooperative,,X,,X,,X,,X,,X,X,X,X,X
+20,2019,9209,Illinois Rural Electric Coop,,C,Cooperative,,X,X,X,X,,,,X,X,X,X,X,X
+21,2019,9286,Illinois Municipal Elec Agency,,A,Municipal Mktg Authority,,,,,,X,,,,X,,,,X
+22,2019,11736,City of Marshall - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+23,2019,11790,City of Mascoutah - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+24,2019,12167,City of McLeansboro - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+25,2019,12388,City of Metropolis - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+26,2019,13208,City of Naperville - (IL),,M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+27,2019,13560,City of Newton - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+28,2019,13993,City of Oglesby - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+29,2019,14840,City of Peru - (IL),,M,Municipal,,X,,X,X,,,X,,X,,X,X,X
+30,2019,15388,City of Princeton - (IL),,M,Municipal,,X,,X,,,,,,X,,X,X,X
+31,2019,15686,Village of Rantoul - (IL),,M,Municipal,,X,,X,,,,,,X,,X,X,X
+32,2019,15772,City of Red Bud - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+33,2019,16092,Village of Riverton - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+34,2019,16198,City of Rock Falls - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+35,2019,16269,City of Roodhouse - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+36,2019,17585,"Southeastern IL Elec Coop, Inc",,C,Cooperative,,X,,X,,,,X,,X,X,X,X,X
+37,2019,17631,Southern Illinois Elec Coop,,C,Cooperative,,X,,X,,,,X,X,X,X,X,X,X
+38,2019,17632,Southern Illinois Power Coop,,C,Cooperative,,,,,,,,,,X,,,,X
+39,2019,17697,Southwestern Electric Coop Inc - (IL),,C,Cooperative,,X,,X,,,,,X,X,X,X,X,X
+40,2019,17828,City of Springfield - (IL),,M,Municipal,,X,,X,,X,,X,X,X,X,X,X,X
+41,2019,17860,City of St Charles - (IL),,M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+42,2019,18277,City of Sullivan - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+43,2019,18955,"Tri-County Electric Coop, Inc (IL)",,C,Cooperative,,X,,X,,,,X,X,X,X,X,X,X
+44,2019,20180,City of Waterloo - (IL),Y,M,Municipal,,X,,X,,,,X,,X,,X,X,X
+45,2019,20824,Village of Winnetka - (IL),,M,Municipal,,X,,X,,,,X,,X,X,X,X,X
+46,2019,29296,Western Illinois Elec Coop,Y,C,Cooperative,,X,,X,,,,X,X,X,,X,X,X
+47,2019,40367,Village of Ladd - (IL),Y,M,Municipal,,X,,X,,,,,,X,,X,X,X
+48,2019,56697,Ameren Illinois Company,,I,Investor Owned,X,X,,X,X,X,,X,X,X,X,X,X,X
+49,2019,57488,"XOOM Energy Illinois, LLC",,R,Retail Power Marketer,X,,,,,,,,,X,,X,,X
+50,2019,58314,"Palmco Power IL, LLC",,R,Retail Power Marketer,X,,,,,,,,,X,,X,,X
+51,2019,59958,"Mega Energy of Illinois, LLC",,R,Retail Power Marketer,X,,,,,,,,,X,,X,,X
+52,2019,61092,"Stream Energy Illinois, LLC",,R,Retail Power Marketer,X,,,,,,,,,X,,X,,X
+53,2019,62094,"SFE Energy Illinois, Inc.",,R,Retail Power Marketer,X,,,,,,,,,X,,X,,
+54,2019,63029,Josco Energy IL LLC,,R,Retail Power Marketer,X,,,,,,,,,X,,X,,X

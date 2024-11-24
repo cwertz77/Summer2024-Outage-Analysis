@@ -1,0 +1,32 @@
+,|Utility Characteristics.Data Year|,|Utility Characteristics.Utility Number|,|Utility Characteristics.Utility Name|,|Utility Characteristics.State|,|Utility Characteristics.Ownership Type|,|Utility Characteristics.NERC Region|,|Also operating in other NERC Regions.TRE|,|Also operating in other NERC Regions.FRCC|,|Also operating in other NERC Regions.MRO|,|Also operating in other NERC Regions.NPCC|,|Also operating in other NERC Regions.RFC|,|Also operating in other NERC Regions.SERC|,|Also operating in other NERC Regions.SPP|,|Also operating in other NERC Regions.WECC|,|Operating in these RTOs.CAISO|,|Operating in these RTOs.ERCOT|,|Operating in these RTOs.PJM|,|Operating in these RTOs.NYISO|,|Operating in these RTOs.SPP|,|Operating in these RTOs.MISO|,|Operating in these RTOs.ISONE|,|Operating in these RTOs.Other|,|Other Activities.Generation|,|Other Activities.Transmission|,|Other Activities.Buying Transmission|,|Other Activities.Distribution|,|Other Activities.Buying Distribution|,|Other Activities.Wholesale Marketing|,|Other Activities.Retail Marketing|,|Other Activities.Bundled|,|Other Activities.Alt Fuel Vehicle|,|Other Activities.Alt Fuel Vehicle 2|
+0,2020,1325,City of Batavia - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,N,,Y,,,,,,
+1,2020,3931,Coles-Moultrie Electric Coop,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,N
+2,2020,4110,Commonwealth Edison Co,IL,Investor Owned,RFC,,,,,Y,,,,,,Y,,,,,,,Y,Y,Y,,,,Y,Y,Y
+3,2020,4362,Corn Belt Energy Corporation,IL,Cooperative,RFC,,,,N,Y,,,,,,,,,Y,,,,Y,,Y,,,,N,Y,Y
+4,2020,5535,Egyptian Electric Coop Assn,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,Y
+5,2020,5585,Eastern Illinois Elec Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,Y,Y
+6,2020,5748,Electric Energy Inc,IL,Investor Owned,SERC,,,,,,Y,,,,,,,,,,Y,Y,,,,,,,,N,
+7,2020,7096,City of Geneva- (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,,Y,Y,,Y,,,Y,Y
+8,2020,9286,Illinois Municipal Elec Agency,IL,Municipal Mktg Authority,SERC,,,,,N,Y,,,,,Y,,,Y,,,Y,,Y,,Y,Y,,,N,Y
+9,2020,9750,"Jo-Carroll Energy, Inc",IL,Cooperative,MRO,,,Y,,,Y,,,,,,,,Y,,,Y,,,Y,,,,Y,Y,Y
+10,2020,12395,Menard Electric Coop,IL,Cooperative,SERC,,,N,,N,Y,,,,,,,,N,,Y,,,,Y,,,,,,
+11,2020,13032,Mt Carmel Public Utility Co,IL,Investor Owned,SERC,,,,,N,Y,,,,,,,,Y,,,,N,Y,Y,,,,Y,,
+12,2020,13208,City of Naperville - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,Y,,Y,,,,N,Y,Y
+13,2020,13292,Norris Electric Coop,IL,Cooperative,RFC,N,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,
+14,2020,14840,City of Peru - (IL),IL,Municipal,RFC,,,,,Y,,,,,,,,,Y,,,Y,N,,Y,N,,,,N,N
+15,2020,16179,Rochelle Municipal Utilities,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,Y,Y,Y,Y,Y,N,Y,N,
+16,2020,17040,"Shelby Electric Coop, Inc",IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,
+17,2020,17585,"Southeastern IL Elec Coop, Inc",IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+18,2020,17632,Southern Illinois Power Coop,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,N,Y,,,Y,,,,
+19,2020,17697,Southwestern Electric Coop Inc - (IL),IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,,Y,Y,,,,,Y,Y
+20,2020,17828,City of Springfield - (IL),IL,Municipal,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,,Y,,Y,,N,Y,Y
+21,2020,17860,City of St Charles - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,,,Y,,,,,,
+22,2020,18955,"Tri-County Electric Coop, Inc (IL)",IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,N
+23,2020,20222,Wayne-White Counties Elec Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+24,2020,40307,"Prairie Power, Inc",IL,Cooperative,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,Y,N,,,,,,
+25,2020,55722,AEP Energy,IL,Retail Power Marketer,RFC,,,,,Y,N,,,,,,,,,,,,,,,,,Y,,,
+26,2020,56379,"MC Squared Energy Services, LLC",IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,
+27,2020,57459,"Wolverine Alternative Investments, LLC",IL,Retail Power Marketer,,Y,,,,,,,,,Y,,,,,,,,,,,,,Y,N,N,
+28,2020,59054,"Eligo Energy, LLC",IL,Retail Power Marketer,,,,,,,,,,,Y,Y,Y,,Y,Y,,,,,,,,Y,,N,
+29,2020,59088,"Nordic Energy Services, LLC",IL,Retail Power Marketer,,,,Y,,,,,,,,Y,Y,,Y,Y,,,,,,,,Y,,N,
+30,2020,59848,"ResCom Energy, LLC",IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,

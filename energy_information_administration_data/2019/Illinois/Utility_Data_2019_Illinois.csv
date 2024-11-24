@@ -1,0 +1,78 @@
+,|Utility Characteristics.Data Year|,|Utility Characteristics.Utility Number|,|Utility Characteristics.Utility Name|,|Utility Characteristics.State|,|Utility Characteristics.Ownership Type|,|Utility Characteristics.NERC Region|,|Also operating in other NERC Regions.TRE|,|Also operating in other NERC Regions.FRCC|,|Also operating in other NERC Regions.MRO|,|Also operating in other NERC Regions.NPCC|,|Also operating in other NERC Regions.RFC|,|Also operating in other NERC Regions.SERC|,|Also operating in other NERC Regions.SPP|,|Also operating in other NERC Regions.WECC|,|Operating in these RTOs.CAISO|,|Operating in these RTOs.ERCOT|,|Operating in these RTOs.PJM|,|Operating in these RTOs.NYISO|,|Operating in these RTOs.SPP|,|Operating in these RTOs.MISO|,|Operating in these RTOs.ISONE|,|Operating in these RTOs.Other|,|Other Activities.Generation|,|Other Activities.Transmission|,|Other Activities.Buying Transmission|,|Other Activities.Distribution|,|Other Activities.Buying Distribution|,|Other Activities.Wholesale Marketing|,|Other Activities.Retail Marketing|,|Other Activities.Bundled|,|Other Activities.Alt Fuel Vehicle|,|Other Activities.Alt Fuel Vehicle 2|
+0,97,Adams Electric Coop,,IL,Cooperative,SERC,,,,,,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+1,229,City of Albany - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+2,366,City of Allendale- (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+3,406,City of Altamont - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+4,1325,City of Batavia - (IL),,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,N,,Y,,,,,,
+5,1648,Village of Bethany - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+6,2188,City of Breese - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+7,2634,City of Bushnell - (IL),Y,IL,Municipal,RFC,,,,,Y,Y,,,,,,,,,,,Y,,Y,Y,,,,,,
+8,2776,Cairo Public Utility Company,Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,Y,,Y,,,,,N,
+9,3037,City of Carlyle - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+10,3040,City of Carmi - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,Y,,
+11,3153,City of Casey - (IL),Y,IL,Municipal,RFC,,,,,Y,N,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+12,3405,Village of Chatham - (IL),Y,IL,Municipal,MRO,,,,,N,Y,,,,,,,,Y,,,,N,,Y,N,,,,,
+13,3726,Clay Electric Coop Inc,Y,IL,Cooperative,RFC,,,,N,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,
+14,3806,"Clinton County Elec Coop, Inc",,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+15,3931,Coles-Moultrie Electric Coop,,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,N
+16,4110,Commonwealth Edison Co,,IL,Investor Owned,RFC,,,,,Y,,,,,,Y,,,,,,,Y,Y,Y,,,,Y,Y,Y
+17,4362,Corn Belt Energy Corporation,,IL,Cooperative,RFC,,,,N,Y,,,,,,,,,Y,,,,Y,,Y,,,,N,Y,Y
+18,5531,Enerstar Power Corp,Y,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+19,5535,Egyptian Electric Coop Assn,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+20,5585,Eastern Illinois Elec Coop,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,Y,Y
+21,5748,Electric Energy Inc,,IL,Investor Owned,SERC,,,,,,Y,,,,,,,,,,Y,Y,,,,,,,,N,
+22,6141,City of Fairfield- (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,Y,Y,N,Y,Y,,,,,,
+23,6192,City of Farmer City - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+24,6417,City of Flora - (IL),,IL,Municipal,,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+25,6764,Village of Freeburg - (IL),Y,IL,Municipal,RFC,,,,,Y,Y,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+26,7095,City of Geneseo - (IL),Y,IL,Municipal,RFC,,,Y,,N,,,,,,,,,Y,,,Y,,Y,Y,,,,,,
+27,7096,City of Geneva- (IL),,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,,Y,Y,,Y,,,Y,Y
+28,7633,Village of Greenup - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,Y,,Y,,,,,,
+29,8573,City of Highland,,IL,Municipal,SERC,,,,,,Y,,,,,,,,Y,,,Y,N,,Y,,,,,,
+30,8824,M J M Electric Cooperative Inc,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+31,9209,Illinois Rural Electric Coop,,IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+32,9286,Illinois Municipal Elec Agency,,IL,Municipal Mktg Authority,SERC,,,,,N,Y,,,,,Y,,,Y,,,Y,,Y,,Y,Y,,,N,
+33,9750,"Jo-Carroll Energy, Inc",,IL,Cooperative,MRO,,,Y,,,Y,,,,,,,,Y,,,Y,,,Y,,,,Y,Y,Y
+34,11736,City of Marshall - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,Y,,,Y,,,,,,
+35,11790,City of Mascoutah - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,N,,N,Y,N,Y,,,N,Y,,
+36,12070,McDonough Power Coop,Y,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,N
+37,12167,City of McLeansboro - (IL),Y,IL,Municipal,RFC,,,,,Y,Y,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+38,12388,City of Metropolis - (IL),Y,IL,Municipal,,,,,,Y,,,,,,,,,,,Y,,,,Y,,,,,,
+39,12395,Menard Electric Coop,,IL,Cooperative,RFC,,,N,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+40,12803,"Monroe County Elec Coop, Inc",,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,Y,Y
+41,13032,Mt Carmel Public Utility Co,,IL,Investor Owned,SERC,,,,,N,Y,,,,,,,,Y,,,,N,Y,Y,,,,Y,,
+42,13208,City of Naperville - (IL),,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,Y,,Y,,,,N,Y,Y
+43,13292,Norris Electric Coop,,IL,Cooperative,RFC,N,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,
+44,13560,City of Newton - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,Y,,,,Y,Y,Y,,,,,N,
+45,13993,City of Oglesby - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,N,
+46,14840,City of Peru - (IL),,IL,Municipal,RFC,,,,,Y,,,,,,,,,Y,,,Y,N,,Y,N,,,,N,N
+47,15388,City of Princeton - (IL),,IL,Municipal,SERC,,,,,N,Y,,,,,,,,,,,Y,N,Y,Y,,,,,,
+48,15686,Village of Rantoul - (IL),,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,Y,N,,,,,,,,
+49,15772,City of Red Bud - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+50,16092,Village of Riverton - (IL),Y,IL,Municipal,,,,,,N,,,,,,,,,,,N,,,Y,Y,,,,,,
+51,16179,Rochelle Municipal Utilities,,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,Y,Y,Y,Y,Y,N,Y,N,
+52,16198,City of Rock Falls - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,Y,Y,,Y,,,,,,
+53,16269,City of Roodhouse - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,Y,Y,Y,,,,,,
+54,16420,Rural Electric Conven Coop,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,Y,N,,Y,,,,,,
+55,17040,"Shelby Electric Coop, Inc",,IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,
+56,17585,"Southeastern IL Elec Coop, Inc",,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+57,17631,Southern Illinois Elec Coop,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+58,17632,Southern Illinois Power Coop,,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,N,Y,,,Y,,,,
+59,17697,Southwestern Electric Coop Inc - (IL),,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,,Y,Y,,,,,,
+60,17828,City of Springfield - (IL),,IL,Municipal,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,,Y,,Y,,N,Y,Y
+61,17838,"Spoon River Electric Coop, Inc",Y,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,N,
+62,17860,City of St Charles - (IL),,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,,,Y,,,,,,
+63,18277,City of Sullivan - (IL),Y,IL,Municipal,RFC,,,,,N,Y,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+64,18955,"Tri-County Electric Coop, Inc (IL)",,IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,Y
+65,20180,City of Waterloo - (IL),Y,IL,Municipal,RFC,,,,,Y,Y,,,,,,,,,,,Y,Y,Y,Y,,,,,,
+66,20222,Wayne-White Counties Elec Coop,,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+67,20824,Village of Winnetka - (IL),,IL,Municipal,RFC,,,,,Y,N,,,,,Y,,,,,,Y,,,Y,,,,Y,Y,Y
+68,29296,Western Illinois Elec Coop,Y,IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,Y,,,,Y,,,,,,
+69,40307,"Prairie Power, Inc",,IL,Cooperative,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,Y,N,,,,,,
+70,40367,Village of Ladd - (IL),Y,IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+71,55722,AEP Energy,,IL,Retail Power Marketer,RFC,,,,,Y,N,,,,,,,,,,,,,,,,,Y,,,
+72,56379,"MC Squared Energy Services, LLC",,IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,
+73,57459,"Wolverine Alternative Investments, LLC",,IL,Retail Power Marketer,,Y,,,,,,,,,Y,,,,,,,,,,,,,Y,N,N,
+74,59054,"Eligo Energy, LLC",,IL,Retail Power Marketer,,,,,,,,,,,Y,Y,Y,,Y,Y,,,,,,,,Y,,N,
+75,59088,"Nordic Energy Services, LLC",,IL,Retail Power Marketer,,,,Y,,,,,,,,Y,Y,,Y,Y,,,,,,,,Y,,N,
+76,59848,"ResCom Energy, LLC",,IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,

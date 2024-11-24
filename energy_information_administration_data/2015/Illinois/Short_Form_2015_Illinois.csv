@@ -1,0 +1,35 @@
+,|Data Year|,|Utility Number|,|Utility Name|,|Ownership|,|State|,|BA_CODE|,|Total Revenue (Thousand Dollars)|,|Total Sales (MWh)|,|Total Customers|,|Water Heater|,|Net Metering|,|Demand Side Management|,|Time Based Programs|
+0,2015,229.0,City of Albany - (IL),Municipal,IL,MISO,543.9,4980,477, ,N,N,N
+1,2015,366.0,City of Allendale- (IL),Municipal,IL,MISO,327,3034,251, ,N,N,N
+2,2015,406.0,City of Altamont - (IL),Municipal,IL,MISO,1945,21696,1487, ,N,N,N
+3,2015,1648.0,Village of Bethany - (IL),Municipal,IL,MISO,957,8346,692, ,N,N,N
+4,2015,2188.0,City of Breese - (IL),Municipal,IL,MISO,5455.8,50724,2300, ,Y,N,N
+5,2015,2634.0,City of Bushnell - (IL),Municipal,IL,MISO,3427,32649,1636, ,N,N,N
+6,2015,2776.0,Cairo Public Utility Company,Municipal,IL,MISO,7177.4,73090,1300, ,N,N,N
+7,2015,3037.0,City of Carlyle - (IL),Municipal,IL,MISO,4287,35293,1814, ,N,N,N
+8,2015,3040.0,City of Carmi - (IL),Municipal,IL,MISO,6167.7,50252,3272, ,N,N,N
+9,2015,3153.0,City of Casey - (IL),Municipal,IL,MISO,3090,27309,2006, ,N,N,N
+10,2015,3405.0,Village of Chatham - (IL),Municipal,IL,MISO,8934,74916,5652, ,N,N,N
+11,2015,3726.0,Clay Electric Coop Inc,Cooperative,IL,MISO,7152,51570,3237, ,N,N,N
+12,2015,5531.0,Enerstar Power Corp,Cooperative,IL,MISO,12396,81441,5255, ,Y,N,N
+13,2015,6141.0,City of Fairfield- (IL),Municipal,IL,MISO,8144,68027,3219, ,N,N,N
+14,2015,6192.0,City of Farmer City - (IL),Municipal,IL,MISO,2591,24399,1201, ,N,N,N
+15,2015,6764.0,Village of Freeburg - (IL),Municipal,IL,MISO,4819,38233,2184, ,N,N,N
+16,2015,7095.0,City of Geneseo - (IL),Municipal,IL,MISO,6329,58817,4032, ,Y,N,N
+17,2015,7633.0,Village of Greenup - (IL),Municipal,IL,MISO,1865,15949,935, ,N,N,N
+18,2015,11736.0,City of Marshall - (IL),Municipal,IL,MISO,7487,62598,2699, ,N,N,N
+19,2015,11790.0,City of Mascoutah - (IL),Municipal,IL,MISO,7411,53660,3612, ,N,N,N
+20,2015,12070.0,McDonough Power Coop,Cooperative,IL,MISO,10223.6,71936,5161, ,Y,N,N
+21,2015,12167.0,City of McLeansboro - (IL),Municipal,IL,MISO,3174,22477,1585, ,N,N,N
+22,2015,12388.0,City of Metropolis - (IL),Municipal,IL,MISO,8251,78929,3902, ,N,N,N
+23,2015,13560.0,City of Newton - (IL),Municipal,IL,MISO,2522,25817,1646, ,N,N,N
+24,2015,13993.0,City of Oglesby - (IL),Municipal,IL,MISO,3116.1,32689,2025, ,N,N,N
+25,2015,15772.0,City of Red Bud - (IL),Municipal,IL,MISO,5093,44961,2322, ,N,N,N
+26,2015,16092.0,Village of Riverton - (IL),Municipal,IL,MISO,2869.1,19522,1717, ,N,N,N
+27,2015,16198.0,City of Rock Falls - (IL),Municipal,IL,MISO,9430,71161,5373, ,N,N,N
+28,2015,16269.0,City of Roodhouse - (IL),Municipal,IL,MISO,1417,10839,944, ,N,N,N
+29,2015,17838.0,"Spoon River Electric Coop, Inc",Cooperative,IL,MISO,9738,66461,4921, ,N,N,N
+30,2015,18277.0,City of Sullivan - (IL),Municipal,IL,MISO,7623,66916,3316, ,N,N,N
+31,2015,20180.0,City of Waterloo - (IL),Municipal,IL,MISO,10470,82482,4640, ,N,N,N
+32,2015,29296.0,Western Illinois Elec Coop,Cooperative,IL,MISO,8048,63451,3690, ,Y,N,N
+33,2015,40367.0,Village of Ladd - (IL),Municipal,IL,MISO,1411,12003,629, ,N,N,N

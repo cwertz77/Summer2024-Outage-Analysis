@@ -1,0 +1,237 @@
+|Utility Characteristics..Data Year|,|Utility Characteristics..Facility Number|,|Utility Characteristics..Facility Name|,|Utility Characteristics..Utility Number|,|Utility Characteristics..Utility Name|,|Utility Characteristics..STATE|,|Utility Characteristics..BA Code|,|RESIDENTIAL.Revenues.Thousand Dollars|,|RESIDENTIAL.Sales.Megawatthours|,|RESIDENTIAL.Customers.Count|,|COMMERCIAL.Revenues.Thousand Dollars|,|COMMERCIAL.Sales.Megawatthours|,|COMMERCIAL.Customers.Count|,|INDUSTRIAL.Revenues.Thousand Dollars|,|INDUSTRIAL.Sales.Megawatthours|,|INDUSTRIAL.Customers.Count|,|TRANSPORTATION.Revenues.Thousand Dollars|,|TRANSPORTATION.Sales.Megawatthours|,|TRANSPORTATION.Customers.Count|,|TOTAL.Revenues.Thousand Dollars|,|TOTAL.Sales.Megawatthours|,|TOTAL.Customers.Count|
+2015,59371,12 Applegate Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,160,2430,1,0,0,0,0,0,0,160,2430,1
+2015,57458,145 Talmadge Solar,56777,Avidan Energy Solutions,NJ,PJM,0,0,0,0,0,0,549,4802,1,0,0,0,549,4802,1
+2015,58187,180 Raritan Solar,58164,"180 Raritan Energy Solutions, LLC",NJ,PJM,0,0,0,0,0,0,283,2526,1,0,0,0,283,2526,1
+2015,59365,24 Applegate Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,147,1742,1,0,0,0,0,0,0,147,1742,1
+2015,59485,"265 Pleasant Solar NG, LLC",59254,NuGen Capital Management,MA,ISNE,0,0,0,245,1479,1,0,0,0,0,0,0,245,1479,1
+2015,59370,4 Applegate Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,144,2159,1,0,0,0,0,0,0,144,2159,1
+2015,57640,500 Virginia Solar,56971,"500 Virginia Solar, LP",PA,PJM,0,0,0,84,1103,1,0,0,0,0,0,0,84,1103,1
+2015,59046,651 Chase Solar NG,58879,651 Chase Solar NG LLC,MA,ISNE,0,0,0,709,4226,1,0,0,0,0,0,0,709,4226,1
+2015,58798,"AC Criminal Courts Complex SPE2, LLC",58661,"Sustainable Power Group, LLC",NJ,PJM,0,0,0,197,2328,1,0,0,0,0,0,0,197,2328,1
+2015,59543,Acton Solar Landfill,59286,Heliovaas LLC,MA,ISNE,0,0,0,211,2022,1,0,0,0,0,0,0,211,2022,1
+2015,59850,Adams Community Solar Garden III LLC,59652,Adams Community Solar Garden III LLC,CO,PSCO,0,0,0,77,669,3,0,0,0,0,0,0,77,669,3
+2015,59849,Adams Community Solar Garden LLC,59651,Adams Community Solar Garden LLC,CO,PSCO,0,0,0,82,694,4,0,0,0,0,0,0,82,694,4
+2015,59331,Anheuser-Busch #2,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0,0,0,0,0,0,300,2463,1,0,0,0,300,2463,1
+2015,59489,Anthony Wayne Solar #1,59244,GEM Energy LLC,OH,PJM,0,0,0,159,2294,1,0,0,0,0,0,0,159,2294,1
+2015,57765,Arizona Western College PV,58863,Main Street Power,AZ,AZPS,0,0,0,662,9960,1,0,0,0,0,0,0,662,9960,1
+2015,55990,Ashtabula,58115,"DTE Ashtabula, LLC",OH,PJM,0,0,0,4165,143804,1,0,0,0,0,0,0,4165,143804,1
+2015,56900,Atlantic City Convention Center,14405,Power Choice/Pepco Energy Serv,NJ,PJM,0,0,0,412,2982,1,0,0,0,0,0,0,412,2982,1
+2015,58360,Atlantic Coast Freezers Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,237,3384,1,0,0,0,0,0,0,237,3384,1
+2015,60067,BWC Swan Pond River,59805,"BWC Swan Pond River, LLC",MA,ISNE,0,0,0,3,29,2,0,0,0,0,0,0,3,29,2
+2015,59766,Barre II Solar Project,59232,Kearsarge Solar LLC,MA,ISNE,0,0,0,343,2452,2,0,0,0,0,0,0,343,2452,2
+2015,10298,Bayou Cogen Plant,327,Air Liquide Large Industries U S LP,TX,ERCO,0,0,0,0,0,0,6996,242018,1,0,0,0,6996,242018,1
+2015,55327,Baytown Energy Center,2838,Baytown Energy Center LLC,TX,ERCO,0,0,0,0,0,0,46092,1686078,1,0,0,0,46092,1686078,1
+2015,58403,Bellingham PV,57081,"WGL Energy Systems, Inc",MA,ISNE,0,0,0,444,4497,1,0,0,0,0,0,0,444,4497,1
+2015,57733,Benjamin Moore & Co. Solar,57044,"Constellation Solar New Jersey, LLC",NJ,PJM,0,0,0,0,0,0,67,2087,1,0,0,0,67,2087,1
+2015,58624,Berkshire 1,58578,PPS Berkshire Solar LLC,MA,ISNE,0,0,0,277,2572,2,0,0,0,0,0,0,277,2572,2
+2015,59097,Berry Plastics Solar,58928,Berry Plastics Solar,NJ,PJM,0,0,0,1230,16914,1,0,0,0,0,0,0,1230,16914,1
+2015,56862,Bolthouse S&P and Rowen Farms Solar,56105,MMA WBF Power LP,CA,CISO,0,0,0,222,2259,1,0,0,0,0,0,0,222,2259,1
+2015,58327,Bradley Energy Center,58300,Ameresco Select Inc,CT,ISNE,0,0,0,2571,16457,1,0,0,0,0,0,0,2571,16457,1
+2015,59361,Browne Solar LLC,58258,SunRay Power LLC,MA,ISNE,0,0,0,262,1607,1,0,0,0,0,0,0,262,1607,1
+2015,58037,Buckeye Union HS District 201,57408,Constellation Solar Arizona LLC,AZ,AZPS,0,0,0,756,7010,1,0,0,0,0,0,0,756,7010,1
+2015,58618,Butler Plaza,58570,CF Gainesville Owner One LLC,FL,GVL,0,0,0,657,2052,1,0,0,0,0,0,0,657,2052,1
+2015,52147,C P Kelco San Diego Plant,3221,CPKelco U S Inc,CA,CISO,0,0,0,0,0,0,4,72,1,0,0,0,4,72,1
+2015,60036,CCBC-Catonsville,58491,"Constellation Solar Holding, LLC",MD,PJM,0,0,0,31,470,1,0,0,0,0,0,0,31,470,1
+2015,59248,CCMUA,59063,"Camden Solar Center, LLC",NJ,PJM,0,0,0,0,0,0,116,2403,1,0,0,0,116,2403,1
+2015,59748,CDCR (CA) - Pleasant Valley State Prison,59512,"Team-Solar, Inc.",CA,CISO,0,0,0,105,3246,1,0,0,0,0,0,0,105,3246,1
+2015,58365,CJTS Energy Center,58300,Ameresco Select Inc,CT,ISNE,0,0,0,617,3596,1,0,0,0,0,0,0,617,3596,1
+2015,54323,CNN Center,18452,Turner Properties Inc,GA,SOCO,0,0,0,1454,21605,31,0,0,0,0,0,0,1454,21605,31
+2015,50851,CSUCI Site Authority,56835,CSUCI Site Authority,CA,CISO,0,0,0,822,6647,1,0,0,0,0,0,0,822,6647,1
+2015,58386,CU Solar Plant,58373,CU Solar LLC,OH,PJM,0,0,0,322,2776,1,0,0,0,0,0,0,322,2776,1
+2015,59283,California PV Energy at ISD WWTP,58540,California PV Energy LLC,CA,CISO,0,0,0,276,2383,1,0,0,0,0,0,0,276,2383,1
+2015,55308,Calvert City,57295,DTE Calvert City LLC,KY,TVA,0,0,0,0,0,0,6495,126550,3,0,0,0,6495,126550,3
+2015,10168,Cardinal Cogen,3030,Cardinal Cogen Inc,CA,CISO,0,0,0,4304,58759,1,0,0,0,0,0,0,4304,58759,1
+2015,59630,CentraState Medical Center PV Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,558,8496,1,0,0,0,0,0,0,558,8496,1
+2015,58151,Central Utility Plant - Texas A&M,58113,"Texas A&M, Utilities & Energy Services",TX,ERCO,0,0,0,1596,18745,22,317,3713,21,0,0,0,1913,22458,43
+2015,10566,Chambers Cogeneration LP,14932,US Operating Services Company,NJ,PJM,0,0,0,0,0,0,12884,114955,1,0,0,0,12884,114955,1
+2015,55187,Channelview Cogeneration Plant,56380,EIF Channelview Cogeneration LLC,TX,ERCO,0,0,0,0,0,0,72050,2176104,1,0,0,0,72050,2176104,1
+2015,59755,Chester Power Partners,59522,Chester Power Partners LLC,VT,ISNE,0,0,0,580,2434,1,0,0,0,0,0,0,580,2434,1
+2015,59743,Chimes West Friendship (Nixon Farms),59540,"SunE SEM 1, LLC",MD,PJM,0,0,0,376,1895,1,0,0,0,0,0,0,376,1895,1
+2015,57011,Chuckawalla Valley State Prison,56302,SunE CPA CDC1 LLC,CA,CISO,0,0,0,194,1909,1,0,0,0,0,0,0,194,1909,1
+2015,57645,City & County of Denver at Denver Int'l,56974,"Denver Airport Solar, LLC",CO,PSCO,0,0,0,0,0,0,240,6528,1,0,0,0,240,6528,1
+2015,57681,City of Boulder WWTP,57005,"SunE NLB-2, LLC",CO,PSCO,0,0,0,51,1406,1,0,0,0,0,0,0,51,1406,1
+2015,57682,City of Madera WWTP,57006,"SunE GIL1, LLC",CA,CISO,0,0,0,430,2358,1,0,0,0,0,0,0,430,2358,1
+2015,59329,City of Soledad Water Reclamation,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0,0,0,0,0,0,333,2932,1,0,0,0,333,2932,1
+2015,59623,Clarkson Solar,59360,Clarkson Solar LLC,NY,NYIS,0,0,0,326,2716,1,0,0,0,0,0,0,326,2716,1
+2015,10741,Clear Lake Cogeneration Ltd,3775,Clear Lake Cogeneration LP,TX,ERCO,0,0,0,0,0,0,3664,173527,1,0,0,0,3664,173527,1
+2015,60150,Cornell Geneva Solar Farm,59942,Argos Solar LLC,NY,NYIS,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1
+2015,59470,Cornell Snyder Road Solar Array,59237,"Ulysses Solar, LLC",NY,NYIS,0,0,0,161,2114,1,0,0,0,0,0,0,161,2114,1
+2015,10635,Corona Cogen,59982,"Corona Energy Partners, Ltd",CA,CISO,0,0,0,0,0,0,353,1426,1,0,0,0,353,1426,1
+2015,55206,Corpus Christi Energy Center,4383,Corpus Christi Cogeneration LLC,TX,ERCO,0,0,0,0,0,0,14930,480067,1,0,0,0,14930,480067,1
+2015,59746,DSH (CA) - Coalinga State Hospital,59512,"Team-Solar, Inc.",CA,CISO,0,0,0,78,4958,1,0,0,0,0,0,0,78,4958,1
+2015,56815,Denver Int Airport,56026,MMA DAS Power,CO,PSCO,0,0,0,337,3027,1,0,0,0,0,0,0,337,3027,1
+2015,59462,Denver Intl Airport IV Solar,59229,Denver Int'l Airport IV Solar,CO,SWPP,0,0,0,49,2860,1,0,0,0,0,0,0,49,2860,1
+2015,57827,Dinuba Wastewater Treatment Plant,58661,"Sustainable Power Group, LLC",CA,CISO,0,0,0,294,1755,1,0,0,0,0,0,0,294,1755,1
+2015,10613,Domtar - Woodland Mill,5232,Woodland Pulp LLC,ME,NBSO,0,0,0,114,1153,1,0,0,0,0,0,0,114,1153,1
+2015,56814,ELACC Photovoltaic Power Facility,56027,MMA LA Power LP,CA,CISO,0,0,0,254,1426,1,0,0,0,0,0,0,254,1426,1
+2015,59367,Engelhard Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,107,1185,1,0,0,0,0,0,0,107,1185,1
+2015,59393,Eubank Landfill Solar Array,59171,"Suncore Photovoltaics, Inc",NM,PNM,0,0,0,0,0,0,568,3786,1,0,0,0,568,3786,1
+2015,58261,FAA NorCal TRACON,58238,Enfinity NorCal 1 FAA LLC,CA,BANC,0,0,0,751,2142,1,0,0,0,0,0,0,751,2142,1
+2015,57506,FRV SI Transport Solar LP,56827,FRV SI Transport Solar LP,CA,CISO,0,0,0,251,1616,1,0,0,0,0,0,0,251,1616,1
+2015,59725,Fairhaven Wind,59494,Fairhaven Wind LLC,MA,ISNE,0,0,0,600,5403,1,0,0,0,0,0,0,600,5403,1
+2015,58974,Fairview Farms Solar,58837,Fairview Farms Solar LLC,MA,ISNE,0,0,0,370,2649,1,0,0,0,0,0,0,370,2649,1
+2015,57747,FedEx Field Solar Facility,57052,NRG Solar Arrowhead LLC,MD,PJM,0,0,0,285,2274,1,0,0,0,0,0,0,285,2274,1
+2015,60065,"Federal Road Solar 1, LLC",59804,"Federal Road Solar 1, LLC",MA,ISNE,0,0,0,6,56,5,0,0,0,0,0,0,6,56,5
+2015,57791,Foundation AB,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0,0,0,0,0,0,213,2170,1,0,0,0,213,2170,1
+2015,58102,Foundation Cemex BMQ,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0,0,0,0,0,0,244,2926,1,0,0,0,244,2926,1
+2015,58112,Foundation Cemex Madison,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0,0,0,0,0,0,81,1404,1,0,0,0,81,1404,1
+2015,58101,Foundation Cemex River Plant,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0,0,0,0,0,0,214,2580,1,0,0,0,214,2580,1
+2015,57792,Foundation IE,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0,0,0,0,0,0,27,466,1,0,0,0,27,466,1
+2015,58114,Foundation NWNA,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0,0,0,0,0,0,653,12734,1,0,0,0,653,12734,1
+2015,58113,Foundation RRM,57484,"Foundation CA Fund V Manager, LLC",CA,CISO,0,0,0,0,0,0,433,7509,1,0,0,0,433,7509,1
+2015,57626,Foundation ST,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0,0,0,0,0,0,209,2324,1,0,0,0,209,2324,1
+2015,58104,Foundation Superior Farms,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0,0,0,0,0,0,130,1521,1,0,0,0,130,1521,1
+2015,58105,Foundation Wal-Mart Red Bluff,57476,Foundation CA Fund VI Manager LLC,CA,CISO,0,0,0,0,0,0,129,1889,1,0,0,0,129,1889,1
+2015,54224,Franklin Heating Station,6738,Franklin Heating Station,MN,MISO,0,0,0,12952,151220,2,0,0,0,0,0,0,12952,151220,2
+2015,59366,G&S Wantage Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,333,9499,1,0,0,0,0,0,0,333,9499,1
+2015,58576,GSE NM1,58465,"Green States Energy, Inc.",NM,SWPP,0,0,0,200,4236,3,0,0,0,0,0,0,200,4236,3
+2015,56909,Gap Pacific Distribution Center,56113,MMA GDC Power LP,CA,CISO,0,0,0,296,1984,1,0,0,0,0,0,0,296,1984,1
+2015,50333,Gay Robinson,7019,Gay & Robinson Inc,HI,,9,76,8,64,235,7,0,0,0,0,0,0,73,311,15
+2015,59841,General Motors Corp at White Marsh MD,56975,"Constellation Solar Maryland, LLC",MD,PJM,0,0,0,0,0,0,161,1609,1,0,0,0,161,1609,1
+2015,58359,Gerresheimer Glass Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,255,3613,1,0,0,0,0,0,0,255,3613,1
+2015,58543,"Gilbert Solar Facility I, LLC",58514,"Gilbert Solar Facility I, LLC",AZ,AZPS,0,0,0,399,2573,1,0,0,0,0,0,0,399,2573,1
+2015,59328,Golden Acorn Casino,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0,0,0,0,0,0,169,3529,1,0,0,0,169,3529,1
+2015,55086,Gregory Power Facility,7667,Gregory Power Partners LP,TX,ERCO,0,0,0,0,0,0,4956,203267,1,0,0,0,4956,203267,1
+2015,59484,"Hadley Solar, LLC",59254,NuGen Capital Management,MA,ISNE,0,0,0,206,3316,3,0,0,0,0,0,0,206,3316,3
+2015,52061,Hartford Hospital Cogeneration,8153,Hartford Steam Co,CT,ISNE,0,0,0,0,0,0,49,610,1,0,0,0,49,610,1
+2015,58815,Hilton NY Co Gen Plant,58697,UTS Project Company HNY-1 LLC,NY,NYIS,0,0,0,1102,10572,1,0,0,0,0,0,0,1102,10572,1
+2015,54707,Hunterdon Cogen Facility,8927,Hunterdon Cogeneration LP,NJ,PJM,0,21,1,0,0,0,0,0,0,0,0,0,0,21,1
+2015,59424,IND Solar Farm (Phase IIA),59200,"Indy Airport Solar Project II, LLC",IN,MISO,0,0,0,2808,14043,1,0,0,0,0,0,0,2808,14043,1
+2015,59823,INDY III,59604,Bulldog Energy Airport LLC,IN,MISO,0,0,0,225,1126,1,0,0,0,0,0,0,225,1126,1
+2015,59631,Imclone Solar Electric Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,788,13128,1,0,0,0,0,0,0,788,13128,1
+2015,59362,Indian Hill Solar LLC,58258,SunRay Power LLC,MA,ISNE,0,0,0,263,1616,1,0,0,0,0,0,0,263,1616,1
+2015,59834,Indy Grocers,59612,GES MegaOne LLC,IN,MISO,0,0,0,143,719,1,0,0,0,0,0,0,143,719,1
+2015,54637,JCO Oxides Olefins Plant,30052,Huntsman Corp,TX,MISO,0,0,0,0,0,0,2985,78738,1,0,0,0,2985,78738,1
+2015,58793,JMB Mcguire-Dix-Lakehurst Solar Project,58682,WR-TGC Solar Generation IV LLC,NJ,PJM,0,0,0,951,14342,1,0,0,0,0,0,0,951,14342,1
+2015,58653,Jersey Gardens Phase 1,58590,SEDC Jersey Gardens Owner LLC,NJ,PJM,0,0,0,348,2259,1,0,0,0,0,0,0,348,2259,1
+2015,58654,Jersey Gardens Phase 2,58591,CF Jersey Gardens Owner Two LLC,NJ,PJM,0,0,0,500,3200,1,0,0,0,0,0,0,500,3200,1
+2015,56300,Jersey-Atlantic Wind Farm,50123,"Leeward Asset Management, LLC",NJ,PJM,0,0,0,0,0,0,832,10460,1,0,0,0,832,10460,1
+2015,58292,Jewish Community Center PV,58863,Main Street Power,AZ,AZPS,0,0,0,161,2201,1,0,0,0,0,0,0,161,2201,1
+2015,57723,"Johnson Matthey, Inc. Solar",56976,"Constellation Solar New Jersey II, LLC",NJ,PJM,0,0,0,0,0,0,341,6928,1,0,0,0,341,6928,1
+2015,887,Joppa Steam,5748,Electric Energy Inc,KY,EEI, , , ,358,8444,1, , , , , , ,358,8444,1
+2015,59468,KS Solar Six LLC,59232,Kearsarge Solar LLC,MA,ISNE,0,0,0,380,3058,1,0,0,0,0,0,0,380,3058,1
+2015,58243,Kent County - Worton Complex,57081,"WGL Energy Systems, Inc",MD,PJM,0,0,0,142,1690,1,0,0,0,0,0,0,142,1690,1
+2015,58239,Kent County-Kennedyville,57081,"WGL Energy Systems, Inc",MD,PJM,0,0,0,154,1749,1,0,0,0,0,0,0,154,1749,1
+2015,58240,Kit Carson,57081,"WGL Energy Systems, Inc",NM,PNM,0,0,0,467,2894,1,0,0,0,0,0,0,467,2894,1
+2015,57119,Koda Biomass Plant,56413,Koda Energy LLC,MN,MISO,0,0,0,2708,41076,1,0,0,0,0,0,0,2708,41076,1
+2015,57009,Kohls San Bernardino Solar Facility,56300,SunE KHL55 San Bernardino LLC,CA,CISO,0,0,0,244,1918,1,0,0,0,0,0,0,244,1918,1
+2015,58539,Lake Pleasant WTP,58507,Solar Star Arizona III LLC,AZ,AZPS,0,0,0,1011,13276,1,0,0,0,0,0,0,1011,13276,1
+2015,59369,Lakewood Seven Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,81,1278,1,0,0,0,0,0,0,81,1278,1
+2015,58282,Leicester One MA Solar LLC,58258,SunRay Power LLC,MA,ISNE,0,0,0,845,6120,1,0,0,0,0,0,0,845,6120,1
+2015,58703,Lenape II,58638,"Lenape Solar II, LLC",IN,MISO,0,0,0,71,353,1,0,0,0,0,0,0,71,353,1
+2015,58231,Lincoln Financial Field,58203,NRG Energy Center Eagles LLC,PA,PJM,0,0,0,550,3463,1,0,0,0,0,0,0,550,3463,1
+2015,60060,Lindberg FIeld Solar,59791,Lindberg Field Solar I LLC,CA,CISO,0,0,0,28,137,1,0,0,0,0,0,0,28,137,1
+2015,57768,Longwood Gardens,57078,Ecogy Pennsylvania Systems LLC,PA,PJM,0,0,0,162,2158,1,0,0,0,0,0,0,162,2158,1
+2015,55217,Los Medanos Energy Center,2843,Los Medanos Energy Center LLC,CA,CISO,0,0,0,0,0,0,14094,485818,2,0,0,0,14094,485818,2
+2015,59873,Lowell Solar Landfill,59654,Lowell Solar Landfill LLC,MA,ISNE,0,0,0,247,1781,1,0,0,0,0,0,0,247,1781,1
+2015,58914,MCAGCC Cogen Plant,58789,DOD USMC Marine Air Ground Combat,CA,CISO,0,0,0,4983,33086,16,0,0,0,0,0,0,4983,33086,16
+2015,57005,Mariani Packing Vacaville Solar,56431,SunE U6 Holdings LLC,CA,CISO,0,0,0,301,2010,1,0,0,0,0,0,0,301,2010,1
+2015,58410,Marshfield PV,57081,"WGL Energy Systems, Inc",MA,ISNE,0,0,0,536,5369,1,0,0,0,0,0,0,536,5369,1
+2015,58443,Martin Limestone Solar Array,58438,Sunstream Energy LLC,PA,PJM,0,0,0,0,0,0,85,1451,1,0,0,0,85,1451,1
+2015,58412,Maynard PV,57081,"WGL Energy Systems, Inc",MA,ISNE,0,0,0,107,1530,1,0,0,0,0,0,0,107,1530,1
+2015,57646,McCormick & Co. Inc. at Belcamp,56975,"Constellation Solar Maryland, LLC",MD,PJM,0,0,0,0,0,0,228,2239,1,0,0,0,228,2239,1
+2015,57662,McGraw Hill Solar,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0,0,0,0,18106,1,0,0,0,0,0,0,0,18106,1
+2015,59277,Medford WWTP,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0,0,0,179,2029,1,0,0,0,0,0,0,179,2029,1
+2015,10883,Medical Area Total Energy Plant,12258,Medical Area Total Egy Plt Inc,MA,ISNE,0,0,0,45688,301522,6,0,0,0,0,0,0,45688,301522,6
+2015,57982,Meridian Vineyards,57354,X-Elio North America Inc,CA,CISO,0,0,0,424,1981,1,0,0,0,0,0,0,424,1981,1
+2015,10180,Metro Wastewater Reclamation District,19068,"Colorado Energy Nations Company, LLC",CO,PSCO,0,0,0,0,0,0,1314,32183,1,0,0,0,1314,32183,1
+2015,58090,Middlesex Apple Orchard Solar,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,352,7810,1,0,0,0,0,0,0,352,7810,1
+2015,10745,Midland Cogeneration Venture,12492,Midland Cogeneration Venture,MI,MISO,0,0,0,0,0,0,21710,604973,2,0,0,0,21710,604973,2
+2015,52169,Midway Sunset Cogen,12687,Midway-Sunset Cogeneration Co,CA,CISO,0,0,0,0,0,0,3850,112933,1,0,0,0,3850,112933,1
+2015,57362,Morgantown Solar Park,56701,The Hankin Group,PA,PJM,0,0,0,0,0,0,155,2438,1,0,0,0,155,2438,1
+2015,55216,Morris Cogeneration LLC,54755,Morris Cogeneration LLC,IL,PJM,0,0,0,0,0,0,7721,434582,1,0,0,0,7721,434582,1
+2015,57758,Mount Saint Mary's,57065,Constellation Solar Horizons LLC,MD,PJM,0,0,0,193,2092,1,0,0,0,0,0,0,193,2092,1
+2015,56169,NEO Freehold Gen LLC,49812,NEO Freehold Gen LLC,NJ,PJM,0,0,0,0,0,0,525,9075,1,0,0,0,525,9075,1
+2015,59430,NRG Solar Las Vegas MB-1,59208,NRG Solar Las Vegas MB-1,NV,NEVP,0,0,0,792,9625,1,0,0,0,0,0,0,792,9625,1
+2015,50352,Nacimiento Hydro Project,12850,Monterey Cnty Water Res Agency,CA,CISO,0,0,0,0,0,0,51,613,1,0,0,0,51,613,1
+2015,57462,Napoleon Solar I,56780,Enfinity BNB Napoleon Solar LLC,OH,PJM,0,0,0,3505,13335,1,0,0,0,0,0,0,3505,13335,1
+2015,57764,Naval Air Weapons Station China Lake,57073,"Solar Star California XV, LLC",CA,CISO,0,0,0,3469,28053,1,0,0,0,0,0,0,3469,28053,1
+2015,56568,Nellis Air Force Base Solar Array,56203,Solar Star NAFB LLC,NV,NEVP,0,0,0,7470,30428,1,0,0,0,0,0,0,7470,30428,1
+2015,58748,North Bay Solar 1,58661,"Sustainable Power Group, LLC",CA,CISO,0,0,0,282,2455,1,0,0,0,0,0,0,282,2455,1
+2015,10812,North Island Energy Facility,745,Applied Energy Inc,CA,CISO,0,0,0,0,0,0,1443,20247,1,0,0,0,1443,20247,1
+2015,58358,North Jersey Media Group Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,364,6067,1,0,0,0,0,0,0,364,6067,1
+2015,57798,OBP Cogen,57120,OBP Cogen LLC,NY,NYIS,0,0,0,8461,57123,1,0,0,0,0,0,0,8461,57123,1
+2015,50850,OLS Energy Chino,14265,OLS Energy-Chino,CA,CISO,0,0,0,0,0,0,2055,14946,1,0,0,0,2055,14946,1
+2015,58134,Oberlin Spear Point Solar One,58084,"Oberlin Spear Point Solar One, LLC",OH,PJM,0,0,0,147,2947,1,0,0,0,0,0,0,147,2947,1
+2015,50413,Olmsted Waste Energy,21995,Olmsted County Public Works,MN,MISO,0,0,0,247,2153,1,0,0,0,0,0,0,247,2153,1
+2015,58411,Orange PV,57081,"WGL Energy Systems, Inc",MA,ISNE,0,0,0,252,2860,1,0,0,0,0,0,0,252,2860,1
+2015,60038,Owens Corning Headquarters,58491,"Constellation Solar Holding, LLC",OH,PJM,0,0,0,0,0,0,23,129,1,0,0,0,23,129,1
+2015,58550,Owens Corning at Bethlehem,58491,"Constellation Solar Holding, LLC",NY,NYIS,0,0,0,0,0,0,228,3308,1,0,0,0,228,3308,1
+2015,59866,Palmer Solar LLC,59653,Palmer Solar LLC,MA,ISNE,0,0,0,307,3000,1,0,0,0,0,0,0,307,3000,1
+2015,58293,Paradise Valley H.S. PV,58863,Main Street Power,AZ,AZPS,0,0,0,255,2554,1,0,0,0,0,0,0,255,2554,1
+2015,59544,Parlin Solar LLC,59287,Laurel Capital Partners,NJ,PJM,0,0,0,0,0,0,62,1329,1,0,0,0,62,1329,1
+2015,58198,Parnassus Central Utility Plant,58171,University of California-San Francisco,CA,CISO,0,0,0,8236,71945,3,0,0,0,0,0,0,8236,71945,3
+2015,55047,Pasadena Cogeneration,11059,Pasadena Cogeneration LP,TX,ERCO,0,0,0,0,0,0,136707,430708,1,0,0,0,13671,430708,1
+2015,57772,Perdue Bridgeville Photovoltaic,57081,"WGL Energy Systems, Inc",MD,PJM,0,0,0,159,2018,1,0,0,0,0,0,0,159,2018,1
+2015,57879,Perdue Salisbury Photovoltaic,57081,"WGL Energy Systems, Inc",MD,PJM,0,0,0,116,1476,1,0,0,0,0,0,0,116,1476,1
+2015,58708,Phoenix Airport East Economy Lot,58649,Solar Star Arizona II LLC,AZ,AZPS,0,0,0,258,1968,1,0,0,0,0,0,0,258,1968,1
+2015,58709,Phoenix Airport Rental Car Center,58649,Solar Star Arizona II LLC,AZ,AZPS,0,0,0,559,6427,1,0,0,0,0,0,0,559,6427,1
+2015,59364,Plainfield One Solar LLC,58258,SunRay Power LLC,NJ,PJM,0,0,0,178,1527,1,0,0,0,0,0,0,178,1527,1
+2015,54103,Port Edwards Mill,5033,Domtar Industries Inc,WI,MISO,0,0,0,0,0,0,92,2292,1,0,0,0,92,2292,1
+2015,10025,"RED-Rochester, LLC",5624,"RED-Rochester, LLC",NY,NYIS,0,0,0,0,0,0,19007,273468,13,0,0,0,19007,273468,13
+2015,57419,RPI Fuel Cell LLC,56748,RP1 Fuel Cell LLC,CA,CISO,0,0,0,0,0,0,1334,9197,1,0,0,0,1334,9197,1
+2015,57507,RV CSU Power II LLC,56828,RV CSU Power II LLC,CO,PSCO,0,0,0,398,4411,1,0,0,0,0,0,0,398,4411,1
+2015,57141,RV CSU Power LLC,56493,RV CSU Power LLC,CO,PSCO,0,0,0,278,2991,1,0,0,0,0,0,0,278,2991,1
+2015,58589,Rio Rancho High School,57081,"WGL Energy Systems, Inc",NM,PNM,0,0,0,141,2147,1,0,0,0,0,0,0,141,2147,1
+2015,58241,Rock Hall,57081,"WGL Energy Systems, Inc",MD,PJM,0,0,0,159,1848,1,0,0,0,0,0,0,159,1848,1
+2015,59090,Rockland Solar,58902,Rockland Solar,MA,ISNE,0,0,0,216,3023,1,0,0,0,0,0,0,216,3023,1
+2015,57524,Roger Road WWTP,56857,SunE M5C Holdings LLC,AZ,TEPC,0,0,0,178,1858,1,0,0,0,0,0,0,178,1858,1
+2015,58479,SEV NM Phase 2,58465,"Green States Energy, Inc.",NM,SWPP,0,0,0,164,4239,1,0,0,0,0,0,0,164,4239,1
+2015,59947,SR Camden,59710,"SR Camden, LLC",AR,SPA,0,0,0,0,0,0,25,451,1,0,0,0,25,451,1
+2015,50537,SRI International Cogen Project,9297,IPT SRI Cogeneration Inc,CA,CISO,0,0,0,0,0,0,2637,20289,1,0,0,0,2637,20289,1
+2015,55104,Sabine Cogen,16668,Sabine Cogen LP,TX,MISO,0,0,0,0,0,0,16352,152518,1,0,0,0,16352,152518,1
+2015,10789,Sabine River Works,57160,DuPont Sabine River Works,TX,MISO,0,0,0,0,0,0,14161,418519,1,0,0,0,14161,418519,1
+2015,59323,Sacramento (SMUD),57081,"WGL Energy Systems, Inc",CA,BANC,0,0,0,412,2372,1,0,0,0,0,0,0,412,2372,1
+2015,58006,Salt Palace Solar Gen Plant,57383,Wasatch View Solar LLC,UT,PACE,0,0,0,205,2328,1,0,0,0,0,0,0,205,2328,1
+2015,57100,Santa Maria LFG Power Plant,56396,J&A-Santa Maria LLC,CA,CISO,0,0,0,1025,9010,1,0,0,0,0,0,0,1025,9010,1
+2015,59724,Scituate Wind,59493,Scituate Wind LLC,MA,ISNE,0,0,0,285,2738,1,0,0,0,0,0,0,285,2738,1
+2015,55049,Sierra Pacific Anderson Facility,17164,Sierra Pacific Industries Inc,CA,CISO,0,0,0,0,0,0,220,2219,1,0,0,0,220,2219,1
+2015,10849,Silver Bay Power,3807,Cleveland Cliffs Inc,MN,MISO,0,0,0,0,0,0,34002,521920,1,0,0,0,34002,521920,1
+2015,57933,Solar Star California II LLC,58101,Solar Star California II LLC,CA,BANC,0,0,0,274,4303,1,0,0,0,0,0,0,274,4303,1
+2015,58402,Solar Star New Jersey NJ LLC,58387,Solar Star New Jersey VI LLC,NJ,PJM,0,0,0,486,1614,1,0,0,0,0,0,0,486,1614,1
+2015,57770,South Bay Fuel Cell Plant,57047,BioFuels Point Loma LLC,CA,CISO,0,0,0,871,8217,1,0,0,0,0,0,0,871,8217,1
+2015,58423,Southbridge PV,57081,"WGL Energy Systems, Inc",MA,ISNE,0,0,0,377,4021,1,0,0,0,0,0,0,377,4021,1
+2015,57683,"Staples La Mirada, CA",57007,"SunE WF3-ST Holdings, LLC",CA,CISO,0,0,0,240,1736,1,0,0,0,0,0,0,240,1736,1
+2015,59363,State Street Solar LLC,58258,SunRay Power LLC,MA,ISNE,0,0,0,254,1560,1,0,0,0,0,0,0,254,1560,1
+2015,59765,Stetson Road Solar - Barre I,59232,Kearsarge Solar LLC,MA,ISNE,0,0,0,435,3166,1,0,0,0,0,0,0,435,3166,1
+2015,54149,Stony Brook Cogen Plant,13587,Nissequoque Cogen Partners,NY,NYIS,0,0,0,27563,232458,1,0,0,0,0,0,0,27563,232458,1
+2015,58839,Sudbury Landfill,58721,Solar Sudbury One LF LLC,MA,ISNE,0,0,0,204,1995,1,0,0,0,0,0,0,204,1995,1
+2015,58588,Sue Cleveland High School,57081,"WGL Energy Systems, Inc",NM,PNM,0,0,0,146,2219,1,0,0,0,0,0,0,146,2219,1
+2015,57010,SunEdison Anheuser Busch Fairfield,56434,SunE M5 Holdings LLC,CA,CISO,0,0,0,247,2055,1,0,0,0,0,0,0,247,2055,1
+2015,57007,SunEdison Ironwood State Prison,56297,SunE CPA CDC2 LLC,CA,CISO,0,0,0,218,2112,1,0,0,0,0,0,0,218,2112,1
+2015,57008,SunEdison Procter & Gamble Oxnard,56431,SunE U6 Holdings LLC,CA,CISO,0,0,0,275,1923,1,0,0,0,0,0,0,275,1923,1
+2015,57004,SunEdison Walgreens Moreno Valley,56294,SunE WG113 Moreno Valley LLC,CA,CISO,0,0,0,201,1780,1,0,0,0,0,0,0,201,1780,1
+2015,57012,SunEdison Walmart Apple Valley DC,56434,SunE M5 Holdings LLC,CA,CISO,0,0,0,296,2402,1,0,0,0,0,0,0,296,2402,1
+2015,55015,Sweeny Cogen Facility,22214,Sweeny Cogeneration LP,TX,ERCO,0,0,0,0,0,0,45254,1027468,1,0,0,0,45254,1027468,1
+2015,58232,Tahquitz High School,58661,"Sustainable Power Group, LLC",CA,CISO,0,0,0,235,1788,1,0,0,0,0,0,0,235,1788,1
+2015,59330,Taylor Farms,59129,"Foundation CA Fund VII Manager, LLC",CA,CISO,0,0,0,0,0,0,363,2440,1,0,0,0,363,2440,1
+2015,57594,Teichert Materials-Teichert Vernalis,56930,"Foundation HA Energy Generation, LLC",CA,CISO,0,0,0,0,0,0,66,1598,1,0,0,0,66,1598,1
+2015,10093,Tesoro Hawaii,58553,PAR Petroleum,HI,,0,0,0,0,0,0,1710,7815,1,0,0,0,1710,7815,1
+2015,58356,The Lawrenceville School Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,690,9204,1,0,0,0,0,0,0,690,9204,1
+2015,58917,Tioga Solar Morris County 1 LLC,58661,"Sustainable Power Group, LLC",NJ,PJM,0,0,0,132,1564,1,0,0,0,0,0,0,132,1564,1
+2015,57647,"Toys R Us- DE, Inc. at Mt. Olive, NJ",56976,"Constellation Solar New Jersey II, LLC",NJ,PJM,0,0,0,388,5133,1,0,0,0,0,0,0,388,5133,1
+2015,59390,True North,58677,CD US Solar MT1 LLC,MA,ISNE,0,0,0,2951,7339,3,0,0,0,0,0,0,2951,7339,3
+2015,59872,UC Davis South Campus,59660,"Solar Star California XXXII, LLC",CA,CISO,0,0,0,608,4953,1,0,0,0,0,0,0,608,4953,1
+2015,60120,UCI Fuel Cell,59892,"UCI Fuel Cell, LLC",CA,CISO,0,0,0,38,490,1,0,0,0,0,0,0,38,490,1
+2015,57735,UCSD Fuel Cell Plant,57047,BioFuels Point Loma LLC,CA,CISO,0,0,0,2528,18731,1,0,0,0,0,0,0,2528,18731,1
+2015,59749,UMES (MD) - Princess Anne,58473,"NVT LICENSES, LLC",MD,PJM,0,0,0,1157,3040,1,0,0,0,0,0,0,1157,3040,1
+2015,57420,UTS SJ1 LLC,56749,UTS SJ1 LLC,CA,CISO,0,0,0,940,7005,1,0,0,0,0,0,0,940,7005,1
+2015,58516,Union HS at Casa Grande,58491,"Constellation Solar Holding, LLC",AZ,AZPS,0,0,0,294,3196,1,0,0,0,0,0,0,294,3196,1
+2015,58040,United Stationers Supply Solar Electric,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,255,4248,1,0,0,0,0,0,0,255,4248,1
+2015,54372,University of Colorado,22208,University of Colorado,CO,PSCO,0,0,0,13494,117238,1,0,0,0,0,0,0,13494,117238,1
+2015,54780,University of Illinois Abbott Power Plt,19528,University of Illinois,IL,MISO,131,968,236,1531,17564,82,0,0,0,0,0,0,1662,18532,318
+2015,58517,Vista Grande HS at Casa Grande,58491,"Constellation Solar Holding, LLC",AZ,AZPS,0,0,0,267,2895,1,0,0,0,0,0,0,267,2895,1
+2015,58401,Volkswagen Solar System,58385,SR Enterprise South LLC,TN,TVA,0,0,0,0,0,0,1345,12931,1,0,0,0,1345,12931,1
+2015,60365,Vulcraft Solar,60163,Soltage LLC,NY,NYIS,0,0,0,0,0,0,183,2307,1,0,0,0,183,2307,1
+2015,58123,Wakefern Food Corp,56990,NJR Clean Energy Ventures Corporation,NJ,PJM,0,0,0,195,2722,1,0,0,0,0,0,0,195,2722,1
+2015,57006,Walgreens Woodland Distribution Center,56296,SunE WG45 Woodland LLC,CA,CISO,0,0,0,184,1470,1,0,0,0,0,0,0,184,1470,1
+2015,50077,Waste Energy Services,5677,Waste Energy Services Inc,MI,MISO,0,0,0,0,0,0,43,402,1,0,0,0,43,402,1
+2015,50216,Watson Cogeneration,867,ARCO Products Co-Watson,CA,CISO,0,0,0,0,0,0,31535,733288,1,0,0,0,31535,733288,1
+2015,58244,West Valley High School Solar,58661,"Sustainable Power Group, LLC",CA,CISO,0,0,0,197,1499,1,0,0,0,0,0,0,197,1499,1
+2015,59368,Westborough Solar LLC,58258,SunRay Power LLC,MA,ISNE,0,0,0,386,2572,1,0,0,0,0,0,0,386,2572,1
+2015,58357,White Rose Foods Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,392,6032,1,0,0,0,0,0,0,392,6032,1
+2015,57102,Whittier LFG Power Plant #1,56395,J&A-Whittier LLC,CA,CISO,0,0,0,1034,9561,1,0,0,0,0,0,0,1034,9561,1
+2015,57805,William Paterson University,57124,Nautilus Solar WPU LLC,NJ,PJM,0,0,0,100,583,1,0,0,0,0,0,0,100,583,1
+2015,58361,Williams-Sonoma Solar Facility,57411,KDC Solar O&M LLC,NJ,PJM,0,0,0,550,4621,1,0,0,0,0,0,0,550,4621,1
+2015,59751,"Wilzig Associates, LLC",59518,"Wilzig Associates, LLC",NJ,PJM,0,0,0,0,0,0,180,2021,1,0,0,0,180,2021,1
+These entities are one of the elements used in the state Adjustment lines in the Sales to Ultimate Customers file.,,,,,,,,,,,,,,,,,,,,,

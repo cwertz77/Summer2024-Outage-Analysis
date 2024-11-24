@@ -1,0 +1,43 @@
+,|Utility Characteristics.Data Year|,|Utility Characteristics.Utility Number|,|Utility Characteristics.Utility Name|,|Utility Characteristics.State|,|Utility Characteristics.Ownership Type|,|Utility Characteristics.NERC Region|,|Also operating in other NERC Regions.TRE|,|Also operating in other NERC Regions.FRCC|,|Also operating in other NERC Regions.MRO|,|Also operating in other NERC Regions.NPCC|,|Also operating in other NERC Regions.RFC|,|Also operating in other NERC Regions.SERC|,|Also operating in other NERC Regions.SPP|,|Also operating in other NERC Regions.WECC|,|Operating in these RTOs.CAISO|,|Operating in these RTOs.ERCOT|,|Operating in these RTOs.PJM|,|Operating in these RTOs.NYISO|,|Operating in these RTOs.SPP|,|Operating in these RTOs.MISO|,|Operating in these RTOs.ISONE|,|Operating in these RTOs.Other|,|Other Activities.Generation|,|Other Activities.Transmission|,|Other Activities.Buying Transmission|,|Other Activities.Distribution|,|Other Activities.Buying Distribution|,|Other Activities.Wholesale Marketing|,|Other Activities.Retail Marketing|,|Other Activities.Bundled|,|Other Activities.Alt Fuel Vehicle|,|Other Activities.Alt Fuel Vehicle 2|
+0,2018,97,Adams Electric Coop,IL,Cooperative,SERC,,,,,,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+1,2018,1325,City of Batavia - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,N,,Y,,,,,,
+2,2018,3806,"Clinton County Elec Coop, Inc",IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+3,2018,3931,Coles-Moultrie Electric Coop,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,N
+4,2018,4110,Commonwealth Edison Co,IL,Investor Owned,RFC,,,,,Y,,,,,,Y,,,,,,,Y,Y,Y,,,,Y,Y,Y
+5,2018,4362,Corn Belt Energy Corporation,IL,Cooperative,RFC,,,,N,Y,,,,,,,,,Y,,,,Y,,Y,,,,Y,Y,Y
+6,2018,5535,Egyptian Electric Coop Assn,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+7,2018,5585,Eastern Illinois Elec Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,Y,Y
+8,2018,5748,Electric Energy Inc,IL,Investor Owned,SERC,,,,,,Y,,,,,,,,,,Y,Y,,,,,,,,N,
+9,2018,6417,City of Flora - (IL),IL,Municipal,,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+10,2018,7096,City of Geneva- (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,,Y,Y,,Y,,,Y,Y
+11,2018,8573,City of Highland,IL,Municipal,SERC,,,,,,Y,,,,,,,,Y,,,Y,N,,Y,,,,,,
+12,2018,8824,M J M Electric Cooperative Inc,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+13,2018,9209,Illinois Rural Electric Coop,IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,Y,,,Y,,,,,,
+14,2018,9286,Illinois Municipal Elec Agency,IL,Municipal Mktg Authority,SERC,,,,,N,Y,,,,,Y,,,Y,,,Y,,Y,,Y,Y,,,N,
+15,2018,9750,"Jo-Carroll Energy, Inc",IL,Cooperative,MRO,,,Y,,,Y,,,,,,,,Y,,,Y,,,Y,,,,Y,Y,Y
+16,2018,12395,Menard Electric Coop,IL,Cooperative,RFC,,,N,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+17,2018,12803,"Monroe County Elec Coop, Inc",IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,Y,Y
+18,2018,13032,Mt Carmel Public Utility Co,IL,Investor Owned,SERC,,,,,N,Y,,,,,,,,Y,,,,N,Y,Y,,,,Y,,
+19,2018,13208,City of Naperville - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,Y,,Y,,,,N,N,N
+20,2018,13292,Norris Electric Coop,IL,Cooperative,RFC,N,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,
+21,2018,14840,City of Peru - (IL),IL,Municipal,RFC,,,,,Y,,,,,,,,,Y,,,Y,N,,Y,N,,,,N,N
+22,2018,15388,City of Princeton - (IL),IL,Municipal,SERC,,,,,N,Y,,,,,,,,,,,Y,N,Y,Y,,,,,,
+23,2018,15686,Village of Rantoul - (IL),IL,Municipal,RFC,,,,,Y,,,,,,,,,,,,Y,N,,,,,,,,
+24,2018,16179,Rochelle Municipal Utilities,IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,Y,Y,Y,Y,Y,Y,N,Y,N,
+25,2018,16420,Rural Electric Conven Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,Y,N,,Y,,,,,,
+26,2018,17040,"Shelby Electric Coop, Inc",IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,N,
+27,2018,17585,"Southeastern IL Elec Coop, Inc",IL,Cooperative,RFC,,,,,Y,,,,,,,,,,,,,,,Y,,,,,,
+28,2018,17631,Southern Illinois Elec Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+29,2018,17632,Southern Illinois Power Coop,IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,N,Y,,,Y,,,,
+30,2018,17697,Southwestern Electric Coop Inc - (IL),IL,Cooperative,SERC,,,,,N,Y,,,,,,,,Y,,,Y,,Y,Y,,,,,,
+31,2018,17828,City of Springfield - (IL),IL,Municipal,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,,Y,,Y,,N,Y,Y
+32,2018,17860,City of St Charles - (IL),IL,Municipal,RFC,,,,,Y,,,,,,Y,,,,,,,,,Y,,,,,,
+33,2018,18955,"Tri-County Electric Coop, Inc",IL,Cooperative,RFC,,,,,N,Y,,,,,,,,Y,,,,,,Y,,,,,,
+34,2018,20222,Wayne-White Counties Elec Coop,IL,Cooperative,RFC,,,,,Y,,,,,,,,,Y,,,,,,Y,,,,,,
+35,2018,20824,Village of Winnetka - (IL),IL,Municipal,RFC,,,,,Y,N,,,,,Y,,,,,,Y,,,Y,,,,Y,Y,Y
+36,2018,40307,"Prairie Power, Inc",IL,Cooperative,SERC,,,,,,Y,,,,,,,,Y,,,Y,Y,Y,N,,,,,,
+37,2018,56379,"MC Squared Energy Services, LLC",IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,
+38,2018,57459,"Wolverine Alternative Investments, LLC",IL,Retail Power Marketer,,Y,,,,,,,,,Y,,,,,,,,,,,,,Y,N,N,
+39,2018,59054,"Eligo Energy, LLC",IL,Retail Power Marketer,,,,,,,,,,,Y,Y,Y,,Y,Y,,,,,,,,Y,,N,
+40,2018,59088,"Nordic Energy Services, LLC",IL,Retail Power Marketer,,,,Y,,,,,,,,Y,Y,,Y,Y,,,,,,,,Y,,N,
+41,2018,59848,"ResCom Energy, LLC",IL,Retail Power Marketer,,,,,,,,,,,,Y,,,,,,,,,,,,Y,,N,

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="processed datasets">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2019.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2020.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2021.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_records/weather_2024.csv" afterDir="false" />
+=======
+    <list default="true" id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="initializing">
+      <change afterPath="$PROJECT_DIR$/.idea/Summer2024-Outage-Analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analyze_results.Rmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processed_wind_customer_outage.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2021.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_2024.csv" beforeDir="false" />
+>>>>>>> 5c6b1596902f3847878bd16a15d55a1e3d065e4d
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ikcKDFA4wWnclF7yqR3HC9Hy4w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.data_parser.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.results.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+<<<<<<< HEAD
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wertz/OneDrive - Washington State University (email.wsu.edu)/DSSE&quot;
+=======
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Charlotte Wertz/OneDrive - Washington State University (email.wsu.edu)/Historical Outage Analysis/Summer2024-Outage-Analysis&quot;
+>>>>>>> 5c6b1596902f3847878bd16a15d55a1e3d065e4d
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wertz\PycharmProjects\Summer2024-Outage-Analysis\weather_records" />
+      <recent name="C:\Users\wertz\PycharmProjects\Summer2024-Outage-Analysis" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3cb9ed-bc74-4145-b6b1-9e419f767b0a" name="Changes" comment="" />
+      <created>1720037949534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720037949534</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initializing">
+      <option name="closed" value="true" />
+      <created>1720038075451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720038075451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initializing">
+      <option name="closed" value="true" />
+      <created>1720038105985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720038105985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="processed datasets">
+      <option name="closed" value="true" />
+      <created>1720203135054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720203135054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initializing" />
+    <MESSAGE value="processed datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="processed datasets" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/results.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

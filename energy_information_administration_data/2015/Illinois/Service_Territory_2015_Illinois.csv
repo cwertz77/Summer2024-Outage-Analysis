@@ -1,0 +1,377 @@
+,|Data Year|,|Utility Number|,|Utility Name|,|State|,|County|
+0,2015,97,Adams Electric Coop,IL,Adams
+1,2015,97,Adams Electric Coop,IL,Brown
+2,2015,97,Adams Electric Coop,IL,Schuyler
+3,2015,229,City of Albany - (IL),IL,Whiteside
+4,2015,366,City of Allendale- (IL),IL,Wabash
+5,2015,406,City of Altamont - (IL),IL,Effingham
+6,2015,1325,City of Batavia - (IL),IL,Kane
+7,2015,1648,Village of Bethany - (IL),IL,Moultrie
+8,2015,2188,City of Breese - (IL),IL,Clinton
+9,2015,2634,City of Bushnell - (IL),IL,McDonough
+10,2015,2776,Cairo Public Utility Company,IL,Alexander
+11,2015,2776,Cairo Public Utility Company,IL,Pulaski
+12,2015,3037,City of Carlyle - (IL),IL,Clinton
+13,2015,3040,City of Carmi - (IL),IL,White
+14,2015,3153,City of Casey - (IL),IL,Clark
+15,2015,3405,Village of Chatham - (IL),IL,Sangamon
+16,2015,3726,Clay Electric Coop Inc,IL,Clay
+17,2015,3726,Clay Electric Coop Inc,IL,Effingham
+18,2015,3726,Clay Electric Coop Inc,IL,Fayette
+19,2015,3726,Clay Electric Coop Inc,IL,Jasper
+20,2015,3726,Clay Electric Coop Inc,IL,Marion
+21,2015,3726,Clay Electric Coop Inc,IL,Richland
+22,2015,3726,Clay Electric Coop Inc,IL,Wayne
+23,2015,3806,"Clinton County Elec Coop, Inc",IL,Clinton
+24,2015,3806,"Clinton County Elec Coop, Inc",IL,Fayette
+25,2015,3806,"Clinton County Elec Coop, Inc",IL,Madison
+26,2015,3806,"Clinton County Elec Coop, Inc",IL,Marion
+27,2015,3806,"Clinton County Elec Coop, Inc",IL,St Clair
+28,2015,3806,"Clinton County Elec Coop, Inc",IL,Washington
+29,2015,3931,Coles-Moultrie Electric Coop,IL,Clark
+30,2015,3931,Coles-Moultrie Electric Coop,IL,Coles
+31,2015,3931,Coles-Moultrie Electric Coop,IL,Cumberland
+32,2015,3931,Coles-Moultrie Electric Coop,IL,Douglas
+33,2015,3931,Coles-Moultrie Electric Coop,IL,Edgar
+34,2015,3931,Coles-Moultrie Electric Coop,IL,Moultrie
+35,2015,3931,Coles-Moultrie Electric Coop,IL,Piatt
+36,2015,3931,Coles-Moultrie Electric Coop,IL,Shelby
+37,2015,4110,Commonwealth Edison Co,IL,Boone
+38,2015,4110,Commonwealth Edison Co,IL,Bureau
+39,2015,4110,Commonwealth Edison Co,IL,Carroll
+40,2015,4110,Commonwealth Edison Co,IL,Cook
+41,2015,4110,Commonwealth Edison Co,IL,DeKalb
+42,2015,4110,Commonwealth Edison Co,IL,DuPage
+43,2015,4110,Commonwealth Edison Co,IL,Ford
+44,2015,4110,Commonwealth Edison Co,IL,Grundy
+45,2015,4110,Commonwealth Edison Co,IL,Jo Daviess
+46,2015,4110,Commonwealth Edison Co,IL,Kane
+47,2015,4110,Commonwealth Edison Co,IL,Kankakee
+48,2015,4110,Commonwealth Edison Co,IL,Kendall
+49,2015,4110,Commonwealth Edison Co,IL,LaSalle
+50,2015,4110,Commonwealth Edison Co,IL,Lake
+51,2015,4110,Commonwealth Edison Co,IL,Lee
+52,2015,4110,Commonwealth Edison Co,IL,Livingston
+53,2015,4110,Commonwealth Edison Co,IL,Marshall
+54,2015,4110,Commonwealth Edison Co,IL,McHenry
+55,2015,4110,Commonwealth Edison Co,IL,Ogle
+56,2015,4110,Commonwealth Edison Co,IL,Stephenson
+57,2015,4110,Commonwealth Edison Co,IL,Whiteside
+58,2015,4110,Commonwealth Edison Co,IL,Will
+59,2015,4110,Commonwealth Edison Co,IL,Winnebago
+60,2015,4110,Commonwealth Edison Co,IL,Woodford
+61,2015,4362,Corn Belt Energy Corporation,IL,Bureau
+62,2015,4362,Corn Belt Energy Corporation,IL,Champaign
+63,2015,4362,Corn Belt Energy Corporation,IL,DeWitt
+64,2015,4362,Corn Belt Energy Corporation,IL,Ford
+65,2015,4362,Corn Belt Energy Corporation,IL,Henry
+66,2015,4362,Corn Belt Energy Corporation,IL,Kendall
+67,2015,4362,Corn Belt Energy Corporation,IL,Knox
+68,2015,4362,Corn Belt Energy Corporation,IL,LaSalle
+69,2015,4362,Corn Belt Energy Corporation,IL,Livingston
+70,2015,4362,Corn Belt Energy Corporation,IL,Logan
+71,2015,4362,Corn Belt Energy Corporation,IL,Macon
+72,2015,4362,Corn Belt Energy Corporation,IL,Marshall
+73,2015,4362,Corn Belt Energy Corporation,IL,McLean
+74,2015,4362,Corn Belt Energy Corporation,IL,Piatt
+75,2015,4362,Corn Belt Energy Corporation,IL,Putnam
+76,2015,4362,Corn Belt Energy Corporation,IL,Stark
+77,2015,4362,Corn Belt Energy Corporation,IL,Tazewell
+78,2015,4362,Corn Belt Energy Corporation,IL,Woodford
+79,2015,5531,Enerstar Power Corp,IL,Clark
+80,2015,5531,Enerstar Power Corp,IL,Coles
+81,2015,5531,Enerstar Power Corp,IL,Douglas
+82,2015,5531,Enerstar Power Corp,IL,Edgar
+83,2015,5531,Enerstar Power Corp,IL,Vermilion
+84,2015,5535,Egyptian Electric Coop Assn,IL,Franklin
+85,2015,5535,Egyptian Electric Coop Assn,IL,Jackson
+86,2015,5535,Egyptian Electric Coop Assn,IL,Johnson
+87,2015,5535,Egyptian Electric Coop Assn,IL,Monroe
+88,2015,5535,Egyptian Electric Coop Assn,IL,Perry
+89,2015,5535,Egyptian Electric Coop Assn,IL,Randolph
+90,2015,5535,Egyptian Electric Coop Assn,IL,St Clair
+91,2015,5535,Egyptian Electric Coop Assn,IL,Union
+92,2015,5535,Egyptian Electric Coop Assn,IL,Washington
+93,2015,5535,Egyptian Electric Coop Assn,IL,Williamson
+94,2015,5585,Eastern Illinois Elec Coop,IL,Champaign
+95,2015,5585,Eastern Illinois Elec Coop,IL,Douglas
+96,2015,5585,Eastern Illinois Elec Coop,IL,Edgar
+97,2015,5585,Eastern Illinois Elec Coop,IL,Ford
+98,2015,5585,Eastern Illinois Elec Coop,IL,Iroquois
+99,2015,5585,Eastern Illinois Elec Coop,IL,Livingston
+100,2015,5585,Eastern Illinois Elec Coop,IL,McLean
+101,2015,5585,Eastern Illinois Elec Coop,IL,Moultrie
+102,2015,5585,Eastern Illinois Elec Coop,IL,Piatt
+103,2015,5585,Eastern Illinois Elec Coop,IL,Vermilion
+104,2015,5748,Electric Energy Inc,IL,Massac
+105,2015,6141,City of Fairfield- (IL),IL,Wayne
+106,2015,6192,City of Farmer City - (IL),IL,DeWitt
+107,2015,6417,City of Flora - (IL),IL,Clay
+108,2015,6764,Village of Freeburg - (IL),IL,St Clair
+109,2015,7095,City of Geneseo - (IL),IL,Henry
+110,2015,7096,City of Geneva- (IL),IL,Kane
+111,2015,7633,Village of Greenup - (IL),IL,Cumberland
+112,2015,8573,City of Highland,IL,Bond
+113,2015,8573,City of Highland,IL,Clinton
+114,2015,8573,City of Highland,IL,Madison
+115,2015,8573,City of Highland,IL,St Clair
+116,2015,8824,M J M Electric Cooperative Inc,IL,Bond
+117,2015,8824,M J M Electric Cooperative Inc,IL,Fayette
+118,2015,8824,M J M Electric Cooperative Inc,IL,Greene
+119,2015,8824,M J M Electric Cooperative Inc,IL,Jersey
+120,2015,8824,M J M Electric Cooperative Inc,IL,Macoupin
+121,2015,8824,M J M Electric Cooperative Inc,IL,Madison
+122,2015,8824,M J M Electric Cooperative Inc,IL,Montgomery
+123,2015,9209,Illinois Rural Electric Coop,IL,Adams
+124,2015,9209,Illinois Rural Electric Coop,IL,Brown
+125,2015,9209,Illinois Rural Electric Coop,IL,Calhoun
+126,2015,9209,Illinois Rural Electric Coop,IL,Cass
+127,2015,9209,Illinois Rural Electric Coop,IL,Greene
+128,2015,9209,Illinois Rural Electric Coop,IL,Jersey
+129,2015,9209,Illinois Rural Electric Coop,IL,Macoupin
+130,2015,9209,Illinois Rural Electric Coop,IL,Morgan
+131,2015,9209,Illinois Rural Electric Coop,IL,Pike
+132,2015,9209,Illinois Rural Electric Coop,IL,Scott
+133,2015,9750,Jo-Carroll Energy Coop Inc,IL,Carroll
+134,2015,9750,Jo-Carroll Energy Coop Inc,IL,Henry
+135,2015,9750,Jo-Carroll Energy Coop Inc,IL,Jo Daviess
+136,2015,9750,Jo-Carroll Energy Coop Inc,IL,Whiteside
+137,2015,11736,City of Marshall - (IL),IL,Clark
+138,2015,11790,City of Mascoutah - (IL),IL,St Clair
+139,2015,12070,McDonough Power Coop,IL,Fulton
+140,2015,12070,McDonough Power Coop,IL,Hancock
+141,2015,12070,McDonough Power Coop,IL,Henderson
+142,2015,12070,McDonough Power Coop,IL,Knox
+143,2015,12070,McDonough Power Coop,IL,McDonough
+144,2015,12070,McDonough Power Coop,IL,Schuyler
+145,2015,12070,McDonough Power Coop,IL,Warren
+146,2015,12167,City of McLeansboro - (IL),IL,Hamilton
+147,2015,12341,MidAmerican Energy Co,IL,Henry
+148,2015,12341,MidAmerican Energy Co,IL,Mercer
+149,2015,12341,MidAmerican Energy Co,IL,Rock Island
+150,2015,12388,City of Metropolis - (IL),IL,Massac
+151,2015,12395,Menard Electric Coop,IL,Cass
+152,2015,12395,Menard Electric Coop,IL,Logan
+153,2015,12395,Menard Electric Coop,IL,Macon
+154,2015,12395,Menard Electric Coop,IL,Mason
+155,2015,12395,Menard Electric Coop,IL,Menard
+156,2015,12395,Menard Electric Coop,IL,Morgan
+157,2015,12395,Menard Electric Coop,IL,Sangamon
+158,2015,12395,Menard Electric Coop,IL,Tazewell
+159,2015,12803,"Monroe County Elec Coop, Inc",IL,Monroe
+160,2015,12803,"Monroe County Elec Coop, Inc",IL,Randolph
+161,2015,12803,"Monroe County Elec Coop, Inc",IL,St Clair
+162,2015,13032,Mt Carmel Public Utility Co,IL,Wabash
+163,2015,13208,City of Naperville - (IL),IL,DuPage
+164,2015,13208,City of Naperville - (IL),IL,Will
+165,2015,13292,Norris Electric Coop,IL,Clark
+166,2015,13292,Norris Electric Coop,IL,Clay
+167,2015,13292,Norris Electric Coop,IL,Crawford
+168,2015,13292,Norris Electric Coop,IL,Cumberland
+169,2015,13292,Norris Electric Coop,IL,Effingham
+170,2015,13292,Norris Electric Coop,IL,Jasper
+171,2015,13292,Norris Electric Coop,IL,Lawrence
+172,2015,13292,Norris Electric Coop,IL,Richland
+173,2015,13292,Norris Electric Coop,IL,Shelby
+174,2015,13292,Norris Electric Coop,IL,Wabash
+175,2015,13560,City of Newton - (IL),IL,Jasper
+176,2015,13993,City of Oglesby - (IL),IL,LaSalle
+177,2015,14840,City of Peru - (IL),IL,LaSalle
+178,2015,15388,City of Princeton - (IL),IL,Bureau
+179,2015,15686,Village of Rantoul - (IL),IL,Champaign
+180,2015,15772,City of Red Bud - (IL),IL,Randolph
+181,2015,16092,Village of Riverton - (IL),IL,Sangamon
+182,2015,16179,Rochelle Municipal Utilities,IL,Lee
+183,2015,16179,Rochelle Municipal Utilities,IL,Ogle
+184,2015,16196,Rock Energy Cooperative,IL,Boone
+185,2015,16196,Rock Energy Cooperative,IL,McHenry
+186,2015,16196,Rock Energy Cooperative,IL,Stephenson
+187,2015,16196,Rock Energy Cooperative,IL,Winnebago
+188,2015,16198,City of Rock Falls - (IL),IL,Whiteside
+189,2015,16269,City of Roodhouse - (IL),IL,Greene
+190,2015,16420,Rural Electric Conven Coop,IL,Christian
+191,2015,16420,Rural Electric Conven Coop,IL,Macoupin
+192,2015,16420,Rural Electric Conven Coop,IL,Montgomery
+193,2015,16420,Rural Electric Conven Coop,IL,Morgan
+194,2015,16420,Rural Electric Conven Coop,IL,Sangamon
+195,2015,16740,Scenic Rivers Energy Coop,IL,Jo Daviess
+196,2015,16740,Scenic Rivers Energy Coop,IL,Stephenson
+197,2015,17040,"Shelby Electric Coop, Inc",IL,Christian
+198,2015,17040,"Shelby Electric Coop, Inc",IL,Cumberland
+199,2015,17040,"Shelby Electric Coop, Inc",IL,Effingham
+200,2015,17040,"Shelby Electric Coop, Inc",IL,Fayette
+201,2015,17040,"Shelby Electric Coop, Inc",IL,Macon
+202,2015,17040,"Shelby Electric Coop, Inc",IL,Montgomery
+203,2015,17040,"Shelby Electric Coop, Inc",IL,Moultrie
+204,2015,17040,"Shelby Electric Coop, Inc",IL,Sangamon
+205,2015,17040,"Shelby Electric Coop, Inc",IL,Shelby
+206,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Franklin
+207,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Gallatin
+208,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Hamilton
+209,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Hardin
+210,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Johnson
+211,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Massac
+212,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Pope
+213,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Saline
+214,2015,17585,"Southeastern IL Elec Coop, Inc",IL,White
+215,2015,17585,"Southeastern IL Elec Coop, Inc",IL,Williamson
+216,2015,17631,Southern Illinois Elec Coop,IL,Alexander
+217,2015,17631,Southern Illinois Elec Coop,IL,Jackson
+218,2015,17631,Southern Illinois Elec Coop,IL,Johnson
+219,2015,17631,Southern Illinois Elec Coop,IL,Massac
+220,2015,17631,Southern Illinois Elec Coop,IL,Pope
+221,2015,17631,Southern Illinois Elec Coop,IL,Pulaski
+222,2015,17631,Southern Illinois Elec Coop,IL,Union
+223,2015,17631,Southern Illinois Elec Coop,IL,Williamson
+224,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Bond
+225,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Clay
+226,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Clinton
+227,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Effingham
+228,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Fayette
+229,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Macoupin
+230,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Madison
+231,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Marion
+232,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Montgomery
+233,2015,17697,Southwestern Electric Coop Inc - (IL),IL,Shelby
+234,2015,17697,Southwestern Electric Coop Inc - (IL),IL,St Clair
+235,2015,17828,City of Springfield - (IL),IL,Sangamon
+236,2015,17838,"Spoon River Electric Coop, Inc",IL,Fulton
+237,2015,17838,"Spoon River Electric Coop, Inc",IL,Knox
+238,2015,17838,"Spoon River Electric Coop, Inc",IL,McDonough
+239,2015,17838,"Spoon River Electric Coop, Inc",IL,Peoria
+240,2015,17838,"Spoon River Electric Coop, Inc",IL,Schuyler
+241,2015,17860,City of St Charles - (IL),IL,DuPage
+242,2015,17860,City of St Charles - (IL),IL,Kane
+243,2015,18277,City of Sullivan - (IL),IL,Moultrie
+244,2015,18955,"Tri-County Electric Coop, Inc",IL,Clay
+245,2015,18955,"Tri-County Electric Coop, Inc",IL,Clinton
+246,2015,18955,"Tri-County Electric Coop, Inc",IL,Franklin
+247,2015,18955,"Tri-County Electric Coop, Inc",IL,Hamilton
+248,2015,18955,"Tri-County Electric Coop, Inc",IL,Jefferson
+249,2015,18955,"Tri-County Electric Coop, Inc",IL,Marion
+250,2015,18955,"Tri-County Electric Coop, Inc",IL,Perry
+251,2015,18955,"Tri-County Electric Coop, Inc",IL,St Clair
+252,2015,18955,"Tri-County Electric Coop, Inc",IL,Washington
+253,2015,18955,"Tri-County Electric Coop, Inc",IL,Wayne
+254,2015,20111,Warren County Rural E M C,IL,Iroquois
+255,2015,20111,Warren County Rural E M C,IL,Vermilion
+256,2015,20180,City of Waterloo - (IL),IL,Monroe
+257,2015,20222,Wayne-White Counties Elec Coop,IL,Clay
+258,2015,20222,Wayne-White Counties Elec Coop,IL,Edwards
+259,2015,20222,Wayne-White Counties Elec Coop,IL,Franklin
+260,2015,20222,Wayne-White Counties Elec Coop,IL,Gallatin
+261,2015,20222,Wayne-White Counties Elec Coop,IL,Hamilton
+262,2015,20222,Wayne-White Counties Elec Coop,IL,Jefferson
+263,2015,20222,Wayne-White Counties Elec Coop,IL,Marion
+264,2015,20222,Wayne-White Counties Elec Coop,IL,Richland
+265,2015,20222,Wayne-White Counties Elec Coop,IL,Wabash
+266,2015,20222,Wayne-White Counties Elec Coop,IL,Wayne
+267,2015,20222,Wayne-White Counties Elec Coop,IL,White
+268,2015,20824,Village of Winnetka - (IL),IL,Cook
+269,2015,29296,Western Illinois Elec Coop,IL,Adams
+270,2015,29296,Western Illinois Elec Coop,IL,Hancock
+271,2015,29296,Western Illinois Elec Coop,IL,Henderson
+272,2015,29296,Western Illinois Elec Coop,IL,McDonough
+273,2015,40307,"Prairie Power, Inc",IL,Adams
+274,2015,40307,"Prairie Power, Inc",IL,Brown
+275,2015,40307,"Prairie Power, Inc",IL,Calhoun
+276,2015,40307,"Prairie Power, Inc",IL,Cass
+277,2015,40307,"Prairie Power, Inc",IL,Christian
+278,2015,40307,"Prairie Power, Inc",IL,Fulton
+279,2015,40307,"Prairie Power, Inc",IL,Greene
+280,2015,40307,"Prairie Power, Inc",IL,Hancock
+281,2015,40307,"Prairie Power, Inc",IL,Henderson
+282,2015,40307,"Prairie Power, Inc",IL,Knox
+283,2015,40307,"Prairie Power, Inc",IL,Logan
+284,2015,40307,"Prairie Power, Inc",IL,Macoupin
+285,2015,40307,"Prairie Power, Inc",IL,Mason
+286,2015,40307,"Prairie Power, Inc",IL,McDonough
+287,2015,40307,"Prairie Power, Inc",IL,Menard
+288,2015,40307,"Prairie Power, Inc",IL,Montgomery
+289,2015,40307,"Prairie Power, Inc",IL,Morgan
+290,2015,40307,"Prairie Power, Inc",IL,Pike
+291,2015,40307,"Prairie Power, Inc",IL,Sangamon
+292,2015,40307,"Prairie Power, Inc",IL,Schuyler
+293,2015,40307,"Prairie Power, Inc",IL,Scott
+294,2015,40367,Village of Ladd - (IL),IL,Bureau
+295,2015,56697,Ameren Illinois Company,IL,Adams
+296,2015,56697,Ameren Illinois Company,IL,Alexander
+297,2015,56697,Ameren Illinois Company,IL,Bond
+298,2015,56697,Ameren Illinois Company,IL,Brown
+299,2015,56697,Ameren Illinois Company,IL,Bureau
+300,2015,56697,Ameren Illinois Company,IL,Calhoun
+301,2015,56697,Ameren Illinois Company,IL,Cass
+302,2015,56697,Ameren Illinois Company,IL,Champaign
+303,2015,56697,Ameren Illinois Company,IL,Christian
+304,2015,56697,Ameren Illinois Company,IL,Clark
+305,2015,56697,Ameren Illinois Company,IL,Clay
+306,2015,56697,Ameren Illinois Company,IL,Clinton
+307,2015,56697,Ameren Illinois Company,IL,Coles
+308,2015,56697,Ameren Illinois Company,IL,Crawford
+309,2015,56697,Ameren Illinois Company,IL,Cumberland
+310,2015,56697,Ameren Illinois Company,IL,DeWitt
+311,2015,56697,Ameren Illinois Company,IL,Douglas
+312,2015,56697,Ameren Illinois Company,IL,Edgar
+313,2015,56697,Ameren Illinois Company,IL,Edwards
+314,2015,56697,Ameren Illinois Company,IL,Effingham
+315,2015,56697,Ameren Illinois Company,IL,Fayette
+316,2015,56697,Ameren Illinois Company,IL,Ford
+317,2015,56697,Ameren Illinois Company,IL,Franklin
+318,2015,56697,Ameren Illinois Company,IL,Fulton
+319,2015,56697,Ameren Illinois Company,IL,Gallatin
+320,2015,56697,Ameren Illinois Company,IL,Greene
+321,2015,56697,Ameren Illinois Company,IL,Hancock
+322,2015,56697,Ameren Illinois Company,IL,Henderson
+323,2015,56697,Ameren Illinois Company,IL,Henry
+324,2015,56697,Ameren Illinois Company,IL,Iroquois
+325,2015,56697,Ameren Illinois Company,IL,Jackson
+326,2015,56697,Ameren Illinois Company,IL,Jasper
+327,2015,56697,Ameren Illinois Company,IL,Jefferson
+328,2015,56697,Ameren Illinois Company,IL,Jersey
+329,2015,56697,Ameren Illinois Company,IL,Johnson
+330,2015,56697,Ameren Illinois Company,IL,Kendall
+331,2015,56697,Ameren Illinois Company,IL,Knox
+332,2015,56697,Ameren Illinois Company,IL,LaSalle
+333,2015,56697,Ameren Illinois Company,IL,Lawrence
+334,2015,56697,Ameren Illinois Company,IL,Livingston
+335,2015,56697,Ameren Illinois Company,IL,Logan
+336,2015,56697,Ameren Illinois Company,IL,Macon
+337,2015,56697,Ameren Illinois Company,IL,Macoupin
+338,2015,56697,Ameren Illinois Company,IL,Madison
+339,2015,56697,Ameren Illinois Company,IL,Marion
+340,2015,56697,Ameren Illinois Company,IL,Marshall
+341,2015,56697,Ameren Illinois Company,IL,Mason
+342,2015,56697,Ameren Illinois Company,IL,Massac
+343,2015,56697,Ameren Illinois Company,IL,McDonough
+344,2015,56697,Ameren Illinois Company,IL,McLean
+345,2015,56697,Ameren Illinois Company,IL,Menard
+346,2015,56697,Ameren Illinois Company,IL,Mercer
+347,2015,56697,Ameren Illinois Company,IL,Monroe
+348,2015,56697,Ameren Illinois Company,IL,Montgomery
+349,2015,56697,Ameren Illinois Company,IL,Morgan
+350,2015,56697,Ameren Illinois Company,IL,Moultrie
+351,2015,56697,Ameren Illinois Company,IL,Peoria
+352,2015,56697,Ameren Illinois Company,IL,Perry
+353,2015,56697,Ameren Illinois Company,IL,Piatt
+354,2015,56697,Ameren Illinois Company,IL,Pike
+355,2015,56697,Ameren Illinois Company,IL,Pulaski
+356,2015,56697,Ameren Illinois Company,IL,Putnam
+357,2015,56697,Ameren Illinois Company,IL,Randolph
+358,2015,56697,Ameren Illinois Company,IL,Richland
+359,2015,56697,Ameren Illinois Company,IL,Saline
+360,2015,56697,Ameren Illinois Company,IL,Sangamon
+361,2015,56697,Ameren Illinois Company,IL,Schuyler
+362,2015,56697,Ameren Illinois Company,IL,Scott
+363,2015,56697,Ameren Illinois Company,IL,Shelby
+364,2015,56697,Ameren Illinois Company,IL,St Clair
+365,2015,56697,Ameren Illinois Company,IL,Stark
+366,2015,56697,Ameren Illinois Company,IL,Tazewell
+367,2015,56697,Ameren Illinois Company,IL,Union
+368,2015,56697,Ameren Illinois Company,IL,Vermilion
+369,2015,56697,Ameren Illinois Company,IL,Wabash
+370,2015,56697,Ameren Illinois Company,IL,Warren
+371,2015,56697,Ameren Illinois Company,IL,Washington
+372,2015,56697,Ameren Illinois Company,IL,Wayne
+373,2015,56697,Ameren Illinois Company,IL,White
+374,2015,56697,Ameren Illinois Company,IL,Williamson
+375,2015,56697,Ameren Illinois Company,IL,Woodford

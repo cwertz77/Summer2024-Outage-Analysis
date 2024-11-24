@@ -1,0 +1,47 @@
+,|Data Year|,|Utility Number|,|Utility Name|,|Ownership|,|State|,|BA Code|,|Total Revenue (Thousand Dollars)|,|Total Sales (MWh)|,|Total Customers|,|Water Heater|,|Net Metering|,|Demand Side Management|,|Time Based Programs|
+0,2020,97.0,Adams Electric Coop,Cooperative,IL,MISO,"22,908.0","171,232","8,963",.,Y,Y,Y
+1,2020,229.0,City of Albany - (IL),Municipal,IL,MISO,574.0,"4,593",460,.,N,N,N
+2,2020,366.0,City of Allendale- (IL),Municipal,IL,MISO,373.0,"3,011",256,.,N,N,N
+3,2020,406.0,City of Altamont - (IL),Municipal,IL,MISO,"2,324.0","20,966","1,531",.,Y,N,N
+4,2020,1648.0,Village of Bethany - (IL),Municipal,IL,MISO,"1,270.0","8,700",687,.,N,N,N
+5,2020,2188.0,City of Breese - (IL),Municipal,IL,MISO,"5,459.0","47,730","2,428",.,Y,N,N
+6,2020,2634.0,City of Bushnell - (IL),Municipal,IL,MISO,"4,080.0","31,770","1,591",.,N,N,N
+7,2020,2776.0,Cairo Public Utility Company,Municipal,IL,MISO,"7,020.0","53,863","1,204",.,N,N,N
+8,2020,3037.0,City of Carlyle - (IL),Municipal,IL,MISO,"3,641.5","30,206","2,027",.,N,N,N
+9,2020,3040.0,City of Carmi - (IL),Municipal,IL,MISO,"7,531.0","45,603","3,096",.,Y,N,N
+10,2020,3153.0,City of Casey - (IL),Municipal,IL,MISO,"3,185.0","29,567","1,914",.,N,N,N
+11,2020,3405.0,Village of Chatham - (IL),Municipal,IL,MISO,"8,436.0","77,547","6,701",.,N,N,N
+12,2020,3726.0,Clay Electric Coop Inc,Cooperative,IL,MISO,"7,389.0","49,009","3,267",.,Y,N,N
+13,2020,3806.0,"Clinton County Elec Coop, Inc",Cooperative,IL,MISO,"16,393.0","139,081","6,095",.,Y,N,N
+14,2020,5531.0,Enerstar Power Corp,Cooperative,IL,MISO,"12,281.0","83,189","5,248",.,Y,N,N
+15,2020,6141.0,City of Fairfield- (IL),Municipal,IL,MISO,"3,940.0","30,554","3,427",.,N,N,N
+16,2020,6192.0,City of Farmer City - (IL),Municipal,IL,MISO,"2,219.0","19,186","1,335",.,N,N,N
+17,2020,6417.0,City of Flora - (IL),Municipal,IL,MISO,"12,622.0","101,064","2,776",.,Y,N,N
+18,2020,6764.0,Village of Freeburg - (IL),Municipal,IL,MISO,"5,034.0","37,632","2,247",.,Y,N,N
+19,2020,7095.0,City of Geneseo - (IL),Municipal,IL,MISO,"6,719.0","59,417","3,674",.,Y,N,N
+20,2020,7633.0,Village of Greenup - (IL),Municipal,IL,MISO,"2,214.0","16,764",920,.,N,N,N
+21,2020,8573.0,City of Highland,Municipal,IL,MISO,"14,052.6","120,610","6,878",.,Y,N,N
+22,2020,8824.0,M J M Electric Cooperative Inc,Cooperative,IL,MISO,"19,580.9","129,522","9,409",.,Y,N,N
+23,2020,9209.0,Illinois Rural Electric Coop,Cooperative,IL,MISO,"31,129.0","182,896","10,278",.,N,Y,N
+24,2020,11736.0,City of Marshall - (IL),Municipal,IL,MISO,"7,167.0","60,639","2,822",.,Y,N,N
+25,2020,11790.0,City of Mascoutah - (IL),Municipal,IL,MISO,"8,063.0","55,101","3,813",.,Y,N,N
+26,2020,12070.0,McDonough Power Coop,Cooperative,IL,MISO,"10,877.2","71,144","5,067",.,Y,N,N
+27,2020,12167.0,City of McLeansboro - (IL),Municipal,IL,MISO,"3,088.0","22,009","1,525",.,N,N,N
+28,2020,12388.0,City of Metropolis - (IL),Municipal,IL,MISO,"9,046.0","70,370","3,398",.,N,N,N
+29,2020,12803.0,"Monroe County Elec Coop, Inc",Cooperative,IL,MISO,"16,861.0","114,950","7,459",.,Y,Y,N
+30,2020,13560.0,City of Newton - (IL),Municipal,IL,MISO,"2,774.0","24,032","1,622",.,Y,N,N
+31,2020,13993.0,City of Oglesby - (IL),Municipal,IL,MISO,"3,478.0","34,768","2,314",.,N,N,N
+32,2020,15388.0,City of Princeton - (IL),Municipal,IL,MISO,"9,879.0","92,687","4,557",.,N,N,N
+33,2020,15686.0,Village of Rantoul - (IL),Municipal,IL,MISO,"16,409.0","141,993","6,120",.,Y,N,N
+34,2020,15772.0,City of Red Bud - (IL),Municipal,IL,MISO,"5,465.0","42,035","2,049",.,N,N,N
+35,2020,16092.0,Village of Riverton - (IL),Municipal,IL,MISO,"3,260.3","25,706","1,676",.,Y,N,N
+36,2020,16198.0,City of Rock Falls - (IL),Municipal,IL,MISO,"11,256.0","65,747","5,293",.,Y,N,N
+37,2020,16269.0,City of Roodhouse - (IL),Municipal,IL,MISO,"1,349.0","9,786",958,.,Y,N,N
+38,2020,16420.0,Rural Electric Conven Coop,Cooperative,IL,MISO,"13,924.0","112,107","5,878",.,Y,N,N
+39,2020,17631.0,Southern Illinois Elec Coop,Cooperative,IL,MISO,"26,831.0","176,540","11,187",.,Y,N,N
+40,2020,17838.0,"Spoon River Electric Coop, Inc",Cooperative,IL,MISO,"10,228.0","63,276","4,980",.,N,N,N
+41,2020,18277.0,City of Sullivan - (IL),Municipal,IL,MISO,"6,895.0","64,463","3,050",.,Y,N,N
+42,2020,20180.0,City of Waterloo - (IL),Municipal,IL,MISO,"10,864.0","80,977","5,001",.,Y,N,N
+43,2020,20824.0,Village of Winnetka - (IL),Municipal,IL,PJM,"15,411.0","120,168","5,615",.,Y,N,N
+44,2020,29296.0,Western Illinois Elec Coop,Cooperative,IL,MISO,"9,455.0","69,293","3,619",.,Y,N,N
+45,2020,40367.0,Village of Ladd - (IL),Municipal,IL,MISO,"1,397.0","10,510",633,.,N,N,N
