@@ -30,3 +30,4 @@ def generate_geojson(outage_data = './outage_records/processed_illinois2023.csv'
     fig.update_geos(lonaxis=dict(range=[-100, -85]), lataxis=dict(range=[30, 45])),
     fig.show()
     breakpoint()
+

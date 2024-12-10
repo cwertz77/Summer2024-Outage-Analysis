@@ -19,25 +19,37 @@ library(ggrepel)
 library(lubridate)
 library(tidyr)
 library(tidyverse)
+library(corrr)
+library(ggcorrplot)
+library(FactoMineR)
+library(factoextra)
+library(sf)
 ```
 # Read CSVS
-```{r}
+```{r} 
 year=2023
-reliability=read.csv("outage_records/metrics_2022.csv")
-svi=read.csv("plots_and_metric_data/svi_interactive_map_2022.csv")
+# Data by year
+reliability=read.csv(paste0("outage_records/metrics_",year,".csv"))
+svi=read.csv(paste0("plots_and_metric_data/svi_interactive_map_",year,".csv"))
+EIA_saidi_saifi=read.csv(paste0('energy_information_administration_data/',year,'/Illinois/Reliability_',year,'_Illinois.csv'))
+service_territory=read.csv(paste0('energy_information_administration_data/',year,'/Illinois/Service_Territory_',year,'_Illinois.csv'))
+# all data
 county_fips=read.csv('county_to_fips.csv')
 wind_speed_customers=read.csv("processed_wind_customer_outage.csv")
 county_customers=read.csv('mcc.csv')
 EIA_disturbances<-read.csv("EIA_disturbances_data/all_illinois.csv")
-EIA_saidi_saifi=read.csv('energy_information_administration_data/2022/Illinois/Reliability_2022_Illinois.csv')
-service_territory=read.csv('energy_information_administration_data/2022/Illinois/Service_Territory_2022_Illinois.csv')
+geojson<-read_sf('illinois-with-county-boundaries_1097.geojson')
+```
+# Plot average outage duration
+```{r}
+ggplot(geojson)+geom_sf(aes(fill=reliability$saidi/60))+theme_void()+scale_fill_viridis_c(direction=1,name='Average Outage Duration (hrs)')
+ggplot(geojson)+geom_sf(aes(fill=reliability$saifi))+theme_void()+scale_fill_viridis_c(direction=1,name='Average Outage Frequency')
 ```
 
-# Plot Reliability Metrics Against Social Vulnerability.
+# Select SVI features
 ```{r}
-reliability %>%
-  ggplot(.,aes(x=saidi,y=svi))+geom_point()
-reliability<-left_join(reliability,county_fips,by="county")
+svi <- svi%>%
+  select(COUNTY,FIPS,AREA_SQMI,E_TOTPOP,RPL_THEME1,RPL_THEME2,RPL_THEME3,RPL_THEME4,RPL_THEMES)
 ```
 
 # Plot wind speed against percentage of customers out
@@ -49,66 +61,88 @@ county_customers$County_FIPS=as.numeric(county_customers$County_FIPS)
 wind_speed_customers <- left_join(wind_speed_customers,county_fips,by="county")
 county_fips <- left_join(county_fips,county_customers,join_by(fips_code==County_FIPS))
 wind_speed_customers <- left_join(wind_speed_customers,county_customers,join_by(fips_code==County_FIPS))
-```
-
-# Print the counties with the most at-risk reliability metrics.
-```{r}
-reliability %>%
-  group_by(county) %>%
-  summarise(saidi=(saidi),svi=svi) %>%
-  top_n(10,saidi)
+reliability <- left_join(reliability,county_fips,join_by(county==county))
+reliability <- left_join(reliability,svi,join_by(fips_code==FIPS))
 ```
 # SAIDI vs SAIFI
 ```{r}
- reliability%>%
+
+reliability <- reliability %>%
   group_by(county) %>%
-  mutate(SAIDI=mean(saidi),SAIFI=mean(saifi),svi=mean(svi))%>%
-  ggplot(.,aes(x=SAIDI/60,y=SAIFI,color=svi))+geom_point()+geom_label(label=reliability$county,size=2)
+  mutate(SAIDI=mean(saidi)/60,SAIFI=mean(saifi),svi=mean(svi),pop_density=mean(E_TOTPOP/AREA_SQMI))
+ggplot(reliability,aes(x=SAIDI,y=SAIFI,color=svi,size=pop_density))+geom_point()+labs(title="Outages by County, Illinois 2023",x="Average Outage Duration (hrs)",y="Average Outage Frequency",color="Social Vulnerability",size="Population Density")+theme_light()+geom_smooth(method="loess",span=2,show.legend=FALSE,color='darkgray')+scale_color_distiller(palette="YlGnBu",direction=1)
+reliability_lm <- loess(reliability$SAIFI ~ reliability$SAIDI, data=reliability,span=2)
+print(reliability_lm)
 ```
+# Principal Component Analysis
+```{r}
+pca_matrix <- reliability%>%
+  mutate(socioeconomic_status=RPL_THEME1,household_characteristics=RPL_THEME2,racial_ethnic_minority=RPL_THEME3,housing_type_transit=RPL_THEME4)
+drops<-c("year","county","COUNTY","X","fips_code","AREA_SQMI","E_TOTPOP","RPL_THEMES","Customers","RPL_THEME1","RPL_THEME2","RPL_THEME3","RPL_THEME4","SAIDI","SAIFI")
+pca_matrix <- pca_matrix[,!names(pca_matrix) %in% drops]
+pca_matrix<-scale(pca_matrix)
+corr <- round(cor(pca_matrix), 1)
+ggcorrplot(corr,method="circle")+ggtitle("Correlation Matrix for Outage-Socioeconomic Data")
+data.pca <- princomp(pca_matrix)
+fviz_eig(data.pca, addlabels = TRUE)
+fviz_pca_var(data.pca, col.var = "cos2",
+            gradient.cols = c("yellow", "green", "blue"),
+            repel = TRUE)
+```
+
 # Convert EIA disturbances metrics into county-based format for SAIDI, SAIFI, and CAIDI.
 ```{r}
 EIA_saidi_saifi$SAIDI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIDI..minutes.per.year..)
 EIA_saidi_saifi$SAIFI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..SAIFI..times.per.year..)
 EIA_saidi_saifi$CAIDI<-as.numeric(EIA_saidi_saifi$X.IEEE.Standard.All.Events..With.Major.Event.Days..CAIDI..minutes.per.interruption..)
-service_reliability_mapper<-inner_join(service_territory,EIA_saidi_saifi,join_by('X.Utility.Name.'=='X.Utility.Characteristics..Utility.Name.'))
+service_reliability_mapper<-inner_join(EIA_saidi_saifi,service_territory,join_by('X.Utility.Characteristics..Utility.Name.'=='X.Utility.Name.'))
 eia_reliability_county <- service_reliability_mapper %>%
-  filter(!is.na(SAIDI)) %>%
+  filter(!is.na(SAIDI),!is.na(SAIFI)) %>%
   group_by(X.County.) %>%
-  summarise(eia_SAIDI=mean(SAIDI),
-         eia_SAIFI=mean(SAIFI),
-         eia_CAIDI=mean(CAIDI)) %>%
+  summarise(utility=X.Utility.Characteristics..Utility.Name.,
+            eia_SAIDI=(SAIDI),
+         eia_SAIFI=(SAIFI),
+         eia_CAIDI=(CAIDI)) %>%
   arrange(X.County.)
 ```
 # Compare SAIDI, SAIFI, and CAIDI values between EIA database and EAGLE-I Calculations.
 ```{r}
-
 residual_cmp<-left_join(reliability,eia_reliability_county,join_by(county==X.County.))
-residual_cmp<-left_join(residual_cmp,svi,join_by(fips_code==FIPS))
 residual_cmp <- residual_cmp %>%
-  mutate(saidi_res=(eia_SAIDI-saidi),saifi_res=(eia_SAIFI-saifi),caidi_res=(eia_CAIDI-caidi))
-residual_cmp %>%
-  ggplot(.,aes(x=saidi,y=eia_SAIDI))+geom_point()+xlab("EAGLE-I SAIDI")+ylab("EIA SAIDI")+geom_abline(slope=1,intercept=0)
-residual_cmp %>%
-  ggplot(.,aes(x=saifi,y=eia_SAIFI))+geom_point()+xlab("EAGLE-I SAIFI")+ylab("EIA SAIFI")+geom_abline(slope=1,intercept=0)
-residual_cmp %>%
-  ggplot(.,aes(x=caidi,y=eia_CAIDI))+geom_point()+xlab("EAGLE-I CAIDI")+ylab("EIA CAIDI")+geom_abline(slope=1,intercept=0)
-residual_cmp %>%
-  ggplot(.,aes(x=saidi_res,y=saifi_res,label=county))+geom_point()+geom_text_repel()
+  mutate(saidi_res=(eia_SAIDI-saidi)/saidi,saifi_res=(eia_SAIFI-saifi)/saifi,caidi_res=(eia_CAIDI-caidi)/caidi)
+rel_by_county <- residual_cmp %>%
+  group_by(county) %>%
+  summarise(utility=list(utility),
+            eaglei_saidi=mean(saidi,na.rm=TRUE),
+            eaglei_saifi=mean(saifi,na.rm=TRUE),
+            eaglei_caidi=mean(caidi,na.rm=TRUE),
+            eia_SAIDI=mean(eia_SAIDI,na.rm=TRUE),
+            eia_SAIFI=mean(eia_SAIFI,na.rm=TRUE),
+            eia_CAIDI=mean(eia_CAIDI,na.rm=TRUE),
+            saidi_res=mean(saidi_res,na.rm=TRUE),
+            saifi_res=mean(saifi_res,na.rm=TRUE),
+            caidi_res=mean(caidi_res,na.rm=TRUE),
+            pop_density=mean(pop_density,na.rm=TRUE),
+            svi=mean(svi,na.rm=TRUE)) 
+rel_by_county %>%
+  ggplot(.,aes(x=saidi_res,y=saifi_res,label=county,color=svi,size=pop_density))+geom_point()+labs(x="% Difference in Outage Duration",y="% Difference in Outage Frequency",color="Social Vulnerability",size="Population Density")+ggtitle("Difference in Reported Outage Values, County")+scale_x_sqrt()+scale_y_sqrt()+theme_light()+geom_text_repel(size=3,color='darkslategray')+scale_color_distiller(palette="YlGnBu",direction=1)
+rel_by_utility <- residual_cmp %>%
+  group_by(utility) %>%
+  summarise(
+            eaglei_saidi=mean(saidi,na.rm=TRUE),
+            eaglei_saifi=mean(saifi,na.rm=TRUE),
+            eaglei_caidi=mean(caidi,na.rm=TRUE),
+            eia_SAIDI=mean(eia_SAIDI,na.rm=TRUE),
+            eia_SAIFI=mean(eia_SAIFI,na.rm=TRUE),
+            eia_CAIDI=mean(eia_CAIDI,na.rm=TRUE),
+            saidi_res=mean(saidi_res,na.rm=TRUE),
+            saifi_res=mean(saifi_res,na.rm=TRUE),
+            caidi_res=mean(caidi_res,na.rm=TRUE),
+            pop_density=mean(pop_density,na.rm=TRUE),
+            svi=mean(svi,na.rm=TRUE))
+rel_by_utility %>%
+  ggplot(.,aes(x=saidi_res,y=saifi_res,label=utility,color=svi,size=pop_density))+geom_point()+geom_text_repel(size=3,color='darkslategray')+labs(x="% Difference in Outage Duration",y="% Difference in Outage Frequency",color="Social Vulnerability",size="Population Density")+ggtitle("Difference in Reported Outage Values, Utility")+theme_light()+scale_color_distiller(palette="YlGnBu",direction=1)
 ```
-# Continued comparison, but by utility instead of county
-```{r}
-service_reliability_mapper_eaglei=inner_join(service_reliability_mapper,reliability,join_by(X.County.==county))
-service_reliability_mapper_eaglei <- service_reliability_mapper_eaglei %>%
-  group_by(X.Utility.Name.)%>%
-  summarise(county=X.County.,utility=X.Utility.Name.,saifi=mean(saifi,na.rm=TRUE),saidi=mean(saidi,na.rm=TRUE),caidi=mean(caidi,na.rm=TRUE))
-EIA_service_util<-left_join(eia_reliability_county,service_reliability_mapper_eaglei,join_by(X.County.==county))
-EIA_service_util<- EIA_service_util %>%
-  mutate(diff_saidi=eia_SAIDI-saidi,diff_saifi=eia_SAIFI-saifi,diff_caidi=eia_CAIDI-caidi)
-EIA_service_util %>%
-  group_by(utility)%>%
-  summarise(diff_saidi=mean(diff_saidi),diff_saifi=mean(diff_saifi),diff_caidi=mean(diff_caidi),utility=utility)
-```
-
 
 # Create a new dataframe that aggregates all outages by county into a single outage event.
 ```{r}
@@ -125,22 +159,25 @@ wind_customers_grouped<-wind_customers_grouped %>%
 # EXPONENTIAL REGRESSION MODEL: Average Percent Customers Out (per wind speed)
 ```{r}
 avg_wind_customers_grouped <- wind_customers_grouped %>%
-  mutate(wind_speed=as.integer(round(wind_speed*1.15078))) %>%
+  mutate(wind_speed=round(wind_speed*1.15078/2)*2) %>%
   group_by(wind_speed) %>%
-  mutate(avg_pct_out=mean(pct_customers_out),avg_cust_min=mean(customer_mins/num_outages))
-avg_wind_customers_grouped_lm=lm(log(avg_wind_customers_grouped$avg_pct_out)~wind_speed,avg_wind_customers_grouped)
+  mutate(avg_pct_out=mean(pct_customers_out),avg_out=mean(num_outages),avg_cust_min=mean(customer_mins/num_outages))
+avg_wind_lm <- avg_wind_customers_grouped %>%
+  filter(wind_speed<70)
+avg_wind_customers_grouped_lm=lm(log(avg_wind_lm$avg_out)~wind_speed,avg_wind_lm)
 summary(avg_wind_customers_grouped_lm)
-par(mfrow=c(2,2))
-plot(avg_wind_customers_grouped_lm)
-par(mfrow=c(1,1))
 avg_wind_customers_grouped %>%
-  ggplot(.,aes(x=wind_speed,y=avg_pct_out))+geom_point()+labs(x='Wind Speed (MPH)',y='Average Percent of Customers Out')
+  ggplot(.,aes(x=wind_speed,y=avg_out))+geom_col(fill="#41B7C4")+labs(x='Wind Speed (MPH)',y='Average Number of Customers Out')+theme_light()+ggtitle("Wind Speed vs. Number of Customers Affected in Illinois")+scale_x_continuous(breaks=seq(40,80,5),limits=c(40,80))+scale_y_continuous(labels=scales::label_comma())
 ```
-# Wind Speed v.s. Customer-Minutes
 ```{r}
-avg_wind_customers_grouped %>%
-  ggplot(.,aes(x=wind_speed,y=avg_cust_min))+geom_point()+labs(x='Wind Speed (MPH)',y='Average Customer Minutes Out')
+mat<-wind_customers_grouped
+drops<-c("id","num_customers","avg_cust_min")
+mat <- mat[,!names(wind_customers_grouped) %in% drops]
+mat<-scale(mat)
+corr <- round(cor(mat), 1)
+ggcorrplot(corr,method="circle")+ggtitle("Correlation Matrix for Weather-Outage Data")
 ```
+
 # Add EIA disturbances to dataset
 ```{r}
 EIA_disturbances_fmtd <- EIA_disturbances %>%

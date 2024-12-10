@@ -42,7 +42,7 @@ def filter_csv_EIA_dataset(csv_path, type: sheet_type):
         key = 'Utility Name'
     else:
         key = 'State'
-    key = 'State'
+    key = '|State|'
     for i in range(len(df)):
         if df.iloc[i][key] == 'IL' or (type == sheet_type.FRAME and (
                 str(df.iloc[i][key]).__contains__('IL') or str(df.iloc[i][key]).__contains__('Illinois'))):
@@ -55,9 +55,7 @@ def filter_csv_EIA_dataset(csv_path, type: sheet_type):
         f.write(illinois_df.to_csv())
 
 
-csv_utils.xlsx_to_csv('energy_information_administration_data/2023/General/Service_Territory_2023.xlsx',
-                      'energy_information_administration_data/2023/General/Service_Territory_2023.csv', check=False)
-filter_csv_EIA_dataset(csv_path='energy_information_administration_data/2023/General/Service_Territory_2023.csv', type=12)
+filter_csv_EIA_dataset(csv_path='energy_information_administration_data/2023/General/Service_Territory_2023.csv', type=15)
 
 
 def shift_data_to_correct_col(df, index, cur_col, new_col):
